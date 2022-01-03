@@ -1,0 +1,196 @@
+aa| 	ana 	of each
+ad|	ad 	up to
+a.c.| 	ante cibum 	before meals
+a.d.| 	auris dextra 	right ear 	"a" can be mistaken as an "o" which could read "o.d.", meaning right eye
+ad lib.| 	ad libitum 	use as much as one desires; freely
+admov.| 	admove 	apply
+agit| 	agita 	stir/shake
+alt. h.| 	alternis horis 	every other hour
+a.m.m.| 	ad manu medicae 	at doctors hand
+a.m.| 	ante meridiem 	morning, before noon
+amp| 	  	ampule
+amt| 	  	amount
+aq| 	aqua 	water
+a.l.|   left ear
+a.s.|	auris laeva, auris sinistra 	left ear 	"a" can be mistaken as an "o" which could read "o.s." or "o.l", meaning left eye
+A.T.C.| 	  	around the clock
+a.u.| 	auris utraque 	both ears 	"a" can be mistaken as an "o" which could read "o.u.", meaning both eyes
+bis| 	bis 	twice
+b.d.|  twice daily
+b.i.d.| 	bis in die 	twice daily
+B.M.| 	  	bowel movement
+BNF| 	  	British National Formulary
+bol.| 	bolus 	as a large single dose (usually intravenously)
+B.S.| 	  	blood sugar
+B.S.A| 	  	body surface areas
+b.t.| 		bedtime 	mistaken for "b.i.d", meaning twice daily
+BUCC| 	bucca 	inside cheek
+cap.|  capsule
+caps.| 	capsula 	capsule
+c| 
+c.| 	cum 	with (usually written with a bar on top of the "c")
+cib.| 	cibus 	food
+cc| 	cum cibo 	with food, (but also cubic centimetre) 	mistaken for "U", meaning units; also has an ambiguous meaning; use "mL" or "milliliters"
+cf| 	  	with food
+comp.| 	  	compound
+cr.|
+crm| 	  	cream
+CST| 	  	Continue same treatment
+D5W| 	  	dextrose 5% solution (sometimes written as D5W)
+D5NS| 	  	dextrose 5% in normal saline (0.9%)
+D.A.W.| 	  	dispense as written (i.e., no generic substitution)
+dc|
+D/C| 
+disc| 	  	discontinue or discharge 	ambiguous meaning
+dieb. alt.| 	diebus alternis 	every other day
+dil.| 	  	dilute
+disp.| 	  	dispersible or dispense
+div.| 	  	divide
+d.t.d.| 	dentur tales doses 	give of such doses
+DTO| 	  	deodorized tincture of opium 	can easily be confused with "diluted tincture of opium," which is 1/25th the strength of deodorized tincture of opium; deaths have resulted due to massive morphine overdose
+D.W.| 	  	distilled water
+elix.| 	  	elixir
+e.m.p.| 	ex modo prescripto 	as directed
+emuls.| 	emulsum 	emulsion
+et| 	et 	and
+eod| 	  	every other day
+ex aq| 	ex aqua 	in water
+fl.|
+fld.| 	  	fluid
+ft.| 	fiat 	make; let it be made
+g| 	  	gram
+gr| 	  	grain
+gtt(s)| 	gutta(e) 	drop(s)
+H| 	  	hypodermic
+h|
+hr| 	hora 	hour
+h.s.| 	hora somni 	at bedtime
+h.s| 		hour sleep or half-strength 	ambiguous meaning
+ID| 	  	intradermal
+IJ|
+inj| 	injectio 	injection 	mistaken for "IV", meaning intravenously
+IM| 	  	intramuscular (with respect to injections)
+IN| 		intranasal 	mistaken for "IM", meaning intramuscular, or "IV", meaning intravenously
+IP| 	  	intraperitoneal
+IU| 		international unit 	mistaken for "IV" or "10", spell out "international unit"
+IV| 	  	intravenous
+IVP| 	  	intravenous push
+IVPB| 	  	intravenous piggyback
+L.A.S.| 	  	label as such
+LCD| 	  	coal tar solution
+lin| 	linimentum 	liniment
+liq| 	liquor 	solution
+lot.| 	  	lotion
+mane| 	mane 	in the morning
+M.| 	misce 	mix
+m| 
+min| 	minimum 	a minimum
+mcg| 		microgram 	may be confused with "mg"
+m.d.u.| 	more dicto utendus 	to be used as directed
+mEq| 	  	milliequivalent
+mg|	  	milligram
+MgSO4| 		magnesium sulfate 	may be confused with "MSO4", spell out "magnesium sulfate"
+mist.| 	mistura 	mix
+mitte| 	mitte 	send
+mL| 	  	millilitre
+MS| 		morphine sulfate or magnesium sulfate 	can mean either morphine sulfate or magnesium sulfate, spell out either
+MSO4| 		morphine sulfate 	may be confused with "MgSO4", spell out "morphine sulfate"
+nebul| 	nebula 	a spray
+N.M.T.| 	  	not more than
+noct.| 	nocte 	at night
+non rep.| 	non repetatur 	no repeats
+NS| 	  	normal saline (0.9%)
+1/2NS| 	  	half normal saline (0.45%)
+N.T.E.| 	  	not to exceed
+o_2| 	  	both eyes, sometimes written as o2
+od| 	omne in die 	every day/once daily (preferred to qd in the UK[4])
+od| 	oculus dexter 	right eye 	"o" can be mistaken as an "a" which could read "a.d.", meaning right ear, confusion with omne in die
+om| 	omne mane 	every morning
+on| 	omne nocte 	every night
+o.p.d.| 	  	once per day
+o.s.| 	oculus sinister 	left eye 	"o" can be mistaken as an "a" which could read "a.s.", meaning left ear
+o.u.| 	oculus uterque 	both eyes 	"o" can be mistaken as an "a" which could read "a.u.", meaning both ears
+oz| 	  	ounce
+per| 	per 	by or through
+p.c.| 	post cibum 	after meals
+pig.|
+pigm.| 	pigmentum 	paint
+p.m.| 	post meridiem 	evening or afternoon
+p.o.| 	per os 	by mouth or orally
+p.r.| 	per rectum 	by rectum
+PRN| 
+prn| 	pro re nata 	as needed
+pulv.| 	pulvis 	powder
+PV| 	per vaginam 	via the vagina
+q| 	quaque 	every, per
+q.a.d.| 	quaque alternis die 	every other day
+q.a.m.| 	quaque die ante meridiem 	every day before noon
+q.d.s.| 	quater die sumendus 	four times a day 	can be mistaken for "qd" (every day)
+q.p.m.| 	quaque die post meridiem 	every day after noon
+q.h.| 	quaque hora 	every hour
+q.h.s.| 	quaque hora somni 	every night at bedtime
+q.1 h| 
+q.1|  	quaque 1 hora 	every 1 hour; (can replace "1" with other numbers)
+q.d.| 
+q1d| 	quaque die 	every day 	mistaken for "QOD" or "qds", spell out "every day" or "daily"
+q.i.d.| 	quater in die 	four times a day
+q4PM| 		at 4pm 	mistaken to mean every four hours
+q.o.d.| 	  	every other day 	mistaken for "QD", spell out "every other day"
+qqh| 	quater quaque hora 	every four hours
+q.s.| 	quantum sufficiat 	a sufficient quantity
+QWK| 		every week
+R| 	  	rectal
+rep.| 
+rept.| 	repetatur 	repeats
+RL| 
+R/L| 	  	Ringer's lactate
+s| 	sine 	without (usually written with a bar on top of the "s")
+s.a.| 	secundum artum 	use your judgement
+SC| 
+subc| 
+subcut| 
+subq| 
+SQ| 	  	subcutaneous 	"SC" can be mistaken for "SL", meaning sublingual; "SQ" can be mistaken for "5Q" meaning five every dose
+sig| 	  	write on label
+SL| 	  	sublingually, under the tongue
+sol| 	solutio 	solution
+s.o.s.| 
+si op. sit| 	si opus sit 	if there is a need
+ss| 	semis 	one half or sliding scale
+s.i.d|
+SID| 	semel in die 	once a day 	used exclusively in veterinary medicine
+SSI| 
+SSRI| 		sliding scale insulin or sliding scale regular insulin 	mistaken to mean "strong solution of iodine" or "selective serotonin reuptake inhibitor"
+SNRI| (antidepressant) 		Serotonin–norepinephrine reuptake inhibitor
+SSRI| (antidepressant) 		selective serotonin reuptake inhibitor (a specific class of antidepressant)
+stat| 	statim 	immediately
+supp| 	suppositorium 	suppository
+susp| 	  	suspension
+syr| 	syrupus 	syrup
+tab| 	tabella 	tablet
+tal.| 
+t| 	talus 	such
+tbsp| 	  	tablespoon
+troche| 	trochiscus 	lozenge
+t.d.s.| 	ter die sumendum 	three times a day
+t.i.d.| 	ter in die 	three times a day
+t.i.w.| 	  	three times a week 	mistaken for twice a week
+top.| 	  	topical
+T.P.N.| 	  	total parenteral nutrition
+tr| 
+tinc.| 
+tinct.| 	  	tincture
+tsp| 	  	teaspoon
+U| 		unit 	mistaken for a "4", "0" or "cc", spell out "unit"
+µg| 		microgram 	mistaken for "mg", meaning milligram
+u.d.| 
+ut. dict.| 	ut dictum 	as directed
+ung.| 	unguentum 	ointment
+U.S.P.| 	  	United States Pharmacopoeia
+vag| 	  	vaginally
+w| 	  	with
+w/a| 	  	while awake
+wf| 	  	with food (with meals)
+w/o| 	  	without
+X| 	  	times
+Y.O.| 	  	years old

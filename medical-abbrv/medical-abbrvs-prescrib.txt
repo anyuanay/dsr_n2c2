@@ -1,0 +1,68 @@
+aa| 	ana 	of each
+ad|	ad 	up to
+a.c.| 	ante cibum 	before meals
+a.d.| 	auris dextra 	right ear 	"a" can be mistaken as an "o" which could read "o.d.", meaning right eye
+ad lib.| 	ad libitum 	use as much as one desires; freely
+admov.| 	admove 	apply
+agit| 	agita 	stir/shake
+alt. h.| 	alternis horis 	every other hour
+a.m.m.| 	ad manu medicae 	at doctors hand
+a.m.| 	ante meridiem 	morning, before noon
+a.l.|   left ear
+a.s.|	auris laeva, auris sinistra 	left ear 	"a" can be mistaken as an "o" which could read "o.s." or "o.l", meaning left eye
+A.T.C.| 	  	around the clock
+a.u.| 	auris utraque 	both ears 	"a" can be mistaken as an "o" which could read "o.u.", meaning both eyes
+bis| 	bis 	twice
+b.d.|  twice daily
+b.i.d.| 	bis in die 	twice daily
+bol.| 	bolus 	as a large single dose (usually intravenously)
+b.t.| 		bedtime 	mistaken for "b.i.d", meaning twice daily
+dieb. alt.| 	diebus alternis 	every other day
+e.m.p.| 	ex modo prescripto 	as directed
+eod| 	  	every other day
+h.s.| 	hora somni 	at bedtime
+IJ|
+inj| 	injectio 	injection 	mistaken for "IV", meaning intravenously
+IV| 	  	intravenous
+IVP| 	  	intravenous push
+IVPB| 	  	intravenous piggyback
+mane| 	mane 	in the morning
+N.T.E.| 	  	not to exceed
+od| 	omne in die 	every day/once daily (preferred to qd in the UK[4])
+od| 	oculus dexter 	right eye 	"o" can be mistaken as an "a" which could read "a.d.", meaning right ear, confusion with omne in die
+om| 	omne mane 	every morning
+on| 	omne nocte 	every night
+o.p.d.| 	  	once per day
+p.c.| 	post cibum 	after meals
+p.o.| 	per os 	by mouth or orally
+prn| 	pro re nata 	as needed
+q.a.d.| 	quaque alternis die 	every other day
+q.a.m.| 	quaque die ante meridiem 	every day before noon
+q.d.s.| 	quater die sumendus 	four times a day 	can be mistaken for "qd" (every day)
+q.p.m.| 	quaque die post meridiem 	every day after noon
+q.h.| 	quaque hora 	every hour
+q.h.s.| 	quaque hora somni 	every night at bedtime
+q.1 h| 
+q.1|  	quaque 1 hora 	every 1 hour; (can replace "1" with other numbers)
+q.d.| 
+q1d| 	quaque die 	every day 	mistaken for "QOD" or "qds", spell out "every day" or "daily"
+q.i.d.| 	quater in die 	four times a day
+q4PM| 		at 4pm 	mistaken to mean every four hours
+q.o.d.| 	  	every other day 	mistaken for "QD", spell out "every other day"
+qqh| 	quater quaque hora 	every four hours
+QWK| 		every week
+qd| every day 
+qod| every other day 
+qh| every hour 
+q2h| every 2 hours
+q3h| every 3 hours
+q4h| every 4 hours 
+qhs| every night (hour of sleep) 
+qid| four times a day 
+t.d.s.| 	ter die sumendum 	three times a day
+t.i.d.| 	ter in die 	three times a day
+t.i.w.| 	  	three times a week 	mistaken for twice a week
+u.d.| 
+ut. dict.| 	ut dictum 	as directed
+wf| 	  	with food (with meals)
+w/o| 	  	without

@@ -1,0 +1,8 @@
+Change: 06.11.2009
+
+training.ground.truth/241468_gold.entries, line 24
+OLD:
+m="nitroglycerin 1/150" 54:0 54:1|| do="( 0.4 mg ) 1 tab" 54:2 54:7|| mo="sl" 54:8 54:8|| f="q5min x 3 doses prn" 54:9 55:0|| du="nm"|| r="chest pain" 55:1 55:2|| e="stop"|| t="future"|| c="conditional"|| ln="list"
+
+NEW:
+m="nitroglycerin 1/150 ( 0.4 mg )" 54:0 54:5|| do="1 tab" 54:6 54:7|| mo="sl" 54:8 54:8|| f="q5min x 3 doses prn" 54:9 55:0|| du="nm"|| r="chest pain" 55:1 55:2|| e="stop"|| t="future"|| c="conditional"|| ln="list"
