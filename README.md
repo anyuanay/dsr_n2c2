@@ -8,5 +8,6 @@
 6. Medical Abbr: https://www.drugs.com/article/prescription-abbreviations.html
 7. neo4j graph database: https://neo4j.com/product/neo4j-graph-database/
 8. Spacy NLP to Extract graph: https://github.com/cj2001/nodes2021_kg_workshop/blob/main/notebooks/00-populate_basic_graph.ipynb
-9. NER BiLSTM-CRF implementation: https://github.com/quocdat32461997/NER
-10. NER BiLSTM-CRF implementation Chinese: https://github.com/Gxzzz/BiLSTM-CRF
+9. Kaggle NER data: https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
+10. NER BiLSTM-CRF implementation: https://github.com/quocdat32461997/NER
+11. NER BiLSTM-CRF implementation Chinese: https://github.com/Gxzzz/BiLSTM-CRF
