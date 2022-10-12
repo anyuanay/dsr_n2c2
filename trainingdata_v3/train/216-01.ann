@@ -1,0 +1,16 @@
+T1	NoDisposition 1153 1159	Plavix
+E1	NoDisposition:T1 
+T2	NoDisposition 1251 1264	pyelogram dye
+E2	NoDisposition:T2 
+T3	NoDisposition 1268 1276	Percocet
+E3	NoDisposition:T3 
+T4	NoDisposition 1278 1288	penicillin
+E4	NoDisposition:T4 
+T5	NoDisposition 1290 1303	cephalosporin
+E5	NoDisposition:T5 
+T6	NoDisposition 1308 1318	lisinopril
+E6	NoDisposition:T6 
+T7	NoDisposition 1163 1181	Calan slow release
+E7	NoDisposition:T7 
+T8	NoDisposition 1186 1196	Glucophage
+E8	NoDisposition:T8 

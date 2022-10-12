@@ -1,0 +1,185 @@
+
+
+
+Record date: 2070-10-27
+
+ 
+
+CLERMONT COUNTY HOSPITAL
+
+ERVING, VERMONT
+
+
+
+GI CONSULT NOTE 								10/27/2070
+
+
+
+Patient: Langston, Sherman
+
+Unit #: 7223692
+
+Location: Ol 11
+
+Referring Attending: Null
+
+
+
+Reason for consult:  BRBPR
+
+
+
+HPI: The patient is a 62 year old male with history of CAD s/p stents of LAD lesion in February 2070 readmit with chest pain.  At the time of this stenting, he had total occlusion of his midRCA and mid circumflex with collaterals.  He presented with recurrent CP in May, and he underwent a second cath that revealed patent LAD with stent.  This admission he had a 10-15 minute episode of chest and jaw pain with tachycardia and hypertension by home monitoring.  The pain resolved with two sublingual nitroglycerins.  He went to Butte Ridge Associates where he was placed on heparin.  In the setting of heparin bolus with PPT >150, he had one episode, moderate volume of painless rectal bleeding.  Since transfer, still on heparin, he had no further bleeding, nor guiac positive stool until today.   This morning he passed a large brown bowel movement which was guiac negative.  Following this, after returning to bed, he had a small amount of oozing of blood from his rectum.  He had no abdominal pain.  No further bleeding since this morning.  He has never had rectal bleeding previously on aspirin and plavix.  His colonoscopy in 2066 revealed diverticulosis.  He is currently on aspirin, plavix, heparin with therapeutic PTT.
+
+
+
+PMH:
+
+CAD
+
+Hypertension
+
+Hypercholesterolemia
+
+CRI
+
+Bilateral RCC - s/p L nephrectomy,  R RFA, XRT.  Per renal note also has pulmonary nodules, which are presumably metastatic RCC, but patient states prior eval not consistent with met disease. 
+
+
+
+MEDS:
+
+ASA 325
+
+Plavix
+
+Heparin gtt
+
+Toprol
+
+Protonix
+
+Lipitor
+
+HCTZ
+
+Diovan
+
+MVI
+
+
+
+
+
+ALL: NKDA
+
+SH: works as an archivist.  
+
+FH: no pertinent FH.
+
+
+
+PE:
+
+VS:  97.7    65  120/75   99 % RA
+
+General: appears well, NAD
+
+Neck:  no LN
+
+Heent: OP dry, conjunc nl
+
+Chest:  CTA B
+
+Cardiac:  RRR, nl s1, s2, no murmurs, rubs or gallops
+
+Abdomen: NT, ND, nl BS.  No hepatomegaly.  No epigastric discomfort
+
+Rectal: small external hemorrhoids, nontender, blood around anus
+
+Extremities: no edema, normal pulses
+
+Skin:  No jaundice, no rashes
+
+
+
+LABS:
+
+Plasma Sodium                    137                       (135-145)        mmo
+
+Plasma Potassium                 4.0                       (3.4-4.8)        mmol
+
+Plasma Chloride                  102                       (100-108)        mmol
+
+Plasma Carbon Dioxide            26.9                      (23.0-31.9)      mmol
+
+Plasma Urea Nitrogen             38               H        (8-25)           mg/
+
+Plasma Creatinine                2.6              H        (0.6-1.5)        mg/
+
+
+
+WBC                              6.2                       (4.5-11.0)       th/
+
+HCT                              37.2             L        (41.0-53.0)      %
+
+HGB                              12.7             L        (13.5-17.5)      gm/
+
+RBC                              4.18             L        (4.50-5.90)      mil/
+
+PLT                              169                       (150-350)        th/c
+
+MCV                              89                        (80-100)         fl
+
+MCH                              30.3                      (26.0-34.0)      pg/
+
+MCHC                             34.0                      (31.0-37.0)      g/dl
+
+RDW                              13.9                      (11.5-14.5)      %
+
+PT                               15.3             H        (11.3-13.3)      sec
+
+PT-INR                           1.5              C
+
+Superstat APTT                   72.0             H        (22.1-35.1)      sec
+
+
+
+          10/27/70  10/26/70  10/25/70  	10/24/70  10/24/70  10/23/70  10/23/70           	          		<5        	<5        
+
+HCT       37.2(L)   38.4(L)   35.5(L)   	33.3(L)   31.8(L)   33.3(L)   37.0(L)   
+
+No transfusions while in the hospital
+
+
+
+        09/22/70  	 
+
+FE        47        		          	          
+
+TIBC     278       	      	          	          
+
+FER      134      
+
+
+
+Colonoscopy June 2066 - large mouthed diverticulosis in the sigmoid.   	      	          	          
+
+No prior EGD - had an ENT exam at Ridge Family Practice
+
+
+
+ASSESSMENT AND PLAN: 
+
+62 year old male with CAD with chest pain to be evaluated by cardiac cath with painless BRBPR following a large bowel movement today in the setting of heparin, aspirin and plavix.  This bleeding was minimal and self-limited, most likely of hemorrhoidal origin, rather than diverticular.  He does have some risk of recurrent rectal bleeding on these blood thinners, but the bleeding is likely to continue to be limited.  There is no contraindication to cardiac catherization or continuing these important medications.  There is also no intervention we could do now to adjust the risk.  Would recommend proceeding to cardiac catherization.  No alteration in medications required.  
+
+
+
+Opal Larson, M.D. 
+
+GI Fellow - Page 09744
+
+      
+
+
+

@@ -1,0 +1,54 @@
+T1	NoDisposition 768 778	anesthesia
+E1	NoDisposition:T1 
+T2	NoDisposition 914 920	Neoral
+E2	NoDisposition:T2 
+T3	NoDisposition 922 927	Lasix
+E3	NoDisposition:T3 
+T4	NoDisposition 935 942	Norvasc
+E4	NoDisposition:T4 
+T5	NoDisposition 956 963	Lipitor
+E5	NoDisposition:T5 
+T6	NoDisposition 978 986	Cellcept
+E6	NoDisposition:T6 
+T7	NoDisposition 1001 1008	Bactrim
+E7	NoDisposition:T7 
+T8	NoDisposition 1020 1030	prednisone
+E8	NoDisposition:T8 
+T9	NoDisposition 1038 1044	Epogen
+E9	NoDisposition:T9 
+T10	NoDisposition 1046 1050	iron
+E10	NoDisposition:T10 
+T11	NoDisposition 1052 1063	insulin NPH
+E11	NoDisposition:T11 
+T13	NoDisposition 1886 1893	insulin
+E13	NoDisposition:T13 
+T14	NoDisposition 2971 2979	steroids
+E14	NoDisposition:T14 
+T15	Undetermined 3111 3114	NPH
+E15	Undetermined:T15 
+T16	NoDisposition 3170 3177	Aspirin
+E16	NoDisposition:T16 
+T17	NoDisposition 1010 1018	Estrotab
+E17	NoDisposition:T17 
+T18	Disposition 3066 3073	Lipitor
+E18	Disposition:T18 
+A1	Certainty E18 Certain
+A2	Actor E18 Physician
+A3	Action E18 Stop
+A4	Temporality E18 Present
+T19	Disposition 3153 3159	NSAIDS
+E19	Disposition:T19 
+A5	Certainty E19 Certain
+A6	Actor E19 Physician
+A7	Action E19 Stop
+A8	Temporality E19 Unknown
+T20	NoDisposition 1078 1085	regular
+E20	NoDisposition:T20 
+T21	Undetermined 3135 3150	regular insulin
+E21	Undetermined:T21 
+T12	Undetermined 2863 2873	anesthesia
+E12	Undetermined:T12 
+T22	NoDisposition 885 895	anesthesia
+E22	NoDisposition:T22 
+A9	Negation E19 NotNegated
+A10	Negation E18 NotNegated

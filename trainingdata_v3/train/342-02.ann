@@ -1,0 +1,92 @@
+T1	Disposition 1070 1078	Coumadin
+E1	Disposition:T1 
+T3	NoDisposition 2136 2142	Zoloft
+E3	NoDisposition:T3 
+T4	NoDisposition 2430 2449	Metoprolol Tartrate
+E4	NoDisposition:T4 
+T5	NoDisposition 7040 7044	HCTZ
+E5	NoDisposition:T5 
+T6	Disposition 7116 7127	Metroprolol
+E6	Disposition:T6 
+T8	NoDisposition 7339 7342	ASA
+E8	NoDisposition:T8 
+T9	Disposition 7360 7366	Plavix
+E9	Disposition:T9 
+T10	NoDisposition 8265 8270	Zyban
+E10	NoDisposition:T10 
+T11	Disposition 9083 9089	Ambien
+E11	Disposition:T11 
+T14	Disposition 379 386	BP meds
+E14	Disposition:T14 
+A1	Certainty E14 Certain
+A2	Actor E14 Patient
+A3	Action E14 Stop
+A4	Temporality E14 Past
+A5	Certainty E1 Certain
+A6	Actor E1 Patient
+A7	Action E1 Stop
+A8	Temporality E1 Past
+T15	Disposition 2087 2093	AMbien
+E15	Disposition:T15 
+A9	Certainty E15 Hypothetical
+A10	Actor E15 Patient
+A11	Action E15 Start
+A12	Temporality E15 Present
+T16	NoDisposition 2388 2407	HYDROCHLOROTHIAZIDE
+E16	NoDisposition:T16 
+A13	Certainty E6 Certain
+A14	Actor E6 Physician
+A15	Action E6 Increase
+A16	Temporality E6 Present
+T17	Disposition 7323 7331	Coumadin
+E17	Disposition:T17 
+A17	Certainty E9 Certain
+A18	Actor E9 Physician
+A19	Action E9 Start
+A20	Temporality E9 Present
+A22	Certainty E11 Certain
+A23	Actor E11 Physician
+A24	Action E11 Start
+A25	Temporality E11 Present
+T18	Disposition 9214 9221	Calcium
+E18	Disposition:T18 
+A26	Certainty E18 Certain
+A27	Actor E18 Physician
+A28	Action E18 Start
+A29	Temporality E18 Present
+T19	Undetermined 9258 9261	MVI
+E19	Undetermined:T19 
+T20	Undetermined 9352 9362	Tylenol XS
+E20	Undetermined:T20 
+T21	NoDisposition 9379 9386	Celebre
+E21	NoDisposition:T21 
+A30	Certainty E17 Certain
+A31	Negation E17 Negated
+A32	Actor E17 Physician
+A33	Action E17 Start
+A34	Temporality E17 Present
+T2	NoDisposition 8235 8243	Nicotine
+E2	NoDisposition:T2 
+T7	NoDisposition 8251 8259	Nicotine
+E7	NoDisposition:T7 
+T12	Disposition 8307 8316	Nicorette
+E12	Disposition:T12 
+A21	Certainty E12 Certain
+A35	Actor E12 Physician
+A36	Action E12 Start
+A37	Temporality E12 Present
+T13	Disposition 4097 4105	Celebrex
+E13	Disposition:T13 
+A38	Certainty E13 Hypothetical
+A39	Actor E13 Patient
+A40	Action E13 Start
+A41	Temporality E13 Present
+A42	Negation E13 NotNegated
+A43	Negation E12 NotNegated
+A44	Negation E6 NotNegated
+A45	Negation E18 NotNegated
+A46	Negation E15 NotNegated
+A47	Negation E11 NotNegated
+A48	Negation E1 NotNegated
+A49	Negation E9 NotNegated
+A50	Negation E14 NotNegated

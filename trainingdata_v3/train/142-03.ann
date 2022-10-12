@@ -1,0 +1,19 @@
+T1	NoDisposition 754 763	Toprol XL
+E1	NoDisposition:T1 
+T2	NoDisposition 774 781	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1882 1889	aspirin
+E3	NoDisposition:T3 
+T7	Disposition 5592 5599	Sotalol
+E7	Disposition:T7 
+T8	Undetermined 6323 6332	Toprol XL
+E8	Undetermined:T8 
+A1	Certainty E7 Hypothetical
+A2	Actor E7 Physician
+A3	Action E7 Start
+A4	Temporality E7 Present
+T9	NoDisposition 5795 5802	Sotalol
+E9	NoDisposition:T9 
+T4	NoDisposition 5738 5741	dye
+E4	NoDisposition:T4 
+A5	Negation E7 NotNegated

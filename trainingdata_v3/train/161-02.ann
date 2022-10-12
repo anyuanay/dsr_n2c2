@@ -1,0 +1,16 @@
+T1	NoDisposition 907 918	antibiotics
+E1	NoDisposition:T1 
+T2	Disposition 1349 1360	antibiotics
+E2	Disposition:T2 
+T3	Disposition 1475 1484	Nafcillin
+E3	Disposition:T3 
+A1	Certainty E2 Hypothetical
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Present
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 Start
+A8	Temporality E3 Present
+A9	Negation E3 NotNegated
+A10	Negation E2 NotNegated

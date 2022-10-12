@@ -1,0 +1,22 @@
+T2	NoDisposition 2807 2816	Aldactone
+E2	NoDisposition:T2 
+T3	NoDisposition 2840 2852	esomeprazole
+E3	NoDisposition:T3 
+T5	NoDisposition 2905 2914	glipizide
+E5	NoDisposition:T5 
+T7	NoDisposition 2996 3006	lisinopril
+E7	NoDisposition:T7 
+T8	NoDisposition 3026 3035	Toprol XL
+E8	NoDisposition:T8 
+T9	NoDisposition 3059 3067	warfarin
+E9	NoDisposition:T9 
+T4	NoDisposition 2874 2882	Fish oil
+E4	NoDisposition:T4 
+T11	NoDisposition 3164 3170	Omega3
+E11	NoDisposition:T11 
+T12	NoDisposition 2760 2780	ACETYLSALICYLIC ACID
+E12	NoDisposition:T12 
+T13	NoDisposition 2782 2789	ASPIRIN
+E13	NoDisposition:T13 
+T14	NoDisposition 2969 2974	Lasix
+E14	NoDisposition:T14 

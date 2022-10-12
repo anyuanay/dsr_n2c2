@@ -1,0 +1,40 @@
+T2	NoDisposition 2666 2675	Labetalol
+E2	NoDisposition:T2 
+T3	NoDisposition 2690 2699	Captopril
+E3	NoDisposition:T3 
+T4	NoDisposition 2712 2719	Digoxin
+E4	NoDisposition:T4 
+T5	NoDisposition 2734 2742	Coumadin
+E5	NoDisposition:T5 
+T6	NoDisposition 2752 2759	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 2771 2776	Lasix
+E7	NoDisposition:T7 
+T8	NoDisposition 2787 2792	Coreg
+E8	NoDisposition:T8 
+T9	NoDisposition 2806 2819	Nitroglycerin
+E9	NoDisposition:T9 
+T10	NoDisposition 2837 2848	Gemfibrozil
+E10	NoDisposition:T10 
+T11	NoDisposition 3638 3645	Digoxin
+E11	NoDisposition:T11 
+T12	NoDisposition 4900 4908	Coumadin
+E12	NoDisposition:T12 
+T13	Disposition 5107 5115	Coumadin
+E13	Disposition:T13 
+A1	Certainty E13 Certain
+A2	Actor E13 Physician
+A3	Action E13 Stop
+A4	Temporality E13 Future
+T14	Disposition 5107 5115	Coumadin
+E14	Disposition:T14 
+A5	Certainty E14 Certain
+A6	Actor E14 Physician
+A7	Action E14 Start
+A8	Temporality E14 Future
+T15	NoDisposition 5201 5208	Heparin
+E15	NoDisposition:T15 
+T1	NoDisposition 4835 4850	anticoagulation
+E1	NoDisposition:T1 
+A9	Negation E14 NotNegated
+A10	Negation E13 NotNegated

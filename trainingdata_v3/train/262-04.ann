@@ -1,0 +1,107 @@
+T1	Disposition 876 887	hydralazine
+E1	Disposition:T1 
+T2	NoDisposition 1801 1812	Mirtazapine
+E2	NoDisposition:T2 
+T3	NoDisposition 1826 1833	Namenda
+E3	NoDisposition:T3 
+T4	NoDisposition 1847 1872	Potassium supplementation
+E4	NoDisposition:T4 
+T5	NoDisposition 1887 1900	Levothyroxine
+E5	NoDisposition:T5 
+T6	NoDisposition 1916 1926	Metoprolol
+E6	NoDisposition:T6 
+T8	NoDisposition 1986 1996	Prednisone
+E8	NoDisposition:T8 
+T9	NoDisposition 2011 2014	MVI
+E9	NoDisposition:T9 
+T10	NoDisposition 2023 2031	Morphine
+E10	NoDisposition:T10 
+T11	NoDisposition 2064 2077	ACE Inhibitor
+E11	NoDisposition:T11 
+T12	NoDisposition 2110 2127	CIPROFLOXACIN HCL
+E12	NoDisposition:T12 
+T13	NoDisposition 2153 2165	ATORVASTATIN
+E13	NoDisposition:T13 
+T14	NoDisposition 2528 2536	propofol
+E14	NoDisposition:T14 
+T15	NoDisposition 2633 2637	D5NS
+E15	NoDisposition:T15 
+T17	NoDisposition 2662 2666	D5NS
+E17	NoDisposition:T17 
+T18	NoDisposition 2741 2745	RISS
+E18	NoDisposition:T18 
+T22	Undetermined 4657 4668	nicardipine
+E22	Undetermined:T22 
+T28	NoDisposition 5380 5395	anticoagulation
+E28	NoDisposition:T28 
+T34	NoDisposition 2730 2738	propofol
+E34	NoDisposition:T34 
+T35	NoDisposition 2747 2754	peridex
+E35	NoDisposition:T35 
+T36	NoDisposition 2756 2765	synthroid
+E36	NoDisposition:T36 
+T37	NoDisposition 2767 2776	lactulose
+E37	NoDisposition:T37 
+T38	Undetermined 4556 4564	propofol
+E38	Undetermined:T38 
+T39	NoDisposition 4608 4620	antiplatelet
+E39	NoDisposition:T39 
+T40	NoDisposition 4624 4638	anticoagulants
+E40	NoDisposition:T40 
+T41	Undetermined 4642 4651	labetalol
+E41	Undetermined:T41 
+T42	NoDisposition 4687 4691	AEDs
+E42	NoDisposition:T42 
+T43	Disposition 4746 4750	AEDs
+E43	Disposition:T43 
+A1	Certainty E43 Certain
+A2	Actor E43 Physician
+A3	Action E43 Stop
+A4	Temporality E43 Past
+T44	Undetermined 5074 5079	D5 NS
+E44	Undetermined:T44 
+T45	Undetermined 5189 5197	nystatin
+E45	Undetermined:T45 
+T46	Undetermined 5272 5281	lactulose
+E46	Undetermined:T46 
+T47	NoDisposition 5364 5376	antiplatelet
+E47	NoDisposition:T47 
+T48	Undetermined 5432 5441	synthroid
+E48	Undetermined:T48 
+T49	Undetermined 5455 5459	RISS
+E49	Undetermined:T49 
+T50	Undetermined 5472 5480	Nystatin
+E50	Undetermined:T50 
+T51	Disposition 5610 5617	fragmin
+E51	Disposition:T51 
+A5	Certainty E51 Conditional
+A6	Actor E51 Physician
+A7	Action E51 Start
+A8	Temporality E51 Future
+T52	Undetermined 5655 5658	PPI
+E52	Undetermined:T52 
+T53	Undetermined 5663 5670	peridex
+E53	Undetermined:T53 
+A9	Certainty E1 Certain
+A10	Actor E1 Physician
+A11	Action E1 UniqueDose
+A12	Temporality E1 Past
+T54	NoDisposition 2044 2051	Codeine
+E54	NoDisposition:T54 
+T55	NoDisposition 2090 2100	LISINOPRIL
+E55	NoDisposition:T55 
+T56	NoDisposition 4395 4399	AEDs
+E56	NoDisposition:T56 
+T57	NoDisposition 1939 1971	metoprolol succinate or tartrate
+E57	NoDisposition:T57 
+T7	NoDisposition 1485 1488	AED
+E7	NoDisposition:T7 
+T16	NoDisposition 5055 5071	hypotonic fluids
+E16	NoDisposition:T16 
+T19	Undetermined 5306 5312	fluids
+E19	Undetermined:T19 
+T20	NoDisposition 5128 5136	contrast
+E20	NoDisposition:T20 
+A13	Negation E1 NotNegated
+A14	Negation E51 NotNegated
+A15	Negation E43 NotNegated

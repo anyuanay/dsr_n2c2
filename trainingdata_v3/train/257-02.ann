@@ -1,0 +1,55 @@
+T1	NoDisposition 2804 2811	Aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 2867 2886	Hydrochlorothiazide
+E2	NoDisposition:T2 
+T3	NoDisposition 2902 2912	Lisinopril
+E3	NoDisposition:T3 
+T4	NoDisposition 2956 2975	metoprolol tartrate
+E4	NoDisposition:T4 
+T5	NoDisposition 2992 3001	Metformin
+E5	NoDisposition:T5 
+T6	NoDisposition 3050 3057	Norvasc
+E6	NoDisposition:T6 
+T7	NoDisposition 3059 3069	amlodipine
+E7	NoDisposition:T7 
+T8	NoDisposition 3086 3103	Plaquenil sulfate
+E8	NoDisposition:T8 
+T10	NoDisposition 3178 3183	Zocor
+E10	NoDisposition:T10 
+T11	NoDisposition 3185 3196	simvastatin
+E11	NoDisposition:T11 
+T12	Disposition 7230 7240	Lisinopril
+E12	Disposition:T12 
+T13	Disposition 7273 7276	ASA
+E13	Disposition:T13 
+T14	NoDisposition 7302 7311	Lopressor
+E14	NoDisposition:T14 
+T16	Disposition 7723 7732	metformin
+E16	Disposition:T16 
+T17	NoDisposition 2945 2954	Lopressor
+E17	NoDisposition:T17 
+T18	NoDisposition 3105 3123	hydroxychloroquine
+E18	NoDisposition:T18 
+A3	Certainty E12 Certain
+A4	Actor E12 Physician
+A5	Action E12 Stop
+A6	Temporality E12 Future
+A7	Certainty E13 Certain
+A8	Actor E13 Physician
+A9	Action E13 Stop
+A10	Temporality E13 Future
+A11	Certainty E16 Certain
+A12	Actor E16 Physician
+A13	Action E16 Stop
+A14	Temporality E16 Future
+T19	NoDisposition 2813 2833	acetylsalicylic acid
+E19	NoDisposition:T19 
+T20	NoDisposition 3141 3149	Prilosec
+E20	NoDisposition:T20 
+T21	NoDisposition 3151 3161	omeprazole
+E21	NoDisposition:T21 
+T22	Undetermined 7667 7676	Bactroban
+E22	Undetermined:T22 
+A15	Negation E16 NotNegated
+A16	Negation E13 NotNegated
+A17	Negation E12 NotNegated

@@ -1,0 +1,8 @@
+T1	NoDisposition 725 734	Procardia
+E1	NoDisposition:T1 
+T2	NoDisposition 736 745	Albuterol
+E2	NoDisposition:T2 
+T3	NoDisposition 747 755	Accolate
+E3	NoDisposition:T3 
+T4	Undetermined 1449 1481	nonsteroidal anti-inflammatories
+E4	Undetermined:T4 

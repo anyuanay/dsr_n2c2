@@ -1,0 +1,11 @@
+T1	NoDisposition 222 228	Cozaar
+E1	NoDisposition:T1 
+T2	NoDisposition 264 272	atenolol
+E2	NoDisposition:T2 
+T3	Disposition 923 942	hydrochlorothiazide
+E3	Disposition:T3 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 Start
+A4	Temporality E3 Present
+A5	Negation E3 NotNegated

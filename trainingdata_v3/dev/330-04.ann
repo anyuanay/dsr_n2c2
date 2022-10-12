@@ -1,0 +1,53 @@
+T1	NoDisposition 1082 1089	insulin
+E1	NoDisposition:T1 
+T3	NoDisposition 2024 2031	Cardura
+E3	NoDisposition:T3 
+T4	NoDisposition 2038 2046	CellCept
+E4	NoDisposition:T4 
+T6	NoDisposition 2105 2112	Ecotrin
+E6	NoDisposition:T6 
+T7	NoDisposition 2128 2142	Lantus insulin
+E7	NoDisposition:T7 
+T8	NoDisposition 2162 2177	magnesium oxide
+E8	NoDisposition:T8 
+T9	NoDisposition 2200 2207	vitamin
+E9	NoDisposition:T9 
+T10	NoDisposition 2209 2221	cyclosporine
+E10	NoDisposition:T10 
+T11	NoDisposition 2244 2253	Neurontin
+E11	NoDisposition:T11 
+T12	NoDisposition 2276 2291	NovoLog insulin
+E12	NoDisposition:T12 
+T13	NoDisposition 2303 2313	prednisone
+E13	NoDisposition:T13 
+T14	NoDisposition 2328 2338	vitamins C
+E14	NoDisposition:T14 
+T15	NoDisposition 2365 2374	vitamin E
+E15	NoDisposition:T15 
+T16	NoDisposition 981 990	Pravachol
+E16	NoDisposition:T16 
+T17	Disposition 997 1006	Pravachol
+E17	Disposition:T17 
+A1	Certainty E17 Certain
+A2	Actor E17 Physician
+A3	Action E17 Stop
+A4	Temporality E17 Past
+T18	Disposition 997 1006	Pravachol
+E18	Disposition:T18 
+A5	Certainty E18 Certain
+A6	Actor E18 Physician
+A7	Action E18 Start
+A8	Temporality E18 Past
+T19	Disposition 997 1006	Pravachol
+E19	Disposition:T19 
+A9	Certainty E19 Certain
+A10	Actor E19 Physician
+A11	Action E19 Stop
+A12	Temporality E19 Past
+T20	NoDisposition 1986 2000	Calcium with D
+E20	NoDisposition:T20 
+T21	NoDisposition 2070 2082	diltiazem CD
+E21	NoDisposition:T21 
+A13	Negation E19 NotNegated
+A14	Negation E18 NotNegated
+A15	Negation E17 NotNegated

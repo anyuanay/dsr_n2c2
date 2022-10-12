@@ -1,0 +1,30 @@
+T1	Disposition 751 759	morphine
+E1	Disposition:T1 
+T2	Disposition 761 768	aspirin
+E2	Disposition:T2 
+T3	Disposition 770 775	Lasix
+E3	Disposition:T3 
+T4	Disposition 781 794	nitroglycerin
+E4	Disposition:T4 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+T5	Undetermined 1085 1095	Antibiotic
+E5	Undetermined:T5 
+A17	Negation E3 NotNegated
+A18	Negation E1 NotNegated
+A19	Negation E2 NotNegated
+A20	Negation E4 NotNegated

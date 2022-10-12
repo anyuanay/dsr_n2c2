@@ -1,0 +1,13 @@
+T1	Disposition 702 708	Ativan
+E1	Disposition:T1 
+T2	NoDisposition 1082 1091	diltiazem
+E2	NoDisposition:T2 
+T3	NoDisposition 1094 1104	lisinopril
+E3	NoDisposition:T3 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+T4	NoDisposition 1110 1146	medications for hypercholesterolemia
+E4	NoDisposition:T4 
+A5	Negation E1 NotNegated

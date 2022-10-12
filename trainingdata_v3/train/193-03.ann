@@ -1,0 +1,9 @@
+T1	NoDisposition 1053 1066	beta blockade
+E1	NoDisposition:T1 
+T2	Disposition 1844 1851	aspirin
+E2	Disposition:T2 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+A5	Negation E2 NotNegated

@@ -1,0 +1,57 @@
+T1	NoDisposition 247 254	lipitor
+E1	NoDisposition:T1 
+T2	NoDisposition 309 316	lipitor
+E2	NoDisposition:T2 
+T3	NoDisposition 477 480	NPH
+E3	NoDisposition:T3 
+T4	NoDisposition 619 627	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 629 636	zestril
+E5	NoDisposition:T5 
+T9	NoDisposition 1066 1091	Calcium CARBONATE + VIT D
+E9	NoDisposition:T9 
+T14	NoDisposition 1287 1294	Zestril
+E14	NoDisposition:T14 
+T15	NoDisposition 1345 1355	Amlodipine
+E15	NoDisposition:T15 
+T16	NoDisposition 1451 1470	Hydrochlorothiazide
+E16	NoDisposition:T16 
+T21	NoDisposition 3075 3079	HCTZ
+E21	NoDisposition:T21 
+T22	NoDisposition 220 227	Norvasc
+E22	NoDisposition:T22 
+T23	NoDisposition 592 595	NPH
+E23	NoDisposition:T23 
+T24	NoDisposition 923 929	Ativan
+E24	NoDisposition:T24 
+T25	NoDisposition 931 940	LORAZEPAM
+E25	NoDisposition:T25 
+T26	NoDisposition 1108 1120	Multivitamin
+E26	NoDisposition:T26 
+T27	NoDisposition 1134 1147	MULTIVITAMINS
+E27	NoDisposition:T27 
+T28	NoDisposition 1163 1182	Nph HUMULIN INSULIN
+E28	NoDisposition:T28 
+T29	NoDisposition 1184 1201	INSULIN NPH HUMAN
+E29	NoDisposition:T29 
+T30	NoDisposition 1215 1220	Ecasa
+E30	NoDisposition:T30 
+T31	NoDisposition 1222 1229	ASPIRIN
+E31	NoDisposition:T31 
+T32	NoDisposition 1296 1306	LISINOPRIL
+E32	NoDisposition:T32 
+T33	NoDisposition 1608 1615	Crestor
+E33	NoDisposition:T33 
+T34	NoDisposition 1617 1629	ROSUVASTATIN
+E34	NoDisposition:T34 
+T35	NoDisposition 2910 2927	antihypertensives
+E35	NoDisposition:T35 
+T36	NoDisposition 2981 2988	lipitor
+E36	NoDisposition:T36 
+T37	Disposition 2999 3006	crestor
+E37	Disposition:T37 
+A1	Certainty E37 Certain
+A2	Actor E37 Physician
+A3	Action E37 Start
+A4	Temporality E37 Present
+A5	Negation E37 NotNegated

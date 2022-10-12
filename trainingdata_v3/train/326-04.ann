@@ -1,0 +1,68 @@
+T1	NoDisposition 1102 1110	coumadin
+E1	NoDisposition:T1 
+T2	NoDisposition 1389 1399	Prednisone
+E2	NoDisposition:T2 
+T3	NoDisposition 1409 1420	Nephrovites
+E3	NoDisposition:T3 
+T4	NoDisposition 1427 1435	Protonix
+E4	NoDisposition:T4 
+T5	NoDisposition 1443 1451	Dilantin
+E5	NoDisposition:T5 
+T6	NoDisposition 1461 1469	Tegretol
+E6	NoDisposition:T6 
+T7	NoDisposition 1479 1487	Atenolol
+E7	NoDisposition:T7 
+T8	NoDisposition 1514 1523	Nifedical
+E8	NoDisposition:T8 
+T9	NoDisposition 1550 1555	Paxil
+E9	NoDisposition:T9 
+T10	NoDisposition 1563 1570	Doxepin
+E10	NoDisposition:T10 
+T11	NoDisposition 1579 1585	Plavix
+E11	NoDisposition:T11 
+T12	NoDisposition 1594 1602	Coumadin
+E12	NoDisposition:T12 
+T13	NoDisposition 1610 1615	Xanax
+E13	NoDisposition:T13 
+T14	NoDisposition 1631 1639	Fosrenol
+E14	NoDisposition:T14 
+T15	NoDisposition 1659 1666	Demerol
+E15	NoDisposition:T15 
+T16	NoDisposition 1678 1689	Penicillins
+E16	NoDisposition:T16 
+T18	NoDisposition 1698 1708	Quinolones
+E18	NoDisposition:T18 
+T19	NoDisposition 1720 1730	Vancomycin
+E19	NoDisposition:T19 
+T20	NoDisposition 1735 1746	Derivatives
+E20	NoDisposition:T20 
+T21	Undetermined 3298 3301	Abx
+E21	Undetermined:T21 
+T23	NoDisposition 3434 3443	Quinolone
+E23	NoDisposition:T23 
+T24	Disposition 3586 3594	coumadin
+E24	Disposition:T24 
+T25	NoDisposition 4100 4106	Phoslo
+E25	NoDisposition:T25 
+T26	NoDisposition 4111 4119	Fosrenol
+E26	NoDisposition:T26 
+T27	NoDisposition 4175 4185	Nephrocaps
+E27	NoDisposition:T27 
+T28	NoDisposition 1617 1623	Phoslo
+E28	NoDisposition:T28 
+T29	Disposition 3397 3406	Aztreonam
+E29	Disposition:T29 
+T30	NoDisposition 3430 3433	PCN
+E30	NoDisposition:T30 
+A1	Certainty E24 Hypothetical
+A2	Actor E24 Physician
+A3	Action E24 Increase
+A4	Temporality E24 Present
+A9	Certainty E29 Certain
+A10	Actor E29 Physician
+A11	Action E29 Start
+A12	Temporality E29 Present
+T31	Undetermined 3362 3372	Vancomycin
+E31	Undetermined:T31 
+A13	Negation E24 NotNegated
+A14	Negation E29 NotNegated

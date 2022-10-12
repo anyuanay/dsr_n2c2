@@ -1,0 +1,82 @@
+T1	Disposition 1667 1670	IVF
+E1	Disposition:T1 
+T2	Disposition 1672 1677	lasix
+E2	Disposition:T2 
+T3	Disposition 1702 1716	bisphosphonate
+E3	Disposition:T3 
+T4	NoDisposition 2778 2788	anesthesia
+E4	NoDisposition:T4 
+T5	Disposition 2834 2842	steroids
+E5	Disposition:T5 
+T6	Disposition 4126 4129	IVF
+E6	Disposition:T6 
+T7	NoDisposition 4286 4299	Multivitamins
+E7	NoDisposition:T7 
+T9	NoDisposition 4363 4375	Atorvastatin
+E9	NoDisposition:T9 
+T12	NoDisposition 4518 4537	Metoprolol Tartrate
+E12	NoDisposition:T12 
+T13	NoDisposition 4564 4574	Omeprazole
+E13	NoDisposition:T13 
+T14	NoDisposition 4599 4612	Verapamil Hcl
+E14	NoDisposition:T14 
+T18	NoDisposition 10661 10664	IVF
+E18	NoDisposition:T18 
+T19	Disposition 10700 10703	IVF
+E19	Disposition:T19 
+T20	NoDisposition 10717 10725	D5    NS
+E20	NoDisposition:T20 
+T21	Undetermined 11153 11156	MVI
+E21	Undetermined:T21 
+A1	Certainty E5 Certain
+A2	Negation E5 Negated
+A3	Actor E5 Physician
+A4	Action E5 Start
+A5	Temporality E5 Past
+T22	NoDisposition 4399 4409	Sennosides
+E22	NoDisposition:T22 
+T23	NoDisposition 4411 4416	Senna
+E23	NoDisposition:T23 
+T24	NoDisposition 4539 4548	Lopressor
+E24	NoDisposition:T24 
+T25	NoDisposition 4576 4584	Prilosec
+E25	NoDisposition:T25 
+A6	Certainty E3 Certain
+A7	Actor E3 Physician
+A8	Action E3 UniqueDose
+A9	Temporality E3 Past
+A10	Certainty E1 Certain
+A11	Actor E1 Physician
+A12	Action E1 UniqueDose
+A13	Temporality E1 Past
+A14	Certainty E2 Certain
+A15	Actor E2 Physician
+A16	Action E2 UniqueDose
+A17	Temporality E2 Past
+A18	Certainty E6 Certain
+A19	Actor E6 Physician
+A20	Action E6 UniqueDose
+A21	Temporality E6 Past
+T26	NoDisposition 4301 4304	Mvi
+E26	NoDisposition:T26 
+T27	NoDisposition 4318 4338	Acetylsalicylic Acid
+E27	NoDisposition:T27 
+T28	NoDisposition 4340 4347	Aspirin
+E28	NoDisposition:T28 
+T29	NoDisposition 4377 4384	Lipitor
+E29	NoDisposition:T29 
+T30	NoDisposition 4459 4474	Docusate Sodium
+E30	NoDisposition:T30 
+T31	NoDisposition 4476 4482	Colace
+E31	NoDisposition:T31 
+T32	NoDisposition 4626 4656	Nifedipine (Sustained Release)
+E32	NoDisposition:T32 
+A22	Certainty E19 Certain
+A23	Actor E19 Physician
+A24	Action E19 UniqueDose
+A25	Temporality E19 Past
+A26	Negation E19 NotNegated
+A27	Negation E3 NotNegated
+A28	Negation E6 NotNegated
+A29	Negation E2 NotNegated
+A30	Negation E1 NotNegated

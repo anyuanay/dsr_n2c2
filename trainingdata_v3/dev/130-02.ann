@@ -1,0 +1,93 @@
+T3	Disposition 620 628	levaquin
+E3	Disposition:T3 
+T4	Disposition 849 858	lopressor
+E4	Disposition:T4 
+T5	Disposition 870 879	lopressor
+E5	Disposition:T5 
+T6	Undetermined 5536 5540	levo
+E6	Undetermined:T6 
+T7	Undetermined 5754 5757	asa
+E7	Undetermined:T7 
+T8	Undetermined 5759 5768	lopressor
+E8	Undetermined:T8 
+T9	Undetermined 5805 5814	lopressor
+E9	Undetermined:T9 
+T10	Undetermined 5881 5887	Nexium
+E10	Undetermined:T10 
+T11	Undetermined 5889 5896	heparin
+E11	Undetermined:T11 
+T12	Disposition 210 214	Z-pk
+E12	Disposition:T12 
+A1	Certainty E3 Certain
+A2	Actor E3 Patient
+A3	Action E3 UniqueDose
+A4	Temporality E3 Past
+T13	Disposition 557 561	Z-pk
+E13	Disposition:T13 
+A5	Certainty E13 Certain
+A6	Actor E13 Patient
+A7	Action E13 Start
+A8	Temporality E13 Past
+T14	Disposition 557 561	Z-pk
+E14	Disposition:T14 
+A10	Certainty E14 Certain
+A11	Actor E14 Patient
+A12	Action E14 Stop
+A13	Temporality E14 Past
+A14	Certainty E4 Certain
+A15	Actor E4 Physician
+A16	Action E4 UniqueDose
+A17	Temporality E4 Past
+A18	Certainty E5 Certain
+A19	Actor E5 Physician
+A20	Action E5 UniqueDose
+A21	Temporality E5 Past
+T15	Disposition 1277 1294	immunosuppressive
+E15	Disposition:T15 
+A22	Certainty E15 Certain
+A23	Actor E15 Physician
+A24	Action E15 Stop
+A25	Temporality E15 Past
+T16	NoDisposition 1956 1965	Pravachol
+E16	NoDisposition:T16 
+T17	NoDisposition 1970 1977	Norvasc
+E17	NoDisposition:T17 
+T18	NoDisposition 1982 1988	Phoslo
+E18	NoDisposition:T18 
+T19	NoDisposition 1993 2003	Nephrocaps
+E19	NoDisposition:T19 
+T20	NoDisposition 2008 2017	Neurontin
+E20	NoDisposition:T20 
+T21	NoDisposition 2033 2040	Vasotec
+E21	NoDisposition:T21 
+T22	NoDisposition 5697 5703	phoslo
+E22	NoDisposition:T22 
+T23	Undetermined 5770 5779	pravachol
+E23	Undetermined:T23 
+T24	Undetermined 5816 5822	norvac
+E24	Undetermined:T24 
+T25	Disposition 5843 5854	kayexcelate
+E25	Disposition:T25 
+A26	Certainty E25 Certain
+A27	Actor E25 Physician
+A28	Action E25 UniqueDose
+A29	Temporality E25 Past
+A9	Certainty E12 Certain
+A30	Actor E12 Physician
+A31	Action E12 Start
+A32	Temporality E12 Past
+T26	Disposition 210 214	Z-pk
+E26	Disposition:T26 
+A33	Certainty E26 Certain
+A34	Actor E26 Physician
+A35	Action E26 Stop
+A36	Temporality E26 Past
+A37	Negation E25 NotNegated
+A38	Negation E13 NotNegated
+A39	Negation E12 NotNegated
+A40	Negation E3 NotNegated
+A41	Negation E4 NotNegated
+A42	Negation E15 NotNegated
+A43	Negation E26 NotNegated
+A44	Negation E5 NotNegated
+A45	Negation E14 NotNegated

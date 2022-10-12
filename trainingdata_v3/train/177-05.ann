@@ -1,0 +1,56 @@
+T3	NoDisposition 1691 1699	arimidex
+E3	NoDisposition:T3 
+T4	NoDisposition 2423 2433	Amlodipine
+E4	NoDisposition:T4 
+T7	NoDisposition 2579 2587	Atenolol
+E7	NoDisposition:T7 
+T8	NoDisposition 2621 2629	Atrovent
+E8	NoDisposition:T8 
+T12	NoDisposition 2735 2749	Fluoxetine Hcl
+E12	NoDisposition:T12 
+T14	NoDisposition 2854 2864	Furosemide
+E14	NoDisposition:T14 
+T15	NoDisposition 2898 2907	Glucotrol
+E15	NoDisposition:T15 
+T16	NoDisposition 2952 2962	Lisinopril
+E16	NoDisposition:T16 
+T17	NoDisposition 2996 3005	Lorazepam
+E17	NoDisposition:T17 
+T18	NoDisposition 3051 3060	Metformin
+E18	NoDisposition:T18 
+T20	NoDisposition 3134 3147	Multivitamins
+E20	NoDisposition:T20 
+T21	NoDisposition 3160 3170	Omeprazole
+E21	NoDisposition:T21 
+T22	NoDisposition 3208 3219	Simvastatin
+E22	NoDisposition:T22 
+T23	NoDisposition 3254 3276	Tylenol Extra Strength
+E23	NoDisposition:T23 
+T25	NoDisposition 4691 4702	anastrazole
+E25	NoDisposition:T25 
+T26	NoDisposition 301 318	endocrine therapy
+E26	NoDisposition:T26 
+T27	NoDisposition 1218 1235	endocrine therapy
+E27	NoDisposition:T27 
+T28	NoDisposition 2465 2473	Arimidex
+E28	NoDisposition:T28 
+T29	NoDisposition 2475 2486	ANASTROZOLE
+E29	NoDisposition:T29 
+T30	NoDisposition 2519 2522	Asa
+E30	NoDisposition:T30 
+T31	NoDisposition 2524 2544	ACETYLSALICYLIC Acid
+E31	NoDisposition:T31 
+T32	NoDisposition 2643 2654	IPRATROPIUM
+E32	NoDisposition:T32 
+T33	NoDisposition 2689 2714	Calcium 600mg + Vitamin D
+E33	NoDisposition:T33 
+T34	NoDisposition 2794 2801	Fosamax
+E34	NoDisposition:T34 
+T35	NoDisposition 2803 2814	ALENDRONATE
+E35	NoDisposition:T35 
+T36	NoDisposition 2909 2918	GLIPIZIDE
+E36	NoDisposition:T36 
+T37	NoDisposition 3278 3306	ACETAMINOPHEN Extra Strength
+E37	NoDisposition:T37 
+T38	NoDisposition 4668 4685	endocrine therapy
+E38	NoDisposition:T38 

@@ -1,0 +1,22 @@
+T1	NoDisposition 809 819	Amlodipine
+E1	NoDisposition:T1 
+T2	NoDisposition 855 865	Lisinopril
+E2	NoDisposition:T2 
+T3	NoDisposition 901 913	Rosuvastatin
+E3	NoDisposition:T3 
+T4	NoDisposition 950 959	Glipizide
+E4	NoDisposition:T4 
+T5	NoDisposition 996 1008	Pioglitazone
+E5	NoDisposition:T5 
+T6	NoDisposition 1044 1055	Clopidogrel
+E6	NoDisposition:T6 
+T7	NoDisposition 1091 1101	Furosemide
+E7	NoDisposition:T7 
+T8	NoDisposition 1138 1146	Atenolol
+E8	NoDisposition:T8 
+T9	NoDisposition 1182 1199	Ferrous GLUCONATE
+E9	NoDisposition:T9 
+T10	NoDisposition 1229 1236	Aspirin
+E10	NoDisposition:T10 
+T12	NoDisposition 1267 1270	ASA
+E12	NoDisposition:T12 

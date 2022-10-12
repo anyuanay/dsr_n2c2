@@ -1,0 +1,83 @@
+T1	Disposition 1422 1434	levofloxacin
+E1	Disposition:T1 
+T2	Disposition 1976 1988	levofloxacin
+E2	Disposition:T2 
+T3	NoDisposition 2438 2447	Glyburide
+E3	NoDisposition:T3 
+T4	NoDisposition 2459 2465	Prozac
+E4	NoDisposition:T4 
+T5	NoDisposition 2475 2483	Prevacid
+E5	NoDisposition:T5 
+T6	NoDisposition 2493 2502	Synthroid
+E6	NoDisposition:T6 
+T7	NoDisposition 2514 2520	Cozaar
+E7	NoDisposition:T7 
+T8	NoDisposition 2530 2537	Ritalin
+E8	NoDisposition:T8 
+T9	NoDisposition 2574 2577	MVI
+E9	NoDisposition:T9 
+T10	NoDisposition 2579 2582	ASA
+E10	NoDisposition:T10 
+T11	NoDisposition 2592 2598	Colace
+E11	NoDisposition:T11 
+T12	NoDisposition 2624 2634	finosopril
+E12	NoDisposition:T12 
+T13	NoDisposition 2636 2644	percocet
+E13	NoDisposition:T13 
+T14	NoDisposition 2646 2658	erythromycin
+E14	NoDisposition:T14 
+T15	Disposition 8466 8476	vancomycin
+E15	Disposition:T15 
+T16	Disposition 8536 8546	antibiotic
+E16	Disposition:T16 
+T17	Disposition 8560 8568	levoquin
+E17	Disposition:T17 
+T18	NoDisposition 8690 8701	antibiotics
+E18	NoDisposition:T18 
+T19	Disposition 9141 9144	ISS
+E19	Disposition:T19 
+T20	NoDisposition 9175 9182	insulin
+E20	NoDisposition:T20 
+T21	NoDisposition 9222 9235	levothyroxine
+E21	NoDisposition:T21 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+T22	NoDisposition 2556 2563	Lipitor
+E22	NoDisposition:T22 
+A5	Certainty E15 Certain
+A6	Actor E15 Physician
+A7	Action E15 Start
+A8	Temporality E15 Present
+A9	Certainty E16 Conditional
+A10	Actor E16 Physician
+A11	Action E16 Start
+A12	Temporality E16 Future
+A13	Certainty E17 Certain
+A14	Actor E17 Physician
+A15	Action E17 Start
+A16	Temporality E17 Present
+A17	Certainty E19 Certain
+A18	Actor E19 Physician
+A19	Action E19 Start
+A20	Temporality E19 Present
+T23	Undetermined 9272 9282	ranitidine
+E23	Undetermined:T23 
+A21	Certainty E1 Certain
+A22	Actor E1 Physician
+A23	Action E1 Start
+A24	Temporality E1 Past
+T24	Disposition 1422 1434	levofloxacin
+E24	Disposition:T24 
+A25	Certainty E24 Certain
+A26	Actor E24 Physician
+A27	Action E24 Stop
+A28	Temporality E24 Past
+A29	Negation E19 NotNegated
+A30	Negation E16 NotNegated
+A31	Negation E15 NotNegated
+A32	Negation E2 NotNegated
+A33	Negation E24 NotNegated
+A34	Negation E1 NotNegated
+A35	Negation E17 NotNegated

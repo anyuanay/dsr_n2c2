@@ -1,0 +1,9 @@
+T1	NoDisposition 700 712	beta blocker
+E1	NoDisposition:T1 
+T2	Disposition 1283 1289	Toprol
+E2	Disposition:T2 
+A1	Certainty E2 Hypothetical
+A2	Actor E2 Physician
+A3	Action E2 Increase
+A4	Temporality E2 Present
+A5	Negation E2 NotNegated

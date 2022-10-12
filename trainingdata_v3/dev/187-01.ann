@@ -1,0 +1,58 @@
+T1	NoDisposition 541 549	steroids
+E1	NoDisposition:T1 
+T3	Disposition 926 938	testolactone
+E3	Disposition:T3 
+T5	NoDisposition 2200 2210	penicillin
+E5	NoDisposition:T5 
+T6	NoDisposition 2212 2217	Lozol
+E6	NoDisposition:T6 
+T7	NoDisposition 2219 2230	allopurinol
+E7	NoDisposition:T7 
+T8	NoDisposition 2679 2686	insulin
+E8	NoDisposition:T8 
+T9	Undetermined 3978 3986	Lamictal
+E9	Undetermined:T9 
+T10	Undetermined 4024 4033	Risperdal
+E10	Undetermined:T10 
+T11	Undetermined 4077 4089	testolactone
+E11	Undetermined:T11 
+T12	Undetermined 4169 4187	clomiphene citrate
+E12	Undetermined:T12 
+T14	Undetermined 4227 4234	Levoxyl
+E14	Undetermined:T14 
+T15	Undetermined 4255 4261	Altace
+E15	Undetermined:T15 
+T16	Undetermined 4309 4318	ibuprofen
+E16	Undetermined:T16 
+T17	Disposition 4858 4865	Aricept
+E17	Disposition:T17 
+T18	Disposition 915 921	Clomid
+E18	Disposition:T18 
+A1	Certainty E18 Certain
+A2	Actor E18 Physician
+A3	Action E18 Start
+A4	Temporality E18 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 Start
+A8	Temporality E3 Past
+T19	Undetermined 3850 3857	Flonase
+E19	Undetermined:T19 
+T20	Undetermined 4161 4167	Clomid
+E20	Undetermined:T20 
+A46	Certainty E17 Certain
+A47	Actor E17 Unknown
+A48	Action E17 Stop
+A49	Temporality E17 Past
+T21	Disposition 4858 4865	Aricept
+E21	Disposition:T21 
+A50	Certainty E21 Certain
+A51	Actor E21 Physician
+A53	Action E21 Start
+A54	Temporality E21 Past
+T2	NoDisposition 1843 1849	Altace
+E2	NoDisposition:T2 
+A55	Negation E3 NotNegated
+A56	Negation E18 NotNegated
+A57	Negation E21 NotNegated
+A58	Negation E17 NotNegated

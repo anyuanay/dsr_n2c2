@@ -1,0 +1,215 @@
+T1	Disposition 1099 1107	Morphine
+E1	Disposition:T1 
+T2	Disposition 1224 1232	dopamine
+E2	Disposition:T2 
+T3	Disposition 1915 1919	pRBC
+E3	Disposition:T3 
+T5	Disposition 2223 2226	Abx
+E5	Disposition:T5 
+T6	Disposition 2228 2233	zosyn
+E6	Disposition:T6 
+T7	Disposition 2235 2241	flagyl
+E7	Disposition:T7 
+T10	Disposition 4409 4412	ASA
+E10	Disposition:T10 
+T11	Disposition 4414 4420	plavix
+E11	Disposition:T11 
+T12	NoDisposition 4457 4466	lopressor
+E12	NoDisposition:T12 
+T13	NoDisposition 4588 4598	metoprolol
+E13	NoDisposition:T13 
+T15	NoDisposition 4846 4855	Albuterol
+E15	NoDisposition:T15 
+T17	NoDisposition 5936 5939	ASA
+E17	NoDisposition:T17 
+T18	NoDisposition 5953 5959	Plavix
+E18	NoDisposition:T18 
+T19	NoDisposition 5967 5976	Lopressor
+E19	NoDisposition:T19 
+T20	NoDisposition 5990 5998	Losartan
+E20	NoDisposition:T20 
+T21	NoDisposition 6011 6021	Furosemide
+E21	NoDisposition:T21 
+T22	NoDisposition 6034 6037	NTG
+E22	NoDisposition:T22 
+T23	NoDisposition 6045 6056	Fluvastatin
+E23	NoDisposition:T23 
+T24	NoDisposition 6069 6073	APAP
+E24	NoDisposition:T24 
+T25	NoDisposition 6094 6103	Glyburide
+E25	NoDisposition:T25 
+T26	NoDisposition 6117 6128	NPH insulin
+E26	NoDisposition:T26 
+T27	NoDisposition 6147 6156	Lortisone
+E27	NoDisposition:T27 
+T28	NoDisposition 6180 6188	Atrovent
+E28	NoDisposition:T28 
+T30	NoDisposition 6231 6240	Albuterol
+E30	NoDisposition:T30 
+T35	NoDisposition 12347 12355	contrast
+E35	NoDisposition:T35 
+T37	NoDisposition 15945 15955	Gadolinium
+E37	NoDisposition:T37 
+T42	NoDisposition 20409 20415	plavix
+E42	NoDisposition:T42 
+T43	NoDisposition 20417 20420	ASA
+E43	NoDisposition:T43 
+T44	Disposition 20481 20484	ASA
+E44	Disposition:T44 
+T45	Disposition 20486 20492	plavix
+E45	Disposition:T45 
+T46	Disposition 20639 20642	ASA
+E46	Disposition:T46 
+T47	Disposition 20644 20650	plavix
+E47	Disposition:T47 
+T48	Undetermined 20789 20799	metoprolol
+E48	Undetermined:T48 
+T49	Undetermined 20801 20808	isordil
+E49	Undetermined:T49 
+T50	Disposition 20904 20907	NPH
+E50	Disposition:T50 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+A5	Certainty E1 Certain
+A6	Actor E1 Physician
+A7	Action E1 UniqueDose
+A8	Temporality E1 Past
+T51	NoDisposition 1973 1976	ASA
+E51	NoDisposition:T51 
+T52	NoDisposition 1981 1987	plavix
+E52	NoDisposition:T52 
+T53	Disposition 2246 2250	vanc
+E53	Disposition:T53 
+T54	Disposition 3621 3635	methylene blue
+E54	Disposition:T54 
+A9	Certainty E10 Certain
+A10	Actor E10 Physician
+A11	Action E10 Stop
+A12	Temporality E10 Past
+A13	Certainty E11 Certain
+A14	Actor E11 Physician
+A15	Action E11 Stop
+A16	Temporality E11 Past
+T55	NoDisposition 4470 4476	hydral
+E55	NoDisposition:T55 
+T56	NoDisposition 4478 4485	isordil
+E56	NoDisposition:T56 
+T57	NoDisposition 4603 4610	isordil
+E57	NoDisposition:T57 
+T58	NoDisposition 4611 4617	hydral
+E58	NoDisposition:T58 
+T59	NoDisposition 4648 4655	insulin
+E59	NoDisposition:T59 
+T60	NoDisposition 5652 5667	antidepressants
+E60	NoDisposition:T60 
+T61	NoDisposition 6205 6214	Pulmicort
+E61	NoDisposition:T61 
+T62	NoDisposition 6279 6288	hurricane
+E62	NoDisposition:T62 
+T63	Disposition 19675 19689	methylene blue
+E63	Disposition:T63 
+T64	NoDisposition 19827 19836	hurricane
+E64	NoDisposition:T64 
+A17	Certainty E44 Certain
+A18	Actor E44 Physician
+A19	Action E44 Stop
+A20	Temporality E44 Present
+A21	Certainty E45 Certain
+A22	Actor E45 Physician
+A23	Action E45 Stop
+A24	Temporality E45 Present
+A25	Certainty E46 Certain
+A26	Actor E46 Physician
+A27	Action E46 Stop
+A28	Temporality E46 Past
+A29	Certainty E47 Certain
+A30	Actor E47 Physician
+A31	Action E47 Stop
+A32	Temporality E47 Past
+T65	NoDisposition 20707 20716	lopressor
+E65	NoDisposition:T65 
+T66	Undetermined 20809 20815	hydral
+E66	Undetermined:T66 
+A45	Certainty E50 Conditional
+A46	Actor E50 Physician
+A47	Action E50 Start
+A48	Temporality E50 Future
+T67	NoDisposition 21002 21008	nexium
+E67	NoDisposition:T67 
+T68	Disposition 21018 21025	fragmin
+E68	Disposition:T68 
+A49	Certainty E68 Certain
+A50	Actor E68 Physician
+A51	Action E68 Stop
+A52	Temporality E68 Present
+A54	Certainty E3 Certain
+A55	Actor E3 Physician
+A56	Action E3 UniqueDose
+A57	Temporality E3 Past
+A58	Certainty E5 Certain
+A59	Actor E5 Physician
+A60	Action E5 UniqueDose
+A61	Temporality E5 Past
+A62	Certainty E6 Certain
+A63	Actor E6 Physician
+A64	Action E6 UniqueDose
+A65	Temporality E6 Past
+A66	Certainty E7 Certain
+A67	Actor E7 Physician
+A68	Action E7 UniqueDose
+A69	Temporality E7 Past
+A70	Certainty E53 Certain
+A71	Actor E53 Physician
+A72	Action E53 UniqueDose
+A73	Temporality E53 Past
+A74	Certainty E54 Certain
+A75	Actor E54 Physician
+A76	Action E54 UniqueDose
+A77	Temporality E54 Past
+T69	NoDisposition 5317 5323	PRBC's
+E69	NoDisposition:T69 
+A78	Certainty E63 Certain
+A79	Actor E63 Physician
+A80	Action E63 UniqueDose
+A81	Temporality E63 Past
+T70	Undetermined 20868 20881	sliding scale
+E70	Undetermined:T70 
+T71	Disposition 20868 20881	sliding scale
+E71	Disposition:T71 
+A86	Certainty E71 Conditional
+A87	Actor E71 Physician
+A89	Action E71 Stop
+A90	Temporality E71 Future
+T4	NoDisposition 10166 10174	WARFARIN
+E4	NoDisposition:T4 
+T8	Disposition 4681 4694	sliding scale
+E8	Disposition:T8 
+A33	Certainty E8 Certain
+A34	Actor E8 Physician
+A35	Action E8 Unknown
+A36	Temporality E8 Unknown
+T16	NoDisposition 20012 20020	contrast
+E16	NoDisposition:T16 
+T29	NoDisposition 2150 2156	fluids
+E29	NoDisposition:T29 
+A91	Negation E46 NotNegated
+A92	Negation E50 NotNegated
+A93	Negation E7 NotNegated
+A94	Negation E53 NotNegated
+A95	Negation E63 NotNegated
+A96	Negation E8 NotNegated
+A97	Negation E10 NotNegated
+A98	Negation E68 NotNegated
+A99	Negation E3 NotNegated
+A100	Negation E71 NotNegated
+A101	Negation E2 NotNegated
+A102	Negation E44 NotNegated
+A103	Negation E1 NotNegated
+A104	Negation E5 NotNegated
+A105	Negation E47 NotNegated
+A106	Negation E45 NotNegated
+A107	Negation E6 NotNegated
+A108	Negation E54 NotNegated
+A109	Negation E11 NotNegated

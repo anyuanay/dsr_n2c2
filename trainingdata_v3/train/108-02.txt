@@ -1,0 +1,99 @@
+
+
+
+Record date: 2135-09-01
+
+
+	CARDIOLOGY
+	
+
+	GIBSON COMMUNITY HOSPITAL
+	
+
+
+	Reason for visit:
+   Cardiolog NP admission note for Dr Xenakis, referred from Dr Tiffin Whitlock. NSTEMI and CHF with plan for cardiac cath.
+
+
+	Interval History:
+   72M with DM on oral agents who noticed DOE x 2 weeks, initially started on albuterol/ advair without improvement --&gt; 2 days prior to admission at Natchaug Hospital (admit 8/30/35) noticed worsening SOB with chest discomfort. Noted mild LE swelling. Denies any other symptoms - orthopnea, PND, palpitations, lightheadedness, or syncope. He has never had such an episode before.
+
+At NH, EKG with Q-waves V1-4. CK peak 99, Trop peak 2.01. Started on aspirin, clopidogrel, lovenox, and lasix with resolution of symptoms.
+
+He is transferred for cardiac catheterization with Dr. Whitlock/Xenakis on 9/01/35 with plan for cath today. Reviewed scenarios and consetnted for procedure. 
+
+
+	Past medical history:
+   NSTEMI as above 
+DM - on glyburide and metformin
+Trigeminal neuralgia - on lyrica and tegretol
+Hypothyroid - on synthroid
+Cholecystectomy
+
+HOME MEDICATIONS:
+1. Levothyroxine 100mcg daily
+2. Lyrica 75mg AM, 75mg at 5pm, 150mg at bedtime
+3. Tegretol 500mg BID
+4. Glyburide 5mg daily
+5. Metformin 500mg BID
+
+TRANSFER MEDICATIONS:
+1. As above with
+2. Aspirin 81mg daily
+3. Plavix 75mg daily
+4. Atorvastatin 80mg daily
+5. Metoprolol 25mg daily
+
+Current medication list:
+ACETYLSALICYLIC ACID (ASPIRIN )325 MG PO QD 
+ATORVASTATIN80 MG PO QPM 
+CARBAMAZEPINE (TEGRETOL) 500 MG PO BID 
+CLOPIDOGREL75 MG PO QD 
+DOCUSATE SODIUM (COLACE )100 MG PO TID 
+LEVOTHYROXINE SODIUM (SYNTHROID) 100 MCG PO QD 
+LISINOPRIL 5 MG PO QD 
+METOPROLOL TARTRATE25 MG PO BID 
+PREGABALIN (LYRICA )150 MG PO at bedtime 
+PREGABALIN (LYRICA )75 MG PO Q 5PM 
+PREGABALIN (LYRICA) 75 MG PO QAM 
+
+
+
+
+	
+
+	Changes to Allergies
+	
+NKA: No Known Allergies - reaction: [reviewed]
+
+
+	Family history:
+   Denies any known premature CAD
+
+
+	Social history:
+   Moved from Iran in April 2135. Lives with wife and son's family in Cincinnatti, IN. Retired lab tech. Denies smoking. Remote EtOH, not x 30 years. Denies illicit drugs.
+
+
+	Review of systems:
+   As per HPI. Otherwise negative in detail.
+
+Physical examination:
+	
+-Pulse: 60s  regular
+-resp. rate: 16  
+-General:   Well appearing, elderly Iranian male in no apparent respiratory distress. Able to lie flat.
+-HEENT:   Sclera anicteric
+-Neck:   Carotids 2+ bilateral with normal upstrokes and no bruits, JVP 10cm H2O with prominent V-waves
+-Chest:   Bibasilar crackles L&gt;R
+-Cardiac:   RRR, Normal S1S2, no parasternal lift or PA tap, PMI nondisplaced, no S3S4, 1/6 HSM over apex
+-Abdomen:   Soft, nontender, +BS  no bruits or pulsation
+-Extremities:   Cool bilateral feet. 2+ FA with soft bruit R&gt;L, 2+ DP/PT. Trace edema.
+-Neuro:   Alert, appropriate in intact.
+-BP: 120/70  
+
+Selected recent labs:
+	 Metabolic
+Date     
+
+

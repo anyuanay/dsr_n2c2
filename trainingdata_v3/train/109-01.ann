@@ -1,0 +1,50 @@
+T2	NoDisposition 345 354	Albuterol
+E2	NoDisposition:T2 
+T3	NoDisposition 530 537	Lipitor
+E3	NoDisposition:T3 
+T5	NoDisposition 630 640	LISINOPRIL
+E5	NoDisposition:T5 
+T6	NoDisposition 697 717	LEVOTHYROXINE Sodium
+E6	NoDisposition:T6 
+T8	Disposition 1501 1507	Keflex
+E8	Disposition:T8 
+T9	NoDisposition 1732 1742	lisinopril
+E9	NoDisposition:T9 
+T11	NoDisposition 305 308	Asa
+E11	NoDisposition:T11 
+T12	NoDisposition 310 330	ACETYLSALICYLIC Acid
+E12	NoDisposition:T12 
+T13	NoDisposition 403 411	Premarin
+E13	NoDisposition:T13 
+T14	NoDisposition 413 433	CONJUGATED Estrogens
+E14	NoDisposition:T14 
+T15	NoDisposition 462 467	K-dur
+E15	NoDisposition:T15 
+T16	NoDisposition 469 482	KCL Slow Rel.
+E16	NoDisposition:T16 
+T17	NoDisposition 539 551	ATORVASTATIN
+E17	NoDisposition:T17 
+T18	NoDisposition 578 582	Hctz
+E18	NoDisposition:T18 
+T19	NoDisposition 584 603	HYDROCHLOROTHIAZIDE
+E19	NoDisposition:T19 
+T20	NoDisposition 686 695	Synthroid
+E20	NoDisposition:T20 
+T21	NoDisposition 745 751	Celexa
+E21	NoDisposition:T21 
+T22	NoDisposition 753 763	CITALOPRAM
+E22	NoDisposition:T22 
+T23	NoDisposition 806 815	Halothane
+E23	NoDisposition:T23 
+A1	Certainty E8 Certain
+A2	Actor E8 Physician
+A3	Action E8 Start
+A4	Temporality E8 Present
+T24	Disposition 1501 1507	Keflex
+E24	Disposition:T24 
+A5	Certainty E24 Certain
+A6	Actor E24 Physician
+A7	Action E24 Stop
+A8	Temporality E24 Future
+A9	Negation E24 NotNegated
+A10	Negation E8 NotNegated

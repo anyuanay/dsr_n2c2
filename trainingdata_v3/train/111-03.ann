@@ -1,0 +1,16 @@
+T2	NoDisposition 570 577	steroid
+E2	NoDisposition:T2 
+T3	Disposition 1021 1032	Depo-Medrol
+E3	Disposition:T3 
+T4	Disposition 1050 1059	lidocaine
+E4	Disposition:T4 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 UniqueDose
+A4	Temporality E3 Present
+A5	Certainty E4 Certain
+A6	Actor E4 Physician
+A7	Action E4 UniqueDose
+A8	Temporality E4 Present
+A9	Negation E3 NotNegated
+A10	Negation E4 NotNegated

@@ -1,0 +1,191 @@
+T1	Disposition 1862 1866	amio
+E1	Disposition:T1 
+T2	Disposition 1971 1988	calcium gluconate
+E2	Disposition:T2 
+T3	Disposition 1990 1997	insulin
+E3	Disposition:T3 
+T5	Disposition 2100 2107	heparin
+E5	Disposition:T5 
+T6	NoDisposition 2151 2159	Coumadin
+E6	NoDisposition:T6 
+T7	NoDisposition 2182 2191	toprol XL
+E7	NoDisposition:T7 
+T8	NoDisposition 3662 3669	digoxin
+E8	NoDisposition:T8 
+T10	NoDisposition 3776 3788	Esomeprazole
+E10	NoDisposition:T10 
+T11	NoDisposition 3817 3826	Glipizide
+E11	NoDisposition:T11 
+T12	NoDisposition 3847 3856	Metformin
+E12	NoDisposition:T12 
+T15	NoDisposition 3938 3948	Furosemide
+E15	NoDisposition:T15 
+T16	NoDisposition 3950 3955	Lasix
+E16	NoDisposition:T16 
+T17	NoDisposition 4010 4033	Niacin Extended Release
+E17	NoDisposition:T17 
+T18	NoDisposition 4055 4092	Metoprolol Succinate Extended Release
+E18	NoDisposition:T18 
+T19	NoDisposition 4127 4137	Lisinopril
+E19	NoDisposition:T19 
+T20	NoDisposition 4158 4169	Simvastatin
+E20	NoDisposition:T20 
+T21	NoDisposition 7193 7203	amiodarone
+E21	NoDisposition:T21 
+T22	NoDisposition 7468 7478	amiodarone
+E22	NoDisposition:T22 
+T23	Disposition 7637 7646	diltiazem
+E23	Disposition:T23 
+T25	Disposition 7810 7818	Coumadin
+E25	Disposition:T25 
+T26	Undetermined 7967 7970	ASA
+E26	Undetermined:T26 
+T27	Disposition 7977 7979	BB
+E27	Disposition:T27 
+T28	Disposition 7980 7984	ACEI
+E28	Disposition:T28 
+T29	Undetermined 8004 8010	statin
+E29	Undetermined:T29 
+T30	Undetermined 8012 8018	niacin
+E30	Undetermined:T30 
+T31	NoDisposition 8203 8208	lasix
+E31	NoDisposition:T31 
+T32	NoDisposition 8256 8261	lasix
+E32	NoDisposition:T32 
+T33	Disposition 8398 8407	metofrmin
+E33	Disposition:T33 
+T34	Undetermined 8424 8428	RISS
+E34	Undetermined:T34 
+T35	NoDisposition 8483 8486	PPI
+E35	NoDisposition:T35 
+T24	Disposition 1476 1483	digoxin
+E24	Disposition:T24 
+A1	Certainty E24 Certain
+A2	Actor E24 Physician
+A3	Action E24 Start
+A4	Temporality E24 Past
+T37	Disposition 1476 1483	digoxin
+E37	Disposition:T37 
+A5	Certainty E37 Certain
+A6	Actor E37 Physician
+A7	Action E37 Stop
+A8	Temporality E37 Past
+T38	Disposition 2004 2010	bicard
+E38	Disposition:T38 
+T39	Disposition 2020 2022	Mg
+E39	Disposition:T39 
+A9	Certainty E5 Certain
+A10	Actor E5 Physician
+A11	Action E5 Start
+A12	Temporality E5 Past
+T40	Disposition 2238 2249	admiodarone
+E40	Disposition:T40 
+A17	Certainty E1 Certain
+A18	Actor E1 Physician
+A19	Action E1 UniqueDose
+A20	Temporality E1 Past
+A21	Certainty E2 Certain
+A22	Actor E2 Physician
+A23	Action E2 UniqueDose
+A24	Temporality E2 Past
+A25	Certainty E3 Certain
+A26	Actor E3 Physician
+A27	Action E3 UniqueDose
+A28	Temporality E3 Past
+A29	Certainty E39 Certain
+A30	Actor E39 Physician
+A31	Action E39 UniqueDose
+A32	Temporality E39 Past
+A36	Certainty E38 Certain
+A37	Actor E38 Physician
+A39	Action E38 UniqueDose
+A40	Temporality E38 Past
+T42	NoDisposition 3724 3744	Acetylsalicylic Acid
+E42	NoDisposition:T42 
+T43	NoDisposition 3746 3753	Aspirin
+E43	NoDisposition:T43 
+T44	NoDisposition 3790 3796	Nexium
+E44	NoDisposition:T44 
+T45	NoDisposition 3878 3897	Omega-3-Fatty Acids
+E45	NoDisposition:T45 
+T47	NoDisposition 3977 4008	Nicotinic Acid Extended Release
+E47	NoDisposition:T47 
+T48	NoDisposition 4094 4103	Toprol Xl
+E48	NoDisposition:T48 
+T49	Disposition 7592 7599	digoxin
+E49	Disposition:T49 
+A42	Certainty E49 Hypothetical
+A43	Actor E49 Physician
+A44	Action E49 Start
+A45	Temporality E49 Present
+A46	Certainty E23 Hypothetical
+A47	Actor E23 Physician
+A48	Action E23 Increase
+A49	Temporality E23 Present
+T50	Disposition 7650 7660	metoprolol
+E50	Disposition:T50 
+A50	Certainty E50 Hypothetical
+A51	Actor E50 Physician
+A52	Action E50 Increase
+A53	Temporality E50 Present
+A54	Certainty E25 Certain
+A55	Negation E25 Negated
+A56	Actor E25 Physician
+A57	Action E25 Start
+A58	Temporality E25 Present
+T51	Disposition 8387 8396	glipizide
+E51	Disposition:T51 
+A71	Certainty E51 Certain
+A72	Actor E51 Physician
+A73	Action E51 Stop
+A74	Temporality E51 Present
+A75	Certainty E33 Certain
+A76	Actor E33 Physician
+A77	Action E33 Stop
+A78	Temporality E33 Present
+A79	Certainty E27 Certain
+A80	Actor E27 Physician
+A81	Action E27 Stop
+A82	Temporality E27 Present
+A83	Certainty E28 Certain
+A84	Actor E28 Physician
+A85	Action E28 Stop
+A86	Temporality E28 Present
+T52	Disposition 1999 2002	D50
+E52	Disposition:T52 
+A87	Certainty E52 Certain
+A88	Actor E52 Physician
+A90	Action E52 UniqueDose
+A91	Temporality E52 Past
+T53	NoDisposition 8496 8503	heparin
+E53	NoDisposition:T53 
+T46	NoDisposition 3899 3907	Fish Oil
+E46	NoDisposition:T46 
+A13	Certainty E40 Certain
+A14	Actor E40 Physician
+A15	Action E40 Stop
+A16	Temporality E40 Past
+T4	Disposition 7670 7672	NS
+E4	Disposition:T4 
+A33	Certainty E4 Certain
+A34	Actor E4 Physician
+A35	Action E4 UniqueDose
+A38	Temporality E4 Present
+A92	Negation E50 NotNegated
+A93	Negation E38 NotNegated
+A94	Negation E52 NotNegated
+A95	Negation E39 NotNegated
+A96	Negation E4 NotNegated
+A97	Negation E49 NotNegated
+A98	Negation E28 NotNegated
+A99	Negation E23 NotNegated
+A100	Negation E37 NotNegated
+A101	Negation E51 NotNegated
+A102	Negation E33 NotNegated
+A103	Negation E3 NotNegated
+A104	Negation E2 NotNegated
+A105	Negation E27 NotNegated
+A106	Negation E1 NotNegated
+A107	Negation E5 NotNegated
+A108	Negation E40 NotNegated
+A109	Negation E24 NotNegated

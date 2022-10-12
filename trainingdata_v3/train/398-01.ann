@@ -1,0 +1,15 @@
+T2	Disposition 863 872	captopril
+E2	Disposition:T2 
+T3	NoDisposition 345 353	ATENOLOL
+E3	NoDisposition:T3 
+T4	NoDisposition 407 416	CAPTOPRIL
+E4	NoDisposition:T4 
+T5	NoDisposition 470 477	ASPIRIN
+E5	NoDisposition:T5 
+T6	NoDisposition 479 499	ACETYLSALICYLIC ACID
+E6	NoDisposition:T6 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Increase
+A4	Temporality E2 Present
+A5	Negation E2 NotNegated

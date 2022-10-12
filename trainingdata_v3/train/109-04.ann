@@ -1,0 +1,45 @@
+T2	NoDisposition 765 773	coumadin
+E2	NoDisposition:T2 
+T3	NoDisposition 818 824	Advair
+E3	NoDisposition:T3 
+T4	NoDisposition 826 833	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 835 839	HCTZ
+E5	NoDisposition:T5 
+T6	NoDisposition 841 848	heparin
+E6	NoDisposition:T6 
+T8	Disposition 2224 2231	spiriva
+E8	Disposition:T8 
+T9	Disposition 2233 2242	albuterol
+E9	Disposition:T9 
+A1	Certainty E8 Certain
+A2	Actor E8 Physician
+A3	Action E8 Start
+A4	Temporality E8 Present
+A5	Certainty E9 Certain
+A6	Actor E9 Physician
+A7	Action E9 Start
+A8	Temporality E9 Present
+T10	Disposition 2174 2202	low molecular weight heparin
+E10	Disposition:T10 
+A9	Certainty E10 Certain
+A10	Actor E10 Physician
+A11	Action E10 Start
+A12	Temporality E10 Present
+T11	Disposition 641 651	UF heparin
+E11	Disposition:T11 
+A13	Certainty E11 Certain
+A14	Actor E11 Physician
+A15	Action E11 Start
+A16	Temporality E11 Past
+T12	Disposition 2042 2048	lytics
+E12	Disposition:T12 
+A17	Certainty E12 Certain
+A18	Negation E12 Negated
+A19	Actor E12 Physician
+A20	Action E12 Start
+A21	Temporality E12 Present
+A22	Negation E9 NotNegated
+A23	Negation E8 NotNegated
+A24	Negation E10 NotNegated
+A25	Negation E11 NotNegated

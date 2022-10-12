@@ -1,0 +1,46 @@
+T3	NoDisposition 4749 4757	Provigil
+E3	NoDisposition:T3 
+T4	NoDisposition 4788 4795	Lithium
+E4	NoDisposition:T4 
+T5	NoDisposition 4802 4811	Valproate
+E5	NoDisposition:T5 
+T6	NoDisposition 4848 4855	Humulin
+E6	NoDisposition:T6 
+T7	NoDisposition 4893 4903	Metoprolol
+E7	NoDisposition:T7 
+T8	NoDisposition 4923 4932	Vitamin E
+E8	NoDisposition:T8 
+T9	NoDisposition 4947 4954	aspirin
+E9	NoDisposition:T9 
+T11	NoDisposition 6938 6952	benzodiazepine
+E11	NoDisposition:T11 
+T12	Disposition 8766 8783	Zolpidem tartrate
+E12	Disposition:T12 
+T13	Undetermined 8946 8963	Zolpidem tartrate
+E13	Undetermined:T13 
+T14	NoDisposition 9163 9180	Zolpidem tartrate
+E14	NoDisposition:T14 
+T15	NoDisposition 9324 9341	Zolpidem tartrate
+E15	NoDisposition:T15 
+T17	Disposition 9664 9666	O2
+E17	Disposition:T17 
+T18	NoDisposition 5075 5081	Prozac
+E18	NoDisposition:T18 
+T19	NoDisposition 6956 6966	barbituate
+E19	NoDisposition:T19 
+A1	Certainty E12 Certain
+A2	Actor E12 Physician
+A3	Action E12 Start
+A4	Temporality E12 Present
+A9	Certainty E17 Conditional
+A10	Actor E17 Physician
+A11	Action E17 Start
+A12	Temporality E17 Future
+T20	NoDisposition 4818 4828	Glucophage
+E20	NoDisposition:T20 
+T21	NoDisposition 4880 4886	Folate
+E21	NoDisposition:T21 
+T22	NoDisposition 4910 4916	Cardia
+E22	NoDisposition:T22 
+A13	Negation E17 NotNegated
+A14	Negation E12 NotNegated

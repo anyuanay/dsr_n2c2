@@ -1,0 +1,31 @@
+T3	NoDisposition 461 466	Zocor
+E3	NoDisposition:T3 
+T4	NoDisposition 468 479	SIMVASTATIN
+E4	NoDisposition:T4 
+T6	Disposition 1338 1348	lisinopril
+E6	Disposition:T6 
+T7	NoDisposition 200 210	FUROSEMIDE
+E7	NoDisposition:T7 
+T8	NoDisposition 237 240	Asa
+E8	NoDisposition:T8 
+T9	NoDisposition 242 262	ACETYLSALICYLIC Acid
+E9	NoDisposition:T9 
+T10	NoDisposition 527 532	Imdur
+E10	NoDisposition:T10 
+T11	NoDisposition 534 557	ISOSORBIDE MONONIT.(SR)
+E11	NoDisposition:T11 
+T12	NoDisposition 621 630	DOXAZOSIN
+E12	NoDisposition:T12 
+T13	NoDisposition 612 619	Cardura
+E13	NoDisposition:T13 
+A1	Certainty E6 Certain
+A2	Actor E6 Physician
+A3	Action E6 Increase
+A4	Temporality E6 Present
+T1	NoDisposition 330 338	ATENOLOL
+E1	NoDisposition:T1 
+T2	NoDisposition 405 415	LISINOPRIL
+E2	NoDisposition:T2 
+T5	NoDisposition 673 678	Sulfa
+E5	NoDisposition:T5 
+A5	Negation E6 NotNegated

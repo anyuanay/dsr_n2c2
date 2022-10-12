@@ -1,0 +1,134 @@
+T1	NoDisposition 771 774	IVF
+E1	NoDisposition:T1 
+T2	Disposition 895 898	IVF
+E2	Disposition:T2 
+T3	Disposition 900 911	ceftriaxone
+E3	Disposition:T3 
+T4	Disposition 913 925	azithromycin
+E4	Disposition:T4 
+T5	NoDisposition 2520 2533	Amitryptiline
+E5	NoDisposition:T5 
+T6	NoDisposition 2535 2545	Benzocaine
+E6	NoDisposition:T6 
+T7	Disposition 8053 8064	antibiotics
+E7	Disposition:T7 
+T8	NoDisposition 8311 8314	IVF
+E8	NoDisposition:T8 
+T9	Disposition 8331 8338	norvasc
+E9	Disposition:T9 
+T10	Undetermined 8356 8365	lopressor
+E10	Undetermined:T10 
+T11	Disposition 8522 8543	anti-viral medication
+E11	Disposition:T11 
+T13	Disposition 8612 8624	azithromycin
+E13	Disposition:T13 
+T16	Undetermined 8830 8839	lopressor
+E16	Undetermined:T16 
+T17	Undetermined 8841 8847	statin
+E17	Undetermined:T17 
+T18	Undetermined 8849 8855	plavix
+E18	Undetermined:T18 
+T20	NoDisposition 9042 9045	IVF
+E20	NoDisposition:T20 
+T22	Undetermined 9135 9144	neurontin
+E22	Undetermined:T22 
+T23	Undetermined 9255 9264	potassium
+E23	Undetermined:T23 
+T24	Undetermined 9285 9292	heparin
+E24	Undetermined:T24 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 UniqueDose
+A4	Temporality E3 Past
+A5	Certainty E4 Certain
+A6	Actor E4 Physician
+A7	Action E4 UniqueDose
+A8	Temporality E4 Past
+T25	NoDisposition 2560 2568	Percocet
+E25	NoDisposition:T25 
+A9	Certainty E7 Certain
+A10	Actor E7 Physician
+A11	Action E7 Start
+A12	Temporality E7 Present
+A13	Certainty E9 Certain
+A14	Actor E9 Physician
+A15	Action E9 Stop
+A16	Temporality E9 Present
+T26	Disposition 8340 8345	imdur
+E26	Disposition:T26 
+A17	Certainty E26 Certain
+A18	Actor E26 Physician
+A19	Action E26 Stop
+A20	Temporality E26 Present
+A25	Certainty E11 Certain
+A26	Negation E11 Negated
+A27	Actor E11 Physician
+A28	Action E11 Start
+A29	Temporality E11 Present
+T27	Disposition 8600 8611	ceftriaxone
+E27	Disposition:T27 
+A30	Certainty E27 Certain
+A31	Actor E27 Physician
+A32	Action E27 Start
+A33	Temporality E27 Present
+T28	Disposition 8600 8611	ceftriaxone
+E28	Disposition:T28 
+A34	Certainty E28 Certain
+A35	Actor E28 Physician
+A36	Action E28 Stop
+A37	Temporality E28 Future
+A38	Certainty E13 Certain
+A39	Actor E13 Physician
+A40	Action E13 Start
+A41	Temporality E13 Present
+T29	Disposition 8612 8624	azithromycin
+E29	Disposition:T29 
+A42	Certainty E29 Certain
+A43	Actor E29 Physician
+A44	Action E29 Stop
+A45	Temporality E29 Future
+T30	Disposition 8636 8646	prednisone
+E30	Disposition:T30 
+A46	Certainty E30 Certain
+A47	Actor E30 Physician
+A48	Action E30 Start
+A49	Temporality E30 Present
+T31	Disposition 8636 8646	prednisone
+E31	Disposition:T31 
+A50	Certainty E31 Certain
+A51	Actor E31 Physician
+A52	Action E31 Decrease
+A53	Temporality E31 Present
+T32	Disposition 8636 8646	prednisone
+E32	Disposition:T32 
+A55	Certainty E32 Certain
+A56	Actor E32 Physician
+A57	Action E32 Stop
+A58	Temporality E32 Future
+T33	Undetermined 8825 8828	ASA
+E33	Undetermined:T33 
+T34	Undetermined 9125 9133	percocet
+E34	Undetermined:T34 
+T35	Undetermined 9277 9283	nexium
+E35	Undetermined:T35 
+T12	Undetermined 8686 8690	nebs
+E12	Undetermined:T12 
+A21	Certainty E2 Certain
+A22	Actor E2 Physician
+A23	Action E2 UniqueDose
+A24	Temporality E2 Past
+T14	NoDisposition 8254 8259	fluid
+E14	NoDisposition:T14 
+A59	Negation E13 NotNegated
+A60	Negation E3 NotNegated
+A61	Negation E32 NotNegated
+A62	Negation E29 NotNegated
+A63	Negation E4 NotNegated
+A64	Negation E27 NotNegated
+A65	Negation E2 NotNegated
+A66	Negation E26 NotNegated
+A67	Negation E31 NotNegated
+A68	Negation E28 NotNegated
+A69	Negation E9 NotNegated
+A70	Negation E7 NotNegated
+A71	Negation E30 NotNegated

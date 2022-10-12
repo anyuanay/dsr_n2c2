@@ -1,0 +1,53 @@
+T1	NoDisposition 126 135	Metformin
+E1	NoDisposition:T1 
+T2	NoDisposition 149 158	glyburide
+E2	NoDisposition:T2 
+T3	Disposition 443 452	glyburide
+E3	Disposition:T3 
+T4	NoDisposition 958 969	pravastatin
+E4	NoDisposition:T4 
+T5	NoDisposition 1426 1429	PPI
+E5	NoDisposition:T5 
+T7	NoDisposition 1816 1829	ACE inhibitor
+E7	NoDisposition:T7 
+T8	NoDisposition 1834 1846	beta blocker
+E8	NoDisposition:T8 
+T9	NoDisposition 2150 2160	Penicillin
+E9	NoDisposition:T9 
+T10	NoDisposition 2197 2203	Advair
+E10	NoDisposition:T10 
+T11	NoDisposition 2229 2238	albuterol
+E11	NoDisposition:T11 
+T12	NoDisposition 2269 2276	aspirin
+E12	NoDisposition:T12 
+T13	NoDisposition 2283 2291	atenolol
+E13	NoDisposition:T13 
+T14	NoDisposition 2304 2310	Ativan
+E14	NoDisposition:T14 
+T15	NoDisposition 2425 2435	lisinopril
+E15	NoDisposition:T15 
+T16	NoDisposition 2529 2552	metformin hydrochloride
+E16	NoDisposition:T16 
+T18	NoDisposition 2673 2681	atenolol
+E18	NoDisposition:T18 
+T19	NoDisposition 2711 2722	pravastatin
+E19	NoDisposition:T19 
+A1	Certainty E3 Hypothetical
+A2	Actor E3 Physician
+A3	Action E3 Stop
+A4	Temporality E3 Present
+T22	NoDisposition 900 908	Mestinon
+E22	NoDisposition:T22 
+T23	NoDisposition 2334 2341	Dalmane
+E23	NoDisposition:T23 
+T24	NoDisposition 2366 2374	Fish oil
+E24	NoDisposition:T24 
+T25	NoDisposition 2448 2456	Mestinon
+E25	NoDisposition:T25 
+T26	NoDisposition 2575 2588	multivitamins
+E26	NoDisposition:T26 
+T27	NoDisposition 2416 2423	quinine
+E27	NoDisposition:T27 
+T28	NoDisposition 2591 2599	Protonix
+E28	NoDisposition:T28 
+A5	Negation E3 NotNegated

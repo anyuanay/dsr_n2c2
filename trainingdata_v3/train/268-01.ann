@@ -1,0 +1,62 @@
+T1	NoDisposition 1466 1485	Hydrochlorothiazide
+E1	NoDisposition:T1 
+T2	NoDisposition 1487 1497	furosemide
+E2	NoDisposition:T2 
+T3	NoDisposition 1499 1510	gemfibrozil
+E3	NoDisposition:T3 
+T4	NoDisposition 1512 1523	amoxicillin
+E4	NoDisposition:T4 
+T5	NoDisposition 1525 1536	hydrocodone
+E5	NoDisposition:T5 
+T6	NoDisposition 1538 1547	oxycodone
+E6	NoDisposition:T6 
+T8	NoDisposition 1563 1573	Isosorbide
+E8	NoDisposition:T8 
+T9	NoDisposition 1581 1589	Cardizem
+E9	NoDisposition:T9 
+T10	NoDisposition 1602 1610	Atenolol
+E10	NoDisposition:T10 
+T11	NoDisposition 1617 1622	ECASA
+E11	NoDisposition:T11 
+T12	NoDisposition 1630 1642	Atorvastatin
+E12	NoDisposition:T12 
+T13	NoDisposition 5607 5610	ASA
+E13	NoDisposition:T13 
+T14	Disposition 5648 5651	ASA
+E14	Disposition:T14 
+T15	Disposition 5955 5964	metformin
+E15	Disposition:T15 
+T16	NoDisposition 1649 1659	Glucophage
+E16	NoDisposition:T16 
+T17	NoDisposition 1668 1674	Avapro
+E17	NoDisposition:T17 
+T18	NoDisposition 1682 1692	Bumetanide
+E18	NoDisposition:T18 
+T19	NoDisposition 1698 1706	Claritin
+E19	NoDisposition:T19 
+T20	Disposition 5620 5627	heparin
+E20	Disposition:T20 
+A1	Certainty E20 Certain
+A2	Actor E20 Physician
+A3	Action E20 Start
+A4	Temporality E20 Present
+A5	Certainty E14 Certain
+A6	Actor E14 Physician
+A7	Action E14 Decrease
+A8	Temporality E14 Present
+T21	Disposition 5742 5758	antihypertensive
+E21	Disposition:T21 
+A9	Certainty E21 Certain
+A10	Actor E21 Physician
+A11	Action E21 Stop
+A12	Temporality E21 Present
+T22	NoDisposition 5773 5783	isosorbide
+E22	NoDisposition:T22 
+A13	Certainty E15 Certain
+A14	Actor E15 Physician
+A15	Action E15 Stop
+A16	Temporality E15 Present
+A17	Negation E15 NotNegated
+A18	Negation E14 NotNegated
+A19	Negation E21 NotNegated
+A20	Negation E20 NotNegated

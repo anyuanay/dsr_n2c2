@@ -1,0 +1,4 @@
+T1	NoDisposition 986 996	Alprazolam
+E1	NoDisposition:T1 
+T2	NoDisposition 1001 1009	Tolinase
+E2	NoDisposition:T2 

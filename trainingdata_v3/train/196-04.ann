@@ -1,0 +1,65 @@
+T3	NoDisposition 1184 1201	Amitriptyline HCL
+E3	NoDisposition:T3 
+T4	NoDisposition 1298 1304	Cozaar
+E4	NoDisposition:T4 
+T8	NoDisposition 1525 1539	Ergocalciferol
+E8	NoDisposition:T8 
+T9	NoDisposition 1608 1614	Lantus
+E9	NoDisposition:T9 
+T10	NoDisposition 1616 1632	INSULIN GLARGINE
+E10	NoDisposition:T10 
+T12	NoDisposition 1740 1747	Lipitor
+E12	NoDisposition:T12 
+T13	NoDisposition 1749 1761	ATORVASTATIN
+E13	NoDisposition:T13 
+T14	NoDisposition 1810 1820	Lisinopril
+E14	NoDisposition:T14 
+T16	NoDisposition 1876 1885	Neurontin
+E16	NoDisposition:T16 
+T17	NoDisposition 2048 2077	Nifedipine (EXTENDED RELEASE)
+E17	NoDisposition:T17 
+T18	NoDisposition 2136 2141	Paxil
+E18	NoDisposition:T18 
+T19	NoDisposition 2204 2210	Plavix
+E19	NoDisposition:T19 
+T20	NoDisposition 2212 2223	CLOPIDOGREL
+E20	NoDisposition:T20 
+T21	NoDisposition 2272 2280	Prilosec
+E21	NoDisposition:T21 
+T22	NoDisposition 2282 2292	OMEPRAZOLE
+E22	NoDisposition:T22 
+T23	NoDisposition 2362 2371	Toprol XL
+E23	NoDisposition:T23 
+T24	NoDisposition 2819 2825	Plavix
+E24	NoDisposition:T24 
+T25	NoDisposition 1306 1314	LOSARTAN
+E25	NoDisposition:T25 
+T26	NoDisposition 1356 1366	Darvocet N
+E26	NoDisposition:T26 
+T27	NoDisposition 1372 1397	PROPOXYPHENE NAP/ACETAMIN
+E27	NoDisposition:T27 
+T28	NoDisposition 1445 1450	Ecasa
+E28	NoDisposition:T28 
+T30	NoDisposition 1669 1674	Lasix
+E30	NoDisposition:T30 
+T31	NoDisposition 1676 1686	FUROSEMIDE
+E31	NoDisposition:T31 
+T32	NoDisposition 1887 1897	GABAPENTIN
+E32	NoDisposition:T32 
+T33	NoDisposition 1950 1957	Niaspan
+E33	NoDisposition:T33 
+T34	NoDisposition 1959 1991	NICOTINIC ACID SUSTAINED RELEASE
+E34	NoDisposition:T34 
+T35	NoDisposition 2143 2153	PAROXETINE
+E35	NoDisposition:T35 
+T36	NoDisposition 2373 2410	METOPROLOL SUCCINATE EXTENDED RELEASE
+E36	NoDisposition:T36 
+T37	Disposition 2974 2980	Lantus
+E37	Disposition:T37 
+A1	Certainty E37 Certain
+A2	Actor E37 Physician
+A3	Action E37 Increase
+A4	Temporality E37 Past
+T29	NoDisposition 1452 1459	ASPIRIN
+E29	NoDisposition:T29 
+A5	Negation E37 NotNegated

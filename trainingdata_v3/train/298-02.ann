@@ -1,0 +1,32 @@
+T2	NoDisposition 444 451	calcium
+E2	NoDisposition:T2 
+T3	NoDisposition 472 482	colchicine
+E3	NoDisposition:T3 
+T4	NoDisposition 498 505	digoxin
+E4	NoDisposition:T4 
+T5	NoDisposition 523 533	isosorbide
+E5	NoDisposition:T5 
+T6	NoDisposition 548 559	Hydralazine
+E6	NoDisposition:T6 
+T7	NoDisposition 574 584	Metoprolol
+E7	NoDisposition:T7 
+T8	NoDisposition 599 609	Prednisone
+E8	NoDisposition:T8 
+T9	NoDisposition 621 629	Coumadin
+E9	NoDisposition:T9 
+T10	Disposition 1777 1787	ranitidine
+E10	Disposition:T10 
+T11	Disposition 1796 1806	Ranitidine
+E11	Disposition:T11 
+T12	NoDisposition 417 422	Lasix
+E12	NoDisposition:T12 
+A1	Certainty E10 Certain
+A2	Negation E10 Negated
+A3	Actor E10 Patient
+A4	Action E10 Start
+A5	Temporality E10 Past
+A6	Certainty E11 Certain
+A7	Actor E11 Physician
+A8	Action E11 Start
+A9	Temporality E11 Present
+A10	Negation E11 NotNegated

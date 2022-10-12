@@ -1,0 +1,110 @@
+T1	Disposition 1803 1812	lopressor
+E1	Disposition:T1 
+T2	Disposition 1829 1836	isordil
+E2	Disposition:T2 
+T3	Disposition 1847 1853	zantac
+E3	Disposition:T3 
+T4	NoDisposition 2524 2532	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 2563 2566	ASA
+E5	NoDisposition:T5 
+T6	NoDisposition 2577 2587	lisinopril
+E6	NoDisposition:T6 
+T7	NoDisposition 2613 2616	MVI
+E7	NoDisposition:T7 
+T8	NoDisposition 2621 2628	lipitor
+E8	NoDisposition:T8 
+T10	NoDisposition 8041 8046	NSAID
+E10	NoDisposition:T10 
+T11	Disposition 8332 8337	pRBCs
+E11	Disposition:T11 
+T12	Undetermined 8488 8494	zantac
+E12	Undetermined:T12 
+T13	Disposition 8505 8512	aspirin
+E13	Disposition:T13 
+T14	Disposition 8611 8618	aspirin
+E14	Disposition:T14 
+T15	NoDisposition 8648 8660	beta blocker
+E15	NoDisposition:T15 
+T16	Disposition 8727 8745	anti-hypertensives
+E16	Disposition:T16 
+T17	Undetermined 8869 8878	lopressor
+E17	Undetermined:T17 
+T18	Disposition 8900 8915	anticoagulation
+E18	Disposition:T18 
+T19	Disposition 519 522	TNG
+E19	Disposition:T19 
+A1	Certainty E19 Certain
+A2	Actor E19 Patient
+A3	Action E19 UniqueDose
+A4	Temporality E19 Past
+T20	NoDisposition 732 735	TNG
+E20	NoDisposition:T20 
+T21	Disposition 844 849	Aleve
+E21	Disposition:T21 
+A5	Certainty E21 Certain
+A6	Actor E21 Patient
+A7	Action E21 UniqueDose
+A8	Temporality E21 Past
+T22	Disposition 1613 1616	TNG
+E22	Disposition:T22 
+A9	Certainty E22 Certain
+A10	Actor E22 Physician
+A11	Action E22 UniqueDose
+A12	Temporality E22 Past
+A13	Certainty E1 Certain
+A14	Actor E1 Physician
+A15	Action E1 UniqueDose
+A16	Temporality E1 Past
+A17	Certainty E2 Certain
+A18	Actor E2 Physician
+A19	Action E2 UniqueDose
+A20	Temporality E2 Past
+A21	Certainty E3 Certain
+A22	Actor E3 Physician
+A23	Action E3 UniqueDose
+A24	Temporality E3 Past
+T23	NoDisposition 2544 2551	isordil
+E23	NoDisposition:T23 
+T24	NoDisposition 2601 2604	TNG
+E24	NoDisposition:T24 
+A25	Certainty E11 Certain
+A26	Actor E11 Physician
+A27	Action E11 UniqueDose
+A28	Temporality E11 Past
+T25	Disposition 8332 8337	pRBCs
+E25	Disposition:T25 
+A29	Certainty E25 Certain
+A30	Actor E25 Physician
+A31	Action E25 UniqueDose
+A32	Temporality E25 Present
+A33	Certainty E13 Certain
+A34	Actor E13 Physician
+A35	Action E13 Stop
+A36	Temporality E13 Present
+A37	Certainty E14 Certain
+A38	Actor E14 Physician
+A39	Action E14 Stop
+A40	Temporality E14 Present
+A41	Certainty E16 Certain
+A42	Actor E16 Physician
+A43	Action E16 Stop
+A44	Temporality E16 Present
+A45	Certainty E18 Certain
+A46	Negation E18 Negated
+A47	Actor E18 Physician
+A48	Action E18 Start
+A49	Temporality E18 Present
+T26	Undetermined 9088 9091	SSI
+E26	Undetermined:T26 
+A50	Negation E22 NotNegated
+A51	Negation E19 NotNegated
+A52	Negation E13 NotNegated
+A53	Negation E14 NotNegated
+A54	Negation E3 NotNegated
+A55	Negation E16 NotNegated
+A56	Negation E2 NotNegated
+A57	Negation E21 NotNegated
+A58	Negation E1 NotNegated
+A59	Negation E11 NotNegated
+A60	Negation E25 NotNegated

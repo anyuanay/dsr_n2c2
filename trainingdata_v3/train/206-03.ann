@@ -1,0 +1,50 @@
+T1	NoDisposition 643 656	Robitussin DM
+E1	NoDisposition:T1 
+T2	NoDisposition 921 932	Penicillins
+E2	NoDisposition:T2 
+T3	NoDisposition 944 953	LORAZEPAM
+E3	NoDisposition:T3 
+T5	NoDisposition 1041 1049	Atenolol
+E5	NoDisposition:T5 
+T12	Undetermined 1987 2000	robitussin AC
+E12	Undetermined:T12 
+T13	Disposition 2085 2091	plavix
+E13	Disposition:T13 
+T15	NoDisposition 994 1004	Lisinopril
+E15	NoDisposition:T15 
+T16	NoDisposition 1088 1093	Ecasa
+E16	NoDisposition:T16 
+T17	NoDisposition 1095 1102	ASPIRIN
+E17	NoDisposition:T17 
+T18	NoDisposition 1143 1146	Ntg
+E18	NoDisposition:T18 
+T19	NoDisposition 1154 1167	NITROGLYCERIN
+E19	NoDisposition:T19 
+T20	NoDisposition 1221 1232	CLOPIDOGREL
+E20	NoDisposition:T20 
+T21	NoDisposition 1213 1219	Plavix
+E21	NoDisposition:T21 
+T22	NoDisposition 1256 1266	FOLIC ACID
+E22	NoDisposition:T22 
+T23	NoDisposition 1248 1254	Folate
+E23	NoDisposition:T23 
+T24	NoDisposition 1316 1333	ECONAZOLE NITRATE
+E24	NoDisposition:T24 
+T25	NoDisposition 1304 1314	Spectazole
+E25	NoDisposition:T25 
+T26	NoDisposition 1382 1393	SIMVASTATIN
+E26	NoDisposition:T26 
+T27	NoDisposition 1375 1380	Zocor
+E27	NoDisposition:T27 
+T28	Disposition 1953 1960	nasonex
+E28	Disposition:T28 
+A1	Certainty E28 Certain
+A2	Actor E28 Physician
+A3	Action E28 Start
+A4	Temporality E28 Present
+A5	Certainty E13 Hypothetical
+A6	Actor E13 Physician
+A7	Action E13 Stop
+A8	Temporality E13 Future
+A9	Negation E13 NotNegated
+A10	Negation E28 NotNegated

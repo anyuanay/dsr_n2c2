@@ -1,0 +1,119 @@
+T1	NoDisposition 2500 2509	Albuterol
+E1	NoDisposition:T1 
+T2	NoDisposition 3163 3172	Albuterol
+E2	NoDisposition:T2 
+T3	NoDisposition 3174 3179	ECASA
+E3	NoDisposition:T3 
+T4	NoDisposition 3181 3191	Furosemide
+E4	NoDisposition:T4 
+T5	NoDisposition 3193 3202	Lopressor
+E5	NoDisposition:T5 
+T6	NoDisposition 3204 3212	Losartan
+E6	NoDisposition:T6 
+T7	NoDisposition 3467 3476	adenosine
+E7	NoDisposition:T7 
+T8	NoDisposition 4281 4290	Adenosine
+E8	NoDisposition:T8 
+T9	NoDisposition 5038 5047	Glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 5079 5082	NPH
+E10	NoDisposition:T10 
+T11	NoDisposition 6153 6156	ASA
+E11	NoDisposition:T11 
+T12	NoDisposition 6175 6184	Lopressor
+E12	NoDisposition:T12 
+T13	NoDisposition 6204 6211	Norvasc
+E13	NoDisposition:T13 
+T14	NoDisposition 6230 6235	Lasix
+E14	NoDisposition:T14 
+T15	NoDisposition 6254 6260	Lescol
+E15	NoDisposition:T15 
+T16	NoDisposition 6286 6295	Albuterol
+E16	NoDisposition:T16 
+T17	NoDisposition 6318 6327	Glyburide
+E17	NoDisposition:T17 
+T18	NoDisposition 6346 6357	NPH Insulin
+E18	NoDisposition:T18 
+T19	Disposition 7523 7529	PRBC's
+E19	Disposition:T19 
+T21	Disposition 11597 11603	Nexium
+E21	Disposition:T21 
+T22	Disposition 11895 11904	Glyburide
+E22	Disposition:T22 
+T23	Undetermined 11976 11983	Insulin
+E23	Undetermined:T23 
+T24	NoDisposition 12424 12431	Norvasc
+E24	NoDisposition:T24 
+T25	Disposition 12489 12498	Glyburide
+E25	Disposition:T25 
+T26	Undetermined 12551 12562	NPH Insulin
+E26	Undetermined:T26 
+T27	Undetermined 12665 12672	Aspirin
+E27	Undetermined:T27 
+T28	NoDisposition 6449 6465	muscle relaxants
+E28	NoDisposition:T28 
+T29	NoDisposition 6471 6484	amitriptyline
+E29	NoDisposition:T29 
+T30	NoDisposition 8549 8558	lotrisone
+E30	NoDisposition:T30 
+T31	Disposition 11148 11151	NTG
+E31	Disposition:T31 
+A1	Certainty E31 Certain
+A2	Actor E31 Unknown
+A3	Action E31 Stop
+A4	Temporality E31 Past
+T32	Disposition 11162 11171	Nitropace
+E32	Disposition:T32 
+A5	Certainty E32 Certain
+A6	Actor E32 Unknown
+A7	Action E32 Stop
+A8	Temporality E32 Past
+T33	NoDisposition 10881 10890	Albuterol
+E33	NoDisposition:T33 
+A9	Certainty E21 Certain
+A10	Negation E21 Negated
+A11	Actor E21 Unknown
+A13	Action E21 Start
+A14	Temporality E21 Past
+T34	NoDisposition 12413 12422	Lopressor
+E34	NoDisposition:T34 
+T35	Undetermined 12600 12606	NSAIDS
+E35	Undetermined:T35 
+A27	Certainty E25 Certain
+A28	Actor E25 Physician
+A29	Action E25 Stop
+A30	Temporality E25 Future
+A35	Certainty E22 Certain
+A36	Actor E22 Physician
+A37	Action E22 Stop
+A38	Temporality E22 Future
+T36	NoDisposition 12067 12083	muscle relaxants
+E36	NoDisposition:T36 
+T37	NoDisposition 5615 5630	antidepressants
+E37	NoDisposition:T37 
+A39	Certainty E19 Certain
+A40	Actor E19 Physician
+A41	Action E19 UniqueDose
+A42	Temporality E19 Past
+T20	NoDisposition 3295 3304	adenosine
+E20	NoDisposition:T20 
+T38	NoDisposition 10571 10581	anesthesia
+E38	NoDisposition:T38 
+T39	Undetermined 10232 10235	ASA
+E39	Undetermined:T39 
+T40	NoDisposition 7562 7570	Dulcolax
+E40	NoDisposition:T40 
+T41	Undetermined 12008 12011	NPH
+E41	Undetermined:T41 
+T42	Disposition 5286 5292	PRBC's
+E42	Disposition:T42 
+A12	Certainty E42 Certain
+A15	Actor E42 Physician
+A16	Action E42 UniqueDose
+A17	Temporality E42 Past
+A43	Negation E22 NotNegated
+A44	Negation E19 NotNegated
+A45	Negation E32 NotNegated
+A46	Negation E42 NotNegated
+A47	Negation E31 NotNegated
+A48	Negation E25 NotNegated

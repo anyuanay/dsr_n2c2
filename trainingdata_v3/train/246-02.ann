@@ -1,0 +1,12 @@
+T2	NoDisposition 631 639	ATENOLOL
+E2	NoDisposition:T2 
+T4	NoDisposition 681 693	ATORVASTATIN
+E4	NoDisposition:T4 
+T5	NoDisposition 762 771	MEHTADONE
+E5	NoDisposition:T5 
+T3	NoDisposition 655 664	METFORMIN
+E3	NoDisposition:T3 
+T7	NoDisposition 709 717	NAPROXEN
+E7	NoDisposition:T7 
+T8	NoDisposition 735 743	PERCOCET
+E8	NoDisposition:T8 

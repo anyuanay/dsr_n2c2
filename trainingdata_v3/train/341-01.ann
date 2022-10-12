@@ -1,0 +1,20 @@
+T1	NoDisposition 1235 1243	Darvocet
+E1	NoDisposition:T1 
+T3	NoDisposition 1710 1718	Celebrex
+E3	NoDisposition:T3 
+T4	NoDisposition 1755 1763	Darvocet
+E4	NoDisposition:T4 
+T7	NoDisposition 1877 1886	ibuprofen
+E7	NoDisposition:T7 
+T8	NoDisposition 4822 4830	Darvocet
+E8	NoDisposition:T8 
+T9	NoDisposition 4835 4843	Celebrex
+E9	NoDisposition:T9 
+T11	NoDisposition 1275 1283	Celebrex
+E11	NoDisposition:T11 
+T12	NoDisposition 1720 1726	Hyzaar
+E12	NoDisposition:T12 
+T13	NoDisposition 1816 1836	Tylenol With Codeine
+E13	NoDisposition:T13 
+T2	Undetermined 4699 4706	steroid
+E2	Undetermined:T2 

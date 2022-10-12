@@ -1,0 +1,251 @@
+
+
+
+Record date: 2083-02-26
+
+ 
+Attending Admission Note
+
+HPI:  54 year old woman with h/o DM, HTN, and depression who is transferred to PSH from Missouri Baptist Hospital after being admitted from 2/15-2/20/83 and then readmitted on 2/22 with abdominal pain, nausea, and vomiting.  She has a h/o several admisions to the hospital for abdominal pain attributed to diabetic gastroparesis.  She has had an extensive GI work-up in the past including multiple abdominal CT scans, gastric emptying study, colonoscopy, upper endoscopy, and small bowel follow through.  All studies were negative except for the gastric emptying study.  She has been treated with multiple medications, including Reglan, Ativan, Compazine, and Zelnorm without much effect.  She is currently taking Neurontin and Cymbalta to treat neuropathic pain, and her PCP started her on MS Contin in December since nothing else seemed to be helping.  The pt states that the MS Contin helped during the month of December, but then it did not seem to be working as well.  The pt is distraught over her symptoms because the pain is severe and frequent.  She has been unable to return to work for 2 years because of the pain, and she would like to be able to do so.  The pain is not necessarily related to eating.  Yesterday, she felt well and was able to eat.  Today, she was doing fine until she had to drink the gastrografin, and then it escalated to an 8/10.  She received some IV morphine, and now it is down to 4/10.
+	At Missouri Baptist Hospital, her MS Contin was held, but when her BP went up, she was restarted on it.  They also started clonidine BID for her uncontrolled HTN.  It appears that a AFP level was drawn and was elevated at 11.1.  However, it is written multiple times in the transfer materials that she had an elevated CEA level of 11.1.
+
+Problems
+Diabetes mellitus : since 2060's, poorly controlled
+Hypertension 
+Gastroparesis : N/V due to diabetes
+Retinopathy : due to AODM, s/p first laser treatment 3/81, found to have swelling of the optic discs in 8/82 and evaluated at PCH
+S/P cholecystectomy 
+S/P TAH/BSO : menopause at age 46 
+
+Medications (on transfer)
+Heparin 5000 u SQ BID
+Reglan 10 mg IV Q 6 hours
+Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure
+Insulin 70/30 HUMAN 70-30 U/ML VIAL SC as directed , 25u SQ before breakfast and 15u before dinner.
+Nexium 40 mg po QD
+Lisinopril 20MG TABLET PO QAM 
+
+Medications (as an outpatient)
+Asa (ACETYLSALICYLIC ACID) 325 MG (325MG TABLET take 1) PO QD 
+Cymbalta (DULOXETINE) 60MG CAPSULE DR PO QAM x 30 days
+Hydrochlorothiazide 25 MG (25MG TABLET take 1) PO QAM , for high blood pressure
+Insulin 70/30 HUMAN 70-30 U/ML VIAL SC as directed , 60u SQ before breakfast and 40u before dinner.
+Lipitor (ATORVASTATIN) 10MG TABLET PO QHS 
+Lisinopril 40MG TABLET PO QAM 
+Ms CONTIN (MORPHINE CONTROLLED RELEASE) 15MG TABLET SA PO Q12H 
+Neurontin (GABAPENTIN) 300 MG (300MG CAPSULE take 1) PO TID 
+Potassium CHLORIDE SLOW REL. (KCL SLOW RELEASE) 40 MEQ (10MEQ CAPSULE SA take 4) PO QD 
+
+Allergies
+PERCOCET - GI upset, 
+
+Social History	
+Works as bio technician at Yale but has not worked x 2 years due to abdominal pain; Born in Herzegovina, but in Canada x yrs. Sister in area is local support; no smoking or Etoh. 
+
+Family History	
+Mother-died in car accident. Father-alive in Herzegovina, in good health. 
+
+Review of Systems	
+Negative unless noted in HPI.
+
+Physical Exam	
+BP: 229/103--> 195/95          Tmax: 99.5         P: 72        RR: 18      Pulse ox=98% RA
+GENERAL: 	Tearful when talking about her pain; appears comfortable.
+SKIN:		NL turgor, no abnormal lesions
+NECK:	            No thyromegally, no nodes
+CHEST:	            Clear lungs, NL frame
+COR:		NL S1S2, no murmur, rubs, or gallops.
+BACK:	            No spinal tenderness.
+ABD:		NL BS; soft, tender over umbilical region and LLQ; no guarding or rebound; NO HSM
+RECTAL:	            Guaiac neg., no masses.
+EXT:		No edema, clubbing, or cyanosis
+NEURO:	            NL MS, NL gait
+
+Results
+Date/Time         NA             K              CL             CO2            
+02/25/2083        138            3.4            102            28.4           
+
+Date/Time         BUN            CRE            GLU            
+02/25/2083        10             1.1            169 (H)        
+
+Date/Time         CA             MG             TBILI          DBILI          
+02/25/2083        8.3 (L)        1.1 (L)        0.2            0.1            
+
+Date/Time         TP             ALB            GLOB           LACT           
+03/04/2007                                                     0.9            
+02/25/2083        5.8 (L)        2.7 (L)        3.1                           
+
+Date/Time         AMY            LIPS           
+02/25/2083        98             2.3            
+
+Date/Time         ALT/SGPT       AST/SGOT       ALKP           TBILI          
+02/25/2083        9              11             67             0.2            
+
+Date/Time         DBILI          
+02/25/2083        0.1            
+
+Date/Time         WBC            RBC            HGB            HCT            
+02/25/2083        5.3            3.73 (L)       11.0 (L)       30.3 (L)       
+
+Date/Time         MCV            MCH            MCHC           PLT            
+02/25/2083        81             29.5           36.3           235            
+
+Date/Time         RDW            
+02/25/2083        13.0           
+
+Date/Time         DIFFR          METHOD         %NEUT          %LYMPH         
+02/25/2083        RECEIVED       Auto           57             36             
+
+Date/Time         %MONO          %EOS           %BASO          
+02/25/2083        5              2              0              
+
+Results
+Endoscopy
+
+Report Number:  28618552                              Report Status: Final
+Type:  Upper Endoscopy
+Date:  06/16/2081
+
+Gastrointestinal Endoscopy Unit
+Patient Name: Nicole Frantz
+Gender: F
+Patient ID:   2360719
+Exam Date:    6/16/2081 02:50 PM
+Procedure:       Upper GI endoscopy
+Indications:     Epigastric abdominal distress/pain
+
+Findings:        The esophagus was normal. The stomach was
+                 normal. The examined duodenum was normal.
+Impression:      - Normal esophagus.
+                 - Normal stomach.
+                 - Normal examined duodenum.
+Recommendation:  medical management of gastroparesis
+
+
+Report Number:  67659198                              Report Status: Final
+Type:  Colonoscopy
+Date:  02/14/2081
+
+Gastrointestinal Endoscopy Unit
+Patient Name: Nicole Frantz
+Gender: F
+Patient ID:   2360719
+Exam Date:    2/14/2081 10:00 AM
+Procedure:       Colonoscopy
+
+Findings:        The colon (entire examined portion) was normal.
+                 Unabel to successfully enter into the terminal
+                 ileum.
+Impression:      - The colon is normal.
+Recommendation:  SBFT to visualize TI.
+
+Radiology
+
+Exam Number:  2873517                        Report Status:  Final
+Type:  AbdCT + PelCT +
+Date/Time:  08/09/2082 22:38
+Exam Code:  GMKUN+
+Ordering Provider:  UGALDE, JAZZLYNN
+
+HISTORY:  
+     S/S ABD PAIN, NAUSEA/VOM, PLS ASSESS FOR OBSTRUCTION
+
+REPORT:
+     This study was reviewed by Dr. Yee and Dr. Janssen.
+     HISTORY: As provided in the header.
+     COMPARISON: 10/31/2081
+     TECHNIQUE:
+     Contiguous axial CT scans of both the abdomen and pelvis were
+     performed from the lung bases to the proximal femora to assess for
+     obstruction.
+     Imaging was continued into the pelvis because a charge can affect
+     both cavities.
+     Abdominal and pelvic images were obtained following administration
+     of both oral and intravenous contrast.
+     FINDINGS:
+     LUNG BASES. Linear densities in the lung bases likely represents
+     atelectasis.
+     HEPATOBILIARY.
+     Liver. The liver is normal in appearance without evidence of
+     biliary ductal dilatation or focal lesion.
+     Gallbladder and Bile Ducts. Patient status post cholecystectomy.
+     Pancreas. Normal in appearance.
+     BOWEL. There is no evidence of the obstruction or bowel wall
+     thickening.  A moderate amount of stool seen in the colon and
+     rectum.
+     GENITOURINARY:
+     Kidneys. Normal in appearance without evidence of renal calculus
+     or hydronephrosis.
+     Ureters and bladder. Normal in appearance.
+     Adrenal glands. Normal in appearance.
+     Pelvic organs. Vascular calcifications are noted the pelvis.
+     PERITONEUM:No evidence of fluid collection, free air or peritoneal
+     mass lesions.
+     RETROPERITONEUM:
+     Lymph nodes. There are a few small bilateral inguinal lymph nodes
+     present without bulk.
+     Vessels.  Unremarkable.
+     BONES AND SOFT TISSUES. Partial sacralization of L5.
+     IMPRESSION.
+     No evidence of obstruction.
+     
+    
+Exam Number:  3436658                        Report Status:  Final
+Type:  Gastric Emptyng
+Date/Time:  06/22/2081 12:42
+Exam Code:  224
+Ordering Provider:  FARLEY, ERIC
+
+HISTORY:  
+     GASTROPERISIS, NAUSEA AND VOMITING
+
+REPORT:
+     A gastric emptying study was performed using eggs labeled with 17
+     MBq technetium 99m sulfur colloid.  There was no evidence of
+     gastroesophageal reflux over 60 minutes of observation.  Gastric
+     emptying was reduced, showing only 9% emptying at 60 minutes and
+     29% emptying at 90 minutes.
+     Impression
+     Reduced gastric emptying with 29% emptying of a solid meal at 90
+     minutes after ingestion.
+     
+     
+Exam Number:  2048395                        Report Status:  Final
+Type:  SmallBowel only
+Date/Time:  02/16/2081 13:40
+Exam Code:  204QY
+Ordering Provider:  SHEEHAN, XIMENA
+
+HISTORY:  
+     iddm, htn, n/v and abdominal pain x 6 weeks, negative coloscopy, but
+could not enter terminal ileum
+assess for mass, TI thickening
+
+REPORT:
+     Image interpretation reviewed by Dr. Narvaez.
+     TECHNIQUE:
+     A single contrast small bowel series.
+     FINDINGS:
+     On small bowel follow through, the small bowel loops are normal in
+     caliber and distribution. Spot compression views of the terminal
+     ileum are normal. The transit time was normal.
+     
+
+IMPRESSION
+     NORMAL SMALL BOWEL SERIES.
+     
+Assessment and Plan	
+54 yo woman with DM, HTN, and depression who has had severe chronic abdominal pain x 2 years.  Extensive GI w/u has been negative except for gastric emptying study.
+1.  GI: Pain is responsive to morphine.  Will continue MS contin and treat with IV morphine prn for breakthrough pain.  Gastroparesis has been a working diagnosis since all other testing has been negative.  She has other complications of DM which does put her at increased risk for autonomic dysfunction of the GI tract.  Other diagnoses to consider are bowel ischemia, although colonoscopy and CT scans in the past have not shown any changes in the bowel consistent with this diagnosis.  We will order CTA of the abdomen to rule this out.  She did have a negative anti-endomysial Ab in 2081, but I think it would be worth checking both anti-endomysial Ab and anti-gliadin Ab to r/u celiac sprue again.  We will send both an AFP and CEA levels to f/u on the unclear laboratory abnormality from Missouri Baptist Hospital.
+2.  HTN:  BP is very elevated today, and this may in part be due to stopping the clonidine (which may have been given to help with GI motility).  Will continue her on her 40 mg dose of Lisinopril and 25 mg of HCTZ.  In addition, we will treat her with hydralazine until we can get the BP down.
+3.  DM:  Will  treat with Insulin NPH 25 u Q am, 20 u Q pm and with sliding scale regular insulin.  Will monitor BS.
+4.  Pain management:  Will continue Cymbalta and Neurontin along the the MS Contin and prn IV morphine.
+
+
+
+_____________________________________________
+Mildred D. Yunker, M.D.
+
+
+
+

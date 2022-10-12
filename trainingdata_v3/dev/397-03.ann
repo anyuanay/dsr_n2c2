@@ -1,0 +1,20 @@
+T1	NoDisposition 997 1004	Lipitor
+E1	NoDisposition:T1 
+T3	NoDisposition 1027 1036	Neurontin
+E3	NoDisposition:T3 
+T4	NoDisposition 1045 1051	Plavix
+E4	NoDisposition:T4 
+T5	NoDisposition 1058 1065	Zestril
+E5	NoDisposition:T5 
+T7	NoDisposition 1090 1098	Atenolol
+E7	NoDisposition:T7 
+T8	NoDisposition 1108 1116	Nicotine
+E8	NoDisposition:T8 
+T9	NoDisposition 1011 1020	Glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 1142 1149	Codeine
+E10	NoDisposition:T10 
+T11	NoDisposition 1073 1082	MS Contin
+E11	NoDisposition:T11 
+T12	Undetermined 2243 2249	Unasyn
+E12	Undetermined:T12 

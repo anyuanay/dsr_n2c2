@@ -1,0 +1,12 @@
+T1	NoDisposition 687 694	insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 780 787	Insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 789 795	Cozaar
+E3	NoDisposition:T3 
+T4	NoDisposition 797 804	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 806 811	Lasix
+E5	NoDisposition:T5 
+T6	NoDisposition 817 823	Procan
+E6	NoDisposition:T6 

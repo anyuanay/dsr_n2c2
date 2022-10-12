@@ -1,0 +1,36 @@
+T1	NoDisposition 509 514	Lasix
+E1	NoDisposition:T1 
+T2	NoDisposition 528 537	aldactone
+E2	NoDisposition:T2 
+T3	NoDisposition 553 561	Coumadin
+E3	NoDisposition:T3 
+T4	NoDisposition 563 571	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 585 595	amiodarone
+E5	NoDisposition:T5 
+T6	NoDisposition 612 619	insulin
+E6	NoDisposition:T6 
+T7	Disposition 621 631	vancomycin
+E7	Disposition:T7 
+T8	NoDisposition 664 669	Zocor
+E8	NoDisposition:T8 
+T9	NoDisposition 685 693	clonopin
+E9	NoDisposition:T9 
+T10	NoDisposition 695 701	Plavix
+E10	NoDisposition:T10 
+T11	NoDisposition 734 743	captopril
+E11	NoDisposition:T11 
+T12	Disposition 1783 1788	Lasix
+E12	Disposition:T12 
+A1	Certainty E7 Certain
+A2	Actor E7 Physician
+A3	Action E7 Stop
+A4	Temporality E7 Past
+T13	NoDisposition 707 717	glucophage
+E13	NoDisposition:T13 
+A5	Certainty E12 Certain
+A6	Actor E12 Physician
+A7	Action E12 Increase
+A8	Temporality E12 Present
+A9	Negation E7 NotNegated
+A10	Negation E12 NotNegated

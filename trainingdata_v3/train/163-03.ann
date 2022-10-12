@@ -1,0 +1,62 @@
+T1	NoDisposition 996 1005	Pravachol
+E1	NoDisposition:T1 
+T2	Disposition 1101 1106	Zetia
+E2	Disposition:T2 
+T3	NoDisposition 1265 1271	Avapro
+E3	NoDisposition:T3 
+T4	NoDisposition 1276 1285	verapamil
+E4	NoDisposition:T4 
+T5	NoDisposition 2596 2603	Levoxyl
+E5	NoDisposition:T5 
+T6	NoDisposition 2617 2626	Pravachol
+E6	NoDisposition:T6 
+T7	NoDisposition 2640 2648	Prilosec
+E7	NoDisposition:T7 
+T8	NoDisposition 2661 2669	Flexeril
+E8	NoDisposition:T8 
+T9	NoDisposition 2682 2687	Bumex
+E9	NoDisposition:T9 
+T10	NoDisposition 2699 2705	Avapro
+E10	NoDisposition:T10 
+T11	NoDisposition 2720 2729	Verapamil
+E11	NoDisposition:T11 
+T12	NoDisposition 2751 2761	Glucophage
+E12	NoDisposition:T12 
+T13	Disposition 3789 3794	Zetia
+E13	Disposition:T13 
+T14	Disposition 3978 3991	nitroglycerin
+E14	Disposition:T14 
+T15	Disposition 4172 4184	beta-blocker
+E15	Disposition:T15 
+T16	NoDisposition 4206 4215	verapamil
+E16	NoDisposition:T16 
+T19	NoDisposition 704 714	Glucophage
+E19	NoDisposition:T19 
+T20	NoDisposition 1121 1130	Pravachol
+E20	NoDisposition:T20 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Present
+T21	NoDisposition 1168 1175	Levoxyl
+E21	NoDisposition:T21 
+T22	NoDisposition 3745 3755	Glucophage
+E22	NoDisposition:T22 
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 Start
+A8	Temporality E13 Present
+A9	Certainty E14 Certain
+A10	Actor E14 Physician
+A11	Action E14 Start
+A12	Temporality E14 Present
+A13	Certainty E15 Certain
+A14	Negation E15 Negated
+A15	Actor E15 Physician
+A16	Action E15 Start
+A17	Temporality E15 Present
+T23	NoDisposition 4311 4318	Levoxyl
+E23	NoDisposition:T23 
+A18	Negation E2 NotNegated
+A19	Negation E14 NotNegated
+A20	Negation E13 NotNegated

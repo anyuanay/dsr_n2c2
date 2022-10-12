@@ -1,0 +1,8 @@
+T1	NoDisposition 345 358	ciprofloxacin
+E1	NoDisposition:T1 
+T2	NoDisposition 363 369	Flagyl
+E2	NoDisposition:T2 
+T3	NoDisposition 700 705	Cipro
+E3	NoDisposition:T3 
+T4	NoDisposition 710 716	Flagyl
+E4	NoDisposition:T4 

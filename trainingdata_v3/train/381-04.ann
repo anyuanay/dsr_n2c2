@@ -1,0 +1,60 @@
+T1	NoDisposition 636 647	doxycycline
+E1	NoDisposition:T1 
+T2	NoDisposition 649 657	rifampin
+E2	NoDisposition:T2 
+T3	NoDisposition 916 929	penicillin VK
+E3	NoDisposition:T3 
+T4	NoDisposition 1262 1272	vancomycin
+E4	NoDisposition:T4 
+T5	NoDisposition 1274 1286	levofloxacin
+E5	NoDisposition:T5 
+T6	NoDisposition 1291 1304	metronidazole
+E6	NoDisposition:T6 
+T8	NoDisposition 1861 1867	Plavix
+E8	NoDisposition:T8 
+T9	NoDisposition 1869 1878	Lopressor
+E9	NoDisposition:T9 
+T10	NoDisposition 1880 1891	Simvastatin
+E10	NoDisposition:T10 
+T11	NoDisposition 1893 1899	Lantus
+E11	NoDisposition:T11 
+T12	NoDisposition 1919 1927	Cogentin
+E12	NoDisposition:T12 
+T13	NoDisposition 1929 1942	Nortriptyline
+E13	NoDisposition:T13 
+T14	NoDisposition 1944 1953	Trazadone
+E14	NoDisposition:T14 
+T15	NoDisposition 1967 1976	Neurontin
+E15	NoDisposition:T15 
+T16	Undetermined 3483 3493	vancomycin
+E16	Undetermined:T16 
+T17	Disposition 3554 3566	levofloxacin
+E17	Disposition:T17 
+T18	Disposition 3568 3581	metronidazole
+E18	Disposition:T18 
+T19	NoDisposition 1901 1908	Levoxyl
+E19	NoDisposition:T19 
+T20	NoDisposition 1910 1917	Abilify
+E20	NoDisposition:T20 
+T21	NoDisposition 1955 1965	Probenecid
+E21	NoDisposition:T21 
+T22	NoDisposition 1985 1998	Erythromycins
+E22	NoDisposition:T22 
+T23	NoDisposition 2013 2018	Sulfa
+E23	NoDisposition:T23 
+T24	NoDisposition 2032 2039	Aspirin
+E24	NoDisposition:T24 
+A1	Certainty E17 Certain
+A2	Actor E17 Physician
+A3	Action E17 Stop
+A4	Temporality E17 Present
+A5	Certainty E18 Certain
+A6	Actor E18 Physician
+A7	Action E18 Stop
+A8	Temporality E18 Present
+T25	NoDisposition 934 944	probenicid
+E25	NoDisposition:T25 
+T7	NoDisposition 268 278	antibiotic
+E7	NoDisposition:T7 
+A9	Negation E18 NotNegated
+A10	Negation E17 NotNegated

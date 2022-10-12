@@ -1,0 +1,17 @@
+T1	NoDisposition 827 834	aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 851 860	Toprol XL
+E2	NoDisposition:T2 
+T7	Undetermined 3046 3052	plavix
+E7	Undetermined:T7 
+T8	NoDisposition 3059 3061	BB
+E8	NoDisposition:T8 
+T11	Undetermined 3038 3041	ASA
+E11	Undetermined:T11 
+T12	Disposition 3099 3105	statin
+E12	Disposition:T12 
+A1	Certainty E12 Certain
+A2	Actor E12 Physician
+A3	Action E12 Start
+A4	Temporality E12 Present
+A5	Negation E12 NotNegated

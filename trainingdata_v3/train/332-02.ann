@@ -1,0 +1,14 @@
+T2	NoDisposition 734 743	glyburide
+E2	NoDisposition:T2 
+T3	NoDisposition 763 786	metformin hydrochloride
+E3	NoDisposition:T3 
+T4	NoDisposition 802 812	lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 826 834	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 848 855	Ecotrin
+E6	NoDisposition:T6 
+T7	NoDisposition 870 889	hydrochlorothiazide
+E7	NoDisposition:T7 
+T8	NoDisposition 903 910	Norvasc
+E8	NoDisposition:T8 

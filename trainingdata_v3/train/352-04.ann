@@ -1,0 +1,73 @@
+T1	NoDisposition 307 313	Lispro
+E1	NoDisposition:T1 
+T2	NoDisposition 1197 1210	levothyroxine
+E2	NoDisposition:T2 
+T3	NoDisposition 1356 1365	Albuterol
+E3	NoDisposition:T3 
+T4	NoDisposition 1375 1381	Ambien
+E4	NoDisposition:T4 
+T5	NoDisposition 1383 1391	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 1405 1414	clonidine
+E6	NoDisposition:T6 
+T7	NoDisposition 1430 1437	aspirin
+E7	NoDisposition:T7 
+T8	NoDisposition 1451 1458	Flovent
+E8	NoDisposition:T8 
+T9	NoDisposition 1467 1480	levothyroxine
+E9	NoDisposition:T9 
+T10	NoDisposition 1501 1511	lisinopril
+E10	NoDisposition:T10 
+T11	NoDisposition 1525 1531	Nexium
+E11	NoDisposition:T11 
+T12	NoDisposition 1545 1554	Singulair
+E12	NoDisposition:T12 
+T13	NoDisposition 1576 1583	Lipitor
+E13	NoDisposition:T13 
+T14	NoDisposition 1604 1612	Metormin
+E14	NoDisposition:T14 
+T15	NoDisposition 1626 1631	Lasix
+E15	NoDisposition:T15 
+T16	NoDisposition 1943 1949	lispro
+E16	NoDisposition:T16 
+T18	Disposition 2570 2583	70/30 Novolog
+E18	Disposition:T18 
+T19	NoDisposition 2618 2625	insulin
+E19	NoDisposition:T19 
+T20	NoDisposition 2669 2676	Novolog
+E20	NoDisposition:T20 
+T21	Undetermined 2831 2837	Lispro
+E21	Undetermined:T21 
+T22	Undetermined 2874 2883	metformin
+E22	Undetermined:T22 
+T23	NoDisposition 3010 3019	clonidine
+E23	NoDisposition:T23 
+T24	NoDisposition 3024 3034	lisinopril
+E24	NoDisposition:T24 
+T25	NoDisposition 3072 3079	Lipitor
+E25	NoDisposition:T25 
+T26	NoDisposition 3111 3118	aspirin
+E26	NoDisposition:T26 
+T27	Disposition 3229 3242	levothyroxine
+E27	Disposition:T27 
+A1	Certainty E27 Certain
+A2	Actor E27 Physician
+A3	Action E27 Decrease
+A4	Temporality E27 Present
+T28	Disposition 2553 2566	70/30 regular
+E28	Disposition:T28 
+A5	Certainty E28 Certain
+A6	Actor E28 Physician
+A7	Action E28 Stop
+A8	Temporality E28 Present
+A9	Certainty E18 Certain
+A10	Actor E18 Physician
+A11	Action E18 Start
+A12	Temporality E18 Present
+T17	Undetermined 2821 2826	70/30
+E17	Undetermined:T17 
+T29	NoDisposition 198 203	70/30
+E29	NoDisposition:T29 
+A13	Negation E27 NotNegated
+A14	Negation E18 NotNegated
+A15	Negation E28 NotNegated

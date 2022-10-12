@@ -1,0 +1,52 @@
+T1	NoDisposition 226 232	flomax
+E1	NoDisposition:T1 
+T2	NoDisposition 289 296	lipitor
+E2	NoDisposition:T2 
+T3	NoDisposition 733 742	glyburide
+E3	NoDisposition:T3 
+T5	NoDisposition 792 802	zestoretic
+E5	NoDisposition:T5 
+T7	NoDisposition 1017 1027	zestoretic
+E7	NoDisposition:T7 
+T8	NoDisposition 1040 1048	atenolol
+E8	NoDisposition:T8 
+T10	NoDisposition 2462 2474	ATORVASTATIN
+E10	NoDisposition:T10 
+T11	NoDisposition 2490 2500	ZESTORETIC
+E11	NoDisposition:T11 
+T13	NoDisposition 634 644	glucophage
+E13	NoDisposition:T13 
+T14	NoDisposition 756 769	glucophage XR
+E14	NoDisposition:T14 
+T15	NoDisposition 872 879	ace-inh
+E15	NoDisposition:T15 
+T16	NoDisposition 922 929	lipitor
+E16	NoDisposition:T16 
+T17	NoDisposition 2338 2341	MVI
+E17	NoDisposition:T17 
+T18	NoDisposition 2343 2356	MULTIVITAMINS
+E18	NoDisposition:T18 
+T19	NoDisposition 2375 2382	ASPIRIN
+E19	NoDisposition:T19 
+T20	NoDisposition 2384 2404	ACETYLSALICYLIC ACID
+E20	NoDisposition:T20 
+T21	NoDisposition 2419 2425	FLOMAX
+E21	NoDisposition:T21 
+T22	NoDisposition 2427 2437	TAMSULOSIN
+E22	NoDisposition:T22 
+T23	NoDisposition 2453 2460	LIPITOR
+E23	NoDisposition:T23 
+T24	NoDisposition 2508 2531	LISINOPRIL/HYDROCLOROTH
+E24	NoDisposition:T24 
+T25	NoDisposition 2549 2562	GLUCOPHAGE XR
+E25	NoDisposition:T25 
+T26	NoDisposition 2564 2576	METFORMIN XR
+E26	NoDisposition:T26 
+T27	NoDisposition 2604 2615	Prilosec SA
+E27	NoDisposition:T27 
+T28	NoDisposition 2629 2637	ATENOLOL
+E28	NoDisposition:T28 
+T29	NoDisposition 2663 2672	MICRONASE
+E29	NoDisposition:T29 
+T30	NoDisposition 2674 2683	GLYBURIDE
+E30	NoDisposition:T30 

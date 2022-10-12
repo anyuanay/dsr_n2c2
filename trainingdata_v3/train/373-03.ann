@@ -1,0 +1,49 @@
+T5	NoDisposition 1457 1465	Coumadin
+E5	NoDisposition:T5 
+T6	NoDisposition 1581 1590	Doxazosin
+E6	NoDisposition:T6 
+T11	NoDisposition 1831 1850	Metoprolol Tartrate
+E11	NoDisposition:T11 
+T12	NoDisposition 1894 1930	Potassium Chloride Sustained Release
+E12	NoDisposition:T12 
+T13	NoDisposition 2048 2053	Zocor
+E13	NoDisposition:T13 
+T14	NoDisposition 2055 2066	SIMVASTATIN
+E14	NoDisposition:T14 
+T16	Disposition 5410 5423	alpha blocker
+E16	Disposition:T16 
+A1	Certainty E16 Certain
+A2	Actor E16 Physician
+A3	Action E16 Start
+A4	Temporality E16 Present
+T17	NoDisposition 1240 1251	Calcium + D
+E17	NoDisposition:T17 
+T18	NoDisposition 1381 1393	DILTIAZEM Cd
+E18	NoDisposition:T18 
+T19	NoDisposition 1368 1379	Cardizem Cd
+E19	NoDisposition:T19 
+T20	NoDisposition 1467 1482	WARFARIN Sodium
+E20	NoDisposition:T20 
+T21	NoDisposition 1710 1720	Glucovance
+E21	NoDisposition:T21 
+T22	NoDisposition 1526 1533	DIGOXIN
+E22	NoDisposition:T22 
+T23	NoDisposition 1592 1601	DOXAZOSIN
+E23	NoDisposition:T23 
+T24	NoDisposition 1646 1652	Folate
+E24	NoDisposition:T24 
+T25	NoDisposition 1654 1664	FOLIC Acid
+E25	NoDisposition:T25 
+T26	NoDisposition 1769 1774	Lasix
+E26	NoDisposition:T26 
+T27	NoDisposition 1776 1786	FUROSEMIDE
+E27	NoDisposition:T27 
+T28	NoDisposition 1983 1991	Prinivil
+E28	NoDisposition:T28 
+T29	NoDisposition 1993 2003	LISINOPRIL
+E29	NoDisposition:T29 
+T30	NoDisposition 1268 1323	CALCIUM Carbonate 1250 Mg (500MG Elem Ca)/ Vit D 200 Iu
+E30	NoDisposition:T30 
+T31	NoDisposition 1722 1741	GLYBURIDE/METFORMIN
+E31	NoDisposition:T31 
+A5	Negation E16 NotNegated

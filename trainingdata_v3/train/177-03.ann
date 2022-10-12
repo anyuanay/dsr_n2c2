@@ -1,0 +1,93 @@
+T2	Disposition 1026 1032	Keflex
+E2	Disposition:T2 
+T3	NoDisposition 1178 1190	chemotherapy
+E3	NoDisposition:T3 
+T5	NoDisposition 1580 1589	Lorazepam
+E5	NoDisposition:T5 
+T6	NoDisposition 1657 1667	Lisinopril
+E6	NoDisposition:T6 
+T7	NoDisposition 1763 1777	Fluoxetine HCL
+E7	NoDisposition:T7 
+T8	NoDisposition 1833 1840	Lipitor
+E8	NoDisposition:T8 
+T9	NoDisposition 1842 1854	ATORVASTATIN
+E9	NoDisposition:T9 
+T10	NoDisposition 1961 1981	ACETYLSALICYLIC ACID
+E10	NoDisposition:T10 
+T11	NoDisposition 2051 2060	Glucotrol
+E11	NoDisposition:T11 
+T13	NoDisposition 2424 2433	Metformin
+E13	NoDisposition:T13 
+T15	NoDisposition 2726 2734	Arimidex
+E15	NoDisposition:T15 
+T16	NoDisposition 2736 2747	ANASTROZOLE
+E16	NoDisposition:T16 
+T20	Disposition 5976 5984	atenolol
+E20	Disposition:T20 
+T21	NoDisposition 6037 6041	ACEI
+E21	NoDisposition:T21 
+T25	NoDisposition 6157 6164	Fosamax
+E25	NoDisposition:T25 
+T26	Disposition 799 808	lorazepam
+E26	Disposition:T26 
+A1	Certainty E26 Certain
+A2	Actor E26 Physician
+A3	Action E26 UniqueDose
+A4	Temporality E26 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+T27	NoDisposition 1370 1377	Panafil
+E27	NoDisposition:T27 
+T28	NoDisposition 1388 1432	PAPAIN/UREA/CHLOROPHYLLIN COPPER COMPLEX SOD
+E28	NoDisposition:T28 
+T29	NoDisposition 1483 1491	Radiagel
+E29	NoDisposition:T29 
+T30	NoDisposition 1492 1500	RADIAGEL
+E30	NoDisposition:T30 
+T31	NoDisposition 1956 1959	Asa
+E31	NoDisposition:T31 
+T32	NoDisposition 2062 2071	GLIPIZIDE
+E32	NoDisposition:T32 
+T33	NoDisposition 2145 2162	Calcium CARBONATE
+E33	NoDisposition:T33 
+T34	Disposition 2253 2257	Hctz
+E34	Disposition:T34 
+A9	Certainty E34 Conditional
+A10	Actor E34 Physician
+A11	Action E34 Stop
+A12	Temporality E34 Unknown
+T35	Disposition 2259 2278	HYDROCHLOROTHIAZIDE
+E35	Disposition:T35 
+A13	Certainty E35 Conditional
+A14	Actor E35 Physician
+A15	Action E35 Stop
+A16	Temporality E35 Unknown
+T36	NoDisposition 2487 2494	Fosamax
+E36	NoDisposition:T36 
+T37	NoDisposition 2496 2507	ALENDRONATE
+E37	NoDisposition:T37 
+T38	Disposition 5732 5741	metformin
+E38	Disposition:T38 
+A17	Certainty E38 Certain
+A18	Actor E38 Physician
+A19	Action E38 Increase
+A20	Temporality E38 Present
+A21	Certainty E20 Certain
+A22	Actor E20 Physician
+A23	Action E20 Start
+A24	Temporality E20 Present
+T39	Disposition 6037 6041	ACEI
+E39	Disposition:T39 
+A25	Certainty E39 Conditional
+A26	Actor E39 Physician
+A27	Action E39 Unknown
+A28	Temporality E39 Future
+A29	Negation E34 NotNegated
+A30	Negation E35 NotNegated
+A31	Negation E39 NotNegated
+A32	Negation E20 NotNegated
+A33	Negation E2 NotNegated
+A34	Negation E26 NotNegated
+A35	Negation E38 NotNegated

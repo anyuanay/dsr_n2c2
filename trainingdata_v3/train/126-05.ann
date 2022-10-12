@@ -1,0 +1,70 @@
+T1	NoDisposition 976 983	Insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 988 991	NPH
+E2	NoDisposition:T2 
+T3	NoDisposition 1864 1872	Fioricet
+E3	NoDisposition:T3 
+T4	NoDisposition 2092 2103	Hydralazine
+E4	NoDisposition:T4 
+T5	NoDisposition 2229 2236	aspirin
+E5	NoDisposition:T5 
+T7	NoDisposition 2319 2325	Epogen
+E7	NoDisposition:T7 
+T8	NoDisposition 2341 2349	Fioricet
+E8	NoDisposition:T8 
+T12	NoDisposition 2487 2494	Lipitor
+E12	NoDisposition:T12 
+T13	NoDisposition 2507 2516	methadone
+E13	NoDisposition:T13 
+T14	NoDisposition 2529 2539	Nephrocaps
+E14	NoDisposition:T14 
+T15	NoDisposition 2554 2563	Neurontin
+E15	NoDisposition:T15 
+T16	NoDisposition 2580 2586	Nexium
+E16	NoDisposition:T16 
+T17	NoDisposition 2647 2654	Norvasc
+E17	NoDisposition:T17 
+T19	NoDisposition 2731 2740	Oxycontin
+E19	NoDisposition:T19 
+T20	NoDisposition 2793 2799	Plavix
+E20	NoDisposition:T20 
+T21	NoDisposition 2812 2822	prednisone
+E21	NoDisposition:T21 
+T23	NoDisposition 2890 2901	simethicone
+E23	NoDisposition:T23 
+T24	NoDisposition 2944 2952	tramadol
+E24	NoDisposition:T24 
+T25	Undetermined 5409 5412	NPH
+E25	Undetermined:T25 
+T26	NoDisposition 1006 1009	CZI
+E26	NoDisposition:T26 
+T27	NoDisposition 1149 1155	Epogen
+E27	NoDisposition:T27 
+T28	NoDisposition 2279 2285	Colace
+E28	NoDisposition:T28 
+T29	NoDisposition 2299 2305	Cozaar
+E29	NoDisposition:T29 
+T30	NoDisposition 2249 2264	calcium acetate
+E30	NoDisposition:T30 
+T31	NoDisposition 2619 2632	nortriptyline
+E31	NoDisposition:T31 
+T32	NoDisposition 2835 2843	renaphro
+E32	NoDisposition:T32 
+T33	NoDisposition 2916 2926	tizanidine
+E33	NoDisposition:T33 
+T34	Undetermined 5421 5424	CZI
+E34	Undetermined:T34 
+T35	NoDisposition 2450 2463	labetalol hcl
+E35	NoDisposition:T35 
+T36	NoDisposition 2373 2382	Humulin r
+E36	NoDisposition:T36 
+T37	NoDisposition 2667 2678	nph insulin
+E37	NoDisposition:T37 
+T38	NoDisposition 2679 2688	humulin n
+E38	NoDisposition:T38 
+T39	NoDisposition 2866 2871	senna
+E39	NoDisposition:T39 
+T40	Undetermined 5376 5379	ABx
+E40	Undetermined:T40 
+T6	NoDisposition 2421 2428	Insulin
+E6	NoDisposition:T6 

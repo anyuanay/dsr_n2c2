@@ -1,0 +1,28 @@
+T1	NoDisposition 113 116	ASA
+E1	NoDisposition:T1 
+T2	NoDisposition 719 730	Clindamycin
+E2	NoDisposition:T2 
+T3	NoDisposition 926 936	Furosemide
+E3	NoDisposition:T3 
+T4	NoDisposition 984 994	Lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 1042 1051	Lopressor
+E5	NoDisposition:T5 
+T6	NoDisposition 1053 1072	METOPROLOL TARTRATE
+E6	NoDisposition:T6 
+T7	NoDisposition 1123 1132	Metformin
+E7	NoDisposition:T7 
+T8	NoDisposition 1220 1231	Simvastatin
+E8	NoDisposition:T8 
+T9	NoDisposition 1287 1302	Warfarin SODIUM
+E9	NoDisposition:T9 
+T13	Undetermined 3599 3609	alprazolam
+E13	Undetermined:T13 
+T14	NoDisposition 654 664	Alprazolam
+E14	NoDisposition:T14 
+T15	NoDisposition 818 830	FLUOCINOLONE
+E15	NoDisposition:T15 
+T16	NoDisposition 800 816	Derma-smoothe/fs
+E16	NoDisposition:T16 
+T17	NoDisposition 1398 1413	Warfarin SODIUM
+E17	NoDisposition:T17 

@@ -1,0 +1,30 @@
+T1	NoDisposition 703 713	Amlodipine
+E1	NoDisposition:T1 
+T2	NoDisposition 722 735	Metoprolol XL
+E2	NoDisposition:T2 
+T3	NoDisposition 745 759	Valsartan HCTZ
+E3	NoDisposition:T3 
+T4	NoDisposition 770 782	Atorvastatin
+E4	NoDisposition:T4 
+T5	NoDisposition 789 796	Aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 806 815	Metformin
+E6	NoDisposition:T6 
+T10	NoDisposition 5046 5055	metformin
+E10	NoDisposition:T10 
+T11	NoDisposition 5110 5122	atorvastatin
+E11	NoDisposition:T11 
+T12	Disposition 5323 5334	Amoxicillin
+E12	Disposition:T12 
+T13	Disposition 5339 5350	fluticasone
+E13	Disposition:T13 
+A1	Certainty E12 Certain
+A2	Actor E12 Physician
+A3	Action E12 Start
+A4	Temporality E12 Present
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 Start
+A8	Temporality E13 Present
+A9	Negation E13 NotNegated
+A10	Negation E12 NotNegated

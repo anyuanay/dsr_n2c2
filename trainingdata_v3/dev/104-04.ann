@@ -1,0 +1,91 @@
+T1	NoDisposition 212 221	capsaicin
+E1	NoDisposition:T1 
+T2	Disposition 277 285	atenolol
+E2	Disposition:T2 
+T3	NoDisposition 580 600	LEVOTHYROXINE SODIUM
+E3	NoDisposition:T3 
+T4	NoDisposition 652 660	Tegretol
+E4	NoDisposition:T4 
+T5	NoDisposition 756 766	Wellbutrin
+E5	NoDisposition:T5 
+T6	NoDisposition 821 827	Ativan
+E6	NoDisposition:T6 
+T7	NoDisposition 880 886	Ativan
+E7	NoDisposition:T7 
+T8	Disposition 1014 1020	Ativan
+E8	Disposition:T8 
+T9	NoDisposition 1037 1046	Neurontin
+E9	NoDisposition:T9 
+T10	NoDisposition 1123 1130	Xalatan
+E10	NoDisposition:T10 
+T12	NoDisposition 1212 1225	Humulin 70/30
+E12	NoDisposition:T12 
+T14	NoDisposition 1277 1287	Lisinopril
+E14	NoDisposition:T14 
+T15	NoDisposition 1325 1340	Timolol MALEATE
+E15	NoDisposition:T15 
+T16	NoDisposition 1519 1528	oxycontin
+E16	NoDisposition:T16 
+T17	NoDisposition 1640 1663	Insulin REGULAR HUMULIN
+E17	NoDisposition:T17 
+T19	Undetermined 1996 2004	cpasacin
+E19	Undetermined:T19 
+T20	Undetermined 2006 2015	oxycodone
+E20	Undetermined:T20 
+T21	Disposition 2041 2047	lantus
+E21	Disposition:T21 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Decrease
+A4	Temporality E2 Past
+T22	NoDisposition 400 410	interferon
+E22	NoDisposition:T22 
+T23	NoDisposition 569 578	Synthroid
+E23	NoDisposition:T23 
+T24	NoDisposition 662 675	CARBAMAZEPINE
+E24	NoDisposition:T24 
+T25	NoDisposition 768 781	BUPROPION HCL
+E25	NoDisposition:T25 
+T26	NoDisposition 829 838	LORAZEPAM
+E26	NoDisposition:T26 
+T27	NoDisposition 888 897	LORAZEPAM
+E27	NoDisposition:T27 
+T28	NoDisposition 937 946	Triazolam
+E28	NoDisposition:T28 
+A5	Certainty E8 Certain
+A6	Actor E8 Physician
+A7	Action E8 Unknown
+A8	Temporality E8 Unknown
+T29	NoDisposition 1048 1058	GABAPENTIN
+E29	NoDisposition:T29 
+T30	NoDisposition 1132 1143	LATANOPROST
+E30	NoDisposition:T30 
+T31	NoDisposition 1160 1167	Flonase
+E31	NoDisposition:T31 
+T32	NoDisposition 1169 1180	FLUTICASONE
+E32	NoDisposition:T32 
+T33	NoDisposition 1227 1248	INSULIN 70/30 (HUMAN)
+E33	NoDisposition:T33 
+T34	NoDisposition 1361 1370	Albuterol
+E34	NoDisposition:T34 
+T35	NoDisposition 1403 1412	Oxycodone
+E35	NoDisposition:T35 
+T36	NoDisposition 1508 1517	duragesic
+E36	NoDisposition:T36 
+T37	NoDisposition 1586 1595	Albuterol
+E37	NoDisposition:T37 
+T38	NoDisposition 1720 1727	Aspirin
+E38	NoDisposition:T38 
+T39	NoDisposition 1739 1744	Sulfa
+E39	NoDisposition:T39 
+T40	NoDisposition 1756 1763	Codeine
+E40	NoDisposition:T40 
+T41	NoDisposition 1786 1795	oxycodone
+E41	NoDisposition:T41 
+A9	Certainty E21 Certain
+A10	Actor E21 Physician
+A11	Action E21 Increase
+A12	Temporality E21 Present
+A13	Negation E2 NotNegated
+A14	Negation E8 NotNegated
+A15	Negation E21 NotNegated

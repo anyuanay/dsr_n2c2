@@ -1,0 +1,4 @@
+T1	NoDisposition 1018 1025	Insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 2326 2339	nitroglycerin
+E2	NoDisposition:T2 

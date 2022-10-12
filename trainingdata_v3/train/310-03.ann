@@ -1,0 +1,24 @@
+T1	Disposition 591 596	Lasix
+E1	Disposition:T1 
+T2	NoDisposition 851 858	Insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 1079 1084	Lasix
+E3	NoDisposition:T3 
+T4	NoDisposition 1086 1095	vitamin D
+E4	NoDisposition:T4 
+T5	NoDisposition 1097 1103	Lantus
+E5	NoDisposition:T5 
+T6	NoDisposition 1109 1118	acyclovir
+E6	NoDisposition:T6 
+T7	Disposition 2207 2215	Cardizem
+E7	Disposition:T7 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E7 Certain
+A6	Actor E7 Physician
+A7	Action E7 UniqueDose
+A8	Temporality E7 Past
+A9	Negation E1 NotNegated
+A10	Negation E7 NotNegated

@@ -1,0 +1,33 @@
+T1	NoDisposition 375 383	dilantin
+E1	NoDisposition:T1 
+T2	NoDisposition 709 717	DILANTIN
+E2	NoDisposition:T2 
+T5	NoDisposition 2096 2099	ASA
+E5	NoDisposition:T5 
+T6	NoDisposition 649 656	LEVOXYL
+E6	NoDisposition:T6 
+T7	NoDisposition 658 678	LEVOTHYROXINE SODIUM
+E7	NoDisposition:T7 
+T8	NoDisposition 719 728	PHENYTOIN
+E8	NoDisposition:T8 
+T9	NoDisposition 761 768	LIPITOR
+E9	NoDisposition:T9 
+T10	NoDisposition 770 782	ATORVASTATIN
+E10	NoDisposition:T10 
+T11	NoDisposition 823 830	FOSAMAX
+E11	NoDisposition:T11 
+T12	NoDisposition 832 843	ALENDRONATE
+E12	NoDisposition:T12 
+T13	Disposition 2155 2162	trental
+E13	Disposition:T13 
+A1	Certainty E13 Conditional
+A2	Actor E13 Physician
+A3	Action E13 Start
+A4	Temporality E13 Future
+T14	NoDisposition 2263 2270	Lipitor
+E14	NoDisposition:T14 
+T15	NoDisposition 2306 2315	Synthroid
+E15	NoDisposition:T15 
+T16	NoDisposition 2427 2434	Fosamax
+E16	NoDisposition:T16 
+A5	Negation E13 NotNegated

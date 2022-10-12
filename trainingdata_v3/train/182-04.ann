@@ -1,0 +1,118 @@
+T1	Disposition 1335 1346	ceftriaxone
+E1	Disposition:T1 
+T2	Disposition 1347 1359	azithromycin
+E2	Disposition:T2 
+T3	Disposition 1396 1406	amiodarone
+E3	Disposition:T3 
+T4	NoDisposition 1723 1730	Aspirin
+E4	NoDisposition:T4 
+T5	NoDisposition 1739 1743	HCTZ
+E5	NoDisposition:T5 
+T6	NoDisposition 1752 1759	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 1768 1771	B12
+E7	NoDisposition:T7 
+T8	NoDisposition 1783 1790	Zyprexa
+E8	NoDisposition:T8 
+T9	NoDisposition 1819 1829	Amiodarone
+E9	NoDisposition:T9 
+T10	NoDisposition 1840 1847	Aspirin
+E10	NoDisposition:T10 
+T11	NoDisposition 1856 1868	Azithromycin
+E11	NoDisposition:T11 
+T12	NoDisposition 1878 1889	Ceftriaxone
+E12	NoDisposition:T12 
+T14	NoDisposition 1916 1926	Metoprolol
+E14	NoDisposition:T14 
+T15	NoDisposition 1936 1942	Ativan
+E15	NoDisposition:T15 
+T16	NoDisposition 1954 1962	Percocet
+E16	NoDisposition:T16 
+T18	Undetermined 8127 8137	metoprolol
+E18	Undetermined:T18 
+T19	Undetermined 8139 8146	lipitor
+E19	Undetermined:T19 
+T20	Undetermined 8148 8155	heparin
+E20	Undetermined:T20 
+T21	Disposition 8170 8174	ACEi
+E21	Disposition:T21 
+T22	Disposition 8379 8383	amio
+E22	Disposition:T22 
+T23	Disposition 8398 8408	amiodarone
+E23	Disposition:T23 
+T24	NoDisposition 8514 8523	narcotics
+E24	NoDisposition:T24 
+T25	NoDisposition 8582 8589	zyprexa
+E25	NoDisposition:T25 
+T26	Undetermined 8592 8598	Haldol
+E26	Undetermined:T26 
+T28	Disposition 8779 8790	antibiotics
+E28	Disposition:T28 
+T29	Disposition 8792 8803	ceftriaxone
+E29	Disposition:T29 
+T30	Disposition 8804 8816	azithromycin
+E30	Disposition:T30 
+T33	NoDisposition 9043 9050	heparin
+E33	NoDisposition:T33 
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+A9	Action E3 Start
+A10	Certainty E3 Certain
+A11	Actor E3 Physician
+A12	Temporality E3 Past
+T34	NoDisposition 1900 1907	Lovenox
+E34	NoDisposition:T34 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+T35	Undetermined 8118 8125	aspirin
+E35	Undetermined:T35 
+A13	Certainty E21 Conditional
+A14	Actor E21 Physician
+A15	Action E21 Start
+A16	Temporality E21 Present
+T36	Undetermined 8237 8245	mucomyst
+E36	Undetermined:T36 
+A17	Certainty E22 Certain
+A18	Actor E22 Physician
+A19	Action E22 UniqueDose
+A20	Temporality E22 Past
+A21	Certainty E23 Conditional
+A22	Actor E23 Physician
+A23	Action E23 Stop
+A24	Temporality E23 Present
+T37	Undetermined 8697 8706	albuterol
+E37	Undetermined:T37 
+T38	Undetermined 8707 8718	ipratropium
+E38	Undetermined:T38 
+T39	Disposition 8849 8854	lasix
+E39	Disposition:T39 
+A25	Certainty E39 Certain
+A26	Actor E39 Physician
+A27	Action E39 UniqueDose
+A28	Temporality E39 Present
+A29	Certainty E28 Certain
+A30	Actor E28 Physician
+A31	Action E28 Stop
+A32	Temporality E28 Future
+A33	Certainty E29 Certain
+A34	Actor E29 Physician
+A35	Action E29 Stop
+A36	Temporality E29 Future
+A37	Certainty E30 Certain
+A38	Actor E30 Physician
+A39	Action E30 Stop
+A40	Temporality E30 Future
+A41	Negation E22 NotNegated
+A42	Negation E39 NotNegated
+A43	Negation E3 NotNegated
+A44	Negation E29 NotNegated
+A45	Negation E2 NotNegated
+A46	Negation E21 NotNegated
+A47	Negation E28 NotNegated
+A48	Negation E1 NotNegated
+A49	Negation E23 NotNegated
+A50	Negation E30 NotNegated

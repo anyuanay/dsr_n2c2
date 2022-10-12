@@ -1,0 +1,27 @@
+T1	NoDisposition 2896 2904	Atenolol
+E1	NoDisposition:T1 
+T2	NoDisposition 2915 2931	Triamterene/HCTZ
+E2	NoDisposition:T2 
+T4	NoDisposition 2970 2980	Folic Acid
+E4	NoDisposition:T4 
+T5	NoDisposition 2990 3002	Iron Sulfate
+E5	NoDisposition:T5 
+T6	NoDisposition 3014 3021	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 3033 3042	Terazosin
+E7	NoDisposition:T7 
+T8	NoDisposition 3052 3062	Lisinopril
+E8	NoDisposition:T8 
+T9	NoDisposition 3075 3082	Ducolax
+E9	NoDisposition:T9 
+T10	NoDisposition 3108 3115	Codeine
+E10	NoDisposition:T10 
+T11	Disposition 3836 3848	chemotherapy
+E11	Disposition:T11 
+T12	NoDisposition 2942 2959	Vitamin B Complex
+E12	NoDisposition:T12 
+A1	Certainty E11 Hypothetical
+A2	Actor E11 Physician
+A3	Action E11 Start
+A4	Temporality E11 Future
+A5	Negation E11 NotNegated

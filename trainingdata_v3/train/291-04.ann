@@ -1,0 +1,58 @@
+T1	NoDisposition 1557 1564	Insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 2508 2519	SIMVASTATIN
+E2	NoDisposition:T2 
+T4	NoDisposition 2761 2778	ZOLPIDEM TARTRATE
+E4	NoDisposition:T4 
+T5	NoDisposition 2908 2925	INSULIN NPH HUMAN
+E5	NoDisposition:T5 
+T6	NoDisposition 3009 3026	INSULIN NPH HUMAN
+E6	NoDisposition:T6 
+T7	NoDisposition 3714 3721	ZESTRIL
+E7	NoDisposition:T7 
+T9	NoDisposition 3928 3950	ISOSORBIDE MONONITRATE
+E9	NoDisposition:T9 
+T10	NoDisposition 4027 4037	GABAPENTIN
+E10	NoDisposition:T10 
+T11	NoDisposition 4039 4048	NEURONTIN
+E11	NoDisposition:T11 
+T13	NoDisposition 2521 2526	ZOCOR
+E13	NoDisposition:T13 
+T14	NoDisposition 2592 2603	CLOPIDOGREL
+E14	NoDisposition:T14 
+T15	NoDisposition 2605 2611	PLAVIX
+E15	NoDisposition:T15 
+T16	NoDisposition 2676 2688	ESOMEPRAZOLE
+E16	NoDisposition:T16 
+T17	NoDisposition 2690 2696	NEXIUM
+E17	NoDisposition:T17 
+T18	NoDisposition 2780 2786	AMBIEN
+E18	NoDisposition:T18 
+T19	NoDisposition 2826 2836	PAROXETINE
+E19	NoDisposition:T19 
+T20	NoDisposition 2838 2843	PAXIL
+E20	NoDisposition:T20 
+T21	NoDisposition 3136 3157	INSULIN REGULAR HUMAN
+E21	NoDisposition:T21 
+T24	NoDisposition 3519 3527	PERCOCET
+E24	NoDisposition:T24 
+T25	NoDisposition 3619 3629	AMLODIPINE
+E25	NoDisposition:T25 
+T26	NoDisposition 3631 3638	NORVASC
+E26	NoDisposition:T26 
+T27	NoDisposition 3702 3712	LISINOPRIL
+E27	NoDisposition:T27 
+T28	NoDisposition 3786 3803	DALTEPARIN SODIUM
+E28	NoDisposition:T28 
+T29	NoDisposition 3805 3812	FRAGMIN
+E29	NoDisposition:T29 
+T30	NoDisposition 3848 3885	METOPROLOL SUCCINATE EXTENDED RELEASE
+E30	NoDisposition:T30 
+T31	NoDisposition 3887 3896	TOPROL XL
+E31	NoDisposition:T31 
+T32	NoDisposition 3957 3962	IMDUR
+E32	NoDisposition:T32 
+T33	NoDisposition 4078 4088	benzocaine
+E33	NoDisposition:T33 
+T34	NoDisposition 3482 3517	OXYCODONE 5 MG/ACETAMINOPHEN 325 MG
+E34	NoDisposition:T34 

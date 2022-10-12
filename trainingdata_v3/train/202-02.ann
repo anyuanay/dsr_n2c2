@@ -1,0 +1,40 @@
+T1	NoDisposition 482 490	Coumadin
+E1	NoDisposition:T1 
+T2	NoDisposition 513 520	insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 1368 1381	nitroglycerin
+E3	NoDisposition:T3 
+T4	Undetermined 2363 2369	Plavix
+E4	Undetermined:T4 
+T5	Undetermined 2452 2459	aspirin
+E5	Undetermined:T5 
+T6	Disposition 2547 2555	Coumadin
+E6	Disposition:T6 
+T7	Undetermined 2652 2659	Lipitor
+E7	Undetermined:T7 
+T8	Undetermined 2678 2685	digoxin
+E8	Undetermined:T8 
+T9	Undetermined 2706 2713	Tikosyn
+E9	Undetermined:T9 
+T10	Undetermined 2735 2744	glyburide
+E10	Undetermined:T10 
+T11	Undetermined 2762 2769	Avandia
+E11	Undetermined:T11 
+T12	Undetermined 2787 2793	Diovan
+E12	Undetermined:T12 
+T13	Undetermined 2812 2823	NPH insulin
+E13	Undetermined:T13 
+T14	Undetermined 2861 2874	nitroglycerin
+E14	Undetermined:T14 
+A1	Certainty E6 Certain
+A2	Actor E6 Physician
+A3	Action E6 Start
+A4	Temporality E6 Future
+T15	Disposition 2452 2459	aspirin
+E15	Disposition:T15 
+A5	Certainty E15 Certain
+A6	Actor E15 Physician
+A7	Action E15 Decrease
+A8	Temporality E15 Future
+A9	Negation E15 NotNegated
+A10	Negation E6 NotNegated

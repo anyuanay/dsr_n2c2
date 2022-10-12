@@ -1,0 +1,13 @@
+T2	Undetermined 2064 2074	nifedipine
+E2	Undetermined:T2 
+T3	Undetermined 2083 2092	clonidine
+E3	Undetermined:T3 
+T4	NoDisposition 601 608	Prempro
+E4	NoDisposition:T4 
+T5	Disposition 654 680	blood pressure medications
+E5	Disposition:T5 
+A1	Certainty E5 Certain
+A2	Actor E5 Patient
+A3	Action E5 Stop
+A4	Temporality E5 Past
+A5	Negation E5 NotNegated

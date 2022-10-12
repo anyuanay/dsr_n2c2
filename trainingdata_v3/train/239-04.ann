@@ -1,0 +1,135 @@
+T1	NoDisposition 2384 2394	Olanzapine
+E1	NoDisposition:T1 
+T2	NoDisposition 2406 2413	Hepatin
+E2	NoDisposition:T2 
+T3	NoDisposition 2414 2423	Toprol XL
+E3	NoDisposition:T3 
+T4	NoDisposition 2430 2440	Lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 2452 2462	Vancomycin
+E5	NoDisposition:T5 
+T6	NoDisposition 2482 2486	RISS
+E6	NoDisposition:T6 
+T7	NoDisposition 2487 2496	Oxycodone
+E7	NoDisposition:T7 
+T8	NoDisposition 2501 2512	Simvastatin
+E8	NoDisposition:T8 
+T9	NoDisposition 2513 2525	Levofloxacin
+E9	NoDisposition:T9 
+T10	NoDisposition 2526 2536	Fluoxetine
+E10	NoDisposition:T10 
+T11	NoDisposition 2547 2562	Calcium acetate
+E11	NoDisposition:T11 
+T12	NoDisposition 6766 6774	Amikacin
+E12	NoDisposition:T12 
+T13	NoDisposition 6818 6828	Ampicillin
+E13	NoDisposition:T13 
+T14	NoDisposition 6922 6931	Cefazolin
+E14	NoDisposition:T14 
+T15	NoDisposition 6974 6982	Cefepime
+E15	NoDisposition:T15 
+T16	NoDisposition 7026 7037	Ceftriaxone
+E16	NoDisposition:T16 
+T17	NoDisposition 7078 7091	Ciprofloxacin
+E17	NoDisposition:T17 
+T18	NoDisposition 7130 7140	Gentamicin
+E18	NoDisposition:T18 
+T19	NoDisposition 7182 7194	Levofloxacin
+E19	NoDisposition:T19 
+T22	NoDisposition 7574 7584	Gentamicin
+E22	NoDisposition:T22 
+T23	NoDisposition 7620 7632	Levofloxacin
+E23	NoDisposition:T23 
+T26	NoDisposition 7712 7723	Ticarcillin
+E26	NoDisposition:T26 
+T27	NoDisposition 7758 7768	Tobramycin
+E27	NoDisposition:T27 
+T28	NoDisposition 7982 7990	Amikacin
+E28	NoDisposition:T28 
+T29	NoDisposition 8034 8044	Ampicillin
+E29	NoDisposition:T29 
+T30	NoDisposition 8138 8147	Cefazolin
+E30	NoDisposition:T30 
+T31	NoDisposition 8242 8253	Ceftriaxone
+E31	NoDisposition:T31 
+T32	NoDisposition 8294 8307	Ciprofloxacin
+E32	NoDisposition:T32 
+T33	NoDisposition 8346 8356	Gentamicin
+E33	NoDisposition:T33 
+T34	NoDisposition 8398 8410	Levofloxacin
+E34	NoDisposition:T34 
+T37	Disposition 9256 9265	toprol XL
+E37	Disposition:T37 
+T38	Disposition 9983 9993	Fluoxetine
+E38	Disposition:T38 
+T39	Disposition 10084 10090	Haldol
+E39	Disposition:T39 
+T40	NoDisposition 10149 10159	olanzapine
+E40	NoDisposition:T40 
+T41	Disposition 10385 10397	Levofloxacin
+E41	Disposition:T41 
+T42	Undetermined 10787 10791	RISS
+E42	Undetermined:T42 
+T43	NoDisposition 2537 2546	Nephocaps
+E43	NoDisposition:T43 
+A1	Certainty E37 Hypothetical
+A2	Actor E37 Physician
+A3	Action E37 Increase
+A4	Temporality E37 Future
+A5	Certainty E38 Certain
+A6	Actor E38 Physician
+A7	Action E38 Stop
+A8	Temporality E38 Present
+T44	Disposition 10063 10073	ranitidine
+E44	Disposition:T44 
+A9	Certainty E44 Hypothetical
+A10	Actor E44 Physician
+A11	Action E44 Stop
+A12	Temporality E44 Present
+A13	Certainty E39 Certain
+A14	Actor E39 Physician
+A15	Action E39 Stop
+A16	Temporality E39 Present
+T45	Disposition 10149 10159	olanzapine
+E45	Disposition:T45 
+A17	Certainty E45 Conditional
+A18	Actor E45 Physician
+A19	Action E45 Stop
+A20	Temporality E45 Future
+A21	Certainty E41 Certain
+A22	Actor E41 Physician
+A23	Action E41 Stop
+A24	Temporality E41 Past
+T46	Disposition 10486 10495	aztreonam
+E46	Disposition:T46 
+A25	Certainty E46 Hypothetical
+A26	Actor E46 Physician
+A27	Action E46 Start
+A28	Temporality E46 Present
+T47	NoDisposition 6870 6879	Aztreonam
+E47	NoDisposition:T47 
+T48	NoDisposition 7234 7246	Piperacillin
+E48	NoDisposition:T48 
+T49	NoDisposition 7286 7315	Trimethoprim/Sulfamethoxazole
+E49	NoDisposition:T49 
+T50	NoDisposition 7482 7491	Aztreonam
+E50	NoDisposition:T50 
+T51	NoDisposition 7528 7536	Cefepime
+E51	NoDisposition:T51 
+T52	NoDisposition 7666 7689	Piperacillin/Tazobactam
+E52	NoDisposition:T52 
+T53	NoDisposition 8190 8198	Cefepime
+E53	NoDisposition:T53 
+T54	NoDisposition 8086 8095	Aztreonam
+E54	NoDisposition:T54 
+T55	NoDisposition 8450 8462	Piperacillin
+E55	NoDisposition:T55 
+T56	NoDisposition 8502 8531	Trimethoprim/Sulfamethoxazole
+E56	NoDisposition:T56 
+A29	Negation E46 NotNegated
+A30	Negation E45 NotNegated
+A31	Negation E37 NotNegated
+A32	Negation E39 NotNegated
+A33	Negation E44 NotNegated
+A34	Negation E41 NotNegated
+A35	Negation E38 NotNegated

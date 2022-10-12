@@ -1,0 +1,74 @@
+T1	NoDisposition 1506 1516	lovastatin
+E1	NoDisposition:T1 
+T2	Disposition 1700 1709	glyburide
+E2	Disposition:T2 
+T3	NoDisposition 1965 1975	lisinopril
+E3	NoDisposition:T3 
+T4	NoDisposition 1990 1998	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 2012 2022	lovastatin
+E5	NoDisposition:T5 
+T6	NoDisposition 2036 2043	aspirin
+E6	NoDisposition:T6 
+T7	NoDisposition 2056 2069	nitroglycerin
+E7	NoDisposition:T7 
+T8	NoDisposition 2084 2093	glyburide
+E8	NoDisposition:T8 
+T9	NoDisposition 2108 2118	omeprazole
+E9	NoDisposition:T9 
+T10	Undetermined 4358 4367	oxycodone
+E10	Undetermined:T10 
+T11	NoDisposition 4381 4393	levofloxacin
+E11	NoDisposition:T11 
+T12	Disposition 4478 4483	lasix
+E12	Disposition:T12 
+T13	Disposition 4488 4492	ACEI
+E13	Disposition:T13 
+T14	NoDisposition 4684 4687	ASA
+E14	NoDisposition:T14 
+T15	NoDisposition 4688 4694	statin
+E15	NoDisposition:T15 
+T16	Disposition 542 557	anticoagulation
+E16	Disposition:T16 
+A1	Certainty E16 Hypothetical
+A2	Actor E16 Physician
+A3	Action E16 Start
+A4	Temporality E16 Unknown
+T17	NoDisposition 946 949	TNG
+E17	NoDisposition:T17 
+T18	Disposition 991 994	TNG
+E18	Disposition:T18 
+A5	Certainty E18 Certain
+A6	Actor E18 Patient
+A7	Action E18 UniqueDose
+A8	Temporality E18 Past
+T19	Disposition 1563 1573	glucophage
+E19	Disposition:T19 
+A9	Certainty E19 Certain
+A10	Actor E19 Physician
+A11	Action E19 Stop
+A12	Temporality E19 Past
+A13	Certainty E2 Certain
+A14	Actor E2 Physician
+A15	Action E2 Start
+A16	Temporality E2 Past
+T20	NoDisposition 1925 1928	AOC
+E20	NoDisposition:T20 
+T21	NoDisposition 1943 1946	PPI
+E21	NoDisposition:T21 
+T22	NoDisposition 4080 4083	NTG
+E22	NoDisposition:T22 
+A17	Certainty E12 Conditional
+A18	Actor E12 Physician
+A19	Action E12 Start
+A20	Temporality E12 Present
+A21	Certainty E13 Conditional
+A22	Actor E13 Physician
+A23	Action E13 Start
+A24	Temporality E13 Present
+A25	Negation E19 NotNegated
+A26	Negation E13 NotNegated
+A27	Negation E12 NotNegated
+A28	Negation E16 NotNegated
+A29	Negation E2 NotNegated
+A30	Negation E18 NotNegated

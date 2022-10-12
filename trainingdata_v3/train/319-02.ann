@@ -1,0 +1,38 @@
+T2	NoDisposition 689 697	Tegretol
+E2	NoDisposition:T2 
+T4	NoDisposition 827 836	Thorazine
+E4	NoDisposition:T4 
+T5	NoDisposition 885 888	ASA
+E5	NoDisposition:T5 
+T7	NoDisposition 1034 1041	Lipitor
+E7	NoDisposition:T7 
+T8	NoDisposition 1043 1055	ATORVASTATIN
+E8	NoDisposition:T8 
+T9	NoDisposition 1082 1091	METFORMIN
+E9	NoDisposition:T9 
+T10	NoDisposition 653 662	Risperdal
+E10	NoDisposition:T10 
+T11	NoDisposition 664 675	RISPERIDONE
+E11	NoDisposition:T11 
+T12	NoDisposition 699 712	CARBAMAZEPINE
+E12	NoDisposition:T12 
+T13	NoDisposition 728 733	Paxil
+E13	NoDisposition:T13 
+T14	NoDisposition 735 745	PAROXETINE
+E14	NoDisposition:T14 
+T15	NoDisposition 772 780	Depakote
+E15	NoDisposition:T15 
+T16	NoDisposition 782 799	DIVALPROEX Sodium
+E16	NoDisposition:T16 
+T17	NoDisposition 838 856	CHLORPROMAZINE Hcl
+E17	NoDisposition:T17 
+T18	NoDisposition 902 906	Hctz
+E18	NoDisposition:T18 
+T19	NoDisposition 908 927	HYDROCHLOROTHIAZIDE
+E19	NoDisposition:T19 
+T20	NoDisposition 954 964	LISINOPRIL
+E20	NoDisposition:T20 
+T21	NoDisposition 990 996	Folate
+E21	NoDisposition:T21 
+T22	NoDisposition 998 1008	FOLIC Acid
+E22	NoDisposition:T22 

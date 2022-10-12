@@ -1,0 +1,46 @@
+T1	Disposition 419 429	Lisinopril
+E1	Disposition:T1 
+T2	NoDisposition 452 459	Lipitor
+E2	NoDisposition:T2 
+T4	NoDisposition 842 854	atorvastatin
+E4	NoDisposition:T4 
+T5	NoDisposition 869 879	furosemide
+E5	NoDisposition:T5 
+T6	NoDisposition 892 914	isosorbide mononitrate
+E6	NoDisposition:T6 
+T7	NoDisposition 950 958	Levaquin
+E7	NoDisposition:T7 
+T8	NoDisposition 973 983	lisinopril
+E8	NoDisposition:T8 
+T9	NoDisposition 997 1003	Plavix
+E9	NoDisposition:T9 
+T10	NoDisposition 1016 1025	Singulair
+E10	NoDisposition:T10 
+T11	NoDisposition 1036 1045	terazosin
+E11	NoDisposition:T11 
+T12	NoDisposition 1066 1075	Toprol xl
+E12	NoDisposition:T12 
+T13	NoDisposition 1089 1102	triamcinolone
+E13	NoDisposition:T13 
+T14	NoDisposition 1156 1166	lisinopril
+E14	NoDisposition:T14 
+T20	Disposition 2711 2721	Lisinopril
+E20	Disposition:T20 
+T22	NoDisposition 2785 2794	Terazosin
+E22	NoDisposition:T22 
+T23	NoDisposition 2936 2941	Lasix
+E23	NoDisposition:T23 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Increase
+A4	Temporality E1 Present
+T24	NoDisposition 487 492	lasix
+E24	NoDisposition:T24 
+T25	NoDisposition 931 936	K dur
+E25	NoDisposition:T25 
+A5	Certainty E20 Certain
+A6	Actor E20 Physician
+A7	Action E20 Increase
+A8	Temporality E20 Present
+A9	Negation E1 NotNegated
+A10	Negation E20 NotNegated

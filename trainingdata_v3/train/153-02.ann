@@ -1,0 +1,12 @@
+T1	NoDisposition 569 577	atenolol
+E1	NoDisposition:T1 
+T2	NoDisposition 579 586	Norvasc
+E2	NoDisposition:T2 
+T3	NoDisposition 588 607	hydrochlorothiazide
+E3	NoDisposition:T3 
+T4	NoDisposition 609 616	Zestril
+E4	NoDisposition:T4 
+T5	NoDisposition 618 627	metformin
+E5	NoDisposition:T5 
+T6	NoDisposition 633 640	Lipitor
+E6	NoDisposition:T6 

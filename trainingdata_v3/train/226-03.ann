@@ -1,0 +1,72 @@
+T2	NoDisposition 996 1003	Aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1023 1029	DuoNeb
+E3	NoDisposition:T3 
+T4	NoDisposition 1036 1045	Diltiazem
+E4	NoDisposition:T4 
+T5	NoDisposition 1070 1080	Furosemide
+E5	NoDisposition:T5 
+T6	NoDisposition 1104 1109	K-Dur
+E6	NoDisposition:T6 
+T7	NoDisposition 1134 1144	Metolazone
+E7	NoDisposition:T7 
+T8	NoDisposition 1164 1170	Toprol
+E8	NoDisposition:T8 
+T9	NoDisposition 1195 1206	Pravastatin
+E9	NoDisposition:T9 
+T10	NoDisposition 1230 1240	Furosemide
+E10	NoDisposition:T10 
+T11	NoDisposition 1265 1271	Colace
+E11	NoDisposition:T11 
+T12	NoDisposition 1273 1288	ferrous sulfate
+E12	NoDisposition:T12 
+T13	NoDisposition 1290 1299	ibuprofen
+E13	NoDisposition:T13 
+T14	NoDisposition 1301 1306	senna
+E14	NoDisposition:T14 
+T15	NoDisposition 1346 1358	Azithromycin
+E15	NoDisposition:T15 
+T16	NoDisposition 1365 1378	ACE inhibitor
+E16	NoDisposition:T16 
+T17	Disposition 2273 2280	aspirin
+E17	Disposition:T17 
+T18	Disposition 2294 2303	potassium
+E18	Disposition:T18 
+T19	Disposition 2318 2323	Lasix
+E19	Disposition:T19 
+T20	Disposition 2343 2363	metoprolol succinate
+E20	Disposition:T20 
+T21	Disposition 2387 2398	pravastatin
+E21	Disposition:T21 
+T22	Disposition 2439 2444	Lasix
+E22	Disposition:T22 
+A1	Certainty E17 Certain
+A2	Actor E17 Physician
+A3	Action E17 Unknown
+A4	Temporality E17 Present
+A5	Certainty E18 Certain
+A6	Actor E18 Physician
+A7	Action E18 Unknown
+A8	Temporality E18 Present
+A9	Certainty E19 Certain
+A10	Actor E19 Physician
+A11	Action E19 Unknown
+A12	Temporality E19 Present
+A13	Certainty E20 Certain
+A14	Actor E20 Physician
+A15	Action E20 Unknown
+A16	Temporality E20 Present
+A17	Certainty E21 Certain
+A18	Actor E21 Physician
+A19	Action E21 Unknown
+A20	Temporality E21 Present
+A21	Certainty E22 Certain
+A22	Actor E22 Physician
+A23	Action E22 Unknown
+A24	Temporality E22 Present
+A25	Negation E22 NotNegated
+A26	Negation E19 NotNegated
+A27	Negation E20 NotNegated
+A28	Negation E21 NotNegated
+A29	Negation E18 NotNegated
+A30	Negation E17 NotNegated

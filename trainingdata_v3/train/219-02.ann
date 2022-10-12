@@ -1,0 +1,4 @@
+T1	NoDisposition 184 191	Lipitor
+E1	NoDisposition:T1 
+T2	NoDisposition 128 134	Viagra
+E2	NoDisposition:T2 

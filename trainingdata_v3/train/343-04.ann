@@ -1,0 +1,44 @@
+T3	NoDisposition 1488 1500	IRON SULFATE
+E3	NoDisposition:T3 
+T4	NoDisposition 1502 1517	FERROUS SULFATE
+E4	NoDisposition:T4 
+T6	NoDisposition 1681 1692	SIMETHICONE
+E6	NoDisposition:T6 
+T8	NoDisposition 2414 2422	coumadin
+E8	NoDisposition:T8 
+T10	NoDisposition 873 882	narcotics
+E10	NoDisposition:T10 
+T11	NoDisposition 1103 1111	ATENOLOL
+E11	NoDisposition:T11 
+T12	NoDisposition 1137 1143	COLACE
+E12	NoDisposition:T12 
+T13	NoDisposition 1145 1160	DOCUSATE SODIUM
+E13	NoDisposition:T13 
+T14	NoDisposition 1204 1212	COUMADIN
+E14	NoDisposition:T14 
+T15	NoDisposition 1214 1229	WARFARIN SODIUM
+E15	NoDisposition:T15 
+T16	NoDisposition 1293 1298	ECASA
+E16	NoDisposition:T16 
+T17	NoDisposition 1300 1307	ASPIRIN
+E17	NoDisposition:T17 
+T18	NoDisposition 1370 1380	GLUCOPHAGE
+E18	NoDisposition:T18 
+T19	NoDisposition 1382 1391	METFORMIN
+E19	NoDisposition:T19 
+T20	NoDisposition 1428 1447	HYDROCHLOROTHIAZIDE
+E20	NoDisposition:T20 
+T21	NoDisposition 1565 1575	LISINOPRIL
+E21	NoDisposition:T21 
+T22	NoDisposition 1609 1617	PRILOSEC
+E22	NoDisposition:T22 
+T23	NoDisposition 1623 1633	OMEPRAZOLE
+E23	NoDisposition:T23 
+T24	NoDisposition 1739 1748	TRAZODONE
+E24	NoDisposition:T24 
+T25	NoDisposition 1790 1795	ZOCOR
+E25	NoDisposition:T25 
+T26	NoDisposition 1797 1808	SIMVASTATIN
+E26	NoDisposition:T26 
+T27	NoDisposition 1897 1908	Penicillins
+E27	NoDisposition:T27 

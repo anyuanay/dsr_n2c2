@@ -1,0 +1,39 @@
+T1	NoDisposition 856 860	ABVD
+E1	NoDisposition:T1 
+T2	NoDisposition 1058 1066	coumadin
+E2	NoDisposition:T2 
+T3	NoDisposition 1300 1308	Coumadin
+E3	NoDisposition:T3 
+T4	NoDisposition 1320 1326	Folate
+E4	NoDisposition:T4 
+T5	NoDisposition 1336 1342	Zantac
+E5	NoDisposition:T5 
+T6	NoDisposition 3079 3089	adriamycin
+E6	NoDisposition:T6 
+T7	NoDisposition 3474 3479	chemo
+E7	NoDisposition:T7 
+T8	NoDisposition 3590 3599	diltiazem
+E8	NoDisposition:T8 
+T9	NoDisposition 3604 3613	lopressor
+E9	NoDisposition:T9 
+T10	NoDisposition 3636 3644	coumadin
+E10	NoDisposition:T10 
+T11	NoDisposition 3694 3702	coumadin
+E11	NoDisposition:T11 
+T14	Undetermined 3740 3748	coumadin
+E14	Undetermined:T14 
+T15	NoDisposition 1355 1364	Glyburide
+E15	NoDisposition:T15 
+T16	Disposition 3619 3622	dig
+E16	Disposition:T16 
+A1	Certainty E16 Certain
+A2	Actor E16 Physician
+A3	Action E16 Stop
+A4	Temporality E16 Unknown
+T17	Undetermined 3732 3738	nexium
+E17	Undetermined:T17 
+T12	NoDisposition 2866 2870	ABVD
+E12	NoDisposition:T12 
+T13	NoDisposition 451 455	ABVD
+E13	NoDisposition:T13 
+A5	Negation E16 NotNegated

@@ -1,0 +1,44 @@
+T1	NoDisposition 1162 1171	captopril
+E1	NoDisposition:T1 
+T2	NoDisposition 1173 1186	levothyroxine
+E2	NoDisposition:T2 
+T3	NoDisposition 1188 1197	clonidine
+E3	NoDisposition:T3 
+T4	NoDisposition 1203 1210	aspirin
+E4	NoDisposition:T4 
+T5	NoDisposition 1235 1242	insulin
+E5	NoDisposition:T5 
+T6	NoDisposition 1254 1263	albuterol
+E6	NoDisposition:T6 
+T7	NoDisposition 1269 1276	Lipitor
+E7	NoDisposition:T7 
+T8	Disposition 2704 2711	aspirin
+E8	Disposition:T8 
+T9	Disposition 2713 2726	nitroglycerin
+E9	Disposition:T9 
+T10	Disposition 2732 2744	beta-blocker
+E10	Disposition:T10 
+T11	Disposition 2814 2830	morphine sulfate
+E11	Disposition:T11 
+A1	Certainty E8 Certain
+A2	Actor E8 Physician
+A3	Action E8 UniqueDose
+A4	Temporality E8 Past
+A5	Certainty E9 Certain
+A6	Actor E9 Physician
+A7	Action E9 UniqueDose
+A8	Temporality E9 Past
+A9	Certainty E10 Certain
+A10	Actor E10 Physician
+A11	Action E10 UniqueDose
+A12	Temporality E10 Past
+T12	NoDisposition 1222 1230	nitrates
+E12	NoDisposition:T12 
+A13	Certainty E11 Certain
+A14	Actor E11 Physician
+A15	Action E11 UniqueDose
+A16	Temporality E11 Past
+A17	Negation E10 NotNegated
+A18	Negation E11 NotNegated
+A19	Negation E9 NotNegated
+A20	Negation E8 NotNegated

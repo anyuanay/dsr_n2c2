@@ -1,0 +1,106 @@
+T1	Disposition 317 326	albuterol
+E1	Disposition:T1 
+T2	Disposition 328 334	advair
+E2	Disposition:T2 
+T3	Disposition 692 699	aspirin
+E3	Disposition:T3 
+T4	Disposition 701 712	clopidogrel
+E4	Disposition:T4 
+T5	Disposition 714 721	lovenox
+E5	Disposition:T5 
+T6	Disposition 727 732	lasix
+E6	Disposition:T6 
+T7	NoDisposition 975 984	glyburide
+E7	NoDisposition:T7 
+T8	NoDisposition 989 998	metformin
+E8	NoDisposition:T8 
+T9	NoDisposition 1025 1031	lyrica
+E9	NoDisposition:T9 
+T10	NoDisposition 1110 1123	Levothyroxine
+E10	NoDisposition:T10 
+T11	NoDisposition 1140 1146	Lyrica
+E11	NoDisposition:T11 
+T12	NoDisposition 1189 1197	Tegretol
+E12	NoDisposition:T12 
+T13	NoDisposition 1211 1220	Glyburide
+E13	NoDisposition:T13 
+T14	NoDisposition 1234 1243	Metformin
+E14	NoDisposition:T14 
+T15	NoDisposition 1297 1304	Aspirin
+E15	NoDisposition:T15 
+T16	NoDisposition 1319 1325	Plavix
+E16	NoDisposition:T16 
+T17	NoDisposition 1340 1352	Atorvastatin
+E17	NoDisposition:T17 
+T18	NoDisposition 1367 1377	Metoprolol
+E18	NoDisposition:T18 
+T20	NoDisposition 1460 1472	ATORVASTATIN
+E20	NoDisposition:T20 
+T21	NoDisposition 1486 1499	CARBAMAZEPINE
+E21	NoDisposition:T21 
+T22	NoDisposition 1526 1537	CLOPIDOGREL
+E22	NoDisposition:T22 
+T23	NoDisposition 1550 1565	DOCUSATE SODIUM
+E23	NoDisposition:T23 
+T24	NoDisposition 1590 1610	LEVOTHYROXINE SODIUM
+E24	NoDisposition:T24 
+T25	NoDisposition 1638 1648	LISINOPRIL
+E25	NoDisposition:T25 
+T26	NoDisposition 1661 1680	METOPROLOL TARTRATE
+E26	NoDisposition:T26 
+T27	NoDisposition 1694 1704	PREGABALIN
+E27	NoDisposition:T27 
+T29	NoDisposition 1772 1782	PREGABALIN
+E29	NoDisposition:T29 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 Start
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 Start
+A16	Temporality E4 Past
+A17	Certainty E5 Certain
+A18	Actor E5 Physician
+A19	Action E5 Start
+A20	Temporality E5 Past
+A21	Certainty E6 Certain
+A22	Actor E6 Physician
+A23	Action E6 Start
+A24	Temporality E6 Past
+T30	NoDisposition 1036 1044	tegretol
+E30	NoDisposition:T30 
+T31	NoDisposition 1062 1071	synthroid
+E31	NoDisposition:T31 
+T32	NoDisposition 1415 1435	ACETYLSALICYLIC ACID
+E32	NoDisposition:T32 
+T33	NoDisposition 1437 1444	ASPIRIN
+E33	NoDisposition:T33 
+T34	NoDisposition 1501 1509	TEGRETOL
+E34	NoDisposition:T34 
+T35	NoDisposition 1567 1573	COLACE
+E35	NoDisposition:T35 
+T36	NoDisposition 1612 1621	SYNTHROID
+E36	NoDisposition:T36 
+T37	NoDisposition 1706 1712	LYRICA
+E37	NoDisposition:T37 
+T38	NoDisposition 1736 1746	PREGABALIN
+E38	NoDisposition:T38 
+T39	NoDisposition 1748 1754	LYRICA
+E39	NoDisposition:T39 
+T40	NoDisposition 1784 1790	LYRICA
+E40	NoDisposition:T40 
+A25	Negation E3 NotNegated
+A26	Negation E6 NotNegated
+A27	Negation E4 NotNegated
+A28	Negation E2 NotNegated
+A29	Negation E1 NotNegated
+A30	Negation E5 NotNegated

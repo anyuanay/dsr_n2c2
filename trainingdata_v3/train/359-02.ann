@@ -1,0 +1,31 @@
+T1	NoDisposition 64 70	toprol
+E1	NoDisposition:T1 
+T2	NoDisposition 85 95	lisinopril
+E2	NoDisposition:T2 
+T3	NoDisposition 362 382	Levothyroxine Sodium
+E3	NoDisposition:T3 
+T4	NoDisposition 429 436	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 438 450	ATORVASTATIN
+E5	NoDisposition:T5 
+T7	Disposition 2785 2795	lisinopril
+E7	Disposition:T7 
+T8	NoDisposition 2954 2967	levothyroxine
+E8	NoDisposition:T8 
+T9	NoDisposition 242 252	LISINOPRIL
+E9	NoDisposition:T9 
+T10	NoDisposition 311 318	DYAZIDE
+E10	NoDisposition:T10 
+T12	NoDisposition 518 521	Asa
+E12	NoDisposition:T12 
+T13	NoDisposition 574 583	Toprol Xl
+E13	NoDisposition:T13 
+T14	NoDisposition 585 622	METOPROLOL Succinate Extended Release
+E14	NoDisposition:T14 
+A1	Certainty E7 Certain
+A2	Actor E7 Physician
+A3	Action E7 Increase
+A4	Temporality E7 Present
+T15	NoDisposition 2861 2868	lipitor
+E15	NoDisposition:T15 
+A5	Negation E7 NotNegated

@@ -1,0 +1,25 @@
+T1	NoDisposition 1035 1042	Norvasc
+E1	NoDisposition:T1 
+T2	NoDisposition 1090 1099	Glucotrol
+E2	NoDisposition:T2 
+T3	NoDisposition 1119 1126	Avandia
+E3	NoDisposition:T3 
+T5	NoDisposition 1231 1238	Aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 1271 1278	aspirin
+E6	NoDisposition:T6 
+T7	NoDisposition 2418 2425	aspirin
+E7	NoDisposition:T7 
+T8	NoDisposition 2465 2472	aspirin
+E8	NoDisposition:T8 
+T9	NoDisposition 1058 1068	Glucophage
+E9	NoDisposition:T9 
+T10	NoDisposition 1208 1215	Lipitor
+E10	NoDisposition:T10 
+T11	Disposition 2357 2360	ARB
+E11	Disposition:T11 
+A1	Certainty E11 Conditional
+A2	Actor E11 Physician
+A3	Action E11 Increase
+A4	Temporality E11 Future
+A5	Negation E11 NotNegated

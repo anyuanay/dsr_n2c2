@@ -1,0 +1,35 @@
+T1	Disposition 119 131	Procardia XL
+E1	Disposition:T1 
+T2	Disposition 264 273	Procardia
+E2	Disposition:T2 
+T4	Disposition 766 779	Nitroglycerin
+E4	Disposition:T4 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Increase
+A8	Temporality E2 Past
+T5	Disposition 751 761	Nifedipine
+E5	Disposition:T5 
+A9	Certainty E5 Certain
+A10	Actor E5 Patient
+A11	Action E5 Stop
+A12	Temporality E5 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Patient
+A15	Action E4 Stop
+A16	Temporality E4 Past
+T6	Disposition 1067 1079	Procardia XL
+E6	Disposition:T6 
+A17	Certainty E6 Certain
+A18	Actor E6 Physician
+A19	Action E6 Unknown
+A20	Temporality E6 Present
+A21	Negation E6 NotNegated
+A22	Negation E4 NotNegated
+A23	Negation E2 NotNegated
+A24	Negation E1 NotNegated
+A25	Negation E5 NotNegated

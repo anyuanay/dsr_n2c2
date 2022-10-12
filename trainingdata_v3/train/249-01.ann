@@ -1,0 +1,10 @@
+T1	NoDisposition 1195 1204	Lopressor
+E1	NoDisposition:T1 
+T2	NoDisposition 1206 1211	Zocor
+E2	NoDisposition:T2 
+T3	NoDisposition 1213 1220	Ecotrin
+E3	NoDisposition:T3 
+T4	NoDisposition 1235 1241	Nexium
+E4	NoDisposition:T4 
+T6	NoDisposition 1222 1229	Effexor
+E6	NoDisposition:T6 

@@ -1,0 +1,40 @@
+T1	NoDisposition 1276 1283	Insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 2230 2235	Zocor
+E2	NoDisposition:T2 
+T3	NoDisposition 2247 2253	Ambien
+E3	NoDisposition:T3 
+T4	NoDisposition 2264 2270	Nexium
+E4	NoDisposition:T4 
+T5	NoDisposition 2281 2284	NPH
+E5	NoDisposition:T5 
+T6	NoDisposition 2314 2319	Vit C
+E6	NoDisposition:T6 
+T7	NoDisposition 2331 2336	Cozar
+E7	NoDisposition:T7 
+T8	NoDisposition 2346 2356	Paroxetine
+E8	NoDisposition:T8 
+T9	NoDisposition 2366 2372	Plavix
+E9	NoDisposition:T9 
+T10	NoDisposition 2382 2388	Lescol
+E10	NoDisposition:T10 
+T11	NoDisposition 2399 2409	Isosorbide
+E11	NoDisposition:T11 
+T12	NoDisposition 2420 2431	Metroprolol
+E12	NoDisposition:T12 
+T13	NoDisposition 2442 2451	Neurontin
+E13	NoDisposition:T13 
+T14	NoDisposition 2463 2475	Nefedical XL
+E14	NoDisposition:T14 
+T15	NoDisposition 2485 2492	Fragmin
+E15	NoDisposition:T15 
+T16	NoDisposition 2301 2308	Ducolax
+E16	NoDisposition:T16 
+T17	NoDisposition 2539 2555	muscle relaxants
+E17	NoDisposition:T17 
+T18	NoDisposition 2560 2573	Amitriptyline
+E18	NoDisposition:T18 
+T19	Undetermined 5021 5026	Ancef
+E19	Undetermined:T19 
+T20	Undetermined 5044 5049	fluid
+E20	Undetermined:T20 

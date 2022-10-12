@@ -1,0 +1,168 @@
+T1	Disposition 1037 1047	amiodarone
+E1	Disposition:T1 
+T2	Disposition 1165 1170	Lasix
+E2	Disposition:T2 
+T3	Disposition 1498 1503	Lasix
+E3	Disposition:T3 
+T4	Disposition 1516 1529	nitroprusside
+E4	Disposition:T4 
+T5	Disposition 2320 2329	Toprol XL
+E5	Disposition:T5 
+T6	NoDisposition 2440 2445	Lasix
+E6	NoDisposition:T6 
+T7	Disposition 5075 5080	Nitro
+E7	Disposition:T7 
+T8	NoDisposition 5156 5176	Acetylsalicylic Acid
+E8	NoDisposition:T8 
+T9	NoDisposition 5178 5185	Aspirin
+E9	NoDisposition:T9 
+T10	NoDisposition 5205 5220	Calcium Citrate
+E10	NoDisposition:T10 
+T11	NoDisposition 5241 5251	Carvedilol
+E11	NoDisposition:T11 
+T14	NoDisposition 5361 5373	Esomeprazole
+E14	NoDisposition:T14 
+T15	NoDisposition 5401 5411	Furosemide
+E15	NoDisposition:T15 
+T16	NoDisposition 5413 5418	Lasix
+E16	NoDisposition:T16 
+T17	NoDisposition 5438 5447	Glipizide
+E17	NoDisposition:T17 
+T18	NoDisposition 5467 5483	Insulin Glargine
+E18	NoDisposition:T18 
+T19	NoDisposition 5515 5525	Lisinopril
+E19	NoDisposition:T19 
+T22	NoDisposition 5602 5616	Spironolactone
+E22	NoDisposition:T22 
+T23	NoDisposition 5618 5627	Aldactone
+E23	NoDisposition:T23 
+T25	Disposition 8129 8137	Coumadin
+E25	Disposition:T25 
+T26	Disposition 8322 8327	Bumex
+E26	Disposition:T26 
+T27	Disposition 8499 8509	lisinopril
+E27	Disposition:T27 
+T28	Disposition 8520 8529	captopril
+E28	Disposition:T28 
+T29	Undetermined 8600 8614	Spironolactone
+E29	Undetermined:T29 
+T30	Disposition 9019 9030	simvastatin
+E30	Disposition:T30 
+T31	Undetermined 9060 9063	ASA
+E31	Undetermined:T31 
+T32	Disposition 9093 9104	simvastatin
+E32	Disposition:T32 
+T34	NoDisposition 9452 9459	insulin
+E34	NoDisposition:T34 
+T35	Undetermined 9528 9534	Lantus
+E35	Undetermined:T35 
+T36	Undetermined 9547 9556	Glipizide
+E36	Undetermined:T36 
+T37	Undetermined 9570 9573	ISS
+E37	Undetermined:T37 
+T38	Disposition 2333 2338	Coreg
+E38	Disposition:T38 
+A1	Certainty E5 Certain
+A2	Actor E5 Physician
+A3	Action E5 Stop
+A4	Temporality E5 Past
+A5	Certainty E38 Certain
+A6	Actor E38 Physician
+A7	Action E38 Start
+A8	Temporality E38 Past
+T39	NoDisposition 5375 5381	Nexium
+E39	NoDisposition:T39 
+T40	NoDisposition 5485 5491	Lantus
+E40	NoDisposition:T40 
+T41	NoDisposition 5564 5572	Fish Oil
+E41	NoDisposition:T41 
+T42	NoDisposition 5772 5779	Digoxin
+E42	NoDisposition:T42 
+A9	Certainty E25 Certain
+A10	Actor E25 Physician
+A11	Action E25 Start
+A12	Temporality E25 Present
+A13	Certainty E26 Certain
+A14	Actor E26 Physician
+A15	Action E26 UniqueDose
+A16	Temporality E26 Present
+A21	Certainty E27 Certain
+A22	Actor E27 Physician
+A23	Action E27 Stop
+A24	Temporality E27 Present
+A25	Certainty E28 Certain
+A26	Actor E28 Physician
+A27	Action E28 Start
+A28	Temporality E28 Present
+T44	Undetermined 8579 8584	Coreg
+E44	Undetermined:T44 
+A37	Certainty E30 Certain
+A38	Actor E30 Physician
+A39	Action E30 Start
+A40	Temporality E30 Present
+T45	Undetermined 9074 9082	Fish Oil
+E45	Undetermined:T45 
+A49	Certainty E32 Certain
+A50	Actor E32 Physician
+A51	Action E32 Start
+A52	Temporality E32 Present
+T46	Undetermined 9853 9863	Omeprazole
+E46	Undetermined:T46 
+T47	Undetermined 9870 9877	Fragmin
+E47	Undetermined:T47 
+T48	NoDisposition 5273 5288	Cholecalciferol
+E48	NoDisposition:T48 
+T49	NoDisposition 5290 5300	Vitamin D3
+E49	NoDisposition:T49 
+T50	NoDisposition 5325 5333	Diazepam
+E50	NoDisposition:T50 
+T51	NoDisposition 5335 5341	Valium
+E51	NoDisposition:T51 
+T52	NoDisposition 5543 5562	Omega-3-Fatty Acids
+E52	NoDisposition:T52 
+T53	NoDisposition 5649 5664	Warfarin Sodium
+E53	NoDisposition:T53 
+T54	NoDisposition 9426 9435	Glipizide
+E54	NoDisposition:T54 
+A75	Certainty E1 Certain
+A76	Actor E1 Physician
+A77	Action E1 UniqueDose
+A78	Temporality E1 Past
+A79	Certainty E2 Certain
+A80	Actor E2 Physician
+A81	Action E2 UniqueDose
+A82	Temporality E2 Past
+A83	Certainty E3 Certain
+A84	Actor E3 Physician
+A85	Action E3 UniqueDose
+A86	Temporality E3 Past
+A87	Certainty E4 Certain
+A88	Actor E4 Physician
+A89	Action E4 UniqueDose
+A90	Temporality E4 Past
+A91	Certainty E7 Certain
+A92	Actor E7 Physician
+A93	Action E7 UniqueDose
+A94	Temporality E7 Past
+T43	Disposition 8322 8327	Bumex
+E43	Disposition:T43 
+A17	Certainty E43 Conditional
+A18	Actor E43 Physician
+A19	Action E43 UniqueDose
+A20	Temporality E43 Future
+T12	NoDisposition 8986 8992	statin
+E12	NoDisposition:T12 
+A95	Negation E3 NotNegated
+A96	Negation E7 NotNegated
+A97	Negation E32 NotNegated
+A98	Negation E4 NotNegated
+A99	Negation E27 NotNegated
+A100	Negation E2 NotNegated
+A101	Negation E26 NotNegated
+A102	Negation E38 NotNegated
+A103	Negation E1 NotNegated
+A104	Negation E5 NotNegated
+A105	Negation E25 NotNegated
+A106	Negation E28 NotNegated
+A107	Negation E30 NotNegated
+A108	Negation E43 NotNegated

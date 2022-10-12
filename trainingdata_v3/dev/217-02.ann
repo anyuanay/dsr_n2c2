@@ -1,0 +1,51 @@
+T1	NoDisposition 697 704	toradol
+E1	NoDisposition:T1 
+T2	NoDisposition 983 1002	Metoprolol TARTRATE
+E2	NoDisposition:T2 
+T3	NoDisposition 1059 1079	ACETYLSALICYLIC ACID
+E3	NoDisposition:T3 
+T4	NoDisposition 1271 1284	nitroglycerin
+E4	NoDisposition:T4 
+T6	NoDisposition 1350 1357	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 1359 1371	ATORVASTATIN
+E7	NoDisposition:T7 
+T9	NoDisposition 1601 1612	Penicillins
+E9	NoDisposition:T9 
+T11	NoDisposition 228 235	lipitor
+E11	NoDisposition:T11 
+T12	Undetermined 391 397	Viagra
+E12	Undetermined:T12 
+T13	NoDisposition 1054 1057	Asa
+E13	NoDisposition:T13 
+T14	NoDisposition 1138 1148	Folic ACID
+E14	NoDisposition:T14 
+T15	NoDisposition 1185 1191	Viagra
+E15	NoDisposition:T15 
+T16	NoDisposition 1193 1203	SILDENAFIL
+E16	NoDisposition:T16 
+T17	NoDisposition 1286 1294	Protonix
+E17	NoDisposition:T17 
+T18	NoDisposition 1296 1308	PANTOPRAZOLE
+E18	NoDisposition:T18 
+T19	NoDisposition 1429 1436	Toradol
+E19	NoDisposition:T19 
+T20	NoDisposition 1438 1460	KETOROLAC TROMETHAMINE
+E20	NoDisposition:T20 
+T21	NoDisposition 1529 1534	Lopid
+E21	NoDisposition:T21 
+T22	NoDisposition 1536 1547	GEMFIBROZIL
+E22	NoDisposition:T22 
+T23	NoDisposition 1635 1648	Erythromycins
+E23	NoDisposition:T23 
+T24	NoDisposition 1957 1964	lipitor
+E24	NoDisposition:T24 
+T25	Disposition 2087 2093	Viagra
+E25	Disposition:T25 
+A1	Certainty E25 Certain
+A2	Actor E25 Physician
+A3	Action E25 Start
+A4	Temporality E25 Present
+T5	NoDisposition 1663 1671	Contrast
+E5	NoDisposition:T5 
+A5	Negation E25 NotNegated

@@ -1,0 +1,104 @@
+T1	NoDisposition 809 816	insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 1246 1259	beta blockade
+E2	NoDisposition:T2 
+T3	NoDisposition 1309 1318	narcotics
+E3	NoDisposition:T3 
+T4	NoDisposition 1495 1506	allopurinol
+E4	NoDisposition:T4 
+T5	Disposition 2073 2085	beta blocker
+E5	Disposition:T5 
+T6	NoDisposition 2233 2243	folic acid
+E6	NoDisposition:T6 
+T8	NoDisposition 2882 2893	allopurinol
+E8	NoDisposition:T8 
+T9	Disposition 2914 2927	amitriptyline
+E9	Disposition:T9 
+T10	NoDisposition 2978 2985	aspirin
+E10	NoDisposition:T10 
+T11	Disposition 3005 3013	Coumadin
+E11	Disposition:T11 
+T13	NoDisposition 3067 3074	digoxin
+E13	NoDisposition:T13 
+T14	NoDisposition 3091 3097	Diovan
+E14	NoDisposition:T14 
+T15	NoDisposition 3111 3122	fenofibrate
+E15	NoDisposition:T15 
+T16	NoDisposition 3136 3144	Fish oil
+E16	NoDisposition:T16 
+T17	NoDisposition 3172 3182	folic acid
+E17	NoDisposition:T17 
+T18	NoDisposition 3195 3203	glucagon
+E18	NoDisposition:T18 
+T19	NoDisposition 3231 3238	Humalog
+E19	NoDisposition:T19 
+T20	NoDisposition 3282 3288	Lantus
+E20	NoDisposition:T20 
+T22	NoDisposition 3406 3419	multivitamins
+E22	NoDisposition:T22 
+T23	NoDisposition 3433 3443	omeprazole
+E23	NoDisposition:T23 
+T24	NoDisposition 3474 3482	percocet
+E24	NoDisposition:T24 
+T25	NoDisposition 3511 3529	potassium chloride
+E25	NoDisposition:T25 
+T26	NoDisposition 3563 3574	pravastatin
+E26	NoDisposition:T26 
+T27	NoDisposition 3610 3619	Toprol XL
+E27	NoDisposition:T27 
+T28	NoDisposition 3634 3639	Zetia
+E28	NoDisposition:T28 
+T29	Undetermined 3690 3708	potassium chloride
+E29	Undetermined:T29 
+T30	Undetermined 3833 3841	percocet
+E30	Undetermined:T30 
+T32	Undetermined 4046 4053	Humalog
+E32	Undetermined:T32 
+T33	Undetermined 4093 4099	Lantus
+E33	Undetermined:T33 
+T34	Undetermined 4210 4219	Toprol XL
+E34	Undetermined:T34 
+T35	Undetermined 4252 4262	omeprazole
+E35	Undetermined:T35 
+T37	Disposition 892 898	Lantus
+E37	Disposition:T37 
+A1	Certainty E37 Certain
+A2	Actor E37 Physician
+A3	Action E37 Decrease
+A4	Temporality E37 Present
+A5	Certainty E5 Certain
+A6	Actor E5 Physician
+A7	Action E5 Increase
+A8	Temporality E5 Past
+T38	NoDisposition 2248 2258	b vitamins
+E38	NoDisposition:T38 
+A9	Certainty E9 Certain
+A10	Actor E9 Physician
+A11	Action E9 Increase
+A12	Temporality E9 Unknown
+A13	Certainty E11 Conditional
+A14	Actor E11 Physician
+A15	Action E11 Unknown
+A16	Temporality E11 Unknown
+T39	NoDisposition 3045 3052	Demadex
+E39	NoDisposition:T39 
+T40	NoDisposition 3261 3266	Imdur
+E40	NoDisposition:T40 
+T41	NoDisposition 3353 3360	Mirapex
+E41	NoDisposition:T41 
+T42	NoDisposition 5319 5327	percocet
+E42	NoDisposition:T42 
+T43	Undetermined 3776 3783	Demadex
+E43	Undetermined:T43 
+T44	Undetermined 3904 3911	Mirapex
+E44	Undetermined:T44 
+T45	Undetermined 3992 4000	Fish oil
+E45	Undetermined:T45 
+T7	NoDisposition 3327 3335	insulins
+E7	NoDisposition:T7 
+T12	NoDisposition 4138 4146	insulins
+E12	NoDisposition:T12 
+A17	Negation E9 NotNegated
+A18	Negation E11 NotNegated
+A19	Negation E5 NotNegated
+A20	Negation E37 NotNegated

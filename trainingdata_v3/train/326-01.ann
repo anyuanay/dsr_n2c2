@@ -1,0 +1,61 @@
+T1	Disposition 297 307	prednisone
+E1	Disposition:T1 
+T2	NoDisposition 477 487	Prednisone
+E2	NoDisposition:T2 
+T3	NoDisposition 518 526	Prilosec
+E3	NoDisposition:T3 
+T4	NoDisposition 536 545	Midodrine
+E4	NoDisposition:T4 
+T5	NoDisposition 573 581	Diltanin
+E5	NoDisposition:T5 
+T6	NoDisposition 597 605	Tegretol
+E6	NoDisposition:T6 
+T7	NoDisposition 715 722	Doxepin
+E7	NoDisposition:T7 
+T8	NoDisposition 734 742	Coumadin
+E8	NoDisposition:T8 
+T9	NoDisposition 749 754	Xanax
+E9	NoDisposition:T9 
+T10	NoDisposition 780 786	Celexa
+E10	NoDisposition:T10 
+T11	NoDisposition 827 832	Cipro
+E11	NoDisposition:T11 
+T12	NoDisposition 834 841	Demerol
+E12	NoDisposition:T12 
+T13	NoDisposition 843 853	penicillin
+E13	NoDisposition:T13 
+T14	NoDisposition 886 891	Vanco
+E14	NoDisposition:T14 
+T15	NoDisposition 952 958	Zyrtec
+E15	NoDisposition:T15 
+T16	NoDisposition 966 973	Flonase
+E16	NoDisposition:T16 
+T17	NoDisposition 997 1006	Albuterol
+E17	NoDisposition:T17 
+T18	NoDisposition 1039 1045	Advair
+E18	NoDisposition:T18 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Decrease
+A4	Temporality E1 Past
+T19	NoDisposition 506 516	Nephrocaps
+E19	NoDisposition:T19 
+T20	NoDisposition 618 625	Renagel
+E20	NoDisposition:T20 
+T21	NoDisposition 703 713	Alternagel
+E21	NoDisposition:T21 
+T22	Disposition 1642 1651	Midodrine
+E22	Disposition:T22 
+A5	Certainty E22 Certain
+A6	Actor E22 Physician
+A7	Action E22 Stop
+A8	Temporality E22 Present
+T23	Disposition 1738 1755	antihypertensives
+E23	Disposition:T23 
+A9	Certainty E23 Hypothetical
+A10	Actor E23 Physician
+A11	Action E23 Start
+A12	Temporality E23 Future
+A13	Negation E1 NotNegated
+A14	Negation E23 NotNegated
+A15	Negation E22 NotNegated

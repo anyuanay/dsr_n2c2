@@ -1,0 +1,76 @@
+T1	NoDisposition 749 753	Tums
+E1	NoDisposition:T1 
+T2	Disposition 1106 1112	zofran
+E2	Disposition:T2 
+T6	NoDisposition 1251 1257	Buspar
+E6	NoDisposition:T6 
+T7	NoDisposition 1272 1282	Clonazepam
+E7	NoDisposition:T7 
+T8	NoDisposition 1296 1303	Effexor
+E8	NoDisposition:T8 
+T12	NoDisposition 1373 1379	Lescol
+E12	NoDisposition:T12 
+T13	NoDisposition 1394 1403	Metformin
+E13	NoDisposition:T13 
+T14	NoDisposition 1419 1428	Tamoxifen
+E14	NoDisposition:T14 
+T18	Undetermined 7133 7139	colace
+E18	Undetermined:T18 
+T20	Undetermined 7380 7386	zofran
+E20	Undetermined:T20 
+T21	Undetermined 7525 7534	tamoxifen
+E21	Undetermined:T21 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+T23	Disposition 1126 1130	MSO4
+E23	Disposition:T23 
+A5	Certainty E23 Certain
+A6	Actor E23 Physician
+A7	Action E23 UniqueDose
+A8	Temporality E23 Past
+T24	NoDisposition 1316 1326	Humulin  n
+E24	NoDisposition:T24 
+T25	NoDisposition 1335 1345	Humulin  n
+E25	NoDisposition:T25 
+T26	NoDisposition 1354 1364	Humulin  r
+E26	NoDisposition:T26 
+T27	NoDisposition 1474 1485	sulfa drugs
+E27	NoDisposition:T27 
+T28	NoDisposition 1498 1523	tricyclic antidepressants
+E28	NoDisposition:T28 
+T29	Undetermined 7141 7148	senokot
+E29	Undetermined:T29 
+T30	Undetermined 7150 7157	miralax
+E30	Undetermined:T30 
+T31	Undetermined 7162 7168	Reglan
+E31	Undetermined:T31 
+T32	Undetermined 7356 7366	Ranitidine
+E32	Undetermined:T32 
+T33	Undetermined 7593 7599	Buspar
+E33	Undetermined:T33 
+T34	Undetermined 7604 7614	clonazepam
+E34	Undetermined:T34 
+T35	Undetermined 7619 7626	effexor
+E35	Undetermined:T35 
+T36	Disposition 7659 7668	metformin
+E36	Disposition:T36 
+T37	Disposition 7671 7678	insulin
+E37	Disposition:T37 
+A9	Certainty E36 Conditional
+A10	Actor E36 Physician
+A11	Action E36 Stop
+A12	Temporality E36 Present
+A13	Certainty E37 Conditional
+A14	Actor E37 Physician
+A15	Action E37 Stop
+A16	Temporality E37 Present
+T38	Undetermined 7785 7795	ranitidine
+E38	Undetermined:T38 
+T3	NoDisposition 6731 6739	narcotic
+E3	NoDisposition:T3 
+A17	Negation E36 NotNegated
+A18	Negation E2 NotNegated
+A19	Negation E37 NotNegated
+A20	Negation E23 NotNegated

@@ -1,0 +1,15 @@
+T2	NoDisposition 988 998	Penicillin
+E2	NoDisposition:T2 
+T3	Undetermined 1814 1821	Ecotrin
+E3	Undetermined:T3 
+T4	Undetermined 1922 1932	Glucophage
+E4	Undetermined:T4 
+T5	Undetermined 2168 2178	lisinopril
+E5	Undetermined:T5 
+T1	Disposition 1772 1785	anticoagulate
+E1	Disposition:T1 
+A1	Certainty E1 Hypothetical
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Present
+A5	Negation E1 NotNegated

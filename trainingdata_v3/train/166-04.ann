@@ -1,0 +1,67 @@
+T2	NoDisposition 2271 2274	ASA
+E2	NoDisposition:T2 
+T3	NoDisposition 2288 2298	lisinopril
+E3	NoDisposition:T3 
+T4	NoDisposition 2312 2320	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 2378 2387	Glipizide
+E5	NoDisposition:T5 
+T6	Disposition 2400 2409	Metformin
+E6	Disposition:T6 
+T7	NoDisposition 2474 2482	Prilosec
+E7	NoDisposition:T7 
+T8	NoDisposition 2510 2517	Lipitor
+E8	NoDisposition:T8 
+T9	NoDisposition 2530 2536	Viagra
+E9	NoDisposition:T9 
+T11	Disposition 4432 4434	BB
+E11	Disposition:T11 
+T12	NoDisposition 4516 4522	statin
+E12	NoDisposition:T12 
+T13	NoDisposition 4524 4527	ASA
+E13	NoDisposition:T13 
+T14	NoDisposition 4529 4534	ACE I
+E14	NoDisposition:T14 
+T16	Disposition 4844 4853	metformin
+E16	Disposition:T16 
+T17	NoDisposition 4892 4901	Glipizide
+E17	NoDisposition:T17 
+T20	NoDisposition 1393 1396	TNG
+E20	NoDisposition:T20 
+T21	NoDisposition 2222 2228	Ambien
+E21	NoDisposition:T21 
+T22	NoDisposition 2922 2928	Viagra
+E22	NoDisposition:T22 
+A1	Certainty E11 Certain
+A2	Actor E11 Physician
+A3	Action E11 Increase
+A4	Temporality E11 Present
+T23	Disposition 4432 4434	BB
+E23	Disposition:T23 
+A5	Certainty E23 Certain
+A6	Negation E23 Negated
+A7	Actor E23 Patient
+A8	Action E23 Increase
+A9	Temporality E23 Past
+T24	NoDisposition 4543 4546	NTG
+E24	NoDisposition:T24 
+A10	Certainty E16 Certain
+A11	Actor E16 Physician
+A12	Action E16 Stop
+A13	Temporality E16 Past
+T25	Disposition 4955 4964	metformin
+E25	Disposition:T25 
+A14	Certainty E25 Certain
+A15	Actor E25 Physician
+A16	Action E25 Stop
+A17	Temporality E25 Past
+T26	Undetermined 4929 4944	regular insulin
+E26	Undetermined:T26 
+A18	Certainty E6 Certain
+A19	Actor E6 Patient
+A20	Action E6 Unknown
+A21	Temporality E6 Past
+A22	Negation E25 NotNegated
+A23	Negation E16 NotNegated
+A24	Negation E6 NotNegated
+A25	Negation E11 NotNegated

@@ -1,0 +1,66 @@
+T1	Disposition 558 565	Norvasc
+E1	Disposition:T1 
+T2	Disposition 570 576	Cozaar
+E2	Disposition:T2 
+T3	NoDisposition 609 618	Glucotrol
+E3	NoDisposition:T3 
+T4	NoDisposition 921 929	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 1325 1330	Aleve
+E5	NoDisposition:T5 
+T9	NoDisposition 1897 1903	Ultram
+E9	NoDisposition:T9 
+T10	NoDisposition 1960 1968	Skelaxin
+E10	NoDisposition:T10 
+T11	NoDisposition 2160 2167	Codeine
+E11	NoDisposition:T11 
+T12	Disposition 3028 3035	Norvasc
+E12	Disposition:T12 
+T13	NoDisposition 2130 2143	Clonidine Hcl
+E13	NoDisposition:T13 
+T14	NoDisposition 623 633	Glucophage
+E14	NoDisposition:T14 
+T15	NoDisposition 1670 1676	Cozaar
+E15	NoDisposition:T15 
+T16	NoDisposition 1678 1686	LOSARTAN
+E16	NoDisposition:T16 
+T17	NoDisposition 1733 1743	Glucophage
+E17	NoDisposition:T17 
+T18	NoDisposition 1745 1754	METFORMIN
+E18	NoDisposition:T18 
+T19	NoDisposition 1786 1793	Norvasc
+E19	NoDisposition:T19 
+T20	NoDisposition 1795 1805	AMLODIPINE
+E20	NoDisposition:T20 
+T21	NoDisposition 1838 1850	Glucotrol XL
+E21	NoDisposition:T21 
+T22	NoDisposition 1852 1864	GLIPIZIDE XL
+E22	NoDisposition:T22 
+T23	NoDisposition 1905 1913	TRAMADOL
+E23	NoDisposition:T23 
+T24	NoDisposition 1970 1980	METAXALONE
+E24	NoDisposition:T24 
+A1	Certainty E12 Certain
+A2	Actor E12 Physician
+A3	Action E12 Start
+A4	Temporality E12 Present
+T25	Disposition 3040 3046	Cozaar
+E25	Disposition:T25 
+A5	Certainty E25 Certain
+A6	Actor E25 Physician
+A7	Action E25 Start
+A8	Temporality E25 Present
+T26	NoDisposition 3218 3228	Glucophage
+E26	NoDisposition:T26 
+A9	Certainty E1 Certain
+A10	Actor E1 Patient
+A11	Action E1 Stop
+A12	Temporality E1 Past
+A13	Certainty E2 Certain
+A14	Actor E2 Patient
+A15	Action E2 Stop
+A16	Temporality E2 Past
+A17	Negation E1 NotNegated
+A18	Negation E2 NotNegated
+A19	Negation E25 NotNegated
+A20	Negation E12 NotNegated

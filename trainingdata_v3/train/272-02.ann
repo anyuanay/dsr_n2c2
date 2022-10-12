@@ -1,0 +1,81 @@
+T1	Disposition 281 289	levoflox
+E1	Disposition:T1 
+T2	Disposition 298 307	Glyburide
+E2	Disposition:T2 
+T3	NoDisposition 334 353	hydrochlorothiazide
+E3	NoDisposition:T3 
+T4	NoDisposition 366 376	Lovastatin
+E4	NoDisposition:T4 
+T5	NoDisposition 389 399	fosinopril
+E5	NoDisposition:T5 
+T6	NoDisposition 412 424	verapamil SR
+E6	NoDisposition:T6 
+T7	NoDisposition 438 441	ASA
+E7	NoDisposition:T7 
+T8	NoDisposition 450 460	metoprolol
+E8	NoDisposition:T8 
+T9	NoDisposition 489 499	Glucophage
+E9	NoDisposition:T9 
+T10	NoDisposition 683 694	antibiotics
+E10	NoDisposition:T10 
+T11	Disposition 1371 1381	antibiotic
+E11	Disposition:T11 
+T12	Disposition 2015 2024	glyburide
+E12	Disposition:T12 
+T13	Disposition 3471 3477	niacin
+E13	Disposition:T13 
+T14	Disposition 3504 3511	Mevacor
+E14	Disposition:T14 
+T15	Disposition 233 239	Flagyl
+E15	Disposition:T15 
+A1	Certainty E15 Certain
+A2	Actor E15 Physician
+A3	Action E15 Stop
+A4	Temporality E15 Past
+A5	Certainty E1 Certain
+A6	Actor E1 Physician
+A7	Action E1 Stop
+A8	Temporality E1 Past
+A9	Certainty E2 Certain
+A10	Actor E2 Physician
+A11	Action E2 Stop
+A12	Temporality E2 Past
+A13	Certainty E11 Certain
+A14	Actor E11 Physician
+A15	Action E11 Stop
+A16	Temporality E11 Past
+T16	Disposition 1804 1813	glyburide
+E16	Disposition:T16 
+A17	Certainty E16 Certain
+A18	Actor E16 Physician
+A19	Action E16 Stop
+A20	Temporality E16 Past
+A21	Certainty E12 Conditional
+A22	Actor E12 Physician
+A23	Action E12 Start
+A24	Temporality E12 Future
+A25	Certainty E14 Hypothetical
+A26	Actor E14 Physician
+A27	Action E14 Stop
+A28	Temporality E14 Present
+T17	Disposition 3515 3522	Lipitor
+E17	Disposition:T17 
+A29	Certainty E17 Hypothetical
+A30	Actor E17 Physician
+A31	Action E17 Start
+A32	Temporality E17 Present
+A33	Certainty E13 Hypothetical
+A34	Actor E13 Physician
+A35	Action E13 Start
+A36	Temporality E13 Present
+T18	NoDisposition 1008 1018	antibiotic
+E18	NoDisposition:T18 
+A37	Negation E13 NotNegated
+A38	Negation E12 NotNegated
+A39	Negation E16 NotNegated
+A40	Negation E15 NotNegated
+A41	Negation E2 NotNegated
+A42	Negation E1 NotNegated
+A43	Negation E11 NotNegated
+A44	Negation E14 NotNegated
+A45	Negation E17 NotNegated

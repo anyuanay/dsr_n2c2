@@ -1,0 +1,28 @@
+T2	NoDisposition 1103 1112	Albuterol
+E2	NoDisposition:T2 
+T3	NoDisposition 1115 1118	ASA
+E3	NoDisposition:T3 
+T4	NoDisposition 1125 1131	Celexa
+E4	NoDisposition:T4 
+T5	NoDisposition 1137 1143	Plavix
+E5	NoDisposition:T5 
+T6	NoDisposition 1149 1155	Nexium
+E6	NoDisposition:T6 
+T7	NoDisposition 1165 1175	Furosemide
+E7	NoDisposition:T7 
+T8	NoDisposition 1185 1191	Motrin
+E8	NoDisposition:T8 
+T9	NoDisposition 1226 1236	Metoprolol
+E9	NoDisposition:T9 
+T10	NoDisposition 1248 1251	KCL
+E10	NoDisposition:T10 
+T11	NoDisposition 1260 1265	Zocor
+E11	NoDisposition:T11 
+T12	Undetermined 3014 3019	Lasix
+E12	Undetermined:T12 
+T13	Undetermined 2901 2907	Flomax
+E13	Undetermined:T13 
+T14	NoDisposition 1202 1217	Regular insulin
+E14	NoDisposition:T14 
+T15	NoDisposition 1484 1492	percoset
+E15	NoDisposition:T15 

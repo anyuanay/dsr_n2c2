@@ -1,0 +1,56 @@
+T2	NoDisposition 763 771	Atenolol
+E2	NoDisposition:T2 
+T4	NoDisposition 818 828	Lisinopril
+E4	NoDisposition:T4 
+T6	NoDisposition 855 866	Simvastatin
+E6	NoDisposition:T6 
+T9	NoDisposition 937 943	Nexium
+E9	NoDisposition:T9 
+T10	NoDisposition 954 959	Zocor
+E10	NoDisposition:T10 
+T11	NoDisposition 971 977	Cozaar
+E11	NoDisposition:T11 
+T12	Disposition 989 993	HCTZ
+E12	Disposition:T12 
+T13	NoDisposition 1058 1067	Metamucil
+E13	NoDisposition:T13 
+T14	NoDisposition 1076 1083	enulose
+E14	NoDisposition:T14 
+T15	Undetermined 1998 2007	Metamucil
+E15	Undetermined:T15 
+T16	NoDisposition 105 112	avodart
+E16	NoDisposition:T16 
+T17	NoDisposition 117 124	enablex
+E17	NoDisposition:T17 
+T18	NoDisposition 303 310	enulose
+E18	NoDisposition:T18 
+T19	NoDisposition 321 330	metamucil
+E19	NoDisposition:T19 
+T20	NoDisposition 782 792	Glucophage
+E20	NoDisposition:T20 
+T21	NoDisposition 794 803	metformin
+E21	NoDisposition:T21 
+T22	NoDisposition 839 846	Dovonex
+E22	NoDisposition:T22 
+T23	NoDisposition 877 885	Vesicare
+E23	NoDisposition:T23 
+T24	NoDisposition 894 914	Oxybutynin, chloride
+E24	NoDisposition:T24 
+T25	NoDisposition 925 930	Aleve
+E25	NoDisposition:T25 
+A1	Certainty E12 Certain
+A2	Actor E12 Physician
+A3	Action E12 Start
+A4	Temporality E12 Past
+T26	Disposition 989 993	HCTZ
+E26	Disposition:T26 
+A5	Certainty E26 Certain
+A6	Negation E26 Negated
+A7	Actor E26 Patient
+A8	Action E26 Start
+A9	Temporality E26 Past
+T27	NoDisposition 1174 1195	psoriasis medications
+E27	NoDisposition:T27 
+T28	Undetermined 2071 2078	Enulose
+E28	Undetermined:T28 
+A10	Negation E12 NotNegated

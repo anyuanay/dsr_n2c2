@@ -1,0 +1,25 @@
+T1	NoDisposition 1061 1068	aspirin
+E1	NoDisposition:T1 
+T3	Disposition 1768 1777	Lopressor
+E3	Disposition:T3 
+T4	Disposition 1886 1893	aspirin
+E4	Disposition:T4 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 Start
+A4	Temporality E3 Present
+T5	Disposition 1768 1777	Lopressor
+E5	Disposition:T5 
+A5	Certainty E5 Conditional
+A6	Actor E5 Physician
+A7	Action E5 Stop
+A8	Temporality E5 Future
+A9	Certainty E4 Certain
+A10	Actor E4 Physician
+A11	Action E4 Increase
+A12	Temporality E4 Present
+T6	NoDisposition 1073 1079	Plavix
+E6	NoDisposition:T6 
+A13	Negation E3 NotNegated
+A14	Negation E5 NotNegated
+A15	Negation E4 NotNegated

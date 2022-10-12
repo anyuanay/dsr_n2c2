@@ -1,0 +1,83 @@
+T1	Disposition 971 975	Levo
+E1	Disposition:T1 
+T3	NoDisposition 1602 1606	CHOP
+E3	NoDisposition:T3 
+T4	NoDisposition 1645 1656	vincristine
+E4	NoDisposition:T4 
+T5	NoDisposition 1766 1773	Zestril
+E5	NoDisposition:T5 
+T6	NoDisposition 1787 1796	lopressor
+E6	NoDisposition:T6 
+T7	NoDisposition 1807 1812	lasix
+E7	NoDisposition:T7 
+T8	NoDisposition 1822 1832	Omeprozole
+E8	NoDisposition:T8 
+T9	NoDisposition 1842 1846	HCTZ
+E9	NoDisposition:T9 
+T10	NoDisposition 1860 1874	PYRIDOXINE HCL
+E10	NoDisposition:T10 
+T11	NoDisposition 1970 1991	CLOBETASOL PROPIONATE
+E11	NoDisposition:T11 
+T12	NoDisposition 2026 2033	aspirin
+E12	NoDisposition:T12 
+T13	Disposition 4709 4712	ACE
+E13	Disposition:T13 
+T14	Disposition 4714 4718	hctz
+E14	Disposition:T14 
+T15	Disposition 4723 4728	lasix
+E15	Disposition:T15 
+T16	Disposition 4827 4839	levofloxicin
+E16	Disposition:T16 
+T17	NoDisposition 5086 5091	chemo
+E17	NoDisposition:T17 
+T18	Disposition 5238 5240	NS
+E18	Disposition:T18 
+T19	NoDisposition 5324 5328	Levo
+E19	NoDisposition:T19 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+T20	NoDisposition 1889 1898	Proventil
+E20	NoDisposition:T20 
+T21	NoDisposition 1921 1928	NIASPAN
+E21	NoDisposition:T21 
+T22	NoDisposition 1945 1953	CETAPHIL
+E22	NoDisposition:T22 
+T23	NoDisposition 2052 2059	Demerol
+E23	NoDisposition:T23 
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 Stop
+A8	Temporality E13 Present
+A9	Certainty E14 Certain
+A10	Actor E14 Physician
+A11	Action E14 Stop
+A12	Temporality E14 Present
+A13	Certainty E15 Certain
+A14	Actor E15 Physician
+A15	Action E15 Stop
+A16	Temporality E15 Present
+A17	Certainty E16 Certain
+A18	Actor E16 Physician
+A19	Action E16 Start
+A20	Temporality E16 Present
+A21	Certainty E18 Certain
+A22	Actor E18 Physician
+A23	Action E18 UniqueDose
+A24	Temporality E18 Present
+T24	NoDisposition 5466 5475	lopressor
+E24	NoDisposition:T24 
+T25	Disposition 5536 5550	GI prophylaxis
+E25	Disposition:T25 
+A25	Certainty E25 Certain
+A26	Actor E25 Physician
+A27	Action E25 Start
+A28	Temporality E25 Present
+A29	Negation E13 NotNegated
+A30	Negation E16 NotNegated
+A31	Negation E18 NotNegated
+A32	Negation E15 NotNegated
+A33	Negation E1 NotNegated
+A34	Negation E25 NotNegated
+A35	Negation E14 NotNegated

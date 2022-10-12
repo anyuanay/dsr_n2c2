@@ -1,0 +1,16 @@
+T1	NoDisposition 1501 1507	Plavix
+E1	NoDisposition:T1 
+T2	NoDisposition 2323 2331	Dilantin
+E2	NoDisposition:T2 
+T3	NoDisposition 2333 2342	glipizide
+E3	NoDisposition:T3 
+T4	NoDisposition 2356 2362	Plavix
+E4	NoDisposition:T4 
+T5	NoDisposition 2365 2373	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 2375 2381	Cozaar
+E6	NoDisposition:T6 
+T7	NoDisposition 2387 2394	Lipitor
+E7	NoDisposition:T7 
+T9	NoDisposition 2344 2354	Glucophage
+E9	NoDisposition:T9 

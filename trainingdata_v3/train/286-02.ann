@@ -1,0 +1,6 @@
+T1	NoDisposition 637 646	Lopressor
+E1	NoDisposition:T1 
+T2	NoDisposition 648 655	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 657 666	Procardia
+E3	NoDisposition:T3 

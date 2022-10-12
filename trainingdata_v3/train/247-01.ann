@@ -1,0 +1,158 @@
+T1	Disposition 755 758	NTG
+E1	Disposition:T1 
+T2	Disposition 899 906	aspirin
+E2	Disposition:T2 
+T3	Disposition 908 917	lopressor
+E3	Disposition:T3 
+T4	Disposition 919 924	lasix
+E4	Disposition:T4 
+T5	Disposition 926 933	heparin
+E5	Disposition:T5 
+T6	Disposition 939 949	integrelin
+E6	Disposition:T6 
+T7	Disposition 1113 1118	lasix
+E7	Disposition:T7 
+T8	NoDisposition 1836 1846	Lisinopril
+E8	NoDisposition:T8 
+T9	NoDisposition 1875 1884	Glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 1965 1974	Lopressor
+E10	NoDisposition:T10 
+T11	NoDisposition 1990 1999	Captopril
+E11	NoDisposition:T11 
+T12	NoDisposition 2015 2022	Lipitor
+E12	NoDisposition:T12 
+T13	NoDisposition 2035 2041	Zantac
+E13	NoDisposition:T13 
+T14	NoDisposition 2056 2062	Colace
+E14	NoDisposition:T14 
+T15	NoDisposition 2077 2084	Insulin
+E15	NoDisposition:T15 
+T16	NoDisposition 2088 2091	ASA
+E16	NoDisposition:T16 
+T18	NoDisposition 2123 2130	Heparin
+E18	NoDisposition:T18 
+T20	Disposition 7266 7278	beta-blocker
+E20	Disposition:T20 
+T21	NoDisposition 7773 7776	ASA
+E21	NoDisposition:T21 
+T22	NoDisposition 7777 7779	BB
+E22	NoDisposition:T22 
+T23	NoDisposition 7780 7786	Statin
+E23	NoDisposition:T23 
+T24	NoDisposition 7787 7794	Heparin
+E24	NoDisposition:T24 
+T25	Disposition 7808 7814	Plavix
+E25	Disposition:T25 
+T26	Undetermined 8019 8024	Lasix
+E26	Undetermined:T26 
+T27	Disposition 8062 8071	captopril
+E27	Disposition:T27 
+T29	Undetermined 8566 8570	RISS
+E29	Undetermined:T29 
+T30	Disposition 8595 8601	Zantac
+E30	Disposition:T30 
+T31	Disposition 8609 8615	Nexium
+E31	Disposition:T31 
+T32	NoDisposition 8621 8628	Heparin
+E32	NoDisposition:T32 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 Start
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 Start
+A16	Temporality E4 Past
+A17	Certainty E5 Certain
+A18	Actor E5 Physician
+A19	Action E5 Start
+A20	Temporality E5 Past
+A21	Certainty E6 Certain
+A22	Actor E6 Physician
+A23	Action E6 Start
+A24	Temporality E6 Past
+A25	Certainty E7 Certain
+A26	Actor E7 Physician
+A27	Action E7 Start
+A28	Temporality E7 Past
+T33	Disposition 1607 1612	MgSO4
+E33	Disposition:T33 
+A29	Certainty E33 Certain
+A30	Actor E33 Physician
+A31	Action E33 UniqueDose
+A32	Temporality E33 Past
+T34	Disposition 1624 1627	KCL
+E34	Disposition:T34 
+A33	Certainty E34 Certain
+A34	Actor E34 Physician
+A35	Action E34 UniqueDose
+A36	Temporality E34 Past
+T35	NoDisposition 2105 2110	Lasix
+E35	NoDisposition:T35 
+A37	Certainty E20 Certain
+A38	Actor E20 Physician
+A39	Action E20 Increase
+A40	Temporality E20 Present
+T36	Disposition 7266 7278	beta-blocker
+E36	Disposition:T36 
+A41	Certainty E36 Certain
+A42	Actor E36 Physician
+A43	Action E36 Increase
+A44	Temporality E36 Future
+T37	Undetermined 7373 7374	K
+E37	Undetermined:T37 
+T38	Undetermined 7376 7378	Mg
+E38	Undetermined:T38 
+T39	Disposition 7531 7541	amiodarone
+E39	Disposition:T39 
+A45	Certainty E39 Hypothetical
+A46	Actor E39 Physician
+A47	Action E39 Start
+A48	Temporality E39 Future
+A49	Certainty E25 Certain
+A50	Actor E25 Physician
+A51	Action E25 Stop
+A52	Temporality E25 Present
+A53	Certainty E27 Certain
+A54	Actor E27 Physician
+A55	Action E27 Start
+A56	Temporality E27 Past
+T40	Undetermined 8261 8266	Lasix
+E40	Undetermined:T40 
+T41	NoDisposition 8319 8323	ACEi
+E41	NoDisposition:T41 
+A57	Certainty E30 Certain
+A58	Actor E30 Physician
+A59	Action E30 Stop
+A60	Temporality E30 Present
+A61	Certainty E31 Certain
+A62	Actor E31 Physician
+A63	Action E31 Start
+A64	Temporality E31 Present
+T17	NoDisposition 1393 1399	oxygen
+E17	NoDisposition:T17 
+A65	Negation E34 NotNegated
+A66	Negation E39 NotNegated
+A67	Negation E33 NotNegated
+A68	Negation E3 NotNegated
+A69	Negation E6 NotNegated
+A70	Negation E4 NotNegated
+A71	Negation E20 NotNegated
+A72	Negation E2 NotNegated
+A73	Negation E27 NotNegated
+A74	Negation E31 NotNegated
+A75	Negation E30 NotNegated
+A76	Negation E1 NotNegated
+A77	Negation E36 NotNegated
+A78	Negation E5 NotNegated
+A79	Negation E25 NotNegated
+A80	Negation E7 NotNegated

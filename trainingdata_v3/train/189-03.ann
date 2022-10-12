@@ -1,0 +1,89 @@
+T2	Disposition 1571 1575	HCTZ
+E2	Disposition:T2 
+T3	NoDisposition 1650 1670	ACETYLSALICYLIC ACID
+E3	NoDisposition:T3 
+T4	NoDisposition 1717 1725	Atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 1762 1776	Cyanocobalamin
+E5	NoDisposition:T5 
+T6	NoDisposition 1985 1993	Flexeril
+E6	NoDisposition:T6 
+T7	NoDisposition 1995 2014	CYCLOBENZAPRINE HCL
+E7	NoDisposition:T7 
+T9	NoDisposition 2155 2167	Ketoconazole
+E9	NoDisposition:T9 
+T10	NoDisposition 2225 2235	Lisinopril
+E10	NoDisposition:T10 
+T11	NoDisposition 2255 2263	Metrogel
+E11	NoDisposition:T11 
+T13	NoDisposition 2420 2431	Simvastatin
+E13	NoDisposition:T13 
+T16	Disposition 2601 2610	Zithromax
+E16	Disposition:T16 
+T17	Disposition 2612 2624	AZITHROMYCIN
+E17	Disposition:T17 
+T23	NoDisposition 826 830	TUMS
+E23	NoDisposition:T23 
+T24	Disposition 1278 1296	hypoglycemic agent
+E24	Disposition:T24 
+A1	Certainty E24 Certain
+A2	Actor E24 Physician
+A3	Action E24 Start
+A4	Temporality E24 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Stop
+A8	Temporality E2 Past
+T25	NoDisposition 1645 1648	Asa
+E25	NoDisposition:T25 
+T26	NoDisposition 2110 2119	Glyburide
+E26	NoDisposition:T26 
+T27	NoDisposition 2268 2281	METRONIDAZOLE
+E27	NoDisposition:T27 
+T28	Disposition 2322 2329	Mucinex
+E28	Disposition:T28 
+A9	Certainty E28 Conditional
+A10	Actor E28 Physician
+A11	Action E28 Stop
+A12	Temporality E28 Unknown
+T29	Disposition 2475 2485	SILDENAFIL
+E29	Disposition:T29 
+T31	Disposition 2467 2473	Viagra
+E31	Disposition:T31 
+A13	Certainty E31 Conditional
+A14	Actor E31 Physician
+A15	Action E31 Stop
+A16	Temporality E31 Unknown
+A17	Certainty E29 Conditional
+A18	Actor E29 Physician
+A19	Action E29 Stop
+A20	Temporality E29 Unknown
+A21	Certainty E16 Certain
+A22	Actor E16 Physician
+A23	Action E16 Decrease
+A24	Temporality E16 Unknown
+T14	Disposition 2601 2610	Zithromax
+E14	Disposition:T14 
+A25	Certainty E14 Certain
+A26	Actor E14 Physician
+A27	Action E14 Stop
+A28	Temporality E14 Unknown
+A29	Certainty E17 Certain
+A30	Actor E17 Physician
+A31	Action E17 Decrease
+A32	Temporality E17 Unknown
+T30	Disposition 2612 2624	AZITHROMYCIN
+E30	Disposition:T30 
+A33	Certainty E30 Certain
+A34	Actor E30 Physician
+A35	Action E30 Stop
+A36	Temporality E30 Unknown
+A37	Negation E16 NotNegated
+A38	Negation E29 NotNegated
+A39	Negation E2 NotNegated
+A40	Negation E31 NotNegated
+A41	Negation E28 NotNegated
+A42	Negation E24 NotNegated
+A43	Negation E14 NotNegated
+A44	Negation E30 NotNegated
+A45	Negation E17 NotNegated

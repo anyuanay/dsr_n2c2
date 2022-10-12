@@ -1,0 +1,198 @@
+T1	Disposition 161 169	atenolol
+E1	Disposition:T1 
+T3	Disposition 2196 2203	Norvasc
+E3	Disposition:T3 
+T4	Disposition 2324 2334	Lisinopril
+E4	Disposition:T4 
+T5	Disposition 2366 2371	lasix
+E5	Disposition:T5 
+T6	Disposition 2495 2505	Irbesartan
+E6	Disposition:T6 
+T7	Disposition 3314 3323	METFORMIN
+E7	Disposition:T7 
+T8	NoDisposition 3697 3701	ACEI
+E8	NoDisposition:T8 
+T9	NoDisposition 3768 3777	Metformin
+E9	NoDisposition:T9 
+T10	NoDisposition 3844 3853	Metformin
+E10	NoDisposition:T10 
+T11	Disposition 4009 4018	glyburide
+E11	Disposition:T11 
+T13	Disposition 4120 4129	Glipizide
+E13	Disposition:T13 
+T14	Disposition 4148 4155	insulin
+E14	Disposition:T14 
+T15	Disposition 4631 4641	FUROSEMIDE
+E15	Disposition:T15 
+T16	NoDisposition 7634 7641	aspirin
+E16	NoDisposition:T16 
+T18	NoDisposition 7795 7807	ATORVASTATIN
+E18	NoDisposition:T18 
+T19	NoDisposition 7866 7872	Avapro
+E19	NoDisposition:T19 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+T46	Disposition 161 169	atenolol
+E21	Disposition:T46 
+A5	Certainty E21 Certain
+A6	Actor E21 Physician
+A7	Action E21 Stop
+A8	Temporality E21 Past
+T21	Disposition 235 240	lasix
+E22	Disposition:T21 
+A9	Certainty E22 Certain
+A10	Actor E22 Physician
+A11	Action E22 Increase
+A12	Temporality E22 Past
+T22	Disposition 2180 2192	Procardia XL
+E23	Disposition:T22 
+A13	Certainty E23 Certain
+A14	Actor E23 Physician
+A15	Action E23 Stop
+A16	Temporality E23 Past
+A17	Certainty E3 Certain
+A18	Actor E3 Physician
+A19	Action E3 Start
+A20	Temporality E3 Past
+T23	Disposition 2142 2149	Cardura
+E24	Disposition:T23 
+A21	Certainty E24 Certain
+A22	Actor E24 Physician
+A23	Action E24 Increase
+A24	Temporality E24 Past
+A25	Certainty E4 Certain
+A26	Actor E4 Physician
+A27	Action E4 Increase
+A28	Temporality E4 Past
+A29	Certainty E5 Certain
+A30	Actor E5 Physician
+A31	Action E5 Increase
+A32	Temporality E5 Past
+T24	Disposition 2465 2475	lisinopril
+E25	Disposition:T24 
+A33	Certainty E25 Certain
+A34	Actor E25 Physician
+A35	Action E25 Decrease
+A36	Temporality E25 Past
+A37	Certainty E6 Certain
+A38	Actor E6 Physician
+A39	Action E6 Start
+A40	Temporality E6 Past
+A41	Certainty E7 Certain
+A42	Actor E7 Physician
+A43	Action E7 Start
+A44	Temporality E7 Past
+T25	Disposition 3569 3578	METFORMIN
+E26	Disposition:T25 
+A45	Certainty E26 Certain
+A46	Actor E26 Physician
+A47	Action E26 Start
+A48	Temporality E26 Past
+A49	Certainty E11 Certain
+A50	Actor E11 Physician
+A51	Action E11 Start
+A52	Temporality E11 Past
+T47	Disposition 4009 4018	glyburide
+E27	Disposition:T47 
+T26	Disposition 4081 4090	metformin
+E28	Disposition:T26 
+A57	Certainty E28 Certain
+A58	Actor E28 Physician
+A59	Action E28 Stop
+A60	Temporality E28 Past
+A61	Certainty E13 Certain
+A62	Actor E13 Physician
+A63	Action E13 Increase
+A64	Temporality E13 Past
+T27	NoDisposition 4543 4553	FUROSEMIDE
+E29	NoDisposition:T27 
+T28	Disposition 5146 5157	ALLOPURINOL
+E30	Disposition:T28 
+A65	Certainty E30 Conditional
+A66	Actor E30 Physician
+A67	Action E30 Start
+A68	Temporality E30 Past
+T29	Disposition 5086 5096	COLCHICINE
+E31	Disposition:T29 
+T30	Disposition 5279 5289	COLCHICINE
+E32	Disposition:T30 
+T31	NoDisposition 5619 5626	PROSCAR
+E33	NoDisposition:T31 
+T32	NoDisposition 7590 7597	Norvasc
+E34	NoDisposition:T32 
+T33	NoDisposition 7661 7679	Potassium chloride
+E35	NoDisposition:T33 
+T34	NoDisposition 7702 7712	lisinopril
+E36	NoDisposition:T34 
+T35	NoDisposition 7742 7753	FINASTERIDE
+E37	NoDisposition:T35 
+T36	NoDisposition 7733 7740	PROSCAR
+E38	NoDisposition:T36 
+T37	NoDisposition 7786 7793	LIPITOR
+E39	NoDisposition:T37 
+T38	NoDisposition 7874 7884	IRBESARTAN
+E40	NoDisposition:T38 
+T39	NoDisposition 7832 7842	colchicine
+E41	NoDisposition:T39 
+T40	NoDisposition 7925 7936	ALLOPURINOL
+E42	NoDisposition:T40 
+T41	NoDisposition 7973 7983	furosemide
+E43	NoDisposition:T41 
+T42	NoDisposition 8008 8015	Cardura
+E44	NoDisposition:T42 
+T43	NoDisposition 8036 8045	GLIPIZIDE
+E45	NoDisposition:T43 
+A73	Certainty E14 Certain
+A74	Negation E14 Negated
+A75	Actor E14 Physician
+A76	Action E14 Start
+A77	Temporality E14 Past
+T2	Disposition 4757 4767	FUROSEMIDE
+E2	Disposition:T2 
+A78	Certainty E2 Certain
+A79	Actor E2 Physician
+A80	Action E2 Decrease
+A81	Temporality E2 Past
+A82	Certainty E15 Hypothetical
+A83	Actor E15 Physician
+A84	Action E15 Decrease
+A85	Temporality E15 Past
+T44	NoDisposition 5379 5385	atorva
+E46	NoDisposition:T44 
+T45	NoDisposition 5517 5524	CARDURA
+E47	NoDisposition:T45 
+A53	Certainty E27 Certain
+A54	Actor E27 Physician
+A55	Action E27 Decrease
+A56	Temporality E27 Past
+A69	Certainty E31 Certain
+A70	Actor E31 Physician
+A71	Action E31 Start
+A72	Temporality E31 Past
+A86	Certainty E32 Certain
+A87	Actor E32 Physician
+A88	Action E32 Decrease
+A89	Temporality E32 Unknown
+A90	Negation E7 NotNegated
+A91	Negation E22 NotNegated
+A92	Negation E32 NotNegated
+A93	Negation E4 NotNegated
+A94	Negation E26 NotNegated
+A95	Negation E31 NotNegated
+A96	Negation E28 NotNegated
+A97	Negation E23 NotNegated
+A98	Negation E13 NotNegated
+A99	Negation E3 NotNegated
+A100	Negation E2 NotNegated
+A101	Negation E27 NotNegated
+A102	Negation E30 NotNegated
+A103	Negation E1 NotNegated
+A104	Negation E5 NotNegated
+A105	Negation E25 NotNegated
+A106	Negation E6 NotNegated
+A107	Negation E15 NotNegated
+A108	Negation E21 NotNegated
+A109	Negation E24 NotNegated
+A110	Negation E11 NotNegated

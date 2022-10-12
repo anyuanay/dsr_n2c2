@@ -1,0 +1,25 @@
+T1	NoDisposition 1474 1481	Aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 1495 1503	atenolol
+E2	NoDisposition:T2 
+T3	NoDisposition 1517 1527	lisinopril
+E3	NoDisposition:T3 
+T4	NoDisposition 1540 1547	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 1562 1571	metformin
+E5	NoDisposition:T5 
+T6	NoDisposition 1588 1597	Micronase
+E6	NoDisposition:T6 
+T7	NoDisposition 1599 1611	fluocinolone
+E7	NoDisposition:T7 
+T8	NoDisposition 1613 1621	Protonix
+E8	NoDisposition:T8 
+T9	Disposition 3035 3042	Lipitor
+E9	Disposition:T9 
+T10	NoDisposition 1627 1634	Allegra
+E10	NoDisposition:T10 
+A1	Certainty E9 Certain
+A2	Actor E9 Physician
+A3	Action E9 Increase
+A4	Temporality E9 Present
+A5	Negation E9 NotNegated

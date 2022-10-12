@@ -1,0 +1,18 @@
+T2	NoDisposition 1103 1110	Norvasc
+E2	NoDisposition:T2 
+T3	NoDisposition 1125 1132	Lipitor
+E3	NoDisposition:T3 
+T4	NoDisposition 1148 1158	prednisone
+E4	NoDisposition:T4 
+T5	NoDisposition 1191 1202	Insulin NPH
+E5	NoDisposition:T5 
+T7	Undetermined 2253 2257	Vanc
+E7	Undetermined:T7 
+T8	Undetermined 2258 2262	Gent
+E8	Undetermined:T8 
+T9	NoDisposition 1168 1174	Epogen
+E9	NoDisposition:T9 
+T10	NoDisposition 1217 1224	regular
+E10	NoDisposition:T10 
+T11	NoDisposition 1089 1094	Lasix
+E11	NoDisposition:T11 

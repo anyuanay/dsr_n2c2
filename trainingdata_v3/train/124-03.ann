@@ -1,0 +1,26 @@
+T1	NoDisposition 453 464	Cyclosporin
+E1	NoDisposition:T1 
+T2	NoDisposition 477 487	prednisone
+E2	NoDisposition:T2 
+T3	NoDisposition 496 502	Imuran
+E3	NoDisposition:T3 
+T4	NoDisposition 513 524	Cardizem CD
+E4	NoDisposition:T4 
+T5	NoDisposition 535 542	Cardura
+E5	NoDisposition:T5 
+T6	NoDisposition 555 564	Pravachol
+E6	NoDisposition:T6 
+T9	NoDisposition 642 647	Paxil
+E9	NoDisposition:T9 
+T10	NoDisposition 658 669	NPH Insulin
+E10	NoDisposition:T10 
+T11	NoDisposition 578 582	Axid
+E11	NoDisposition:T11 
+T12	NoDisposition 595 602	Calcium
+E12	NoDisposition:T12 
+T13	NoDisposition 604 613	vitamin C
+E13	NoDisposition:T13 
+T14	NoDisposition 618 619	D
+E14	NoDisposition:T14 
+T15	NoDisposition 621 631	Mag. Oxide
+E15	NoDisposition:T15 

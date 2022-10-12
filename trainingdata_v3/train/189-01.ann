@@ -1,0 +1,16 @@
+T2	NoDisposition 471 479	ATENOLOL
+E2	NoDisposition:T2 
+T3	NoDisposition 507 517	LISINOPRIL
+E3	NoDisposition:T3 
+T4	NoDisposition 545 552	DYAZIDE
+E4	NoDisposition:T4 
+T5	NoDisposition 574 583	METFORMIN
+E5	NoDisposition:T5 
+T6	NoDisposition 612 621	GLYBURIDE
+E6	NoDisposition:T6 
+T7	NoDisposition 648 651	ASA
+E7	NoDisposition:T7 
+T8	NoDisposition 653 673	ACETYLSALICYLIC ACID
+E8	NoDisposition:T8 
+T9	NoDisposition 702 712	CLOBETASOL
+E9	NoDisposition:T9 

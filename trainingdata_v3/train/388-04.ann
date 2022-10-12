@@ -1,0 +1,45 @@
+T2	NoDisposition 563 570	Insulin
+E2	NoDisposition:T2 
+T6	NoDisposition 935 952	Insulin NPH HUMAN
+E6	NoDisposition:T6 
+T7	NoDisposition 1097 1104	Lipitor
+E7	NoDisposition:T7 
+T9	NoDisposition 1167 1177	Lisinopril
+E9	NoDisposition:T9 
+T11	NoDisposition 1235 1244	Lopressor
+E11	NoDisposition:T11 
+T12	NoDisposition 1246 1265	METOPROLOL TARTRATE
+E12	NoDisposition:T12 
+T13	NoDisposition 1355 1361	Motrin
+E13	NoDisposition:T13 
+T14	NoDisposition 1571 1577	Plavix
+E14	NoDisposition:T14 
+T15	NoDisposition 1579 1590	CLOPIDOGREL
+E15	NoDisposition:T15 
+T16	Disposition 2350 2360	lisinopril
+E16	Disposition:T16 
+A1	Certainty E16 Certain
+A2	Actor E16 Physician
+A3	Action E16 Increase
+A4	Temporality E16 Present
+T17	NoDisposition 2410 2417	lipitor
+E17	NoDisposition:T17 
+T18	NoDisposition 650 655	Actos
+E18	NoDisposition:T18 
+T19	NoDisposition 657 669	PIOGLITAZONE
+E19	NoDisposition:T19 
+T20	NoDisposition 720 731	Calcium + D
+E20	NoDisposition:T20 
+T4	NoDisposition 750 806	CALCIUM CARBONATE 1500 MG (600 MG ELEM CA)/ VIT D 200 IU
+E4	NoDisposition:T4 
+T21	NoDisposition 855 862	ASPIRIN
+E21	NoDisposition:T21 
+T22	NoDisposition 864 871	ASPIRIN
+E22	NoDisposition:T22 
+T23	NoDisposition 1106 1118	ATORVASTATIN
+E23	NoDisposition:T23 
+T24	NoDisposition 1320 1329	Micronase
+E24	NoDisposition:T24 
+T25	NoDisposition 1363 1372	IBUPROFEN
+E25	NoDisposition:T25 
+A5	Negation E16 NotNegated

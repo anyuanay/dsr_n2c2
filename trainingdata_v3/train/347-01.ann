@@ -1,0 +1,25 @@
+T1	NoDisposition 454 461	insulin
+E1	NoDisposition:T1 
+T2	Disposition 1244 1251	aspirin
+E2	Disposition:T2 
+T3	NoDisposition 1384 1392	Klonopin
+E3	NoDisposition:T3 
+T4	NoDisposition 1394 1403	Glyburide
+E4	NoDisposition:T4 
+T5	NoDisposition 1405 1413	Coumadin
+E5	NoDisposition:T5 
+T6	NoDisposition 1415 1424	meclozine
+E6	NoDisposition:T6 
+T8	NoDisposition 1455 1462	Zestril
+E8	NoDisposition:T8 
+T9	NoDisposition 1464 1472	Celebrex
+E9	NoDisposition:T9 
+T10	NoDisposition 1478 1487	Synthroid
+E10	NoDisposition:T10 
+T11	NoDisposition 1426 1434	Timoptic
+E11	NoDisposition:T11 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+A5	Negation E2 NotNegated

@@ -1,0 +1,69 @@
+T2	Disposition 1180 1186	Keflex
+E2	Disposition:T2 
+T3	NoDisposition 1300 1318	Gentamicin SULFATE
+E3	NoDisposition:T3 
+T4	NoDisposition 1351 1361	gentamicin
+E4	NoDisposition:T4 
+T7	NoDisposition 1575 1584	Metformin
+E7	NoDisposition:T7 
+T8	NoDisposition 1661 1671	Lisinopril
+E8	NoDisposition:T8 
+T9	Disposition 1768 1782	Fluoxetine HCL
+E9	Disposition:T9 
+T10	NoDisposition 1893 1900	Lipitor
+E10	NoDisposition:T10 
+T11	NoDisposition 1902 1914	ATORVASTATIN
+E11	NoDisposition:T11 
+T12	NoDisposition 2022 2042	ACETYLSALICYLIC ACID
+E12	NoDisposition:T12 
+T14	NoDisposition 2394 2403	Glucotrol
+E14	NoDisposition:T14 
+T15	NoDisposition 2489 2498	Lorazepam
+E15	NoDisposition:T15 
+T20	Disposition 947 956	lorazepam
+E20	Disposition:T20 
+A1	Certainty E20 Certain
+A2	Actor E20 Physician
+A3	Action E20 UniqueDose
+A4	Temporality E20 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+T21	NoDisposition 1392 1399	Panafil
+E21	NoDisposition:T21 
+T22	NoDisposition 1410 1454	PAPAIN/UREA/CHLOROPHYLLIN COPPER COMPLEX SOD
+E22	NoDisposition:T22 
+T23	NoDisposition 1506 1512	Keflex
+E23	NoDisposition:T23 
+T24	NoDisposition 1514 1524	CEPHALEXIN
+E24	NoDisposition:T24 
+A9	Certainty E9 Certain
+A10	Actor E9 Physician
+A11	Action E9 Increase
+A12	Temporality E9 Unknown
+T25	NoDisposition 2017 2020	Asa
+E25	NoDisposition:T25 
+T26	NoDisposition 2113 2130	Calcium CARBONATE
+E26	NoDisposition:T26 
+T27	Disposition 2222 2226	Hctz
+E27	Disposition:T27 
+T28	Disposition 2228 2247	HYDROCHLOROTHIAZIDE
+E28	Disposition:T28 
+T29	NoDisposition 2405 2414	GLIPIZIDE
+E29	NoDisposition:T29 
+A13	Certainty E27 Conditional
+A14	Actor E27 Physician
+A15	Action E27 Stop
+A16	Temporality E27 Unknown
+A17	Certainty E28 Conditional
+A18	Actor E28 Physician
+A19	Action E28 Stop
+A20	Temporality E28 Unknown
+T30	Undetermined 7205 7214	Lorazepam
+E30	Undetermined:T30 
+A21	Negation E20 NotNegated
+A22	Negation E27 NotNegated
+A23	Negation E2 NotNegated
+A24	Negation E28 NotNegated
+A25	Negation E9 NotNegated

@@ -1,0 +1,93 @@
+T1	NoDisposition 127 144	ABVD chemotherapy
+E1	NoDisposition:T1 
+T2	Disposition 640 657	ABVD chemotherapy
+E2	Disposition:T2 
+T3	NoDisposition 696 708	chemotherapy
+E3	NoDisposition:T3 
+T4	NoDisposition 765 777	chemotherapy
+E4	NoDisposition:T4 
+T5	NoDisposition 826 838	chemotherapy
+E5	NoDisposition:T5 
+T6	NoDisposition 1190 1198	coumadin
+E6	NoDisposition:T6 
+T7	NoDisposition 2236 2248	IRON SULFATE
+E7	NoDisposition:T7 
+T8	NoDisposition 2250 2265	FERROUS SULFATE
+E8	NoDisposition:T8 
+T9	NoDisposition 2297 2305	COUMADIN
+E9	NoDisposition:T9 
+T11	NoDisposition 2460 2472	EPOETIN ALFA
+E11	NoDisposition:T11 
+T12	NoDisposition 2497 2503	ZANTAC
+E12	NoDisposition:T12 
+T13	NoDisposition 2505 2519	RANITIDINE HCL
+E13	NoDisposition:T13 
+T14	NoDisposition 2991 3008	ABVD chemotherapy
+E14	NoDisposition:T14 
+T15	Disposition 3085 3095	Adriamycin
+E15	Disposition:T15 
+T16	Disposition 3106 3115	bleomycin
+E16	Disposition:T16 
+T17	Disposition 3125 3136	vinblastine
+E17	Disposition:T17 
+T18	Disposition 3188 3196	neupogen
+E18	Disposition:T18 
+T19	NoDisposition 3298 3310	chemotherapy
+E19	NoDisposition:T19 
+T20	NoDisposition 3382 3394	chemotherapy
+E20	NoDisposition:T20 
+T21	NoDisposition 735 740	G-CSF
+E21	NoDisposition:T21 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+T22	NoDisposition 2198 2207	GLYBURIDE
+E22	NoDisposition:T22 
+T23	NoDisposition 2307 2322	WARFARIN SODIUM
+E23	NoDisposition:T23 
+T24	NoDisposition 2354 2362	PRINIVIL
+E24	NoDisposition:T24 
+T25	NoDisposition 2364 2374	LISINOPRIL
+E25	NoDisposition:T25 
+T26	NoDisposition 2404 2410	FOLATE
+E26	NoDisposition:T26 
+T27	NoDisposition 2412 2422	FOLIC ACID
+E27	NoDisposition:T27 
+T28	NoDisposition 2451 2458	PROCRIT
+E28	NoDisposition:T28 
+T29	Disposition 3150 3161	dacarbazine
+E29	Disposition:T29 
+A5	Certainty E18 Certain
+A6	Actor E18 Physician
+A7	Action E18 Start
+A8	Temporality E18 Future
+T30	Disposition 3188 3196	neupogen
+E30	Disposition:T30 
+A9	Certainty E30 Certain
+A10	Actor E30 Physician
+A11	Action E30 Stop
+A12	Temporality E30 Future
+A13	Certainty E15 Certain
+A14	Actor E15 Physician
+A15	Action E15 UniqueDose
+A16	Temporality E15 Present
+A17	Certainty E16 Certain
+A18	Actor E16 Physician
+A19	Action E16 UniqueDose
+A20	Temporality E16 Present
+A21	Certainty E17 Certain
+A22	Actor E17 Physician
+A23	Action E17 UniqueDose
+A24	Temporality E17 Present
+A25	Certainty E29 Certain
+A26	Actor E29 Physician
+A27	Action E29 UniqueDose
+A28	Temporality E29 Present
+A29	Negation E16 NotNegated
+A30	Negation E29 NotNegated
+A31	Negation E15 NotNegated
+A32	Negation E2 NotNegated
+A33	Negation E30 NotNegated
+A34	Negation E18 NotNegated
+A35	Negation E17 NotNegated

@@ -1,0 +1,11 @@
+T1	NoDisposition 1349 1359	PENICILLIN
+E1	NoDisposition:T1 
+T2	Disposition 3419 3430	antibiotics
+E2	Disposition:T2 
+T3	NoDisposition 3490 3496	fluids
+E3	NoDisposition:T3 
+A1	Certainty E2 Certain
+A2	Negation E2 Negated
+A3	Actor E2 Physician
+A4	Action E2 Start
+A5	Temporality E2 Present

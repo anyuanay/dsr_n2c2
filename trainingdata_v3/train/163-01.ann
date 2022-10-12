@@ -1,0 +1,39 @@
+T1	Disposition 546 554	steroids
+E1	Disposition:T1 
+T2	Disposition 643 652	ibuprofen
+E2	Disposition:T2 
+T3	Disposition 995 1003	steroids
+E3	Disposition:T3 
+T4	NoDisposition 2035 2044	verapamil
+E4	NoDisposition:T4 
+T5	NoDisposition 2057 2063	Avapro
+E5	NoDisposition:T5 
+T6	NoDisposition 2074 2083	Pravachol
+E6	NoDisposition:T6 
+T7	NoDisposition 2098 2103	Bumex
+E7	NoDisposition:T7 
+T8	NoDisposition 2113 2128	cyclobenzaprine
+E8	NoDisposition:T8 
+T9	NoDisposition 2138 2146	Prilosec
+E9	NoDisposition:T9 
+T10	NoDisposition 3237 3245	steroids
+E10	NoDisposition:T10 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+A5	Certainty E3 Unknown
+A6	Actor E3 Physician
+A7	Action E3 UniqueDose
+A8	Temporality E3 Past
+T11	NoDisposition 2013 2022	metformin
+E11	NoDisposition:T11 
+T12	NoDisposition 2160 2167	Allegra
+E12	NoDisposition:T12 
+A9	Certainty E1 Certain
+A10	Actor E1 Physician
+A11	Action E1 Stop
+A12	Temporality E1 Past
+A13	Negation E3 NotNegated
+A14	Negation E1 NotNegated
+A15	Negation E2 NotNegated

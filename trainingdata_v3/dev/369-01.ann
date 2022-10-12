@@ -1,0 +1,8 @@
+T2	NoDisposition 442 445	ASA
+E2	NoDisposition:T2 
+T4	NoDisposition 399 407	ATENOLOL
+E4	NoDisposition:T4 
+T5	NoDisposition 421 430	VITAMIN E
+E5	NoDisposition:T5 
+T6	NoDisposition 455 465	AMPICILLIN
+E6	NoDisposition:T6 

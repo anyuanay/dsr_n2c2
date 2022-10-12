@@ -1,0 +1,70 @@
+T2	Disposition 599 606	aspirin
+E2	Disposition:T2 
+T3	Disposition 954 959	nitro
+E3	Disposition:T3 
+T4	Disposition 1079 1091	beta blocker
+E4	Disposition:T4 
+T6	NoDisposition 2121 2130	glipizide
+E6	NoDisposition:T6 
+T7	NoDisposition 2144 2154	lisinopril
+E7	NoDisposition:T7 
+T8	NoDisposition 2167 2180	nitroglycerin
+E8	NoDisposition:T8 
+T9	NoDisposition 2204 2214	metoprolol
+E9	NoDisposition:T9 
+T10	NoDisposition 2229 2241	atorvastatin
+E10	NoDisposition:T10 
+T11	NoDisposition 2256 2264	psyllium
+E11	NoDisposition:T11 
+T12	NoDisposition 2297 2304	aspirin
+E12	NoDisposition:T12 
+T13	NoDisposition 2354 2369	sodium chloride
+E13	NoDisposition:T13 
+T14	NoDisposition 2395 2408	amitriptyline
+E14	NoDisposition:T14 
+T15	NoDisposition 2424 2436	Iron sulfate
+E15	NoDisposition:T15 
+T16	NoDisposition 2472 2478	Colace
+E16	NoDisposition:T16 
+T17	Undetermined 5357 5360	ASA
+E17	Undetermined:T17 
+T18	Undetermined 5362 5364	BB
+E18	Undetermined:T18 
+T19	Undetermined 5366 5371	Nitro
+E19	Undetermined:T19 
+T20	NoDisposition 5472 5476	RISS
+E20	NoDisposition:T20 
+T21	Undetermined 5513 5520	fragmin
+E21	Undetermined:T21 
+T22	Disposition 621 635	nitroglycerine
+E22	Disposition:T22 
+T23	NoDisposition 2287 2295	psyllium
+E23	NoDisposition:T23 
+T24	NoDisposition 2319 2327	Muro 128
+E24	NoDisposition:T24 
+T25	NoDisposition 2516 2523	Tylenol
+E25	NoDisposition:T25 
+T26	Undetermined 5505 5511	nexium
+E26	Undetermined:T26 
+A21	Certainty E2 Certain
+A22	Actor E2 Patient
+A23	Action E2 UniqueDose
+A24	Temporality E2 Past
+A25	Certainty E22 Certain
+A26	Actor E22 Patient
+A27	Action E22 UniqueDose
+A28	Temporality E22 Past
+A29	Certainty E3 Certain
+A30	Actor E3 Physician
+A31	Action E3 UniqueDose
+A32	Temporality E3 Past
+A33	Certainty E4 Certain
+A34	Actor E4 Physician
+A35	Action E4 UniqueDose
+A36	Temporality E4 Past
+T1	NoDisposition 1339 1344	nitro
+E1	NoDisposition:T1 
+A37	Negation E3 NotNegated
+A38	Negation E22 NotNegated
+A39	Negation E2 NotNegated
+A40	Negation E4 NotNegated

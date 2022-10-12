@@ -1,0 +1,21 @@
+T1	Disposition 399 404	Lasix
+E1	Disposition:T1 
+T2	NoDisposition 663 670	Insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 782 789	Insulin
+E3	NoDisposition:T3 
+T4	NoDisposition 791 801	Glucophage
+E4	NoDisposition:T4 
+T5	NoDisposition 803 812	Verapamil
+E5	NoDisposition:T5 
+T6	NoDisposition 814 819	Lasix
+E6	NoDisposition:T6 
+T7	NoDisposition 821 828	Relafen
+E7	NoDisposition:T7 
+T8	NoDisposition 836 844	Coumadin
+E8	NoDisposition:T8 
+A1	Certainty E1 Certain
+A2	Actor E1 Patient
+A3	Action E1 Stop
+A4	Temporality E1 Past
+A5	Negation E1 NotNegated

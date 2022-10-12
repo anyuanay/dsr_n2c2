@@ -1,0 +1,96 @@
+T1	Disposition 1043 1055	azithromycin
+E1	Disposition:T1 
+T2	NoDisposition 1240 1245	lasix
+E2	NoDisposition:T2 
+T3	NoDisposition 1860 1863	ASA
+E3	NoDisposition:T3 
+T4	NoDisposition 1873 1882	Verapamil
+E4	NoDisposition:T4 
+T5	NoDisposition 1893 1901	Coumadin
+E5	NoDisposition:T5 
+T6	NoDisposition 1925 1936	Tegretol XR
+E6	NoDisposition:T6 
+T7	NoDisposition 1964 1972	Baclofen
+E7	NoDisposition:T7 
+T8	NoDisposition 1982 1985	MVI
+E8	NoDisposition:T8 
+T9	NoDisposition 1997 2003	Nexium
+E9	NoDisposition:T9 
+T10	NoDisposition 2013 2030	Calcium Carbonate
+E10	NoDisposition:T10 
+T11	NoDisposition 2042 2052	Clonazepam
+E11	NoDisposition:T11 
+T12	NoDisposition 2076 2081	Lasix
+E12	NoDisposition:T12 
+T13	NoDisposition 2091 2094	KCL
+E13	NoDisposition:T13 
+T14	NoDisposition 2105 2111	Ultram
+E14	NoDisposition:T14 
+T15	NoDisposition 2144 2151	Fosamax
+E15	NoDisposition:T15 
+T16	NoDisposition 2167 2176	Combivent
+E16	NoDisposition:T16 
+T17	NoDisposition 2192 2201	Albuterol
+E17	NoDisposition:T17 
+T18	NoDisposition 2211 2217	Colace
+E18	NoDisposition:T18 
+T19	NoDisposition 2247 2253	Zyrtec
+E19	NoDisposition:T19 
+T20	NoDisposition 2296 2303	Heparin
+E20	NoDisposition:T20 
+T22	NoDisposition 2361 2368	Bactrim
+E22	NoDisposition:T22 
+T23	NoDisposition 2377 2389	Erythromycin
+E23	NoDisposition:T23 
+T24	NoDisposition 2398 2406	Percocet
+E24	NoDisposition:T24 
+T25	NoDisposition 2420 2429	Compazine
+E25	NoDisposition:T25 
+T26	NoDisposition 2438 2450	Erythromycin
+E26	NoDisposition:T26 
+T27	NoDisposition 4876 4881	lasix
+E27	NoDisposition:T27 
+T28	Undetermined 5272 5275	KCL
+E28	Undetermined:T28 
+T29	NoDisposition 5403 5409	ativan
+E29	NoDisposition:T29 
+T30	NoDisposition 5515 5523	Tegretol
+E30	NoDisposition:T30 
+T31	NoDisposition 5609 5617	coumadin
+E31	NoDisposition:T31 
+T32	NoDisposition 5652 5659	Calcium
+E32	NoDisposition:T32 
+T33	NoDisposition 5664 5671	Fosamax
+E33	NoDisposition:T33 
+T34	NoDisposition 5722 5730	coumadin
+E34	NoDisposition:T34 
+T35	Undetermined 5760 5766	Colace
+E35	Undetermined:T35 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+T36	NoDisposition 2229 2234	Fiber
+E36	NoDisposition:T36 
+T38	NoDisposition 2323 2326	PCN
+E38	NoDisposition:T38 
+T39	NoDisposition 2341 2352	Amoxicillin
+E39	NoDisposition:T39 
+T40	Undetermined 5768 5775	Miralax
+E40	Undetermined:T40 
+T41	Undetermined 5737 5743	nexium
+E41	Undetermined:T41 
+T42	Disposition 1330 1339	combivent
+E42	Disposition:T42 
+A5	Certainty E42 Certain
+A6	Actor E42 Unknown
+A7	Action E42 UniqueDose
+A8	Temporality E42 Past
+T43	NoDisposition 2263 2274	Nasacort Aq
+E43	NoDisposition:T43 
+T44	NoDisposition 5054 5063	combivent
+E44	NoDisposition:T44 
+T45	NoDisposition 5065 5071	advair
+E45	NoDisposition:T45 
+A9	Negation E1 NotNegated
+A10	Negation E42 NotNegated

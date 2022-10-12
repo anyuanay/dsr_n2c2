@@ -1,0 +1,47 @@
+T2	NoDisposition 1304 1309	Imdur
+E2	NoDisposition:T2 
+T3	NoDisposition 1321 1326	Lasix
+E3	NoDisposition:T3 
+T4	NoDisposition 1338 1345	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 1357 1367	lisinopril
+E5	NoDisposition:T5 
+T6	NoDisposition 1379 1385	Plavix
+E6	NoDisposition:T6 
+T7	NoDisposition 1397 1404	aspirin
+E7	NoDisposition:T7 
+T8	NoDisposition 1417 1425	Prilosec
+E8	NoDisposition:T8 
+T9	NoDisposition 1437 1446	Toprol XL
+E9	NoDisposition:T9 
+T10	NoDisposition 1458 1471	nitroglycerin
+E10	NoDisposition:T10 
+T11	Disposition 3673 3681	Coumadin
+E11	Disposition:T11 
+T12	NoDisposition 3729 3736	aspirin
+E12	NoDisposition:T12 
+T15	Undetermined 4472 4477	Lasix
+E15	Undetermined:T15 
+T16	Undetermined 4490 4497	Lipitor
+E16	Undetermined:T16 
+T17	Undetermined 4510 4520	lisinopril
+E17	Undetermined:T17 
+T18	Undetermined 4533 4539	Plavix
+E18	Undetermined:T18 
+T19	Undetermined 4552 4559	aspirin
+E19	Undetermined:T19 
+T20	Undetermined 4573 4581	Prilosec
+E20	Undetermined:T20 
+T21	Undetermined 4594 4603	Toprol XL
+E21	Undetermined:T21 
+T22	Undetermined 4616 4629	nitroglycerin
+E22	Undetermined:T22 
+A1	Certainty E11 Certain
+A2	Negation E11 Negated
+A3	Actor E11 Physician
+A4	Action E11 Start
+A5	Temporality E11 Past
+T23	NoDisposition 3741 3747	Plavix
+E23	NoDisposition:T23 
+T24	Undetermined 4454 4459	Imdur
+E24	Undetermined:T24 

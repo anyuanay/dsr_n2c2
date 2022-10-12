@@ -1,0 +1,7 @@
+T1	Disposition 2106 2117	antibiotics
+E1	Disposition:T1 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Present
+A5	Negation E1 NotNegated

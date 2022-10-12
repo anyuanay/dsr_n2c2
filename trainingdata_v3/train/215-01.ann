@@ -1,0 +1,53 @@
+T5	NoDisposition 524 536	ATORVASTATIN
+E5	NoDisposition:T5 
+T6	NoDisposition 1003 1012	metformin
+E6	NoDisposition:T6 
+T7	NoDisposition 1027 1030	NPH
+E7	NoDisposition:T7 
+T9	NoDisposition 216 226	GLUCOPHAGE
+E9	NoDisposition:T9 
+T10	NoDisposition 228 237	METFORMIN
+E10	NoDisposition:T10 
+T11	NoDisposition 254 261	ZESTRIL
+E11	NoDisposition:T11 
+T12	NoDisposition 263 273	LISINOPRIL
+E12	NoDisposition:T12 
+T13	NoDisposition 299 318	NPH HUMULIN INSULIN
+E13	NoDisposition:T13 
+T14	NoDisposition 320 337	INSULIN NPH HUMAN
+E14	NoDisposition:T14 
+T15	NoDisposition 354 363	TOPROL XL
+E15	NoDisposition:T15 
+T16	NoDisposition 365 388	METOPROLOL (SUST. REL.)
+E16	NoDisposition:T16 
+T17	NoDisposition 415 438	ISOSORBIDE MONONIT.(SR)
+E17	NoDisposition:T17 
+T18	NoDisposition 463 466	ASA
+E18	NoDisposition:T18 
+T19	NoDisposition 468 488	ACETYLSALICYLIC ACID
+E19	NoDisposition:T19 
+T20	NoDisposition 515 522	LIPITOR
+E20	NoDisposition:T20 
+T21	NoDisposition 776 784	ToprolXL
+E21	NoDisposition:T21 
+T22	Disposition 1150 1153	NPH
+E22	Disposition:T22 
+A1	Certainty E22 Certain
+A2	Actor E22 Physician
+A3	Action E22 OtherChange
+A4	Temporality E22 Present
+T23	Disposition 1150 1153	NPH
+E23	Disposition:T23 
+A5	Certainty E23 Certain
+A6	Actor E23 Physician
+A7	Action E23 Increase
+A8	Temporality E23 Present
+T24	Disposition 1150 1153	NPH
+E24	Disposition:T24 
+A9	Certainty E24 Conditional
+A10	Actor E24 Physician
+A11	Action E24 Decrease
+A12	Temporality E24 Present
+A13	Negation E24 NotNegated
+A14	Negation E22 NotNegated
+A15	Negation E23 NotNegated

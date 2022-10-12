@@ -1,0 +1,139 @@
+T1	NoDisposition 370 378	lidoderm
+E1	NoDisposition:T1 
+T2	NoDisposition 395 404	oxycodone
+E2	NoDisposition:T2 
+T5	NoDisposition 805 815	Carvedilol
+E5	NoDisposition:T5 
+T7	NoDisposition 914 920	Diovan
+E7	NoDisposition:T7 
+T9	NoDisposition 1028 1047	Hydrochlorothiazide
+E9	NoDisposition:T9 
+T10	NoDisposition 1082 1087	Lasix
+E10	NoDisposition:T10 
+T11	NoDisposition 1089 1099	FUROSEMIDE
+E11	NoDisposition:T11 
+T12	NoDisposition 1135 1155	Levothyroxine SODIUM
+E12	NoDisposition:T12 
+T13	NoDisposition 1177 1185	Lidoderm
+E13	NoDisposition:T13 
+T14	NoDisposition 1534 1544	Loratadine
+E14	NoDisposition:T14 
+T19	NoDisposition 1703 1711	Percocet
+E19	NoDisposition:T19 
+T20	NoDisposition 1776 1782	Plavix
+E20	NoDisposition:T20 
+T22	NoDisposition 1831 1839	Prilosec
+E22	NoDisposition:T22 
+T24	NoDisposition 1948 1954	Zantac
+E24	NoDisposition:T24 
+T25	NoDisposition 1956 1970	RANITIDINE HCL
+E25	NoDisposition:T25 
+T27	NoDisposition 2122 2133	Penicillins
+E27	NoDisposition:T27 
+T29	Undetermined 3142 3148	diovan
+E29	Undetermined:T29 
+T30	Undetermined 3154 3158	hctz
+E30	Undetermined:T30 
+T31	Undetermined 3163 3168	lasix
+E31	Undetermined:T31 
+T32	NoDisposition 3173 3183	carvedilol
+E32	NoDisposition:T32 
+T35	Disposition 4451 4459	estrogen
+E35	Disposition:T35 
+T37	Disposition 4723 4729	nexium
+E37	Disposition:T37 
+T38	Undetermined 4872 4878	nexium
+E38	Undetermined:T38 
+T39	Disposition 5149 5158	oxycodone
+E39	Disposition:T39 
+T40	NoDisposition 5166 5175	ibuprofen
+E40	NoDisposition:T40 
+T42	Disposition 5361 5370	narcotics
+E42	Disposition:T42 
+T44	NoDisposition 684 695	Calcium + D
+E44	NoDisposition:T44 
+T45	NoDisposition 712 767	CALCIUM CARBONATE 1250 MG (500MG ELEM CA)/ VIT D 200 IU
+E45	NoDisposition:T45 
+T46	NoDisposition 855 863	Celebrex
+E46	NoDisposition:T46 
+T47	NoDisposition 865 874	CELECOXIB
+E47	NoDisposition:T47 
+T48	NoDisposition 922 931	VALSARTAN
+E48	NoDisposition:T48 
+T49	NoDisposition 969 976	Fosamax
+E49	NoDisposition:T49 
+T50	NoDisposition 978 989	ALENDRONATE
+E50	NoDisposition:T50 
+T51	NoDisposition 1196 1205	LIDOCAINE
+E51	NoDisposition:T51 
+T52	NoDisposition 1579 1588	Metformin
+E52	NoDisposition:T52 
+T53	NoDisposition 1633 1642	Neurontin
+E53	NoDisposition:T53 
+T54	NoDisposition 1644 1654	GABAPENTIN
+E54	NoDisposition:T54 
+T55	NoDisposition 1713 1727	OXYCODONE+APAP
+E55	NoDisposition:T55 
+T56	NoDisposition 1784 1795	CLOPIDOGREL
+E56	NoDisposition:T56 
+T57	NoDisposition 1841 1851	OMEPRAZOLE
+E57	NoDisposition:T57 
+T58	NoDisposition 1891 1896	Senna
+E58	NoDisposition:T58 
+T59	NoDisposition 1906 1916	SENNOSIDES
+E59	NoDisposition:T59 
+T60	NoDisposition 2035 2040	Zocor
+E60	NoDisposition:T60 
+T61	NoDisposition 2042 2053	SIMVASTATIN
+E61	NoDisposition:T61 
+T62	Disposition 2102 2109	lipitor
+E62	Disposition:T62 
+A1	Certainty E62 Certain
+A2	Actor E62 Physician
+A3	Action E62 Stop
+A4	Temporality E62 Past
+T63	NoDisposition 2363 2378	corticosteroids
+E63	NoDisposition:T63 
+T64	NoDisposition 2857 2862	lasix
+E64	NoDisposition:T64 
+T65	NoDisposition 3185 3191	plavix
+E65	NoDisposition:T65 
+T66	NoDisposition 3210 3217	lipitor
+E66	NoDisposition:T66 
+T67	Undetermined 4111 4120	metfromin
+E67	Undetermined:T67 
+T68	NoDisposition 4567 4576	estradiol
+E68	NoDisposition:T68 
+A5	Certainty E37 Certain
+A6	Actor E37 Physician
+A7	Action E37 Increase
+A8	Temporality E37 Past
+A9	Certainty E39 Hypothetical
+A10	Actor E39 Patient
+A11	Action E39 Start
+A12	Temporality E39 Present
+T69	NoDisposition 5201 5209	lidoderm
+E69	NoDisposition:T69 
+T70	Undetermined 5248 5257	oxycodone
+E70	Undetermined:T70 
+A13	Certainty E42 Hypothetical
+A14	Actor E42 Physician
+A15	Action E42 Start
+A16	Temporality E42 Future
+T3	NoDisposition 2143 2162	Gadolinium Chelates
+E3	NoDisposition:T3 
+T4	NoDisposition 2269 2279	Gadolinuim
+E4	NoDisposition:T4 
+T6	NoDisposition 2391 2410	Gadolinium chealtes
+E6	NoDisposition:T6 
+A17	Certainty E35 Certain
+A18	Actor E35 Physician
+A19	Action E35 Start
+A20	Temporality E35 Past
+T8	NoDisposition 222 231	diuretics
+E8	NoDisposition:T8 
+A21	Negation E62 NotNegated
+A22	Negation E35 NotNegated
+A23	Negation E37 NotNegated
+A24	Negation E39 NotNegated
+A25	Negation E42 NotNegated

@@ -1,0 +1,15 @@
+T3	Disposition 528 535	Lipitor
+E3	Disposition:T3 
+T4	NoDisposition 896 906	Lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 916 923	Zyprexa
+E5	NoDisposition:T5 
+T6	NoDisposition 925 932	aspirin
+E6	NoDisposition:T6 
+A1	Certainty E3 Certain
+A2	Actor E3 Patient
+A3	Action E3 Stop
+A4	Temporality E3 Past
+T7	NoDisposition 888 894	Prozac
+E7	NoDisposition:T7 
+A5	Negation E3 NotNegated

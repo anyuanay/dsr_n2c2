@@ -1,0 +1,47 @@
+T2	Disposition 809 816	heparin
+E2	Disposition:T2 
+T3	NoDisposition 837 844	heparin
+E3	NoDisposition:T3 
+T4	NoDisposition 957 964	heparin
+E4	NoDisposition:T4 
+T5	NoDisposition 1327 1334	aspirin
+E5	NoDisposition:T5 
+T7	NoDisposition 1417 1424	aspirin
+E7	NoDisposition:T7 
+T8	NoDisposition 1426 1432	plavix
+E8	NoDisposition:T8 
+T9	NoDisposition 1434 1441	heparin
+E9	NoDisposition:T9 
+T10	NoDisposition 1722 1725	ASA
+E10	NoDisposition:T10 
+T12	NoDisposition 1739 1746	Heparin
+E12	NoDisposition:T12 
+T13	NoDisposition 1752 1758	Toprol
+E13	NoDisposition:T13 
+T14	NoDisposition 1760 1768	Protonix
+E14	NoDisposition:T14 
+T15	NoDisposition 1770 1777	Lipitor
+E15	NoDisposition:T15 
+T16	NoDisposition 1779 1783	HCTZ
+E16	NoDisposition:T16 
+T17	NoDisposition 1785 1791	Diovan
+E17	NoDisposition:T17 
+T18	NoDisposition 4418 4425	heparin
+E18	NoDisposition:T18 
+T19	NoDisposition 4427 4434	aspirin
+E19	NoDisposition:T19 
+T21	NoDisposition 4439 4445	plavix
+E21	NoDisposition:T21 
+T22	NoDisposition 735 749	nitroglycerins
+E22	NoDisposition:T22 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+T23	NoDisposition 1339 1345	plavix
+E23	NoDisposition:T23 
+T24	NoDisposition 1731 1737	Plavix
+E24	NoDisposition:T24 
+T25	NoDisposition 1793 1796	MVI
+E25	NoDisposition:T25 
+A5	Negation E2 NotNegated

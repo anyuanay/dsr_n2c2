@@ -1,0 +1,18 @@
+T1	NoDisposition 204 211	vasotec
+E1	NoDisposition:T1 
+T2	NoDisposition 223 237	chlorpropamide
+E2	NoDisposition:T2 
+T3	Disposition 286 293	aspirin
+E3	Disposition:T3 
+T4	Disposition 398 417	Hydrochlorothiazide
+E4	Disposition:T4 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 Start
+A4	Temporality E3 Present
+A5	Certainty E4 Certain
+A6	Actor E4 Physician
+A7	Action E4 Stop
+A8	Temporality E4 Past
+A9	Negation E3 NotNegated
+A10	Negation E4 NotNegated

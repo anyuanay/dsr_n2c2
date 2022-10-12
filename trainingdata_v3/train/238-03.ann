@@ -1,0 +1,29 @@
+T1	Undetermined 732 739	aspirin
+E1	Undetermined:T1 
+T2	Undetermined 784 803	hydrochlorothiazide
+E2	Undetermined:T2 
+T3	Undetermined 816 825	ibuprofen
+E3	Undetermined:T3 
+T4	Undetermined 840 847	Isordil
+E4	Undetermined:T4 
+T5	Undetermined 861 871	fosinopril
+E5	Undetermined:T5 
+T6	Undetermined 884 894	metoprolol
+E6	Undetermined:T6 
+T7	Undetermined 908 917	Pravachol
+E7	Undetermined:T7 
+T8	NoDisposition 1578 1587	ibuprofen
+E8	NoDisposition:T8 
+T9	Disposition 1768 1777	trazodone
+E9	Disposition:T9 
+T10	Undetermined 707 714	Norvasc
+E10	Undetermined:T10 
+T11	Undetermined 759 769	Glucophage
+E11	Undetermined:T11 
+A1	Certainty E9 Certain
+A2	Actor E9 Physician
+A3	Action E9 Start
+A4	Temporality E9 Present
+T12	NoDisposition 1712 1722	Glucophage
+E12	NoDisposition:T12 
+A5	Negation E9 NotNegated

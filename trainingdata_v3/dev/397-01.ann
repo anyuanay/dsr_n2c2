@@ -1,0 +1,98 @@
+T1	NoDisposition 305 314	metformin
+E1	NoDisposition:T1 
+T2	Disposition 374 383	glyburide
+E2	Disposition:T2 
+T3	Disposition 403 412	metformin
+E3	Disposition:T3 
+T4	NoDisposition 630 643	dicloxacillin
+E4	NoDisposition:T4 
+T5	Disposition 878 887	neurontin
+E5	Disposition:T5 
+T7	NoDisposition 1165 1173	Percocet
+E7	NoDisposition:T7 
+T9	NoDisposition 2624 2633	metformin
+E9	NoDisposition:T9 
+T10	Disposition 2693 2702	glyburide
+E10	Disposition:T10 
+T11	Disposition 2722 2731	metformin
+E11	Disposition:T11 
+T12	NoDisposition 3044 3057	dicloxacillin
+E12	NoDisposition:T12 
+T14	Disposition 3582 3588	viagra
+E14	Disposition:T14 
+A1	Certainty E2 Certain
+A2	Actor E2 Patient
+A3	Action E2 Start
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Negation E3 Negated
+A7	Actor E3 Patient
+A8	Action E3 Start
+A9	Temporality E3 Past
+T16	Disposition 866 872	ultram
+E16	Disposition:T16 
+A10	Certainty E16 Certain
+A11	Actor E16 Unknown
+A12	Action E16 Stop
+A13	Temporality E16 Past
+A14	Certainty E5 Certain
+A15	Actor E5 Physician
+A16	Action E5 Start
+A17	Temporality E5 Past
+T17	Disposition 928 934	viagra
+E17	Disposition:T17 
+A18	Certainty E17 Hypothetical
+A19	Actor E17 Patient
+A20	Action E17 Start
+A21	Temporality E17 Present
+T18	NoDisposition 1029 1038	Neurontin
+E18	NoDisposition:T18 
+T19	NoDisposition 1040 1050	GABAPENTIN
+E19	NoDisposition:T19 
+T20	NoDisposition 1131 1140	GLYBURIDE
+E20	NoDisposition:T20 
+T21	NoDisposition 1187 1206	OXYCODONE 5 Mg/acet
+E21	NoDisposition:T21 
+T22	NoDisposition 1283 1290	Codeine
+E22	NoDisposition:T22 
+A22	Certainty E10 Certain
+A23	Actor E10 Patient
+A24	Action E10 Start
+A25	Temporality E10 Past
+A26	Certainty E11 Certain
+A27	Negation E11 Negated
+A28	Actor E11 Patient
+A29	Action E11 Start
+A30	Temporality E11 Past
+T23	Disposition 3447 3453	ultram
+E23	Disposition:T23 
+A31	Certainty E23 Certain
+A32	Actor E23 Physician
+A33	Action E23 Start
+A34	Temporality E23 Past
+T24	Disposition 3528 3534	ultram
+E24	Disposition:T24 
+A35	Certainty E24 Certain
+A36	Actor E24 Unknown
+A37	Action E24 Stop
+A38	Temporality E24 Past
+T25	NoDisposition 3542 3551	neurontin
+E25	NoDisposition:T25 
+A39	Certainty E14 Certain
+A40	Actor E14 Physician
+A41	Action E14 Start
+A42	Temporality E14 Present
+T6	NoDisposition 959 967	nitrates
+E6	NoDisposition:T6 
+T8	NoDisposition 709 712	abx
+E8	NoDisposition:T8 
+T13	NoDisposition 3121 3124	abx
+E13	NoDisposition:T13 
+A43	Negation E14 NotNegated
+A44	Negation E16 NotNegated
+A45	Negation E10 NotNegated
+A46	Negation E2 NotNegated
+A47	Negation E24 NotNegated
+A48	Negation E5 NotNegated
+A49	Negation E23 NotNegated
+A50	Negation E17 NotNegated

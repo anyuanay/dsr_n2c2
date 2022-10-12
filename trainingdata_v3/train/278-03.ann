@@ -1,0 +1,79 @@
+T1	NoDisposition 610 623	amytriptyline
+E1	NoDisposition:T1 
+T2	NoDisposition 700 708	steroids
+E2	NoDisposition:T2 
+T3	NoDisposition 889 898	glyburide
+E3	NoDisposition:T3 
+T4	NoDisposition 1143 1147	ACEi
+E4	NoDisposition:T4 
+T5	NoDisposition 1235 1244	glyburide
+E5	NoDisposition:T5 
+T6	NoDisposition 1844 1847	ASA
+E6	NoDisposition:T6 
+T7	NoDisposition 1849 1851	BB
+E7	NoDisposition:T7 
+T8	NoDisposition 1853 1857	ACEi
+E8	NoDisposition:T8 
+T9	NoDisposition 1859 1865	Statin
+E9	NoDisposition:T9 
+T11	NoDisposition 2813 2826	acetaminophen
+E11	NoDisposition:T11 
+T12	NoDisposition 2852 2861	glipizide
+E12	NoDisposition:T12 
+T13	NoDisposition 2892 2902	lisinopril
+E13	NoDisposition:T13 
+T14	NoDisposition 2932 2945	nitroglycerin
+E14	NoDisposition:T14 
+T15	NoDisposition 3008 3018	metoprolol
+E15	NoDisposition:T15 
+T16	NoDisposition 3050 3062	atorvastatin
+E16	NoDisposition:T16 
+T17	NoDisposition 3180 3187	aspirin
+E17	NoDisposition:T17 
+T18	NoDisposition 3303 3318	sodium chloride
+E18	NoDisposition:T18 
+T19	NoDisposition 3485 3494	glipizide
+E19	NoDisposition:T19 
+T20	NoDisposition 3543 3553	lisinopril
+E20	NoDisposition:T20 
+T21	NoDisposition 3601 3614	nitroglycerin
+E21	NoDisposition:T21 
+T22	NoDisposition 3695 3705	metoprolol
+E22	NoDisposition:T22 
+T23	NoDisposition 3755 3767	atorvastatin
+E23	NoDisposition:T23 
+T24	NoDisposition 3921 3928	aspirin
+E24	NoDisposition:T24 
+T25	NoDisposition 4079 4094	sodium chloride
+E25	NoDisposition:T25 
+T26	NoDisposition 4197 4210	amitriptyline
+E26	NoDisposition:T26 
+T27	NoDisposition 4260 4272	Iron sulfate
+E27	NoDisposition:T27 
+T29	NoDisposition 4377 4383	Colace
+E29	NoDisposition:T29 
+T30	NoDisposition 5318 5320	BB
+E30	NoDisposition:T30 
+T31	NoDisposition 5946 5961	anticoagulation
+E31	NoDisposition:T31 
+T32	NoDisposition 3093 3101	psyllium
+E32	NoDisposition:T32 
+T33	NoDisposition 3221 3229	Muro 128
+E33	NoDisposition:T33 
+T34	NoDisposition 3404 3417	amitriptyline
+E34	NoDisposition:T34 
+T35	NoDisposition 3816 3824	psyllium
+E35	NoDisposition:T35 
+T36	NoDisposition 3980 3988	Muro 128
+E36	NoDisposition:T36 
+T10	Disposition 1949 1963	anticoagulated
+E10	Disposition:T10 
+A1	Certainty E10 Hypothetical
+A2	Actor E10 Physician
+A3	Action E10 Start
+A4	Temporality E10 Present
+T28	NoDisposition 3911 3919	psyllium
+E28	NoDisposition:T28 
+T37	NoDisposition 3145 3153	psyllium
+E37	NoDisposition:T37 
+A5	Negation E10 NotNegated

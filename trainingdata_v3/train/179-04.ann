@@ -1,0 +1,100 @@
+T1	Disposition 1795 1805	metoprolol
+E1	Disposition:T1 
+T2	NoDisposition 2105 2117	beta blocker
+E2	NoDisposition:T2 
+T3	NoDisposition 2119 2126	lipitor
+E3	NoDisposition:T3 
+T4	NoDisposition 2128 2134	Diovan
+E4	NoDisposition:T4 
+T5	NoDisposition 2136 2155	hydrochlorothiazide
+E5	NoDisposition:T5 
+T6	NoDisposition 2157 2164	digoxin
+E6	NoDisposition:T6 
+T7	NoDisposition 2170 2178	warfarin
+E7	NoDisposition:T7 
+T8	Disposition 2200 2206	Plavix
+E8	Disposition:T8 
+T9	NoDisposition 2580 2586	Diovan
+E9	NoDisposition:T9 
+T10	NoDisposition 2588 2607	hydrochlorothiazide
+E10	NoDisposition:T10 
+T11	NoDisposition 2613 2623	metoprolol
+E11	NoDisposition:T11 
+T12	Undetermined 3734 3741	steroid
+E12	Undetermined:T12 
+T13	NoDisposition 3844 3851	aspirin
+E13	NoDisposition:T13 
+T14	NoDisposition 3865 3872	digoxin
+E14	NoDisposition:T14 
+T16	NoDisposition 3918 3933	ferrous sulfate
+E16	NoDisposition:T16 
+T17	NoDisposition 3953 3966	ascorbic acid
+E17	NoDisposition:T17 
+T18	NoDisposition 3982 3989	Lipitor
+E18	NoDisposition:T18 
+T19	NoDisposition 3997 4007	metoprolol
+E19	NoDisposition:T19 
+T21	NoDisposition 4116 4124	nystatin
+E21	NoDisposition:T21 
+T22	NoDisposition 4182 4190	warfarin
+E22	NoDisposition:T22 
+T23	NoDisposition 4267 4275	warfarin
+E23	NoDisposition:T23 
+T24	NoDisposition 4333 4343	metoprolol
+E24	NoDisposition:T24 
+T25	NoDisposition 4374 4381	Lipitor
+E25	NoDisposition:T25 
+T26	NoDisposition 4407 4413	Plavix
+E26	NoDisposition:T26 
+T27	NoDisposition 4560 4567	aspirin
+E27	NoDisposition:T27 
+T28	NoDisposition 4597 4606	valsartan
+E28	NoDisposition:T28 
+T29	NoDisposition 4803 4825	isosorbide mononitrate
+E29	NoDisposition:T29 
+T30	Disposition 4900 4911	Nasacort aq
+E30	Disposition:T30 
+T31	NoDisposition 5036 5043	digoxin
+E31	NoDisposition:T31 
+A1	Certainty E1 Certain
+A2	Actor E1 Patient
+A3	Action E1 Decrease
+A4	Temporality E1 Past
+A5	Certainty E8 Certain
+A6	Actor E8 Unknown
+A7	Action E8 Stop
+A8	Temporality E8 Past
+T33	NoDisposition 2219 2226	nitrate
+E33	NoDisposition:T33 
+T34	NoDisposition 2895 2902	lipitor
+E34	NoDisposition:T34 
+T35	NoDisposition 5078 5088	Diovan HCT
+E35	NoDisposition:T35 
+T36	NoDisposition 3889 3899	Diovan HCT
+E36	NoDisposition:T36 
+T37	NoDisposition 3968 3973	Foltx
+E37	NoDisposition:T37 
+T38	Disposition 4021 4032	Nasacort aq
+E38	Disposition:T38 
+A9	Certainty E38 Conditional
+A10	Actor E38 Physician
+A11	Action E38 Stop
+A12	Temporality E38 Unknown
+T39	NoDisposition 4479 4493	ranitidine hcl
+E39	NoDisposition:T39 
+T40	NoDisposition 4665 4670	Foltx
+E40	NoDisposition:T40 
+T41	NoDisposition 4715 4734	hydrochlorothiazide
+E41	NoDisposition:T41 
+A13	Certainty E30 Conditional
+A14	Actor E30 Physician
+A15	Action E30 Stop
+A16	Temporality E30 Unknown
+T15	NoDisposition 3790 3804	anticoagulated
+E15	NoDisposition:T15 
+T20	NoDisposition 7319 7334	Anticoagulation
+E20	NoDisposition:T20 
+A17	Negation E1 NotNegated
+A18	Negation E8 NotNegated
+A19	Negation E30 NotNegated
+A20	Negation E38 NotNegated

@@ -1,0 +1,68 @@
+T2	NoDisposition 1569 1576	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1613 1618	Imdur
+E3	NoDisposition:T3 
+T5	NoDisposition 1647 1653	Nexium
+E5	NoDisposition:T5 
+T6	NoDisposition 1665 1672	Norvasc
+E6	NoDisposition:T6 
+T7	NoDisposition 1684 1693	Neurontin
+E7	NoDisposition:T7 
+T8	NoDisposition 1707 1720	labetalol HCl
+E8	NoDisposition:T8 
+T9	NoDisposition 1734 1742	losartan
+E9	NoDisposition:T9 
+T10	NoDisposition 1754 1766	erythromycin
+E10	NoDisposition:T10 
+T11	NoDisposition 1780 1786	Epogen
+E11	NoDisposition:T11 
+T12	NoDisposition 1806 1812	Colace
+E12	NoDisposition:T12 
+T13	Disposition 2474 2483	OxyContin
+E13	Disposition:T13 
+T14	Disposition 2488 2497	methadone
+E14	Disposition:T14 
+T15	Disposition 3052 3063	hydralazine
+E15	Disposition:T15 
+T16	Disposition 3068 3075	Norvasc
+E16	Disposition:T16 
+T17	Disposition 3105 3114	OxyContin
+E17	Disposition:T17 
+T18	Disposition 3119 3128	methadone
+E18	Disposition:T18 
+A1	Certainty E15 Certain
+A2	Actor E15 Physician
+A3	Action E15 Stop
+A4	Temporality E15 Present
+A5	Certainty E16 Certain
+A6	Actor E16 Physician
+A7	Action E16 Stop
+A8	Temporality E16 Present
+A9	Certainty E17 Certain
+A10	Actor E17 Unknown
+A11	Action E17 Stop
+A12	Temporality E17 Past
+A13	Certainty E18 Certain
+A14	Actor E18 Unknown
+A15	Action E18 Stop
+A16	Temporality E18 Past
+T19	NoDisposition 1589 1600	hydralazine
+E19	NoDisposition:T19 
+A17	Certainty E13 Certain
+A18	Actor E13 Patient
+A19	Action E13 Stop
+A20	Temporality E13 Past
+A21	Certainty E14 Certain
+A22	Actor E14 Patient
+A23	Action E14 Stop
+A24	Temporality E14 Past
+T20	NoDisposition 1545 1550	senna
+E20	NoDisposition:T20 
+T21	NoDisposition 1630 1635	Lasix
+E21	NoDisposition:T21 
+A25	Negation E13 NotNegated
+A26	Negation E14 NotNegated
+A27	Negation E16 NotNegated
+A28	Negation E15 NotNegated
+A29	Negation E18 NotNegated
+A30	Negation E17 NotNegated

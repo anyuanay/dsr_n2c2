@@ -1,0 +1,20 @@
+T1	NoDisposition 458 468	furosemide
+E1	NoDisposition:T1 
+T2	NoDisposition 485 498	nifedipine XL
+E2	NoDisposition:T2 
+T3	NoDisposition 520 538	potassium chloride
+E3	NoDisposition:T3 
+T4	Disposition 1332 1342	furosemide
+E4	Disposition:T4 
+A1	Certainty E4 Hypothetical
+A2	Actor E4 Physician
+A3	Action E4 Increase
+A4	Temporality E4 Future
+T6	Disposition 1293 1303;1305 1307	nifedipine XL
+E6	Disposition:T6 
+A5	Certainty E6 Hypothetical
+A6	Actor E6 Physician
+A7	Action E6 Increase
+A8	Temporality E6 Future
+A9	Negation E6 NotNegated
+A10	Negation E4 NotNegated

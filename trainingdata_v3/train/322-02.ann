@@ -1,0 +1,15 @@
+T1	NoDisposition 1126 1132	Lantus
+E1	NoDisposition:T1 
+T2	NoDisposition 1134 1143	glipizide
+E2	NoDisposition:T2 
+T3	NoDisposition 1145 1150	Zocor
+E3	NoDisposition:T3 
+T4	NoDisposition 1152 1160	atenolol
+E4	NoDisposition:T4 
+T5	Disposition 1188 1195	insulin
+E5	Disposition:T5 
+A1	Certainty E5 Certain
+A2	Actor E5 Physician
+A3	Action E5 Start
+A4	Temporality E5 Past
+A5	Negation E5 NotNegated

@@ -1,0 +1,51 @@
+T1	Disposition 417 423	Flagyl
+T2	Disposition 439 453	Metoclopramide
+E2	Disposition:T2 
+T3	Disposition 471 481	Patoprazol
+E3	Disposition:T3 
+T4	NoDisposition 545 552	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 567 575	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 590 597	Zestril
+E6	NoDisposition:T6 
+T7	NoDisposition 610 619	Glyburide
+E7	NoDisposition:T7 
+T8	NoDisposition 742 752	clonazepam
+E8	NoDisposition:T8 
+T9	NoDisposition 778 791	Bayer aspirin
+E9	NoDisposition:T9 
+T10	Disposition 2164 2173	Glyburide
+E10	Disposition:T10 
+E11	Disposition:T1 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Stop
+A4	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 Stop
+A12	Temporality E3 Past
+T11	NoDisposition 766 769	NTG
+E1	NoDisposition:T11 
+T12	NoDisposition 796 805	eye drops
+E12	NoDisposition:T12 
+T13	Disposition 610 619	Glyburide
+E13	Disposition:T13 
+A13	Certainty E13 Certain
+A14	Actor E13 Patient
+A15	Action E13 Decrease
+A16	Temporality E13 Past
+A17	Certainty E10 Conditional
+A18	Actor E10 Physician
+A19	Action E10 Decrease
+A20	Temporality E10 Future
+A5	Certainty E11 Certain
+A6	Actor E11 Physician
+A7	Action E11 Stop
+A8	Temporality E11 Past
+A21	Negation E13 NotNegated
+A22	Negation E3 NotNegated
+A23	Negation E10 NotNegated
+A24	Negation E2 NotNegated
+A25	Negation E11 NotNegated

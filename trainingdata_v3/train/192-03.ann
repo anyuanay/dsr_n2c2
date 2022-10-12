@@ -1,0 +1,58 @@
+T1	NoDisposition 204 213	GLYBURIDE
+E1	NoDisposition:T1 
+T2	NoDisposition 227 236	METFORMIN
+E2	NoDisposition:T2 
+T3	NoDisposition 252 262	LISINOPRIL
+E3	NoDisposition:T3 
+T4	NoDisposition 303 307	HCTZ
+E4	NoDisposition:T4 
+T6	Disposition 550 559	glyburide
+E6	Disposition:T6 
+T8	NoDisposition 855 864	GLYBURIDE
+E8	NoDisposition:T8 
+T9	NoDisposition 1777 1786	glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 1802 1811	metformin
+E10	NoDisposition:T10 
+T11	Disposition 1845 1854	glyburide
+E11	Disposition:T11 
+T12	Disposition 1920 1929	Diltiazem
+E12	Disposition:T12 
+T13	Disposition 1983 1993	lisinopril
+E13	Disposition:T13 
+T14	NoDisposition 2052 2061	Diltiazem
+E14	NoDisposition:T14 
+T15	NoDisposition 276 288	DILTIAZEM CD
+E15	NoDisposition:T15 
+T16	Undetermined 396 408	DILTIAZEM CD
+E16	Undetermined:T16 
+T17	Undetermined 428 434	HYZAAR
+E17	Undetermined:T17 
+T18	Undetermined 451 469	HCTZ 25MG   LOSART
+E18	Undetermined:T18 
+A1	Certainty E6 Certain
+A2	Actor E6 Physician
+A3	Action E6 Start
+A4	Temporality E6 Past
+T19	NoDisposition 760 772	DILTIAZEM CD
+E19	NoDisposition:T19 
+T20	NoDisposition 792 798	HYZAAR
+E20	NoDisposition:T20 
+T21	NoDisposition 815 833	HCTZ 25MG   LOSART
+E21	NoDisposition:T21 
+A5	Certainty E11 Certain
+A6	Actor E11 Physician
+A7	Action E11 Increase
+A8	Temporality E11 Present
+A9	Certainty E12 Certain
+A10	Actor E12 Physician
+A11	Action E12 Increase
+A12	Temporality E12 Present
+A13	Certainty E13 Certain
+A14	Actor E13 Physician
+A15	Action E13 Stop
+A16	Temporality E13 Past
+A17	Negation E6 NotNegated
+A18	Negation E11 NotNegated
+A19	Negation E13 NotNegated
+A20	Negation E12 NotNegated

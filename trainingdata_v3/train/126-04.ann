@@ -1,0 +1,24 @@
+T1	NoDisposition 480 493	Labetalol HCL
+E1	NoDisposition:T1 
+T3	NoDisposition 646 655	Neurontin
+E3	NoDisposition:T3 
+T5	NoDisposition 772 780	Renaphro
+E5	NoDisposition:T5 
+T7	NoDisposition 591 597	Cozaar
+E7	NoDisposition:T7 
+T8	NoDisposition 599 607	LOSARTAN
+E8	NoDisposition:T8 
+T9	NoDisposition 657 667	GABAPENTIN
+E9	NoDisposition:T9 
+T10	NoDisposition 532 539	Lipitor
+E10	NoDisposition:T10 
+T11	NoDisposition 541 553	ATORVASTATIN
+E11	NoDisposition:T11 
+T12	NoDisposition 708 711	Asa
+E12	NoDisposition:T12 
+T13	NoDisposition 713 733	ACETYLSALICYLIC ACID
+E13	NoDisposition:T13 
+T14	NoDisposition 795 801	Nexium
+E14	NoDisposition:T14 
+T15	NoDisposition 803 815	ESOMEPRAZOLE
+E15	NoDisposition:T15 

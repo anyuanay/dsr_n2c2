@@ -1,0 +1,236 @@
+T2	Disposition 1255 1266	Hydralazine
+E2	Disposition:T2 
+T3	Disposition 1268 1272	HCTZ
+E3	Disposition:T3 
+T4	Disposition 1274 1284	Lisinopril
+E4	Disposition:T4 
+T5	Disposition 1290 1299	Labetalol
+E5	Disposition:T5 
+T6	Disposition 1325 1333	Atenolol
+E6	Disposition:T6 
+T7	Disposition 1338 1347	Terazosin
+E7	Disposition:T7 
+T8	Disposition 1418 1426	Atenolol
+E8	Disposition:T8 
+T9	Disposition 1428 1437	Terazosin
+E9	Disposition:T9 
+T10	Disposition 1439 1443	HCTZ
+E10	Disposition:T10 
+T11	Disposition 1449 1459	Lisinopril
+E11	Disposition:T11 
+T12	Disposition 1998 2001	IVF
+E12	Disposition:T12 
+T13	Disposition 2003 2005	NS
+E13	Disposition:T13 
+T14	Disposition 2038 2048	Vancomycin
+E14	Disposition:T14 
+T15	Disposition 2053 2061	Cefepime
+E15	Disposition:T15 
+T16	Disposition 2430 2442	Levofloxacin
+E16	Disposition:T16 
+T19	NoDisposition 3127 3135	Atenolol
+E19	NoDisposition:T19 
+T22	NoDisposition 3251 3270	Hydrochlorothiazide
+E22	NoDisposition:T22 
+T24	NoDisposition 3358 3368	Lisinopril
+E24	NoDisposition:T24 
+T25	NoDisposition 3387 3396	Memantine
+E25	NoDisposition:T25 
+T26	NoDisposition 3426 3437	Methimazole
+E26	NoDisposition:T26 
+T27	NoDisposition 3454 3472	Miconazole Nitrate
+E27	NoDisposition:T27 
+T28	NoDisposition 3514 3527	Multivitamins
+E28	NoDisposition:T28 
+T29	NoDisposition 3545 3555	Omeprazole
+E29	NoDisposition:T29 
+T31	NoDisposition 3639 3650	Simvastatin
+E31	NoDisposition:T31 
+T32	NoDisposition 3668 3681	Terazosin Hcl
+E32	NoDisposition:T32 
+T33	NoDisposition 3700 3709	Trazodone
+E33	NoDisposition:T33 
+T34	Undetermined 9914 9922	Cefepime
+E34	Undetermined:T34 
+T35	Undetermined 10129 10138	Labetalol
+E35	Undetermined:T35 
+T36	Undetermined 10143 10154	Hydralazine
+E36	Undetermined:T36 
+T37	Disposition 10172 10176	ACEi
+E37	Disposition:T37 
+T38	Disposition 10178 10182	HCTZ
+E38	Disposition:T38 
+T39	NoDisposition 10689 10692	IVF
+E39	NoDisposition:T39 
+T40	Disposition 10765 10768	IVF
+E40	Disposition:T40 
+T42	Undetermined 10823 10826	PPI
+E42	Undetermined:T42 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 Start
+A8	Temporality E3 Past
+A9	Certainty E4 Certain
+A10	Actor E4 Physician
+A11	Action E4 Start
+A12	Temporality E4 Past
+A13	Certainty E5 Certain
+A14	Actor E5 Physician
+A15	Action E5 Start
+A16	Temporality E5 Past
+A17	Certainty E6 Certain
+A18	Actor E6 Physician
+A19	Action E6 Stop
+A20	Temporality E6 Past
+A21	Certainty E7 Certain
+A22	Actor E7 Physician
+A23	Action E7 Stop
+A24	Temporality E7 Past
+A25	Certainty E8 Certain
+A26	Actor E8 Physician
+A27	Action E8 Start
+A28	Temporality E8 Past
+A29	Certainty E9 Certain
+A30	Actor E9 Physician
+A31	Action E9 Start
+A32	Temporality E9 Past
+A33	Certainty E10 Certain
+A34	Actor E10 Physician
+A35	Action E10 Start
+A36	Temporality E10 Past
+A37	Certainty E11 Certain
+A38	Actor E11 Physician
+A39	Action E11 Start
+A40	Temporality E11 Past
+T43	Disposition 1255 1266	Hydralazine
+E43	Disposition:T43 
+A41	Certainty E43 Certain
+A42	Actor E43 Physician
+A43	Action E43 Stop
+A44	Temporality E43 Past
+T44	Disposition 1268 1272	HCTZ
+E44	Disposition:T44 
+A45	Certainty E44 Certain
+A46	Actor E44 Physician
+A47	Action E44 Stop
+A48	Temporality E44 Past
+T46	Disposition 1290 1299	Labetalol
+E46	Disposition:T46 
+A53	Certainty E46 Certain
+A54	Actor E46 Physician
+A55	Action E46 Stop
+A56	Temporality E46 Past
+A57	Certainty E12 Certain
+A58	Actor E12 Physician
+A59	Action E12 UniqueDose
+A60	Temporality E12 Past
+A61	Certainty E13 Certain
+A62	Actor E13 Physician
+A63	Action E13 UniqueDose
+A64	Temporality E13 Past
+A65	Certainty E14 Certain
+A66	Actor E14 Physician
+A67	Action E14 Start
+A68	Temporality E14 Past
+A69	Certainty E15 Certain
+A70	Actor E15 Physician
+A71	Action E15 Start
+A72	Temporality E15 Past
+A73	Certainty E16 Certain
+A74	Actor E16 Physician
+A75	Action E16 Start
+A76	Temporality E16 Past
+T47	Disposition 2522 2525	Abx
+E47	Disposition:T47 
+A77	Certainty E47 Certain
+A78	Actor E47 Physician
+A79	Action E47 Stop
+A80	Temporality E47 Past
+T48	NoDisposition 3023 3036	Acetaminophen
+E48	NoDisposition:T48 
+T49	NoDisposition 3038 3045	Tylenol
+E49	NoDisposition:T49 
+T50	NoDisposition 3077 3097	Acetylsalicylic Acid
+E50	NoDisposition:T50 
+T51	NoDisposition 3099 3106	Aspirin
+E51	NoDisposition:T51 
+T52	NoDisposition 3154 3168	Cyanocobalamin
+E52	NoDisposition:T52 
+T53	NoDisposition 3170 3181	Vitamin B12
+E53	NoDisposition:T53 
+T54	NoDisposition 3205 3220	Docusate Sodium
+E54	NoDisposition:T54 
+T55	NoDisposition 3222 3228	Colace
+E55	NoDisposition:T55 
+T56	NoDisposition 3289 3300	Ipratropium
+E56	NoDisposition:T56 
+T57	NoDisposition 3312 3320	Atrovent
+E57	NoDisposition:T57 
+T58	NoDisposition 3398 3405	Namenda
+E58	NoDisposition:T58 
+T59	NoDisposition 3557 3565	Prilosec
+E59	NoDisposition:T59 
+T60	NoDisposition 3586 3605	Polyethylene Glycol
+E60	NoDisposition:T60 
+T61	NoDisposition 3608 3615	Miralax
+E61	NoDisposition:T61 
+T62	Undetermined 9904 9909	Vanco
+E62	Undetermined:T62 
+A81	Certainty E37 Certain
+A82	Actor E37 Physician
+A83	Action E37 Stop
+A84	Temporality E37 Present
+A85	Certainty E38 Certain
+A86	Actor E38 Physician
+A87	Action E38 Stop
+A88	Temporality E38 Present
+T63	Disposition 10240 10249	Terazosin
+E63	Disposition:T63 
+A89	Certainty E63 Conditional
+A90	Actor E63 Physician
+A91	Action E63 Start
+A92	Temporality E63 Future
+T64	Disposition 10272 10275	IVF
+E64	Disposition:T64 
+A93	Certainty E64 Certain
+A94	Actor E64 Physician
+A95	Action E64 UniqueDose
+A96	Temporality E64 Present
+A97	Certainty E40 Certain
+A98	Actor E40 Physician
+A99	Action E40 UniqueDose
+A100	Temporality E40 Present
+T65	Undetermined 10811 10818	heparin
+E65	Undetermined:T65 
+T1	NoDisposition 1582 1584	NS
+E1	NoDisposition:T1 
+T17	NoDisposition 1737 1743	fluids
+E17	NoDisposition:T17 
+A101	Negation E46 NotNegated
+A102	Negation E12 NotNegated
+A103	Negation E16 NotNegated
+A104	Negation E38 NotNegated
+A105	Negation E7 NotNegated
+A106	Negation E63 NotNegated
+A107	Negation E8 NotNegated
+A108	Negation E4 NotNegated
+A109	Negation E10 NotNegated
+A110	Negation E11 NotNegated
+A111	Negation E37 NotNegated
+A112	Negation E13 NotNegated
+A113	Negation E3 NotNegated
+A114	Negation E2 NotNegated
+A115	Negation E44 NotNegated
+A116	Negation E5 NotNegated
+A117	Negation E14 NotNegated
+A118	Negation E40 NotNegated
+A119	Negation E47 NotNegated
+A120	Negation E6 NotNegated
+A121	Negation E15 NotNegated
+A122	Negation E43 NotNegated
+A123	Negation E64 NotNegated
+A124	Negation E9 NotNegated

@@ -1,0 +1,32 @@
+T1	NoDisposition 2475 2482	aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 2514 2521	doxepin
+E2	NoDisposition:T2 
+T3	NoDisposition 2524 2533	glyburide
+E3	NoDisposition:T3 
+T4	NoDisposition 2536 2543	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 2574 2583	Toprol XL
+E5	NoDisposition:T5 
+T6	NoDisposition 2595 2605	Wellbutrin
+E6	NoDisposition:T6 
+T7	NoDisposition 6070 6079	Toprol XL
+E7	NoDisposition:T7 
+T8	NoDisposition 6112 6119	Lipitor
+E8	NoDisposition:T8 
+T9	NoDisposition 6132 6137	Lopid
+E9	NoDisposition:T9 
+T10	NoDisposition 6152 6159	aspirin
+E10	NoDisposition:T10 
+T11	NoDisposition 6173 6183	Wellbutrin
+E11	NoDisposition:T11 
+T12	NoDisposition 2495 2502	Atacand
+E12	NoDisposition:T12 
+T13	NoDisposition 2555 2560	Lopid
+E13	NoDisposition:T13 
+T14	NoDisposition 6055 6064	glyburide
+E14	NoDisposition:T14 
+T15	NoDisposition 6092 6099	Atacand
+E15	NoDisposition:T15 
+T16	NoDisposition 6189 6196	doxepin
+E16	NoDisposition:T16 

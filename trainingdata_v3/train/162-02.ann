@@ -1,0 +1,6 @@
+T1	NoDisposition 265 273	atenolol
+E1	NoDisposition:T1 
+T2	NoDisposition 276 295	hydrochlorothiazide
+E2	NoDisposition:T2 
+T3	NoDisposition 297 308	triamterene
+E3	NoDisposition:T3 

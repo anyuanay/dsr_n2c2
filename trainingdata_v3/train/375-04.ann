@@ -1,0 +1,62 @@
+T1	NoDisposition 550 558	atenolol
+E1	NoDisposition:T1 
+T2	NoDisposition 580 590	pyridoxine
+E2	NoDisposition:T2 
+T3	NoDisposition 613 620	Sinemet
+E3	NoDisposition:T3 
+T4	NoDisposition 662 669	Sinemet
+E4	NoDisposition:T4 
+T5	NoDisposition 695 704	glyburide
+E5	NoDisposition:T5 
+T6	NoDisposition 727 732	Zocor
+E6	NoDisposition:T6 
+T7	NoDisposition 757 767	gabapentin
+E7	NoDisposition:T7 
+T8	NoDisposition 791 801	folic acid
+E8	NoDisposition:T8 
+T9	NoDisposition 822 828	Pletal
+E9	NoDisposition:T9 
+T10	NoDisposition 852 862	pyridoxine
+E10	NoDisposition:T10 
+T11	NoDisposition 884 893	metformin
+E11	NoDisposition:T11 
+T12	NoDisposition 917 920	ASA
+E12	NoDisposition:T12 
+T13	NoDisposition 942 950	prazosin
+E13	NoDisposition:T13 
+T14	NoDisposition 971 981	Lisinopril
+E14	NoDisposition:T14 
+T15	NoDisposition 1004 1010	Zantac
+E15	NoDisposition:T15 
+T16	Undetermined 4334 4341	Sinemet
+E16	Undetermined:T16 
+T17	Disposition 4409 4419	pyridoxine
+E17	Disposition:T17 
+T18	Disposition 4443 4450	Sinemet
+E18	Disposition:T18 
+T19	Disposition 4500 4507	Sinemet
+E19	Disposition:T19 
+T20	NoDisposition 3980 3987	Sinemet
+E20	NoDisposition:T20 
+T21	Disposition 4143 4150	Sinemet
+E21	Disposition:T21 
+A1	Certainty E21 Certain
+A2	Actor E21 Physician
+A3	Action E21 Decrease
+A4	Temporality E21 Present
+A5	Certainty E19 Certain
+A6	Actor E19 Physician
+A7	Action E19 Start
+A8	Temporality E19 Present
+A9	Certainty E18 Certain
+A10	Actor E18 Physician
+A11	Action E18 Stop
+A12	Temporality E18 Present
+A13	Certainty E17 Certain
+A14	Actor E17 Physician
+A15	Action E17 Stop
+A16	Temporality E17 Present
+A17	Negation E19 NotNegated
+A18	Negation E18 NotNegated
+A19	Negation E21 NotNegated
+A20	Negation E17 NotNegated

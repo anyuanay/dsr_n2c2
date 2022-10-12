@@ -1,0 +1,152 @@
+T1	Disposition 1039 1048	narcotics
+E1	Disposition:T1 
+T2	NoDisposition 1458 1464	Zantac
+E2	NoDisposition:T2 
+T3	NoDisposition 1466 1480	RANITIDINE HCL
+E3	NoDisposition:T3 
+T4	NoDisposition 1545 1553	Percocet
+E4	NoDisposition:T4 
+T5	NoDisposition 1618 1624	Ativan
+E5	NoDisposition:T5 
+T6	NoDisposition 1670 1678	Naproxen
+E6	NoDisposition:T6 
+T7	NoDisposition 1880 1886	Nexium
+E7	NoDisposition:T7 
+T8	NoDisposition 1950 1955	Lasix
+E8	NoDisposition:T8 
+T9	NoDisposition 1957 1967	FUROSEMIDE
+E9	NoDisposition:T9 
+T10	NoDisposition 2012 2031	Hydrochlorothiazide
+E10	NoDisposition:T10 
+T11	NoDisposition 2066 2086	Levothyroxine SODIUM
+E11	NoDisposition:T11 
+T13	NoDisposition 2223 2233	Loratadine
+E13	NoDisposition:T13 
+T16	NoDisposition 2436 2442	Diovan
+E16	NoDisposition:T16 
+T17	NoDisposition 2491 2497	Plavix
+E17	NoDisposition:T17 
+T24	NoDisposition 2796 2803	Lipitor
+E24	NoDisposition:T24 
+T26	NoDisposition 2832 2842	Carvedilol
+E26	NoDisposition:T26 
+T27	NoDisposition 2882 2891	Oxycodone
+E27	NoDisposition:T27 
+T28	NoDisposition 2946 2957	Penicillins
+E28	NoDisposition:T28 
+T30	Undetermined 3933 3939	diovan
+E30	Undetermined:T30 
+T31	Undetermined 3945 3949	hctz
+E31	Undetermined:T31 
+T32	Undetermined 3954 3959	lasix
+E32	Undetermined:T32 
+T33	NoDisposition 3964 3974	carvedilol
+E33	NoDisposition:T33 
+T35	Undetermined 4940 4949	metfromin
+E35	Undetermined:T35 
+T36	Disposition 5267 5275	estrogen
+E36	Disposition:T36 
+T38	Disposition 5582 5588	nexium
+E38	Disposition:T38 
+T39	Undetermined 5731 5737	nexium
+E39	Undetermined:T39 
+T40	Disposition 6008 6017	oxycodone
+E40	Disposition:T40 
+T41	NoDisposition 6025 6034	ibuprofen
+E41	NoDisposition:T41 
+T43	Disposition 6174 6183	narcotics
+E43	Disposition:T43 
+T45	NoDisposition 555 561	nexium
+E45	NoDisposition:T45 
+A1	Certainty E1 Hypothetical
+A2	Actor E1 Patient
+A3	Action E1 Start
+A4	Temporality E1 Present
+T46	NoDisposition 1402 1416	Caltrate and D
+E46	NoDisposition:T46 
+T47	NoDisposition 1555 1569	OXYCODONE+APAP
+E47	NoDisposition:T47 
+T48	NoDisposition 1626 1635	LORAZEPAM
+E48	NoDisposition:T48 
+T49	NoDisposition 1725 1732	Miralax
+E49	NoDisposition:T49 
+T50	NoDisposition 1734 1753	POLYETHYLENE GLYCOL
+E50	NoDisposition:T50 
+T51	NoDisposition 1827 1834	Estrace
+E51	NoDisposition:T51 
+T52	NoDisposition 1836 1845	ESTRADIOL
+E52	NoDisposition:T52 
+T53	NoDisposition 1888 1900	ESOMEPRAZOLE
+E53	NoDisposition:T53 
+T54	NoDisposition 2108 2114	Colace
+E54	NoDisposition:T54 
+T55	NoDisposition 2116 2131	DOCUSATE SODIUM
+E55	NoDisposition:T55 
+T56	NoDisposition 2268 2277	Neurontin
+E56	NoDisposition:T56 
+T57	NoDisposition 2279 2289	GABAPENTIN
+E57	NoDisposition:T57 
+T58	NoDisposition 2377 2384	Fosamax
+E58	NoDisposition:T58 
+T59	NoDisposition 2386 2397	ALENDRONATE
+E59	NoDisposition:T59 
+T60	NoDisposition 2444 2453	VALSARTAN
+E60	NoDisposition:T60 
+T61	NoDisposition 2499 2510	CLOPIDOGREL
+E61	NoDisposition:T61 
+T62	NoDisposition 2546 2555	Metformin
+E62	NoDisposition:T62 
+T63	NoDisposition 2600 2611	Calcium + D
+E63	NoDisposition:T63 
+T64	NoDisposition 2628 2683	CALCIUM CARBONATE 1250 MG (500MG ELEM CA)/ VIT D 200 IU
+E64	NoDisposition:T64 
+T65	NoDisposition 2730 2735	Senna
+E65	NoDisposition:T65 
+T66	NoDisposition 2745 2755	SENNOSIDES
+E66	NoDisposition:T66 
+T67	NoDisposition 2805 2817	ATORVASTATIN
+E67	NoDisposition:T67 
+T68	NoDisposition 3187 3202	corticosteroids
+E68	NoDisposition:T68 
+T69	NoDisposition 3648 3653	lasix
+E69	NoDisposition:T69 
+T70	NoDisposition 3976 3982	plavix
+E70	NoDisposition:T70 
+T71	NoDisposition 4001 4008	lipitor
+E71	NoDisposition:T71 
+T72	NoDisposition 5406 5415	estradiol
+E72	NoDisposition:T72 
+A5	Certainty E38 Certain
+A6	Actor E38 Physician
+A7	Action E38 Increase
+A8	Temporality E38 Past
+A9	Certainty E40 Hypothetical
+A10	Actor E40 Patient
+A11	Action E40 Start
+A12	Temporality E40 Present
+T73	Disposition 6061 6070	oxycodone
+E73	Disposition:T73 
+A13	Certainty E43 Hypothetical
+A14	Actor E43 Physician
+A15	Action E43 Start
+A16	Temporality E43 Future
+A17	Certainty E73 Certain
+A18	Actor E73 Physician
+A19	Action E73 Start
+A20	Temporality E73 Present
+T12	NoDisposition 2967 2986	Gadolinium Chelates
+E12	NoDisposition:T12 
+T14	NoDisposition 3093 3103	Gadolinuim
+E14	NoDisposition:T14 
+T15	NoDisposition 3215 3234	Gadolinium chealtes
+E15	NoDisposition:T15 
+A21	Certainty E36 Certain
+A22	Actor E36 Physician
+A23	Action E36 Start
+A24	Temporality E36 Past
+A25	Negation E73 NotNegated
+A26	Negation E38 NotNegated
+A27	Negation E43 NotNegated
+A28	Negation E1 NotNegated
+A29	Negation E36 NotNegated
+A30	Negation E40 NotNegated

@@ -1,0 +1,139 @@
+T1	Disposition 1059 1065	Celexa
+E1	Disposition:T1 
+T2	NoDisposition 1301 1310	oxycodone
+E2	NoDisposition:T2 
+T3	NoDisposition 1978 1985	insulin
+E3	NoDisposition:T3 
+T4	Disposition 2374 2387	hypoglycemics
+E4	Disposition:T4 
+T5	Disposition 2400 2407	insulin
+E5	Disposition:T5 
+T6	NoDisposition 2474 2481	insulin
+E6	NoDisposition:T6 
+T7	Disposition 2634 2644	Lisinopril
+E7	Disposition:T7 
+T8	Disposition 2660 2668	Losartan
+E8	Disposition:T8 
+T9	NoDisposition 2702 2715	ACE-inhibitor
+E9	NoDisposition:T9 
+T10	Disposition 2904 2915	Fenofibrate
+E10	Disposition:T10 
+T12	NoDisposition 3129 3140	antibiotics
+E12	NoDisposition:T12 
+T13	NoDisposition 3390 3400	antibiotic
+E13	NoDisposition:T13 
+T15	NoDisposition 3995 4006	NPH Insulin
+E15	NoDisposition:T15 
+T16	NoDisposition 4045 4056	NPH Insulin
+E16	NoDisposition:T16 
+T17	NoDisposition 4092 4107	Regular Insulin
+E17	NoDisposition:T17 
+T18	Disposition 4283 4289	Celexa
+E18	Disposition:T18 
+T19	NoDisposition 4354 4362	Klonopin
+E19	NoDisposition:T19 
+T21	NoDisposition 4440 4443	MVI
+E21	NoDisposition:T21 
+T22	NoDisposition 4514 4518	HCTZ
+E22	NoDisposition:T22 
+T95	NoDisposition 15482 15486	HCTZ
+E95	NoDisposition:T95 
+T97	NoDisposition 15666 15673	insulin
+E97	NoDisposition:T97 
+T98	NoDisposition 15860 15867	insulin
+E98	NoDisposition:T98 
+T99	Undetermined 16159 16168	Toprol XL
+E99	Undetermined:T99 
+T100	Undetermined 16201 16212	NPH Insulin
+E100	Undetermined:T100 
+T103	Disposition 16496 16506	Lisinopril
+E103	Disposition:T103 
+T104	Disposition 16535 16540	Lopid
+E104	Disposition:T104 
+A1	Certainty E1 Certain
+A2	Actor E1 Patient
+A3	Action E1 Stop
+A4	Temporality E1 Past
+T20	NoDisposition 1397 1406	oxycodone
+E20	NoDisposition:T20 
+T106	NoDisposition 2719 2722	ARB
+E106	NoDisposition:T106 
+A9	Certainty E10 Certain
+A10	Actor E10 Unknown
+A11	Action E10 Stop
+A12	Temporality E10 Past
+A13	Certainty E7 Certain
+A14	Actor E7 Unknown
+A15	Action E7 Stop
+A16	Temporality E7 Past
+T107	NoDisposition 2973 2982	Toprol XL
+E107	NoDisposition:T107 
+A5	Certainty E4 Certain
+A6	Actor E4 Physician
+A7	Action E4 Stop
+A8	Temporality E4 Past
+A17	Certainty E8 Certain
+A18	Actor E8 Unknown
+A19	Action E8 Stop
+A20	Temporality E8 Past
+T105	NoDisposition 3953 3962	Toprol XL
+E105	NoDisposition:T105 
+A21	Certainty E18 Certain
+A22	Actor E18 Patient
+A23	Action E18 Stop
+A24	Temporality E18 Past
+T108	NoDisposition 4482 4498	Zinc supplements
+E108	NoDisposition:T108 
+T109	NoDisposition 15469 15480	betablocker
+E109	NoDisposition:T109 
+T110	Disposition 15576 15581	ACE-I
+E110	Disposition:T110 
+A25	Certainty E110 Hypothetical
+A26	Actor E110 Physician
+A27	Action E110 Start
+A28	Temporality E110 Present
+T111	Disposition 15585 15588	ARB
+E111	Disposition:T111 
+A29	Certainty E111 Hypothetical
+A30	Actor E111 Physician
+A31	Action E111 Start
+A32	Temporality E111 Present
+T112	Disposition 15754 15761	fibrate
+E112	Disposition:T112 
+T113	Disposition 15771 15776	Lopid
+E113	Disposition:T113 
+T114	Undetermined 16356 16371	regular insulin
+E114	Undetermined:T114 
+A33	Certainty E103 Certain
+A34	Actor E103 Physician
+A35	Action E103 Start
+A36	Temporality E103 Present
+A37	Certainty E104 Certain
+A38	Actor E104 Physician
+A39	Action E104 Start
+A40	Temporality E104 Present
+A41	Certainty E112 Hypothetical
+A42	Actor E112 Physician
+A43	Action E112 Start
+A44	Temporality E112 Present
+A45	Certainty E113 Hypothetical
+A46	Actor E113 Physician
+A47	Action E113 Start
+A48	Temporality E113 Present
+A49	Certainty E5 Certain
+A50	Actor E5 Physician
+A51	Action E5 Start
+A52	Temporality E5 Past
+A53	Negation E110 NotNegated
+A54	Negation E103 NotNegated
+A55	Negation E112 NotNegated
+A56	Negation E8 NotNegated
+A57	Negation E4 NotNegated
+A58	Negation E104 NotNegated
+A59	Negation E10 NotNegated
+A60	Negation E111 NotNegated
+A61	Negation E113 NotNegated
+A62	Negation E1 NotNegated
+A63	Negation E5 NotNegated
+A64	Negation E18 NotNegated
+A65	Negation E7 NotNegated

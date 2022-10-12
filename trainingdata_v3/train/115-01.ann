@@ -1,0 +1,18 @@
+T1	NoDisposition 204 211	Diabeta
+E1	NoDisposition:T1 
+T2	Disposition 270 279	Pravachol
+E2	Disposition:T2 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+T3	NoDisposition 322 331	Pravachol
+E3	NoDisposition:T3 
+T4	Disposition 931 938	Diabeta
+E4	Disposition:T4 
+A5	Certainty E4 Conditional
+A6	Actor E4 Physician
+A7	Action E4 Unknown
+A8	Temporality E4 Future
+A9	Negation E2 NotNegated
+A10	Negation E4 NotNegated

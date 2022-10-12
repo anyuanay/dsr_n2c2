@@ -1,0 +1,26 @@
+T1	NoDisposition 543 556	nitroglycerin
+E1	NoDisposition:T1 
+T2	NoDisposition 1925 1933	ramipril
+E2	NoDisposition:T2 
+T3	NoDisposition 1947 1954	aspirin
+E3	NoDisposition:T3 
+T4	NoDisposition 1969 1975	Cozaar
+E4	NoDisposition:T4 
+T5	NoDisposition 1990 1997	Crestor
+E5	NoDisposition:T5 
+T6	NoDisposition 2011 2019	fish oil
+E6	NoDisposition:T6 
+T7	NoDisposition 2035 2044	metformin
+E7	NoDisposition:T7 
+T8	NoDisposition 2060 2073	multivitamins
+E8	NoDisposition:T8 
+T9	NoDisposition 2075 2081	niacin
+E9	NoDisposition:T9 
+T10	NoDisposition 2096 2102	Plavix
+E10	NoDisposition:T10 
+T11	NoDisposition 2116 2125	Toprol-XL
+E11	NoDisposition:T11 
+T12	NoDisposition 2141 2145	HCTZ
+E12	NoDisposition:T12 
+T13	NoDisposition 2165 2171	Nexium
+E13	NoDisposition:T13 

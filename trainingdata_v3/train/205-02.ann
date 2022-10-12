@@ -1,0 +1,16 @@
+T1	NoDisposition 698 703	Lasix
+E1	NoDisposition:T1 
+T2	NoDisposition 705 713	Prilosec
+E2	NoDisposition:T2 
+T3	NoDisposition 715 721	Cozaar
+E3	NoDisposition:T3 
+T4	NoDisposition 723 730	aspirin
+E4	NoDisposition:T4 
+T5	NoDisposition 732 737	Paxil
+E5	NoDisposition:T5 
+T6	NoDisposition 749 758	albuterol
+E6	NoDisposition:T6 
+T7	NoDisposition 763 773	Nephrocaps
+E7	NoDisposition:T7 
+T8	NoDisposition 739 746	Flovent
+E8	NoDisposition:T8 

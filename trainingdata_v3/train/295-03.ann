@@ -1,0 +1,29 @@
+T2	Disposition 1113 1124	antibiotics
+E2	Disposition:T2 
+T3	NoDisposition 1487 1495	coumadin
+E3	NoDisposition:T3 
+T4	NoDisposition 1829 1836	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 1844 1849	Zetia
+E5	NoDisposition:T5 
+T6	NoDisposition 1859 1862	ASA
+E6	NoDisposition:T6 
+T7	NoDisposition 1870 1876	Altace
+E7	NoDisposition:T7 
+T8	NoDisposition 1884 1892	Atenolol
+E8	NoDisposition:T8 
+T9	NoDisposition 1900 1909	Glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 1920 1934	Nitrofurantoin
+E10	NoDisposition:T10 
+T11	NoDisposition 1943 1951	coumadin
+E11	NoDisposition:T11 
+T12	NoDisposition 3244 3247	IVF
+E12	NoDisposition:T12 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+T13	NoDisposition 1749 1752	abx
+E13	NoDisposition:T13 
+A5	Negation E2 NotNegated

@@ -1,0 +1,26 @@
+T3	NoDisposition 1177 1184	Norvasc
+E3	NoDisposition:T3 
+T4	NoDisposition 1253 1278	CALCIUM Carbonate + Vit D
+E4	NoDisposition:T4 
+T5	NoDisposition 1314 1321	Tylenol
+E5	NoDisposition:T5 
+T9	NoDisposition 1056 1064	ATENOLOL
+E9	NoDisposition:T9 
+T10	NoDisposition 1088 1092	HCTZ
+E10	NoDisposition:T10 
+T11	NoDisposition 1115 1125	LISINOPRIL
+E11	NoDisposition:T11 
+T12	NoDisposition 1148 1153	ZOCOR
+E12	NoDisposition:T12 
+T13	NoDisposition 1186 1196	AMLODIPINE
+E13	NoDisposition:T13 
+T14	NoDisposition 1244 1251	Oscal+d
+E14	NoDisposition:T14 
+T15	NoDisposition 1323 1336	ACETAMINOPHEN
+E15	NoDisposition:T15 
+T16	NoDisposition 1402 1414	Kcl Slow Rel
+E16	NoDisposition:T16 
+T17	NoDisposition 1466 1469	Asa
+E17	NoDisposition:T17 
+T18	NoDisposition 1471 1491	ACETYLSALICYLIC Acid
+E18	NoDisposition:T18 

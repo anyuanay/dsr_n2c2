@@ -1,0 +1,19 @@
+T1	NoDisposition 1035 1046	NPH insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 1753 1764	NPH insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 1816 1823	Tylenol
+E3	NoDisposition:T3 
+T4	NoDisposition 1832 1839	aspirin
+E4	NoDisposition:T4 
+T5	Disposition 3253 3261	atenolol
+E5	Disposition:T5 
+T6	NoDisposition 1073 1076	CGI
+E6	NoDisposition:T6 
+T7	NoDisposition 1788 1791	CGI
+E7	NoDisposition:T7 
+A1	Certainty E5 Certain
+A2	Actor E5 Physician
+A3	Action E5 Start
+A4	Temporality E5 Present
+A5	Negation E5 NotNegated

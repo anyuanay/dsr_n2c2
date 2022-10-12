@@ -1,0 +1,43 @@
+T2	NoDisposition 237 244	Ecotrin
+E2	NoDisposition:T2 
+T3	Disposition 254 263	Synthroid
+E3	Disposition:T3 
+T4	NoDisposition 380 388	Premarin
+E4	NoDisposition:T4 
+T5	Disposition 1125 1134	Micronase
+E5	Disposition:T5 
+T6	Disposition 1272 1281	Synthroid
+E6	Disposition:T6 
+T7	NoDisposition 1529 1537	Habitrol
+E7	NoDisposition:T7 
+T8	NoDisposition 356 366	Micronaise
+E8	NoDisposition:T8 
+A1	Certainty E5 Hypothetical
+A2	Actor E5 Physician
+A3	Action E5 Increase
+A4	Temporality E5 Future
+A5	Certainty E6 Certain
+A6	Actor E6 Patient
+A7	Action E6 Stop
+A8	Temporality E6 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Patient
+A11	Action E3 Stop
+A12	Temporality E3 Past
+T9	Disposition 1272 1281	Synthroid
+E9	Disposition:T9 
+A13	Certainty E9 Certain
+A14	Actor E9 Physician
+A15	Action E9 Start
+A16	Temporality E9 Present
+T10	Disposition 2177 2186	Micronase
+E10	Disposition:T10 
+A17	Certainty E10 Hypothetical
+A18	Actor E10 Physician
+A19	Action E10 Increase
+A20	Temporality E10 Future
+A21	Negation E3 NotNegated
+A22	Negation E6 NotNegated
+A23	Negation E5 NotNegated
+A24	Negation E10 NotNegated
+A25	Negation E9 NotNegated

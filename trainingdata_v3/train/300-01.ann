@@ -1,0 +1,10 @@
+T1	NoDisposition 1958 1963	Lidex
+E1	NoDisposition:T1 
+T2	NoDisposition 2112 2116	HCTZ
+E2	NoDisposition:T2 
+T4	Undetermined 2802 2805	ASA
+E4	Undetermined:T4 
+T5	NoDisposition 2232 2237	K-Dur
+E5	NoDisposition:T5 
+T6	NoDisposition 2356 2363	Zestril
+E6	NoDisposition:T6 

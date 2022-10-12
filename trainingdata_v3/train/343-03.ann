@@ -1,0 +1,46 @@
+T1	Disposition 255 261	Keflex
+E1	Disposition:T1 
+T2	NoDisposition 762 770	ATENOLOL
+E2	NoDisposition:T2 
+T6	NoDisposition 951 960	GLYBURIDE
+E6	NoDisposition:T6 
+T7	NoDisposition 987 997	LISINOPRIL
+E7	NoDisposition:T7 
+T8	Undetermined 1593 1599	Keflex
+E8	Undetermined:T8 
+T9	Undetermined 1627 1635	Percocet
+E9	Undetermined:T9 
+T11	Disposition 1685 1694	Glyburide
+E11	Disposition:T11 
+A1	Certainty E11 Certain
+A2	Actor E11 Physician
+A3	Action E11 Increase
+A4	Temporality E11 Present
+A5	Certainty E1 Certain
+A6	Actor E1 Patient
+A7	Action E1 Start
+A8	Temporality E1 Past
+T12	NoDisposition 796 804	COUMADIN
+E12	NoDisposition:T12 
+T13	NoDisposition 806 821	WARFARIN SODIUM
+E13	NoDisposition:T13 
+T14	NoDisposition 847 852	ECASA
+E14	NoDisposition:T14 
+T15	NoDisposition 854 861	ASPIRIN
+E15	NoDisposition:T15 
+T16	NoDisposition 902 912	GLUCOPHAGE
+E16	NoDisposition:T16 
+T17	NoDisposition 914 923	METFORMIN
+E17	NoDisposition:T17 
+T18	NoDisposition 1022 1030	PERCOCET
+E18	NoDisposition:T18 
+T19	NoDisposition 1035 1049	OXYCODONE+APAP
+E19	NoDisposition:T19 
+T20	NoDisposition 1088 1093	SERAX
+E20	NoDisposition:T20 
+T21	NoDisposition 1095 1103	OXAZEPAM
+E21	NoDisposition:T21 
+T22	NoDisposition 1190 1201	Penicillins
+E22	NoDisposition:T22 
+A9	Negation E1 NotNegated
+A10	Negation E11 NotNegated

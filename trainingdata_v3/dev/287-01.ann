@@ -1,0 +1,18 @@
+T1	NoDisposition 1133 1142	Augmentin
+E1	NoDisposition:T1 
+T2	NoDisposition 1162 1170	Prilosec
+E2	NoDisposition:T2 
+T3	NoDisposition 1181 1189	estrogen
+E3	NoDisposition:T3 
+T4	NoDisposition 1229 1232	ASA
+E4	NoDisposition:T4 
+T5	NoDisposition 1244 1252	Morphine
+E5	NoDisposition:T5 
+T6	NoDisposition 1254 1264	Integrilin
+E6	NoDisposition:T6 
+T7	NoDisposition 1269 1283	Nitroglycerine
+E7	NoDisposition:T7 
+T8	NoDisposition 1288 1295	Heparin
+E8	NoDisposition:T8 
+T11	Undetermined 3522 3532	Anxiolytic
+E11	Undetermined:T11 

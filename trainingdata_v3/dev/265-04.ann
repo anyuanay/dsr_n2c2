@@ -1,0 +1,96 @@
+T3	NoDisposition 731 738	insulin
+E3	NoDisposition:T3 
+T4	NoDisposition 1265 1277	atorvastatin
+E4	NoDisposition:T4 
+T5	NoDisposition 1308 1316	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 1328 1335	aspirin
+E6	NoDisposition:T6 
+T7	Disposition 1592 1600	Coumadin
+E7	Disposition:T7 
+T8	Disposition 1670 1678	Coumadin
+E8	Disposition:T8 
+T9	Disposition 2213 2221	Coumadin
+E9	Disposition:T9 
+T10	Disposition 2226 2233	aspirin
+E10	Disposition:T10 
+T11	Disposition 2382 2390	Coumadin
+E11	Disposition:T11 
+T12	NoDisposition 2489 2496	aspirin
+E12	NoDisposition:T12 
+T13	NoDisposition 2498 2506	atenolol
+E13	NoDisposition:T13 
+T14	NoDisposition 2508 2515	insulin
+E14	NoDisposition:T14 
+T15	NoDisposition 2517 2525	Coumadin
+E15	NoDisposition:T15 
+T16	NoDisposition 2532 2539	Lipitor
+E16	NoDisposition:T16 
+T17	Disposition 3310 3317	insulin
+E17	Disposition:T17 
+T18	Disposition 3412 3420	atenolol
+E18	Disposition:T18 
+T19	NoDisposition 3776 3783	insulin
+E19	NoDisposition:T19 
+T20	Disposition 4143 4150	insulin
+E20	Disposition:T20 
+T21	Disposition 4169 4177	atenolol
+E21	Disposition:T21 
+T2	NoDisposition 645 660	insulin regular
+E2	NoDisposition:T2 
+T23	NoDisposition 699 706	insulin
+E23	NoDisposition:T23 
+A1	Certainty E7 Certain
+A2	Actor E7 Physician
+A3	Action E7 Stop
+A4	Temporality E7 Past
+A5	Certainty E8 Certain
+A6	Actor E8 Physician
+A7	Action E8 Start
+A8	Temporality E8 Past
+T24	NoDisposition 1991 1996	nitro
+E24	NoDisposition:T24 
+A9	Certainty E9 Certain
+A10	Actor E9 Physician
+A11	Action E9 Stop
+A12	Temporality E9 Future
+A13	Certainty E10 Certain
+A14	Actor E10 Physician
+A15	Action E10 Stop
+A16	Temporality E10 Future
+A17	Certainty E11 Certain
+A18	Actor E11 Physician
+A19	Action E11 Start
+A20	Temporality E11 Future
+T25	Disposition 2382 2390	Coumadin
+E25	Disposition:T25 
+A21	Certainty E25 Certain
+A22	Actor E25 Physician
+A23	Action E25 Increase
+A24	Temporality E25 Future
+A25	Certainty E17 Certain
+A26	Actor E17 Physician
+A27	Action E17 Increase
+A28	Temporality E17 Present
+A29	Certainty E18 Certain
+A30	Actor E18 Physician
+A31	Action E18 Increase
+A32	Temporality E18 Present
+A33	Certainty E20 Certain
+A34	Actor E20 Physician
+A35	Action E20 Increase
+A36	Temporality E20 Present
+A37	Certainty E21 Certain
+A38	Actor E21 Physician
+A39	Action E21 Increase
+A40	Temporality E21 Present
+A41	Negation E9 NotNegated
+A42	Negation E8 NotNegated
+A43	Negation E20 NotNegated
+A44	Negation E10 NotNegated
+A45	Negation E18 NotNegated
+A46	Negation E21 NotNegated
+A47	Negation E11 NotNegated
+A48	Negation E25 NotNegated
+A49	Negation E7 NotNegated
+A50	Negation E17 NotNegated

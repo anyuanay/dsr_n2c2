@@ -1,0 +1,46 @@
+T2	NoDisposition 569 580	darbopoetin
+E2	NoDisposition:T2 
+T3	Disposition 2176 2187	Depo-Medrol
+E3	Disposition:T3 
+T4	Disposition 2401 2412	darbepoetin
+E4	Disposition:T4 
+T7	Disposition 1550 1559	glipizide
+E7	Disposition:T7 
+A1	Certainty E7 Certain
+A2	Actor E7 Patient
+A3	Action E7 Decrease
+A4	Temporality E7 Past
+T8	Disposition 1550 1559	glipizide
+E8	Disposition:T8 
+A5	Certainty E8 Certain
+A6	Actor E8 Physician
+A7	Action E8 Decrease
+A8	Temporality E8 Present
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Present
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+T9	NoDisposition 2570 2583	nonsteroidals
+E9	NoDisposition:T9 
+T10	Disposition 2649 2669	Tylenol with Codeine
+E10	Disposition:T10 
+A17	Certainty E10 Certain
+A18	Actor E10 Physician
+A19	Action E10 Start
+A20	Temporality E10 Present
+T1	Disposition 2145 2154	lidocaine
+E1	Disposition:T1 
+A21	Certainty E1 Certain
+A22	Actor E1 Physician
+A23	Action E1 UniqueDose
+A24	Temporality E1 Past
+A25	Negation E3 NotNegated
+A26	Negation E8 NotNegated
+A27	Negation E4 NotNegated
+A28	Negation E10 NotNegated
+A29	Negation E1 NotNegated
+A30	Negation E7 NotNegated

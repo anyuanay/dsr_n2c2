@@ -1,0 +1,14 @@
+T1	Disposition 1492 1505	nitroglycerin
+E1	Disposition:T1 
+T2	Disposition 1572 1585	ACE inhibitor
+E2	Disposition:T2 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Present
+A5	Certainty E1 Certain
+A6	Actor E1 Physician
+A7	Action E1 UniqueDose
+A8	Temporality E1 Past
+A9	Negation E1 NotNegated
+A10	Negation E2 NotNegated

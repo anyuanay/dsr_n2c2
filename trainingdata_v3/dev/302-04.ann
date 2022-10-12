@@ -1,0 +1,55 @@
+T1	NoDisposition 529 539	lisinopril
+E1	NoDisposition:T1 
+T3	NoDisposition 653 660	Lipitor
+E3	NoDisposition:T3 
+T4	NoDisposition 702 712	Glucophage
+E4	NoDisposition:T4 
+T5	NoDisposition 731 737	Cozaar
+E5	NoDisposition:T5 
+T6	NoDisposition 755 762	Avandia
+E6	NoDisposition:T6 
+T7	NoDisposition 779 787	Trandate
+E7	NoDisposition:T7 
+T8	NoDisposition 804 812	Tegretol
+E8	NoDisposition:T8 
+T9	Disposition 855 864	Neurontin
+E9	Disposition:T9 
+T10	Disposition 925 933	Premarin
+E10	Disposition:T10 
+T11	Disposition 938 945	Provera
+E11	Disposition:T11 
+T12	NoDisposition 965 972	Aspirin
+E12	NoDisposition:T12 
+T14	NoDisposition 676 683	Glynase
+E14	NoDisposition:T14 
+T15	NoDisposition 989 996	Calcium
+E15	NoDisposition:T15 
+A1	Certainty E10 Certain
+A2	Actor E10 Physician
+A3	Action E10 Stop
+A4	Temporality E10 Past
+A5	Certainty E11 Certain
+A6	Actor E11 Physician
+A7	Action E11 Stop
+A8	Temporality E11 Past
+T16	Disposition 1735 1743	Dulcolax
+E16	Disposition:T16 
+A9	Certainty E16 Certain
+A10	Actor E16 Physician
+A11	Action E16 Start
+A12	Temporality E16 Present
+T17	Disposition 1762 1770	Dulcolax
+E17	Disposition:T17 
+A13	Certainty E17 Certain
+A14	Actor E17 Physician
+A15	Action E17 Start
+A16	Temporality E17 Present
+A17	Certainty E9 Certain
+A18	Actor E9 Physician
+A19	Action E9 Stop
+A20	Temporality E9 Past
+A21	Negation E16 NotNegated
+A22	Negation E9 NotNegated
+A23	Negation E10 NotNegated
+A24	Negation E11 NotNegated
+A25	Negation E17 NotNegated

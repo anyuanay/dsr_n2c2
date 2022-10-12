@@ -1,0 +1,104 @@
+T1	Disposition 708 720	azithromycin
+E1	Disposition:T1 
+T2	Disposition 805 810	lasix
+E2	Disposition:T2 
+T3	Disposition 1614 1621	aspirin
+E3	Disposition:T3 
+T4	NoDisposition 3017 3024	Heparin
+E4	NoDisposition:T4 
+T6	NoDisposition 3082 3089	Bactrim
+E6	NoDisposition:T6 
+T7	NoDisposition 3098 3110	Erythromycin
+E7	NoDisposition:T7 
+T8	NoDisposition 3119 3127	Percocet
+E8	NoDisposition:T8 
+T9	NoDisposition 3141 3150	Compazine
+E9	NoDisposition:T9 
+T10	NoDisposition 3159 3171	Erythromycin
+E10	NoDisposition:T10 
+T11	NoDisposition 3203 3208	Lasix
+E11	NoDisposition:T11 
+T12	NoDisposition 3239 3245	Nexium
+E12	NoDisposition:T12 
+T13	NoDisposition 3256 3268	Verapamil SR
+E13	NoDisposition:T13 
+T14	NoDisposition 3298 3306	Tegretol
+E14	NoDisposition:T14 
+T15	NoDisposition 3348 3356	Baclofen
+E15	NoDisposition:T15 
+T16	NoDisposition 3367 3373	Ultram
+E16	NoDisposition:T16 
+T17	NoDisposition 3389 3403	Paroxetine HCL
+E17	NoDisposition:T17 
+T18	NoDisposition 3414 3424	Clonazepam
+E18	NoDisposition:T18 
+T19	NoDisposition 3509 3515	Advair
+E19	NoDisposition:T19 
+T20	NoDisposition 3535 3542	Fosamax
+E20	NoDisposition:T20 
+T21	NoDisposition 3556 3562	Ambien
+E21	NoDisposition:T21 
+T22	NoDisposition 3577 3584	Tylenol
+E22	NoDisposition:T22 
+T23	NoDisposition 3590 3596	Zyrtec
+E23	NoDisposition:T23 
+T25	Disposition 9175 9178	ASA
+E25	Disposition:T25 
+T26	NoDisposition 9397 9402	lasix
+E26	NoDisposition:T26 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Increase
+A8	Temporality E2 Past
+T27	Disposition 805 810	lasix
+E27	Disposition:T27 
+A9	Certainty E27 Certain
+A10	Actor E27 Physician
+A11	Action E27 Decrease
+A12	Temporality E27 Past
+A13	Certainty E3 Certain
+A14	Actor E3 Physician
+A15	Action E3 UniqueDose
+A16	Temporality E3 Past
+T28	NoDisposition 3044 3047	PCN
+E28	NoDisposition:T28 
+T29	NoDisposition 3062 3073	Amoxicillin
+E29	NoDisposition:T29 
+T30	NoDisposition 3219 3222	KCL
+E30	NoDisposition:T30 
+T31	NoDisposition 3280 3286	Lescol
+E31	NoDisposition:T31 
+T32	NoDisposition 3434 3437	MVI
+E32	NoDisposition:T32 
+T33	NoDisposition 3439 3443	TUMS
+E33	NoDisposition:T33 
+T34	NoDisposition 3445 3451	Colace
+E34	NoDisposition:T34 
+T35	NoDisposition 3453 3467	Fiber laxative
+E35	NoDisposition:T35 
+T36	NoDisposition 3469 3478	Combivent
+E36	NoDisposition:T36 
+T37	NoDisposition 3488 3494	Duoneb
+E37	NoDisposition:T37 
+A17	Certainty E25 Certain
+A18	Actor E25 Physician
+A19	Action E25 Start
+A20	Temporality E25 Present
+T38	Disposition 9175 9178	ASA
+E38	Disposition:T38 
+A21	Certainty E38 Certain
+A22	Actor E38 Unknown
+A23	Action E38 Stop
+A24	Temporality E38 Past
+T39	Undetermined 9590 9596	nexium
+E39	Undetermined:T39 
+A25	Negation E3 NotNegated
+A26	Negation E2 NotNegated
+A27	Negation E27 NotNegated
+A28	Negation E38 NotNegated
+A29	Negation E1 NotNegated
+A30	Negation E25 NotNegated

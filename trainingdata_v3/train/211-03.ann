@@ -1,0 +1,17 @@
+T1	NoDisposition 1486 1493	Aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 1508 1514	Plavix
+E2	NoDisposition:T2 
+T3	NoDisposition 1529 1536	Lipitor
+E3	NoDisposition:T3 
+T4	NoDisposition 1550 1560	lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 1574 1579	Coreg
+E5	NoDisposition:T5 
+T6	Disposition 3189 3194	Lasix
+E6	Disposition:T6 
+A1	Certainty E6 Certain
+A2	Actor E6 Physician
+A3	Action E6 Start
+A4	Temporality E6 Present
+A5	Negation E6 NotNegated

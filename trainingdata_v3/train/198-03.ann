@@ -1,0 +1,83 @@
+T1	Disposition 2467 2475	Nitrodur
+E1	Disposition:T1 
+T2	Disposition 3116 3125	Neurontin
+E2	Disposition:T2 
+T4	NoDisposition 3182 3192	prednisone
+E4	NoDisposition:T4 
+T5	NoDisposition 3275 3284	Terazosin
+E5	NoDisposition:T5 
+T6	NoDisposition 3414 3422	Percocet
+E6	NoDisposition:T6 
+T7	NoDisposition 3431 3438	Codeine
+E7	NoDisposition:T7 
+T8	NoDisposition 3511 3520	Metformin
+E8	NoDisposition:T8 
+T9	NoDisposition 3537 3546	Neurontin
+E9	NoDisposition:T9 
+T10	NoDisposition 3562 3571	Terazosin
+E10	NoDisposition:T10 
+T11	NoDisposition 3587 3597	Lisinopril
+E11	NoDisposition:T11 
+T12	NoDisposition 3615 3624	toprol XL
+E12	NoDisposition:T12 
+T13	NoDisposition 3639 3646	Effexor
+E13	NoDisposition:T13 
+T14	NoDisposition 3661 3671	Clonazepam
+E14	NoDisposition:T14 
+T15	NoDisposition 3685 3696	Simvastatin
+E15	NoDisposition:T15 
+T16	NoDisposition 3713 3719	Plavix
+E16	NoDisposition:T16 
+T17	NoDisposition 3736 3739	ASA
+E17	NoDisposition:T17 
+T18	NoDisposition 3757 3766	Glipizide
+E18	NoDisposition:T18 
+T19	NoDisposition 3785 3793	Protonix
+E19	NoDisposition:T19 
+T20	NoDisposition 3816 3823	Chantix
+E20	NoDisposition:T20 
+T21	NoDisposition 3894 3902	percocet
+E21	NoDisposition:T21 
+T22	NoDisposition 4223 4230	Chantix
+E22	NoDisposition:T22 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+T24	NoDisposition 1902 1905	TNG
+E24	NoDisposition:T24 
+A5	Certainty E1 Certain
+A6	Actor E1 Physician
+A7	Action E1 Start
+A8	Temporality E1 Past
+T25	Disposition 2467 2475	Nitrodur
+E25	Disposition:T25 
+A9	Certainty E25 Certain
+A10	Actor E25 Physician
+A11	Action E25 Stop
+A12	Temporality E25 Past
+T26	NoDisposition 3811 3814	TNG
+E26	NoDisposition:T26 
+T27	NoDisposition 3869 3876	CODEINE
+E27	NoDisposition:T27 
+T28	Disposition 5299 5309	Glucophage
+E28	Disposition:T28 
+A13	Certainty E28 Conditional
+A14	Actor E28 Physician
+A15	Action E28 Stop
+A16	Temporality E28 Present
+T29	Disposition 5299 5309	Glucophage
+E29	Disposition:T29 
+A17	Certainty E29 Conditional
+A18	Actor E29 Physician
+A19	Action E29 Start
+A20	Temporality E29 Future
+T30	Undetermined 5346 5361	regular insulin
+E30	Undetermined:T30 
+T3	NoDisposition 5328 5331	dye
+E3	NoDisposition:T3 
+A21	Negation E29 NotNegated
+A22	Negation E2 NotNegated
+A23	Negation E28 NotNegated
+A24	Negation E1 NotNegated
+A25	Negation E25 NotNegated

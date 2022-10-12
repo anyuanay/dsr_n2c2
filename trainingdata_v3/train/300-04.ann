@@ -1,0 +1,192 @@
+T2	Disposition 1179 1182	NTG
+E2	Disposition:T2 
+T3	NoDisposition 1254 1259	chemo
+E3	NoDisposition:T3 
+T4	NoDisposition 2024 2028	PRBC
+E4	NoDisposition:T4 
+T5	Disposition 2039 2043	PRBC
+E5	Disposition:T5 
+T7	Disposition 2208 2212	PRBC
+E7	Disposition:T7 
+T8	Disposition 2387 2390	ASA
+E8	Disposition:T8 
+T9	Disposition 2407 2412	Lasix
+E9	Disposition:T9 
+T10	NoDisposition 3280 3292	chemotherapy
+E10	NoDisposition:T10 
+T11	NoDisposition 3318 3325	Demerol
+E11	NoDisposition:T11 
+T12	NoDisposition 3392 3402	Omeprazole
+E12	NoDisposition:T12 
+T13	NoDisposition 3415 3425	Lisinopril
+E13	NoDisposition:T13 
+T14	NoDisposition 3439 3448	Lopressor
+E14	NoDisposition:T14 
+T16	Disposition 7728 7733	lasix
+E16	Disposition:T16 
+T17	Disposition 7753 7762	lopressor
+E17	Disposition:T17 
+T22	Disposition 8517 8526	lopressor
+E22	Disposition:T22 
+T23	Disposition 8538 8547	captopril
+E23	Disposition:T23 
+T24	Disposition 8559 8569	lisinopril
+E24	Disposition:T24 
+T25	Undetermined 8670 8677	fragmin
+E25	Undetermined:T25 
+T26	NoDisposition 8709 8714	lasix
+E26	NoDisposition:T26 
+T27	NoDisposition 8717 8726	lopressor
+E27	NoDisposition:T27 
+T28	Undetermined 8841 8851	Omeprazole
+E28	Undetermined:T28 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+A5	Certainty E5 Certain
+A6	Actor E5 Physician
+A7	Action E5 UniqueDose
+A8	Temporality E5 Past
+T29	NoDisposition 2064 2072	Neulasta
+E29	NoDisposition:T29 
+T30	NoDisposition 2123 2131	Neulasta
+E30	NoDisposition:T30 
+T31	NoDisposition 2162 2170	diflucan
+E31	NoDisposition:T31 
+T32	NoDisposition 2185 2193	Levoquin
+E32	NoDisposition:T32 
+A9	Certainty E7 Certain
+A10	Actor E7 Physician
+A11	Action E7 UniqueDose
+A12	Temporality E7 Past
+T33	Disposition 2287 2293	CHOP/R
+E33	Disposition:T33 
+A13	Certainty E33 Certain
+A14	Actor E33 Physician
+A15	Action E33 Stop
+A16	Temporality E33 Past
+T34	Disposition 2233 2239	CHOP-R
+E34	Disposition:T34 
+A17	Certainty E34 Certain
+A18	Actor E34 Physician
+A19	Action E34 UniqueDose
+A20	Temporality E34 Past
+T35	Disposition 1985 1991	CHOP-R
+E35	Disposition:T35 
+A21	Certainty E35 Certain
+A22	Actor E35 Physician
+A23	Action E35 UniqueDose
+A24	Temporality E35 Past
+T36	Disposition 329 335	CHOP-R
+E36	Disposition:T36 
+A25	Certainty E36 Certain
+A26	Actor E36 Physician
+A27	Action E36 Stop
+A28	Temporality E36 Past
+A29	Certainty E8 Certain
+A30	Actor E8 Physician
+A31	Action E8 UniqueDose
+A32	Temporality E8 Past
+T37	Disposition 2399 2402	NTG
+E37	Disposition:T37 
+A33	Certainty E37 Certain
+A34	Actor E37 Physician
+A35	Action E37 UniqueDose
+A36	Temporality E37 Past
+A37	Certainty E9 Certain
+A38	Actor E9 Physician
+A39	Action E9 UniqueDose
+A40	Temporality E9 Past
+T38	Disposition 2431 2433	NS
+E38	Disposition:T38 
+A41	Certainty E38 Certain
+A42	Actor E38 Physician
+A43	Action E38 UniqueDose
+A44	Temporality E38 Past
+T39	Disposition 2573 2579	CHOP-R
+E39	Disposition:T39 
+T40	Disposition 3256 3263	Lipitor
+E40	Disposition:T40 
+A49	Certainty E40 Certain
+A50	Actor E40 Physician
+A51	Action E40 Stop
+A52	Temporality E40 Past
+T41	NoDisposition 3337 3348	Fluconazole
+E41	NoDisposition:T41 
+T42	Disposition 7541 7547	CHOP-R
+E42	Disposition:T42 
+A45	Certainty E16 Certain
+A46	Actor E16 Physician
+A47	Action E16 UniqueDose
+A48	Temporality E16 Past
+T43	Disposition 7768 7771	NTG
+E43	Disposition:T43 
+A53	Certainty E43 Certain
+A54	Actor E43 Physician
+A55	Action E43 UniqueDose
+A56	Temporality E43 Past
+A57	Certainty E17 Certain
+A58	Actor E17 Physician
+A59	Action E17 UniqueDose
+A60	Temporality E17 Past
+A61	Certainty E42 Certain
+A62	Actor E42 Physician
+A63	Action E42 UniqueDose
+A64	Temporality E42 Past
+A65	Certainty E39 Certain
+A66	Actor E39 Physician
+A67	Action E39 UniqueDose
+A68	Temporality E39 Past
+T44	NoDisposition 8221 8234	antrhacycline
+E44	NoDisposition:T44 
+T45	Disposition 8310 8315	lasix
+E45	Disposition:T45 
+A69	Certainty E45 Conditional
+A70	Actor E45 Physician
+A71	Action E45 UniqueDose
+A72	Temporality E45 Future
+T46	Disposition 8503 8506	ASA
+E46	Disposition:T46 
+A73	Certainty E46 Certain
+A74	Actor E46 Physician
+A75	Action E46 Start
+A76	Temporality E46 Present
+A77	Certainty E22 Certain
+A78	Actor E22 Physician
+A79	Action E22 Increase
+A80	Temporality E22 Present
+A81	Certainty E23 Certain
+A82	Actor E23 Physician
+A83	Action E23 Start
+A84	Temporality E23 Present
+A85	Certainty E24 Certain
+A86	Actor E24 Physician
+A87	Action E24 Stop
+A88	Temporality E24 Present
+T1	NoDisposition 7953 7961	contrast
+E1	NoDisposition:T1 
+T6	NoDisposition 8020 8028	contrast
+E6	NoDisposition:T6 
+A89	Negation E46 NotNegated
+A90	Negation E16 NotNegated
+A91	Negation E42 NotNegated
+A92	Negation E38 NotNegated
+A93	Negation E7 NotNegated
+A94	Negation E34 NotNegated
+A95	Negation E22 NotNegated
+A96	Negation E35 NotNegated
+A97	Negation E39 NotNegated
+A98	Negation E8 NotNegated
+A99	Negation E23 NotNegated
+A100	Negation E37 NotNegated
+A101	Negation E33 NotNegated
+A102	Negation E2 NotNegated
+A103	Negation E5 NotNegated
+A104	Negation E40 NotNegated
+A105	Negation E17 NotNegated
+A106	Negation E45 NotNegated
+A107	Negation E43 NotNegated
+A108	Negation E24 NotNegated
+A109	Negation E36 NotNegated
+A110	Negation E9 NotNegated

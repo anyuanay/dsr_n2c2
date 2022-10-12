@@ -1,0 +1,18 @@
+T1	NoDisposition 524 533	ibuprofen
+E1	NoDisposition:T1 
+T2	NoDisposition 1055 1062	Tylenol
+E2	NoDisposition:T2 
+T3	Disposition 2321 2336	corticosteroids
+E3	Disposition:T3 
+A1	Certainty E3 Conditional
+A2	Actor E3 Physician
+A3	Action E3 UniqueDose
+A4	Temporality E3 Future
+T4	Disposition 2780 2794	corticosteroid
+E4	Disposition:T4 
+A5	Certainty E4 Conditional
+A6	Actor E4 Physician
+A7	Action E4 UniqueDose
+A8	Temporality E4 Future
+A9	Negation E3 NotNegated
+A10	Negation E4 NotNegated

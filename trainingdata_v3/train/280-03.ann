@@ -1,0 +1,19 @@
+T2	NoDisposition 1073 1080	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1100 1106	Plavix
+E3	NoDisposition:T3 
+T4	NoDisposition 1125 1147	isosorbide mononitrate
+E4	NoDisposition:T4 
+T5	NoDisposition 1166 1173	Lipitor
+E5	NoDisposition:T5 
+T6	NoDisposition 1191 1198	insulin
+E6	NoDisposition:T6 
+T8	Disposition 2035 2043	Prilosec
+E8	Disposition:T8 
+T9	NoDisposition 1041 1051	ranolazine
+E9	NoDisposition:T9 
+A1	Certainty E8 Certain
+A2	Actor E8 Physician
+A3	Action E8 Start
+A4	Temporality E8 Present
+A5	Negation E8 NotNegated

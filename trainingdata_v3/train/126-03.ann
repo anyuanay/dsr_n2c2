@@ -1,0 +1,105 @@
+T1	Disposition 644 654	vancomycin
+E1	Disposition:T1 
+T2	Disposition 666 674	cefepime
+E2	Disposition:T2 
+T3	NoDisposition 1363 1366	NPH
+E3	NoDisposition:T3 
+T4	NoDisposition 1383 1392	labetalol
+E4	NoDisposition:T4 
+T5	NoDisposition 1408 1417	neurontin
+E5	NoDisposition:T5 
+T6	NoDisposition 1433 1441	klonopin
+E6	NoDisposition:T6 
+T7	NoDisposition 1459 1465	epogen
+E7	NoDisposition:T7 
+T8	NoDisposition 1482 1490	losartan
+E8	NoDisposition:T8 
+T9	NoDisposition 1508 1514	nexium
+E9	NoDisposition:T9 
+T10	NoDisposition 1531 1537	colace
+E10	NoDisposition:T10 
+T11	NoDisposition 1539 1544	senna
+E11	NoDisposition:T11 
+T12	NoDisposition 1549 1552	asa
+E12	NoDisposition:T12 
+T13	NoDisposition 1562 1572	nephrocaps
+E13	NoDisposition:T13 
+T14	NoDisposition 1586 1593	lipitor
+E14	NoDisposition:T14 
+T15	NoDisposition 1605 1616	simethicone
+E15	NoDisposition:T15 
+T16	NoDisposition 1632 1640	fioricet
+E16	NoDisposition:T16 
+T17	NoDisposition 1650 1659	methadone
+E17	NoDisposition:T17 
+T18	NoDisposition 1677 1685	renaphro
+E18	NoDisposition:T18 
+T19	NoDisposition 1701 1710	oxycontin
+E19	NoDisposition:T19 
+T20	Disposition 6424 6428	vanc
+E20	Disposition:T20 
+T21	Disposition 6433 6441	cefepime
+E21	Disposition:T21 
+T22	Undetermined 6746 6756	vancomycin
+E22	Undetermined:T22 
+T23	Disposition 6799 6807	cefepime
+E23	Disposition:T23 
+T24	Disposition 6873 6882	labetalol
+E24	Disposition:T24 
+T25	Undetermined 6903 6912	Labetalol
+E25	Undetermined:T25 
+T26	Disposition 6997 7005	losartan
+E26	Disposition:T26 
+T27	NoDisposition 7116 7122	epogen
+E27	NoDisposition:T27 
+T28	Undetermined 7151 7158	heparin
+E28	Undetermined:T28 
+T29	NoDisposition 1733 1739	phoslo
+E29	NoDisposition:T29 
+T30	NoDisposition 1756 1764	percocet
+E30	NoDisposition:T30 
+T31	NoDisposition 1766 1772	reglan
+E31	NoDisposition:T31 
+T32	Undetermined 7143 7149	Nexium
+E32	Undetermined:T32 
+A5	Certainty E23 Conditional
+A6	Actor E23 Physician
+A7	Action E23 Start
+A8	Temporality E23 Future
+A14	Certainty E26 Certain
+A15	Actor E26 Physician
+A16	Action E26 Stop
+A17	Temporality E26 Present
+T33	NoDisposition 7254 7260	reglan
+E33	NoDisposition:T33 
+T34	Undetermined 7239 7248	phenergan
+E34	Undetermined:T34 
+A29	Certainty E1 Certain
+A30	Actor E1 Physician
+A31	Action E1 UniqueDose
+A32	Temporality E1 Past
+A33	Certainty E2 Certain
+A34	Actor E2 Physician
+A35	Action E2 UniqueDose
+A36	Temporality E2 Past
+A37	Certainty E20 Certain
+A38	Actor E20 Physician
+A39	Action E20 UniqueDose
+A40	Temporality E20 Past
+A41	Certainty E21 Certain
+A42	Actor E21 Physician
+A43	Action E21 UniqueDose
+A44	Temporality E21 Past
+T35	NoDisposition 6466 6469	abx
+E35	NoDisposition:T35 
+A45	Certainty E24 Certain
+A46	Actor E24 Physician
+A47	Action E24 UniqueDose
+A48	Temporality E24 Past
+A49	Negation E20 NotNegated
+A50	Negation E2 NotNegated
+A51	Negation E26 NotNegated
+A52	Negation E21 NotNegated
+A53	Negation E24 NotNegated
+A54	Negation E1 NotNegated
+A55	Negation E23 NotNegated

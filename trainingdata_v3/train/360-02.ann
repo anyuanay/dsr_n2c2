@@ -1,0 +1,42 @@
+T2	NoDisposition 588 592	HCTZ
+E2	NoDisposition:T2 
+T3	NoDisposition 605 615	lisinopril
+E3	NoDisposition:T3 
+T4	NoDisposition 631 639	atenolol
+E4	NoDisposition:T4 
+T5	Disposition 808 816	atenolol
+E5	Disposition:T5 
+T7	NoDisposition 2080 2084	HCTZ
+E7	NoDisposition:T7 
+T8	NoDisposition 2089 2099	lisinopril
+E8	NoDisposition:T8 
+T9	NoDisposition 2104 2112	atenolol
+E9	NoDisposition:T9 
+T10	Disposition 2156 2164	atenolol
+E10	Disposition:T10 
+T13	Disposition 2558 2570	atorvastatin
+E13	Disposition:T13 
+T14	NoDisposition 317 342	blood pressure medication
+E14	NoDisposition:T14 
+A1	Certainty E5 Certain
+A2	Actor E5 Physician
+A3	Action E5 Increase
+A4	Temporality E5 Past
+A5	Certainty E10 Certain
+A6	Actor E10 Physician
+A7	Action E10 Increase
+A8	Temporality E10 Past
+A9	Certainty E13 Certain
+A10	Actor E13 Physician
+A11	Action E13 Start
+A12	Temporality E13 Present
+T15	Disposition 808 816	atenolol
+E15	Disposition:T15 
+A13	Certainty E15 Certain
+A14	Negation E15 Negated
+A15	Actor E15 Patient
+A16	Action E15 Increase
+A17	Temporality E15 Past
+A18	Negation E10 NotNegated
+A19	Negation E5 NotNegated
+A20	Negation E13 NotNegated

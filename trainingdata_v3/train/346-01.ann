@@ -1,0 +1,10 @@
+T1	NoDisposition 493 510	Enalapril Maleate
+E1	NoDisposition:T1 
+T2	NoDisposition 536 555	Metoprolol Tartrate
+E2	NoDisposition:T2 
+T3	NoDisposition 582 591	TRAZODONE
+E3	NoDisposition:T3 
+T4	NoDisposition 631 650	Insulin 70/30 Human
+E4	NoDisposition:T4 
+T5	NoDisposition 454 466	DIPYRIDAMOLE
+E5	NoDisposition:T5 

@@ -1,0 +1,16 @@
+T2	NoDisposition 909 918	Glyburide
+E2	NoDisposition:T2 
+T4	NoDisposition 1341 1355	Propranolol LA
+E4	NoDisposition:T4 
+T5	NoDisposition 1378 1385	Dyazide
+E5	NoDisposition:T5 
+T6	NoDisposition 1403 1412	Captopril
+E6	NoDisposition:T6 
+T7	NoDisposition 1487 1494	Lipitor
+E7	NoDisposition:T7 
+T10	NoDisposition 664 669	Vioxx
+E10	NoDisposition:T10 
+T11	NoDisposition 1533 1538	Lopid
+E11	NoDisposition:T11 
+T12	Undetermined 3296 3301	Vioxx
+E12	Undetermined:T12 

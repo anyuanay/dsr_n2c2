@@ -1,0 +1,33 @@
+T2	NoDisposition 344 351	insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 474 482	Premarin
+E3	NoDisposition:T3 
+T4	NoDisposition 842 851	Micronase
+E4	NoDisposition:T4 
+T5	NoDisposition 870 877	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 889 897	Premarin
+E6	NoDisposition:T6 
+T8	Undetermined 2462 2471	Micronase
+E8	Undetermined:T8 
+T7	Disposition 2928 2937	Synthroid
+E7	Disposition:T7 
+A1	Certainty E7 Hypothetical
+A2	Actor E7 Physician
+A3	Action E7 Start
+A4	Temporality E7 Present
+T9	Disposition 1212 1221	Synthroid
+E9	Disposition:T9 
+A5	Certainty E9 Certain
+A6	Actor E9 Patient
+A7	Action E9 Stop
+A8	Temporality E9 Past
+T10	Disposition 1212 1221	Synthroid
+E10	Disposition:T10 
+A9	Certainty E10 Hypothetical
+A10	Actor E10 Patient
+A11	Action E10 Start
+A12	Temporality E10 Present
+A13	Negation E10 NotNegated
+A14	Negation E9 NotNegated
+A15	Negation E7 NotNegated

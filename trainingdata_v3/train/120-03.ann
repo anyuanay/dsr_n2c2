@@ -1,0 +1,23 @@
+T1	NoDisposition 469 476	insulin
+E1	NoDisposition:T1 
+T2	Disposition 1531 1538	aspirin
+E2	Disposition:T2 
+T3	Disposition 1555 1568	Nitroglycerin
+E3	Disposition:T3 
+T4	Disposition 1573 1582	Lopressor
+E4	Disposition:T4 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 UniqueDose
+A8	Temporality E3 Past
+A9	Certainty E4 Certain
+A10	Actor E4 Physician
+A11	Action E4 UniqueDose
+A12	Temporality E4 Past
+A13	Negation E3 NotNegated
+A14	Negation E2 NotNegated
+A15	Negation E4 NotNegated

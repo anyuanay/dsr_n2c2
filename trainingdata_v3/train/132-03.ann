@@ -1,0 +1,20 @@
+T1	NoDisposition 1037 1044	Lipitor
+E1	NoDisposition:T1 
+T2	NoDisposition 1062 1069	digoxin
+E2	NoDisposition:T2 
+T3	NoDisposition 1089 1098	captopril
+E3	NoDisposition:T3 
+T4	NoDisposition 1118 1123	Lasix
+E4	NoDisposition:T4 
+T5	NoDisposition 1158 1165	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 1183 1189	Nexium
+E6	NoDisposition:T6 
+T7	NoDisposition 1207 1216	Synthroid
+E7	NoDisposition:T7 
+T8	NoDisposition 1236 1245	Aldactone
+E8	NoDisposition:T8 
+T9	NoDisposition 1263 1268	Coreg
+E9	NoDisposition:T9 
+T10	NoDisposition 1292 1299	Norvasc
+E10	NoDisposition:T10 

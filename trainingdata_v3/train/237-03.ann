@@ -1,0 +1,40 @@
+T1	NoDisposition 3541 3551	antibiotic
+E1	NoDisposition:T1 
+T2	NoDisposition 3658 3663	EcASA
+E2	NoDisposition:T2 
+T3	NoDisposition 3678 3681	NPH
+E3	NoDisposition:T3 
+T4	NoDisposition 3723 3732	Glyburide
+E4	NoDisposition:T4 
+T5	NoDisposition 3743 3754	Metroprolol
+E5	NoDisposition:T5 
+T6	NoDisposition 3794 3801	Norvasc
+E6	NoDisposition:T6 
+T7	NoDisposition 3814 3821	Januvia
+E7	NoDisposition:T7 
+T9	NoDisposition 3860 3867	Crestor
+E9	NoDisposition:T9 
+T10	NoDisposition 3881 3888	Pristiq
+E10	NoDisposition:T10 
+T11	NoDisposition 3902 3913	Mirtazapine
+E11	NoDisposition:T11 
+T12	NoDisposition 5282 5285	ASA
+E12	NoDisposition:T12 
+T14	NoDisposition 5408 5411	NPH
+E14	NoDisposition:T14 
+T15	NoDisposition 5413 5422	Glyburide
+E15	NoDisposition:T15 
+T16	NoDisposition 5428 5435	Januvia
+E16	NoDisposition:T16 
+T17	Undetermined 5458 5465	Insulin
+E17	Undetermined:T17 
+T18	NoDisposition 5515 5526	Mirtazepine
+E18	NoDisposition:T18 
+T19	NoDisposition 3702 3709	Atacand
+E19	NoDisposition:T19 
+T20	NoDisposition 3836 3846	Bactrim SS
+E20	NoDisposition:T20 
+T21	NoDisposition 5290 5296	Plavix
+E21	NoDisposition:T21 
+T22	NoDisposition 5531 5538	Pristiq
+E22	NoDisposition:T22 

@@ -1,0 +1,32 @@
+T1	NoDisposition 1481 1495	Acetylcysteine
+E1	NoDisposition:T1 
+T3	NoDisposition 1566 1579	Chlorhexidine
+E3	NoDisposition:T3 
+T4	NoDisposition 1598 1605	peridex
+E4	NoDisposition:T4 
+T5	NoDisposition 1646 1653	Heparin
+E5	NoDisposition:T5 
+T6	NoDisposition 1672 1679	Heparin
+E6	NoDisposition:T6 
+T8	NoDisposition 1722 1731	lopressor
+E8	NoDisposition:T8 
+T9	NoDisposition 1749 1758	Mupirocin
+E9	NoDisposition:T9 
+T10	NoDisposition 1794 1804	Omeprazole
+E10	NoDisposition:T10 
+T11	NoDisposition 1820 1831	Simvastatin
+E11	NoDisposition:T11 
+T13	Undetermined 4583 4586	ASA
+E13	Undetermined:T13 
+T14	NoDisposition 4592 4599	heparin
+E14	NoDisposition:T14 
+T15	NoDisposition 4857 4867	Lisinopril
+E15	NoDisposition:T15 
+T16	NoDisposition 1525 1541	Cefazolin sodium
+E16	NoDisposition:T16 
+T17	NoDisposition 1543 1548	ancef
+E17	NoDisposition:T17 
+T18	NoDisposition 1701 1720	Metoprolol tartrate
+E18	NoDisposition:T18 
+T19	NoDisposition 1760 1769	bactroban
+E19	NoDisposition:T19 

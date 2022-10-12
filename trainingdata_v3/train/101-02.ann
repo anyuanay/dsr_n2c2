@@ -1,0 +1,8 @@
+T2	NoDisposition 830 838	atenolol
+E2	NoDisposition:T2 
+T3	NoDisposition 1389 1408	hydrochlorothiazide
+E3	NoDisposition:T3 
+T4	NoDisposition 1414 1422	atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 758 777	Hydrochlorothiazide
+E5	NoDisposition:T5 

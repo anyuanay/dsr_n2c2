@@ -1,0 +1,69 @@
+T1	Disposition 635 638	ASA
+E1	Disposition:T1 
+T2	Disposition 640 650	metoprolol
+E2	Disposition:T2 
+T3	Disposition 1596 1609	beta-blockers
+E3	Disposition:T3 
+T4	NoDisposition 1963 1966	ASA
+E4	NoDisposition:T4 
+T5	NoDisposition 1982 1990	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 1993 2000	Indocin
+E6	NoDisposition:T6 
+T7	NoDisposition 2053 2063	lisinopril
+E7	NoDisposition:T7 
+T8	NoDisposition 2066 2076	omeprazole
+E8	NoDisposition:T8 
+T9	NoDisposition 2120 2131	Allopurinol
+E9	NoDisposition:T9 
+T11	NoDisposition 4502 4512	lisinopril
+E11	NoDisposition:T11 
+T13	NoDisposition 4653 4659	Plavix
+E13	NoDisposition:T13 
+T14	NoDisposition 4691 4701	omeprazole
+E14	NoDisposition:T14 
+T15	NoDisposition 4733 4743	colchicine
+E15	NoDisposition:T15 
+T16	NoDisposition 4777 4780	ASA
+E16	NoDisposition:T16 
+T17	NoDisposition 4796 4803	Indocin
+E17	NoDisposition:T17 
+T18	NoDisposition 4853 4864	simvastatin
+E18	NoDisposition:T18 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+T19	Disposition 655 658	NTG
+E19	Disposition:T19 
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 Start
+A12	Temporality E3 Past
+T20	Disposition 1614 1628	ace-inhibition
+E20	Disposition:T20 
+A13	Certainty E20 Certain
+A14	Actor E20 Physician
+A15	Action E20 Start
+A16	Temporality E20 Past
+T21	NoDisposition 2032 2039	Lipitor
+E21	NoDisposition:T21 
+T22	NoDisposition 2079 2085	Plavix
+E22	NoDisposition:T22 
+T23	NoDisposition 4545 4553	atenolol
+E23	NoDisposition:T23 
+A17	Certainty E19 Certain
+A18	Actor E19 Physician
+A19	Action E19 UniqueDose
+A20	Temporality E19 Past
+T24	NoDisposition 4585 4592	Lipitor
+E24	NoDisposition:T24 
+A21	Negation E19 NotNegated
+A22	Negation E3 NotNegated
+A23	Negation E20 NotNegated
+A24	Negation E2 NotNegated
+A25	Negation E1 NotNegated

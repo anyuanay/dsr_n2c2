@@ -1,0 +1,30 @@
+T1	NoDisposition 1113 1123	penicillin
+E1	NoDisposition:T1 
+T2	NoDisposition 1125 1135	quinolones
+E2	NoDisposition:T2 
+T3	NoDisposition 1137 1148	clindamycin
+E3	NoDisposition:T3 
+T4	NoDisposition 1155 1161	Keflex
+E4	NoDisposition:T4 
+T5	NoDisposition 1241 1251	lisinopril
+E5	NoDisposition:T5 
+T6	NoDisposition 1253 1260	aspirin
+E6	NoDisposition:T6 
+T7	NoDisposition 1262 1272	furosemide
+E7	NoDisposition:T7 
+T8	NoDisposition 1274 1280	Detrol
+E8	NoDisposition:T8 
+T10	NoDisposition 1293 1301	Percocet
+E10	NoDisposition:T10 
+T12	NoDisposition 1320 1329	metformin
+E12	NoDisposition:T12 
+T13	NoDisposition 1331 1340	glyburide
+E13	NoDisposition:T13 
+T14	NoDisposition 1342 1354	fluocinolone
+E14	NoDisposition:T14 
+T15	NoDisposition 1361 1370	vitamin D
+E15	NoDisposition:T15 
+T16	NoDisposition 1282 1290	Relafen
+E16	NoDisposition:T16 
+T17	NoDisposition 1303 1311	nystatin
+E17	NoDisposition:T17 

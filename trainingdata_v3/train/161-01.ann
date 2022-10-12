@@ -1,0 +1,44 @@
+T2	NoDisposition 1160 1167	insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 1310 1318	Prilosec
+E3	NoDisposition:T3 
+T4	NoDisposition 1320 1327	Norvasc
+E4	NoDisposition:T4 
+T5	NoDisposition 1329 1348	hydrochlorothiazide
+E5	NoDisposition:T5 
+T6	NoDisposition 1350 1357	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 1359 1366	Effexor
+E7	NoDisposition:T7 
+T8	NoDisposition 1368 1374	Plavix
+E8	NoDisposition:T8 
+T9	NoDisposition 1387 1394	aspirin
+E9	NoDisposition:T9 
+T10	NoDisposition 1396 1405	albuterol
+E10	NoDisposition:T10 
+T11	NoDisposition 1407 1415	Serevent
+E11	NoDisposition:T11 
+T12	NoDisposition 1417 1425	Nasacort
+E12	NoDisposition:T12 
+T13	Disposition 3066 3073	heparin
+E13	Disposition:T13 
+T14	NoDisposition 3688 3695	insulin
+E14	NoDisposition:T14 
+T15	NoDisposition 1291 1301	Glucophage
+E15	NoDisposition:T15 
+T16	NoDisposition 1303 1308	Lopid
+E16	NoDisposition:T16 
+T17	NoDisposition 1430 1439	Pulmicort
+E17	NoDisposition:T17 
+A1	Certainty E13 Certain
+A2	Actor E13 Physician
+A3	Action E13 Start
+A4	Temporality E13 Present
+T18	Disposition 3789 3799	Glucophage
+E18	Disposition:T18 
+A5	Certainty E18 Certain
+A6	Actor E18 Physician
+A7	Action E18 Stop
+A8	Temporality E18 Future
+A9	Negation E18 NotNegated
+A10	Negation E13 NotNegated

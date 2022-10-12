@@ -1,0 +1,77 @@
+T2	NoDisposition 1057 1067	Amiodarone
+E2	NoDisposition:T2 
+T3	NoDisposition 1930 1940	argatroban
+E3	NoDisposition:T3 
+T4	NoDisposition 2039 2052	Fopndaparinux
+E4	NoDisposition:T4 
+T5	Disposition 2396 2406	lisinopril
+E5	Disposition:T5 
+T6	Disposition 2429 2434	Lasix
+E6	Disposition:T6 
+T7	Disposition 2727 2732	Lasix
+E7	Disposition:T7 
+T8	NoDisposition 3268 3275	aspirin
+E8	NoDisposition:T8 
+T9	NoDisposition 3308 3316	atenolol
+E9	NoDisposition:T9 
+T10	NoDisposition 3330 3342	fondaparinux
+E10	NoDisposition:T10 
+T11	NoDisposition 3357 3366	glyburide
+E11	NoDisposition:T11 
+T12	NoDisposition 3381 3386	Lasix
+E12	NoDisposition:T12 
+T13	NoDisposition 3400 3415	magnesium oxide
+E13	NoDisposition:T13 
+T14	NoDisposition 3461 3471	omeprazole
+E14	NoDisposition:T14 
+T15	NoDisposition 3487 3493	Plavix
+E15	NoDisposition:T15 
+T16	NoDisposition 3509 3527	potassium chloride
+E16	NoDisposition:T16 
+T18	NoDisposition 3582 3593	simvastatin
+E18	NoDisposition:T18 
+T19	NoDisposition 3607 3616	trazodone
+E19	NoDisposition:T19 
+T23	Disposition 5971 5975	ACEI
+E23	Disposition:T23 
+T24	NoDisposition 6055 6062	aspirin
+E24	NoDisposition:T24 
+T26	NoDisposition 6093 6105	Fondaparinux
+E26	NoDisposition:T26 
+A1	Certainty E5 Certain
+A2	Actor E5 Physician
+A3	Action E5 Decrease
+A4	Temporality E5 Past
+A5	Certainty E6 Certain
+A6	Actor E6 Physician
+A7	Action E6 Decrease
+A8	Temporality E6 Past
+A9	Certainty E7 Certain
+A10	Actor E7 Physician
+A11	Action E7 Increase
+A12	Temporality E7 Past
+T28	NoDisposition 3431 3444	multivitamins
+E28	NoDisposition:T28 
+T29	NoDisposition 3544 3559	regular insulin
+E29	NoDisposition:T29 
+T30	NoDisposition 3647 3658	vitamin b12
+E30	NoDisposition:T30 
+T31	Disposition 5759 5778	diuretic medication
+E31	Disposition:T31 
+A13	Certainty E31 Certain
+A14	Actor E31 Patient
+A15	Action E31 Unknown
+A16	Temporality E31 Past
+T32	NoDisposition 5901 5910	diuretics
+E32	NoDisposition:T32 
+A17	Certainty E23 Conditional
+A18	Actor E23 Physician
+A19	Action E23 Start
+A20	Temporality E23 Future
+T33	NoDisposition 6067 6073	Plavix
+E33	NoDisposition:T33 
+A21	Negation E6 NotNegated
+A22	Negation E31 NotNegated
+A23	Negation E5 NotNegated
+A24	Negation E23 NotNegated
+A25	Negation E7 NotNegated

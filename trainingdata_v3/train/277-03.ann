@@ -1,0 +1,39 @@
+T1	NoDisposition 339 349	Furosemide
+E1	NoDisposition:T1 
+T2	NoDisposition 385 394	Metformin
+E2	NoDisposition:T2 
+T3	NoDisposition 458 467	Lopressor
+E3	NoDisposition:T3 
+T4	NoDisposition 469 488	METOPROLOL TARTRATE
+E4	NoDisposition:T4 
+T6	NoDisposition 558 565	Digoxin
+E6	NoDisposition:T6 
+T8	NoDisposition 705 713	Metrogel
+E8	NoDisposition:T8 
+T9	NoDisposition 760 775	Warfarin SODIUM
+E9	NoDisposition:T9 
+T10	NoDisposition 837 852	Warfarin SODIUM
+E10	NoDisposition:T10 
+T11	NoDisposition 918 928	Alprazolam
+E11	NoDisposition:T11 
+T13	NoDisposition 275 278	Asa
+E13	NoDisposition:T13 
+T14	NoDisposition 280 300	ACETYLSALICYLIC ACID
+E14	NoDisposition:T14 
+T15	NoDisposition 511 521	Lisinopril
+E15	NoDisposition:T15 
+T16	NoDisposition 588 599	Simvastatin
+E16	NoDisposition:T16 
+T17	NoDisposition 620 626	Viagra
+E17	NoDisposition:T17 
+T18	NoDisposition 628 638	SILDENAFIL
+E18	NoDisposition:T18 
+T19	NoDisposition 721 734	METRONIDAZOLE
+E19	NoDisposition:T19 
+T20	Disposition 1355 1363	Metrogel
+E20	Disposition:T20 
+A1	Certainty E20 Certain
+A2	Actor E20 Physician
+A3	Action E20 Start
+A4	Temporality E20 Past
+A5	Negation E20 NotNegated

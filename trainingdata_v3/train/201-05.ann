@@ -1,0 +1,45 @@
+T1	NoDisposition 349 357	Coumadin
+E1	NoDisposition:T1 
+T2	NoDisposition 362 365	ASA
+E2	NoDisposition:T2 
+T3	NoDisposition 1841 1850	glypizide
+E3	NoDisposition:T3 
+T4	NoDisposition 1902 1905	ASA
+E4	NoDisposition:T4 
+T5	NoDisposition 1918 1926	Coumadin
+E5	NoDisposition:T5 
+T6	NoDisposition 1947 1952	Coreg
+E6	NoDisposition:T6 
+T7	NoDisposition 1965 1977	Dipyridamole
+E7	NoDisposition:T7 
+T8	NoDisposition 1988 1999	Doxycycline
+E8	NoDisposition:T8 
+T9	NoDisposition 2011 2025	Esomesoprazole
+E9	NoDisposition:T9 
+T10	NoDisposition 2036 2048	Glipizide XL
+E10	NoDisposition:T10 
+T11	NoDisposition 2061 2072	Simvastatin
+E11	NoDisposition:T11 
+T12	NoDisposition 2085 2092	Lexapro
+E12	NoDisposition:T12 
+T14	NoDisposition 7049 7057	Coumadin
+E14	NoDisposition:T14 
+T15	NoDisposition 7062 7065	ASA
+E15	NoDisposition:T15 
+T16	Disposition 8896 8905	Glypizide
+E16	Disposition:T16 
+T17	Undetermined 8914 8918	RISS
+E17	Undetermined:T17 
+T18	NoDisposition 2105 2114	Polymyxin
+E18	NoDisposition:T18 
+T19	NoDisposition 2121 2130	Vitamin D
+E19	NoDisposition:T19 
+T20	NoDisposition 2148 2155	DIGOXIN
+E20	NoDisposition:T20 
+A1	Certainty E16 Certain
+A2	Actor E16 Physician
+A3	Action E16 Stop
+A4	Temporality E16 Present
+T13	NoDisposition 8583 8598	anticoagulation
+E13	NoDisposition:T13 
+A5	Negation E16 NotNegated

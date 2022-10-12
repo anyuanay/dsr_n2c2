@@ -1,0 +1,146 @@
+T3	Disposition 1401 1404	ASA
+E3	Disposition:T3 
+T4	Disposition 1630 1638	morphine
+E4	Disposition:T4 
+T5	Disposition 1648 1651	ASA
+E5	Disposition:T5 
+T6	Disposition 1672 1681	Lopressor
+E6	Disposition:T6 
+T7	Disposition 1972 1979	heparin
+E7	Disposition:T7 
+T8	NoDisposition 2196 2208	chemotherapy
+E8	NoDisposition:T8 
+T9	NoDisposition 2258 2263	chemo
+E9	NoDisposition:T9 
+T10	Disposition 2447 2455	coumadin
+E10	Disposition:T10 
+T11	NoDisposition 2493 2505	chemotherapy
+E11	NoDisposition:T11 
+T12	Disposition 2507 2515	Coumadin
+E12	Disposition:T12 
+T13	NoDisposition 2624 2630	Zantac
+E13	NoDisposition:T13 
+T14	NoDisposition 2734 2743	Metformin
+E14	NoDisposition:T14 
+T15	NoDisposition 2764 2771	Lipitor
+E15	NoDisposition:T15 
+T17	NoDisposition 8856 8859	ASA
+E17	NoDisposition:T17 
+T18	NoDisposition 8861 8868	Heparin
+E18	NoDisposition:T18 
+T19	NoDisposition 8877 8887	Integrilin
+E19	NoDisposition:T19 
+T20	NoDisposition 9070 9073	ASA
+E20	NoDisposition:T20 
+T21	NoDisposition 9075 9084	Lopressor
+E21	NoDisposition:T21 
+T22	NoDisposition 9090 9097	Lipitor
+E22	NoDisposition:T22 
+T23	Undetermined 9110 9117	Lipitor
+E23	Undetermined:T23 
+T24	NoDisposition 9189 9196	Heparin
+E24	NoDisposition:T24 
+T25	NoDisposition 9204 9214	Integrilin
+E25	NoDisposition:T25 
+T26	Disposition 9232 9238	Plavix
+E26	Disposition:T26 
+T27	NoDisposition 9312 9320	contrast
+E27	NoDisposition:T27 
+T28	NoDisposition 9440 9449	Lopressor
+E28	NoDisposition:T28 
+T30	Undetermined 9521 9528	Lipitor
+E30	Undetermined:T30 
+T31	NoDisposition 9555 9559	RISS
+E31	NoDisposition:T31 
+T32	Undetermined 9693 9699	Nexium
+E32	Undetermined:T32 
+T33	Undetermined 9701 9708	Heparin
+E33	Undetermined:T33 
+A1	Certainty E3 Certain
+A2	Actor E3 Patient
+A3	Action E3 UniqueDose
+A4	Temporality E3 Past
+A5	Certainty E4 Certain
+A6	Actor E4 Physician
+A7	Action E4 UniqueDose
+A8	Temporality E4 Past
+A9	Certainty E5 Certain
+A10	Actor E5 Physician
+A11	Action E5 UniqueDose
+A12	Temporality E5 Past
+A13	Certainty E6 Certain
+A14	Actor E6 Physician
+A15	Action E6 UniqueDose
+A16	Temporality E6 Past
+A17	Certainty E7 Certain
+A18	Actor E7 Physician
+A19	Action E7 Start
+A20	Temporality E7 Past
+T34	Disposition 1990 2005	2b/3a inhibitor
+E34	Disposition:T34 
+T35	Disposition 2097 2106	Metformin
+E35	Disposition:T35 
+A21	Certainty E35 Certain
+A22	Actor E35 Physician
+A23	Action E35 Start
+A24	Temporality E35 Past
+A25	Certainty E10 Certain
+A26	Actor E10 Physician
+A27	Action E10 Start
+A28	Temporality E10 Past
+T45	Disposition 2447 2455	coumadin
+E36	Disposition:T45 
+A33	Certainty E12 Certain
+A34	Actor E12 Physician
+A35	Action E12 Stop
+A36	Temporality E12 Past
+T36	NoDisposition 2837 2842	Ancef
+E37	NoDisposition:T36 
+T37	NoDisposition 2807 2810	PCN
+E38	NoDisposition:T37 
+A37	Certainty E26 Certain
+A38	Actor E26 Physician
+A39	Action E26 Stop
+A40	Temporality E26 Present
+T38	Disposition 9462 9467	ACE-I
+E39	Disposition:T38 
+A41	Certainty E39 Hypothetical
+A42	Actor E39 Physician
+A43	Action E39 Start
+A44	Temporality E39 Future
+T39	Disposition 9471 9474	ARB
+E40	Disposition:T39 
+A45	Certainty E40 Hypothetical
+A46	Actor E40 Physician
+A47	Action E40 Start
+A48	Temporality E40 Future
+A49	Certainty E34 Certain
+A50	Actor E34 Physician
+A51	Action E34 Start
+A52	Temporality E34 Past
+T40	Disposition 1663 1666	TNG
+E41	Disposition:T40 
+A53	Certainty E41 Certain
+A54	Actor E41 Physician
+A55	Action E41 UniqueDose
+A56	Temporality E41 Past
+A29	Certainty E36 Certain
+A30	Actor E36 Physician
+A31	Action E36 Stop
+A32	Temporality E36 Past
+T1	NoDisposition 2898 2906	contrast
+E1	NoDisposition:T1 
+A57	Negation E34 NotNegated
+A58	Negation E35 NotNegated
+A59	Negation E39 NotNegated
+A60	Negation E12 NotNegated
+A61	Negation E3 NotNegated
+A62	Negation E6 NotNegated
+A63	Negation E4 NotNegated
+A64	Negation E10 NotNegated
+A65	Negation E41 NotNegated
+A66	Negation E26 NotNegated
+A67	Negation E36 NotNegated
+A68	Negation E5 NotNegated
+A69	Negation E7 NotNegated
+A70	Negation E40 NotNegated

@@ -1,0 +1,82 @@
+T1	NoDisposition 758 767	albuterol
+E1	NoDisposition:T1 
+T2	NoDisposition 1231 1244	levothyroxine
+E2	NoDisposition:T2 
+T3	NoDisposition 1417 1426	Albuterol
+E3	NoDisposition:T3 
+T4	NoDisposition 1439 1447	Atenolol
+E4	NoDisposition:T4 
+T5	NoDisposition 1469 1482	Clonidine HCL
+E5	NoDisposition:T5 
+T6	NoDisposition 1506 1513	Aspirin
+E6	NoDisposition:T6 
+T7	NoDisposition 1535 1542	Flovent
+E7	NoDisposition:T7 
+T8	NoDisposition 1562 1575	Levothyroxine
+E8	NoDisposition:T8 
+T9	NoDisposition 1599 1609	Lisinopril
+E9	NoDisposition:T9 
+T10	NoDisposition 1631 1640	Singulair
+E10	NoDisposition:T10 
+T11	NoDisposition 1664 1671	Lipitor
+E11	NoDisposition:T11 
+T12	NoDisposition 1695 1708	Humulin 70/30
+E12	NoDisposition:T12 
+T13	NoDisposition 1740 1749	Metformin
+E13	NoDisposition:T13 
+T14	NoDisposition 1773 1776	NTG
+E14	NoDisposition:T14 
+T15	NoDisposition 2328 2335	insulin
+E15	NoDisposition:T15 
+T16	Disposition 2821 2829	klonopin
+E16	Disposition:T16 
+T17	Disposition 2841 2851	fluoxetine
+E17	Disposition:T17 
+T18	Disposition 3279 3286	insulin
+E18	Disposition:T18 
+T19	Undetermined 3770 3780	fluoxetine
+E19	Undetermined:T19 
+T20	Undetermined 3785 3793	Klonopin
+E20	Undetermined:T20 
+T21	Disposition 3838 3845	insulin
+E21	Disposition:T21 
+T22	NoDisposition 681 684	NTG
+E22	NoDisposition:T22 
+T23	Disposition 933 943	cephalexin
+E23	Disposition:T23 
+A1	Certainty E23 Certain
+A2	Actor E23 Patient
+A3	Action E23 UniqueDose
+A4	Temporality E23 Past
+T24	NoDisposition 968 971	Abx
+E24	NoDisposition:T24 
+T25	NoDisposition 2689 2704	bronchodilators
+E25	NoDisposition:T25 
+A5	Certainty E16 Certain
+A6	Actor E16 Physician
+A7	Action E16 Start
+A8	Temporality E16 Present
+A9	Certainty E17 Certain
+A10	Actor E17 Physician
+A11	Action E17 Start
+A12	Temporality E17 Present
+T26	Disposition 3187 3194	insluin
+E26	Disposition:T26 
+A13	Certainty E26 Certain
+A14	Actor E26 Physician
+A15	Action E26 Increase
+A16	Temporality E26 Past
+A17	Certainty E18 Certain
+A18	Actor E18 Physician
+A19	Action E18 Increase
+A20	Temporality E18 Present
+A21	Certainty E21 Certain
+A22	Actor E21 Physician
+A23	Action E21 Unknown
+A24	Temporality E21 Present
+A25	Negation E16 NotNegated
+A26	Negation E26 NotNegated
+A27	Negation E21 NotNegated
+A28	Negation E23 NotNegated
+A29	Negation E18 NotNegated
+A30	Negation E17 NotNegated

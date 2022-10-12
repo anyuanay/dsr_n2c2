@@ -1,0 +1,65 @@
+T2	NoDisposition 805 815	Vancomycin
+E2	NoDisposition:T2 
+T3	Disposition 2355 2367	packed cells
+E3	Disposition:T3 
+T4	NoDisposition 2854 2864	PREDNISONE
+E4	NoDisposition:T4 
+T6	NoDisposition 3175 3183	ATENOLOL
+E6	NoDisposition:T6 
+T7	NoDisposition 3330 3336	ZYRTEC
+E7	NoDisposition:T7 
+T8	NoDisposition 3375 3383	COUMADIN
+E8	NoDisposition:T8 
+T9	NoDisposition 3441 3456	CALCIUM ACETATE
+E9	NoDisposition:T9 
+T10	NoDisposition 3507 3519	PANTOPRAZOLE
+E10	NoDisposition:T10 
+T11	NoDisposition 737 744	Demerol
+E11	NoDisposition:T11 
+T12	NoDisposition 780 789	Quinolone
+E12	NoDisposition:T12 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 UniqueDose
+A4	Temporality E3 Past
+T13	NoDisposition 2886 2896	NEPHRO-VIT
+E13	NoDisposition:T13 
+T14	NoDisposition 2901 2911	NEPHRO-VIT
+E14	NoDisposition:T14 
+T15	NoDisposition 2977 2990	CARBAMAZEPINE
+E15	NoDisposition:T15 
+T16	NoDisposition 2992 3000	TEGRETOL
+E16	NoDisposition:T16 
+T17	NoDisposition 3025 3035	PAROXETINE
+E17	NoDisposition:T17 
+T18	NoDisposition 3037 3042	PAXIL
+E18	NoDisposition:T18 
+T19	NoDisposition 3066 3095	NIFEDIPINE (EXTENDED RELEASE)
+E19	NoDisposition:T19 
+T20	NoDisposition 3097 3106	NIFEDICAL
+E20	NoDisposition:T20 
+T21	NoDisposition 3246 3257	DOXEPIN HCL
+E21	NoDisposition:T21 
+T22	NoDisposition 3259 3266	DOXEPIN
+E22	NoDisposition:T22 
+T23	NoDisposition 3288 3298	ALPRAZOLAM
+E23	NoDisposition:T23 
+T24	NoDisposition 3300 3305	XANAX
+E24	NoDisposition:T24 
+T26	NoDisposition 3403 3414	CLOPIDOGREL
+E26	NoDisposition:T26 
+T27	NoDisposition 3416 3422	PLAVIX
+E27	NoDisposition:T27 
+T28	NoDisposition 3477 3483	PHOSLO
+E28	NoDisposition:T28 
+T29	NoDisposition 3521 3529	PROTONIX
+E29	NoDisposition:T29 
+T30	NoDisposition 763 773	Penicillin
+E30	NoDisposition:T30 
+T31	NoDisposition 2935 2944	PHENYTOIN
+E31	NoDisposition:T31 
+T32	NoDisposition 2946 2954	DILANTIN
+E32	NoDisposition:T32 
+T33	NoDisposition 3358 3373	WARFARIN SODIUM
+E33	NoDisposition:T33 
+A5	Negation E3 NotNegated

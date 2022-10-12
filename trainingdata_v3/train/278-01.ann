@@ -1,0 +1,182 @@
+T1	Disposition 850 853	ASA
+E1	Disposition:T1 
+T2	Disposition 858 865	Heparin
+E2	Disposition:T2 
+T3	Disposition 920 929	Lopressor
+E3	Disposition:T3 
+T4	Disposition 931 940	Aggrastat
+E4	Disposition:T4 
+T5	Disposition 942 949	Mylanta
+E5	Disposition:T5 
+T6	Disposition 1127 1133	Ativan
+E6	Disposition:T6 
+T8	NoDisposition 1435 1445	Integrelin
+E8	NoDisposition:T8 
+T9	NoDisposition 2078 2081	ASA
+E9	NoDisposition:T9 
+T10	NoDisposition 2093 2102	Glipizide
+E10	NoDisposition:T10 
+T11	NoDisposition 2120 2131	Guaifenesin
+E11	NoDisposition:T11 
+T12	NoDisposition 2144 2153	Metamucil
+E12	NoDisposition:T12 
+T13	NoDisposition 2211 2214	MVI
+E13	NoDisposition:T13 
+T14	NoDisposition 2221 2230	Ibuprofen
+E14	NoDisposition:T14 
+T15	NoDisposition 2287 2296	Aggrastat
+E15	NoDisposition:T15 
+T16	NoDisposition 2353 2360	Tylenol
+E16	NoDisposition:T16 
+T18	NoDisposition 4175 4185	Integrelin
+E18	NoDisposition:T18 
+T19	NoDisposition 4187 4190	ASA
+E19	NoDisposition:T19 
+T20	NoDisposition 4191 4197	Plavix
+E20	NoDisposition:T20 
+T21	Disposition 4516 4521	Ace-I
+E21	Disposition:T21 
+T22	Disposition 4531 4540	Ibuprofen
+E22	Disposition:T22 
+T23	Undetermined 4590 4599	Lopressor
+E23	Undetermined:T23 
+T24	Disposition 4738 4747	Glipizide
+E24	Disposition:T24 
+T25	NoDisposition 5028 5034	benzos
+E25	NoDisposition:T25 
+T26	NoDisposition 5035 5044	narcotics
+E26	NoDisposition:T26 
+T27	Disposition 691 694	TNG
+E27	Disposition:T27 
+T28	Disposition 845 848	TNG
+E28	Disposition:T28 
+T30	NoDisposition 1682 1685	TNG
+E30	NoDisposition:T30 
+T31	NoDisposition 2310 2313	TNG
+E31	NoDisposition:T31 
+T32	Disposition 4141 4144	Hep
+E32	Disposition:T32 
+T33	NoDisposition 3997 4005	nitrates
+E33	NoDisposition:T33 
+A1	Certainty E32 Conditional
+A2	Actor E32 Physician
+A3	Action E32 Start
+A4	Temporality E32 Future
+T34	Disposition 4208 4214	Zantac
+E34	Disposition:T34 
+A5	Certainty E34 Certain
+A6	Actor E34 Physician
+A7	Action E34 Start
+A8	Temporality E34 Present
+T35	NoDisposition 4301 4304	TNG
+E35	NoDisposition:T35 
+A9	Certainty E21 Hypothetical
+A10	Actor E21 Physician
+A11	Action E21 Start
+A12	Temporality E21 Present
+A13	Certainty E22 Certain
+A14	Actor E22 Physician
+A15	Action E22 Stop
+A16	Temporality E22 Present
+T36	Disposition 4590 4599	Lopressor
+E36	Disposition:T36 
+A21	Certainty E36 Conditional
+A22	Actor E36 Physician
+A23	Action E36 Unknown
+A24	Temporality E36 Future
+A26	Certainty E24 Certain
+A27	Actor E24 Physician
+A28	Action E24 Start
+A29	Temporality E24 Future
+T37	Disposition 4785 4792	Lipitor
+E37	Disposition:T37 
+A30	Certainty E37 Certain
+A31	Actor E37 Physician
+A32	Action E37 Start
+A33	Temporality E37 Present
+T38	Disposition 4941 4946	Ancef
+E38	Disposition:T38 
+A34	Certainty E38 Certain
+A35	Actor E38 Physician
+A36	Action E38 Start
+A37	Temporality E38 Present
+T39	NoDisposition 2160 2173	Natural tears
+E39	NoDisposition:T39 
+T40	NoDisposition 2182 2206	Lubricating eye ointment
+E40	NoDisposition:T40 
+A38	Certainty E27 Certain
+A39	Actor E27 Patient
+A40	Action E27 UniqueDose
+A41	Temporality E27 Past
+A42	Certainty E28 Certain
+A43	Actor E28 Physician
+A44	Action E28 UniqueDose
+A45	Temporality E28 Past
+A46	Certainty E1 Certain
+A47	Actor E1 Physician
+A48	Action E1 UniqueDose
+A49	Temporality E1 Past
+A50	Certainty E2 Certain
+A51	Actor E2 Physician
+A52	Action E2 UniqueDose
+A53	Temporality E2 Past
+A54	Certainty E3 Certain
+A55	Actor E3 Physician
+A56	Action E3 UniqueDose
+A57	Temporality E3 Past
+A58	Certainty E4 Certain
+A59	Actor E4 Physician
+A60	Action E4 UniqueDose
+A61	Temporality E4 Past
+A62	Certainty E5 Certain
+A63	Actor E5 Physician
+A64	Action E5 UniqueDose
+A65	Temporality E5 Past
+A66	Certainty E6 Certain
+A67	Actor E6 Physician
+A68	Action E6 UniqueDose
+A69	Temporality E6 Past
+T7	Disposition 1181 1187	Versed
+E7	Disposition:T7 
+A70	Certainty E7 Certain
+A71	Actor E7 Physician
+A72	Action E7 UniqueDose
+A73	Temporality E7 Past
+T29	Disposition 1165 1173	Fentanyl
+E29	Disposition:T29 
+A74	Certainty E29 Certain
+A75	Actor E29 Physician
+A76	Action E29 UniqueDose
+A77	Temporality E29 Past
+T17	Disposition 238 241	TNG
+E17	Disposition:T17 
+A17	Certainty E17 Certain
+A18	Actor E17 Physician
+A19	Action E17 Start
+A20	Temporality E17 Past
+T42	Disposition 238 241	TNG
+E41	Disposition:T42 
+A25	Certainty E41 Certain
+A78	Negation E41 Negated
+A79	Actor E41 Patient
+A80	Action E41 Start
+A81	Temporality E41 Past
+A82	Negation E38 NotNegated
+A83	Negation E7 NotNegated
+A84	Negation E34 NotNegated
+A85	Negation E22 NotNegated
+A86	Negation E32 NotNegated
+A87	Negation E4 NotNegated
+A88	Negation E28 NotNegated
+A89	Negation E37 NotNegated
+A90	Negation E3 NotNegated
+A91	Negation E27 NotNegated
+A92	Negation E2 NotNegated
+A93	Negation E1 NotNegated
+A94	Negation E5 NotNegated
+A95	Negation E17 NotNegated
+A96	Negation E6 NotNegated
+A97	Negation E29 NotNegated
+A98	Negation E21 NotNegated
+A99	Negation E24 NotNegated
+A100	Negation E36 NotNegated

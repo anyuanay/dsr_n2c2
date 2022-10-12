@@ -1,0 +1,23 @@
+T1	NoDisposition 654 661	aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 681 688	Isordil
+E2	NoDisposition:T2 
+T3	NoDisposition 704 713	Labetalol
+E3	NoDisposition:T3 
+T4	NoDisposition 730 737	Norvasc
+E4	NoDisposition:T4 
+T5	NoDisposition 752 759	Lipitor
+E5	NoDisposition:T5 
+T6	NoDisposition 776 785	Glipizide
+E6	NoDisposition:T6 
+T7	NoDisposition 816 829	Nitroglycerin
+E7	NoDisposition:T7 
+T8	NoDisposition 1305 1311	statin
+E8	NoDisposition:T8 
+T9	Disposition 1362 1370	nitrates
+E9	Disposition:T9 
+A2	Certainty E9 Hypothetical
+A3	Actor E9 Physician
+A4	Action E9 Unknown
+A5	Temporality E9 Future
+A6	Negation E9 NotNegated

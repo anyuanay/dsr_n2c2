@@ -1,0 +1,87 @@
+T1	Disposition 567 572	advil
+E1	Disposition:T1 
+T3	Disposition 759 766	heparin
+E3	Disposition:T3 
+T4	NoDisposition 1017 1024	insulin
+E4	NoDisposition:T4 
+T5	NoDisposition 1085 1094	Glipizide
+E5	NoDisposition:T5 
+T6	NoDisposition 1102 1109	Avandia
+E6	NoDisposition:T6 
+T7	NoDisposition 1118 1128	Lisinopril
+E7	NoDisposition:T7 
+T11	NoDisposition 6046 6056	integrilin
+E11	NoDisposition:T11 
+T12	NoDisposition 6058 6065	heparin
+E12	NoDisposition:T12 
+T13	Disposition 6115 6117	BB
+E13	Disposition:T13 
+T14	Disposition 6171 6177	statin
+E14	Disposition:T14 
+T15	Disposition 6253 6262	lidocaine
+E15	Disposition:T15 
+T16	Disposition 6272 6274	BB
+E16	Disposition:T16 
+T17	Undetermined 6432 6436	RISS
+E17	Undetermined:T17 
+T18	Undetermined 6463 6470	Heparin
+E18	Undetermined:T18 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 Start
+A4	Temporality E3 Past
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 Stop
+A8	Temporality E13 Present
+A9	Certainty E14 Certain
+A10	Actor E14 Physician
+A11	Action E14 Stop
+A12	Temporality E14 Present
+A13	Certainty E15 Certain
+A14	Actor E15 Physician
+A15	Action E15 Stop
+A16	Temporality E15 Present
+A17	Certainty E16 Certain
+A18	Actor E16 Physician
+A19	Action E16 Stop
+A20	Temporality E16 Present
+T19	Disposition 6414 6427	hypoglycemics
+E19	Disposition:T19 
+A21	Certainty E19 Certain
+A22	Actor E19 Physician
+A23	Action E19 Stop
+A24	Temporality E19 Present
+T20	Undetermined 6472 6478	Nexium
+E20	Undetermined:T20 
+T21	Disposition 722 732	integrilin
+E21	Disposition:T21 
+A37	Certainty E21 Certain
+A38	Actor E21 Physician
+A39	Action E21 Start
+A40	Temporality E21 Past
+T22	Disposition 744 753	reteplase
+E22	Disposition:T22 
+A41	Certainty E22 Certain
+A42	Actor E22 Physician
+A43	Action E22 Start
+A44	Temporality E22 Past
+T23	Undetermined 6016 6021	ancef
+E23	Undetermined:T23 
+A45	Certainty E1 Certain
+A46	Actor E1 Patient
+A47	Action E1 UniqueDose
+A48	Temporality E1 Past
+T2	Undetermined 6096 6099	ASA
+E2	Undetermined:T2 
+T8	NoDisposition 171 176	lysis
+E8	NoDisposition:T8 
+A49	Negation E22 NotNegated
+A50	Negation E19 NotNegated
+A51	Negation E13 NotNegated
+A52	Negation E3 NotNegated
+A53	Negation E16 NotNegated
+A54	Negation E15 NotNegated
+A55	Negation E21 NotNegated
+A56	Negation E1 NotNegated
+A57	Negation E14 NotNegated

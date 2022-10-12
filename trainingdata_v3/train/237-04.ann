@@ -1,0 +1,76 @@
+T1	NoDisposition 2091 2101	antibiotic
+E1	NoDisposition:T1 
+T2	NoDisposition 2208 2213	EcASA
+E2	NoDisposition:T2 
+T3	NoDisposition 2228 2231	NPH
+E3	NoDisposition:T3 
+T4	NoDisposition 2273 2282	Glyburide
+E4	NoDisposition:T4 
+T5	NoDisposition 2293 2304	Metroprolol
+E5	NoDisposition:T5 
+T6	NoDisposition 2344 2351	Norvasc
+E6	NoDisposition:T6 
+T7	NoDisposition 2364 2371	Januvia
+E7	NoDisposition:T7 
+T8	NoDisposition 2386 2393	Bactrim
+E8	NoDisposition:T8 
+T9	NoDisposition 2410 2417	Crestor
+E9	NoDisposition:T9 
+T10	NoDisposition 2431 2438	Pristiq
+E10	NoDisposition:T10 
+T11	NoDisposition 2452 2463	Mirtazapine
+E11	NoDisposition:T11 
+T12	NoDisposition 2506 2514	Fentanyl
+E12	NoDisposition:T12 
+T14	NoDisposition 2726 2737	Penicillins
+E14	NoDisposition:T14 
+T15	NoDisposition 4455 4462	aspirin
+E15	NoDisposition:T15 
+T16	NoDisposition 4482 4489	Bactrim
+E16	NoDisposition:T16 
+T17	NoDisposition 4536 4547	candesartan
+E17	NoDisposition:T17 
+T18	NoDisposition 4566 4572	Colace
+E18	NoDisposition:T18 
+T19	NoDisposition 4681 4690	glyburide
+E19	NoDisposition:T19 
+T20	NoDisposition 4710 4717	insulin
+E20	NoDisposition:T20 
+T21	NoDisposition 4724 4731	Lipitor
+E21	NoDisposition:T21 
+T22	NoDisposition 4750 4769	metoprolol tartrate
+E22	NoDisposition:T22 
+T23	NoDisposition 4788 4799	sitagliptin
+E23	NoDisposition:T23 
+T24	NoDisposition 4836 4845	Toprol XL
+E24	NoDisposition:T24 
+T25	Disposition 4967 4988	clopidogrel bisulfate
+E25	Disposition:T25 
+T26	NoDisposition 4507 4516	bupropion
+E26	NoDisposition:T26 
+T27	NoDisposition 4590 4596	Colace
+E27	NoDisposition:T27 
+T28	NoDisposition 4611 4618	Crestor
+E28	NoDisposition:T28 
+T29	NoDisposition 4638 4645	doxepin
+E29	NoDisposition:T29 
+T30	NoDisposition 4652 4663	gemfibrozil
+E30	NoDisposition:T30 
+T31	NoDisposition 2252 2259	Atacand
+E31	NoDisposition:T31 
+T32	Disposition 4942 4949	Avandia
+E32	Disposition:T32 
+A1	Certainty E32 Certain
+A2	Actor E32 Physician
+A3	Action E32 Stop
+A4	Temporality E32 Unknown
+A5	Certainty E25 Certain
+A6	Actor E25 Physician
+A7	Action E25 Stop
+A8	Temporality E25 Unknown
+T13	NoDisposition 2688 2694	iodine
+E13	NoDisposition:T13 
+T33	NoDisposition 2699 2707	contrast
+E33	NoDisposition:T33 
+A9	Negation E32 NotNegated
+A10	Negation E25 NotNegated

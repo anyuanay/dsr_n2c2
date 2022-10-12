@@ -1,0 +1,21 @@
+T1	Disposition 1438 1447	Neurontin
+E1	Disposition:T1 
+T2	Disposition 1494 1503	Neurontin
+E2	Disposition:T2 
+T3	Disposition 1507 1513	Lyrica
+E3	Disposition:T3 
+A1	Certainty E1 Hypothetical
+A2	Actor E1 Patient
+A3	Action E1 Start
+A4	Temporality E1 Present
+A5	Certainty E2 Hypothetical
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Present
+A9	Certainty E3 Hypothetical
+A10	Actor E3 Physician
+A11	Action E3 Start
+A12	Temporality E3 Present
+A13	Negation E3 NotNegated
+A14	Negation E1 NotNegated
+A15	Negation E2 NotNegated

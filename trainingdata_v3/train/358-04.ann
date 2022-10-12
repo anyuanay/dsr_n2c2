@@ -1,0 +1,94 @@
+T1	Disposition 354 366	levofloxacin
+E1	Disposition:T1 
+T2	Disposition 642 651	metformin
+E2	Disposition:T2 
+T3	Disposition 897 903	ativan
+E3	Disposition:T3 
+T4	NoDisposition 1125 1136	antibiotics
+E4	NoDisposition:T4 
+T6	NoDisposition 1389 1398	Oxycontin
+E6	NoDisposition:T6 
+T7	NoDisposition 1400 1428	OXYCODONE Controlled Release
+E7	NoDisposition:T7 
+T8	NoDisposition 1479 1489	LISINOPRIL
+E8	NoDisposition:T8 
+T13	NoDisposition 1753 1762	METFORMIN
+E13	NoDisposition:T13 
+T19	NoDisposition 2085 2093	Percocet
+E19	NoDisposition:T19 
+T21	NoDisposition 2173 2184	Clindamycin
+E21	NoDisposition:T21 
+T22	NoDisposition 2280 2289	OXYCODONE
+E22	NoDisposition:T22 
+T23	NoDisposition 2355 2363	percocet
+E23	NoDisposition:T23 
+T24	NoDisposition 2376 2383	tylenol
+E24	NoDisposition:T24 
+T25	NoDisposition 2390 2396	Ativan
+E25	NoDisposition:T25 
+T26	NoDisposition 2940 2951	clindamycin
+E26	NoDisposition:T26 
+T28	NoDisposition 3100 3108	percocet
+E28	NoDisposition:T28 
+T29	NoDisposition 3109 3118	oxycodone
+E29	NoDisposition:T29 
+T30	NoDisposition 3286 3295	metformin
+E30	NoDisposition:T30 
+T31	NoDisposition 3300 3309	glipizide
+E31	NoDisposition:T31 
+T32	Disposition 3354 3363	metformin
+E32	Disposition:T32 
+T33	NoDisposition 3408 3412	HCTZ
+E33	NoDisposition:T33 
+T34	NoDisposition 3414 3424	lisinopril
+E34	NoDisposition:T34 
+T35	NoDisposition 3432 3438	toprol
+E35	NoDisposition:T35 
+A1	Certainty E1 Certain
+A2	Actor E1 Unknown
+A3	Action E1 Stop
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Patient
+A7	Action E2 Increase
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Patient
+A11	Action E3 Stop
+A12	Temporality E3 Past
+T37	NoDisposition 1326 1332	Colace
+E37	NoDisposition:T37 
+T38	NoDisposition 1334 1349	DOCUSATE Sodium
+E38	NoDisposition:T38 
+T39	NoDisposition 1534 1539	Zocor
+E39	NoDisposition:T39 
+T40	NoDisposition 1541 1552	SIMVASTATIN
+E40	NoDisposition:T40 
+T41	NoDisposition 1688 1700	Glucotrol Xl
+E41	NoDisposition:T41 
+T42	NoDisposition 1702 1714	GLIPIZIDE Xl
+E42	NoDisposition:T42 
+T43	NoDisposition 1805 1824	HYDROCHLOROTHIAZIDE
+E43	NoDisposition:T43 
+T44	NoDisposition 1869 1878	Toprol Xl
+E44	NoDisposition:T44 
+T45	NoDisposition 1880 1917	METOPROLOL Succinate Extended Release
+E45	NoDisposition:T45 
+T46	NoDisposition 1967 1973	Celexa
+E46	NoDisposition:T46 
+T47	NoDisposition 1975 1985	CITALOPRAM
+E47	NoDisposition:T47 
+T48	NoDisposition 2108 2143	OXYCODONE 5 Mg/acetaminophen 325 Mg
+E48	NoDisposition:T48 
+T49	NoDisposition 2398 2407	LORAZEPAM
+E49	NoDisposition:T49 
+T50	Undetermined 2993 3004	antibiotics
+E50	Undetermined:T50 
+A13	Certainty E32 Hypothetical
+A14	Actor E32 Physician
+A15	Action E32 Increase
+A16	Temporality E32 Future
+A17	Negation E3 NotNegated
+A18	Negation E1 NotNegated
+A19	Negation E2 NotNegated
+A20	Negation E32 NotNegated

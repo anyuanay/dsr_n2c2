@@ -1,0 +1,22 @@
+T1	NoDisposition 796 806	Prednisone
+E1	NoDisposition:T1 
+T2	NoDisposition 807 814	Zestril
+E2	NoDisposition:T2 
+T3	NoDisposition 816 823	Norvasc
+E3	NoDisposition:T3 
+T4	NoDisposition 825 833	Calcitol
+E4	NoDisposition:T4 
+T5	NoDisposition 835 844	Phenytoin
+E5	NoDisposition:T5 
+T6	NoDisposition 867 873	Phoslo
+E6	NoDisposition:T6 
+T7	NoDisposition 875 886	Insulin NPH
+E7	NoDisposition:T7 
+T8	NoDisposition 787 794	Lipitor
+E8	NoDisposition:T8 
+T9	NoDisposition 846 853	Mesnest
+E9	NoDisposition:T9 
+T10	NoDisposition 855 865	Nephrocaps
+E10	NoDisposition:T10 
+T11	NoDisposition 894 897	Reg
+E11	NoDisposition:T11 

@@ -1,0 +1,10 @@
+T1	NoDisposition 1010 1029	hydrochlorothiazide
+E1	NoDisposition:T1 
+T2	NoDisposition 1031 1038	Zestril
+E2	NoDisposition:T2 
+T3	NoDisposition 1040 1045	Calan
+E3	NoDisposition:T3 
+T4	NoDisposition 1047 1052	Zocor
+E4	NoDisposition:T4 
+T5	NoDisposition 1059 1067	Levaquin
+E5	NoDisposition:T5 

@@ -1,0 +1,148 @@
+T1	Disposition 1106 1114	Excedrin
+E1	Disposition:T1 
+T2	Disposition 1187 1190	ASA
+E2	Disposition:T2 
+T3	Disposition 1464 1471	heparin
+E3	Disposition:T3 
+T4	Disposition 1488 1496	fioricet
+E4	Disposition:T4 
+T5	Disposition 1498 1504	zofran
+E5	Disposition:T5 
+T6	Disposition 1510 1518	fentanyl
+E6	Disposition:T6 
+T7	Disposition 1574 1583	lopressor
+E7	Disposition:T7 
+T11	NoDisposition 2893 2906	Dicloxacillin
+E11	NoDisposition:T11 
+T13	NoDisposition 2975 2999	Butalbital+Apap+Caffeine
+E13	NoDisposition:T13 
+T14	NoDisposition 3044 3053	Estradiol
+E14	NoDisposition:T14 
+T15	NoDisposition 3096 3115	Medroxyprogesterone
+E15	NoDisposition:T15 
+T18	NoDisposition 3237 3247	Omeprazole
+E18	NoDisposition:T18 
+T20	NoDisposition 3338 3346	percocet
+E20	NoDisposition:T20 
+T21	Undetermined 9168 9171	ASA
+E21	Undetermined:T21 
+T22	Disposition 9201 9207	statin
+E22	Disposition:T22 
+T23	NoDisposition 9214 9221	heparin
+E23	NoDisposition:T23 
+T24	NoDisposition 9353 9360	heparin
+E24	NoDisposition:T24 
+T25	NoDisposition 9424 9437	dicloxacillin
+E25	NoDisposition:T25 
+T26	Undetermined 9552 9559	heparin
+E26	Undetermined:T26 
+A1	Certainty E1 Certain
+A2	Actor E1 Patient
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+T27	Disposition 1172 1175	NTG
+E27	Disposition:T27 
+A5	Certainty E27 Certain
+A6	Actor E27 Physician
+A7	Action E27 UniqueDose
+A8	Temporality E27 Past
+A9	Certainty E2 Certain
+A10	Actor E2 Physician
+A11	Action E2 UniqueDose
+A12	Temporality E2 Past
+T28	Disposition 1351 1354	TNG
+E28	Disposition:T28 
+A13	Certainty E28 Certain
+A14	Actor E28 Physician
+A15	Action E28 Start
+A16	Temporality E28 Past
+A17	Certainty E3 Certain
+A18	Actor E3 Physician
+A19	Action E3 Start
+A20	Temporality E3 Past
+A21	Certainty E7 Certain
+A22	Actor E7 Physician
+A23	Action E7 UniqueDose
+A24	Temporality E7 Past
+A25	Certainty E4 Certain
+A26	Actor E4 Physician
+A27	Action E4 UniqueDose
+A28	Temporality E4 Past
+A29	Certainty E5 Certain
+A30	Actor E5 Physician
+A31	Action E5 UniqueDose
+A32	Temporality E5 Past
+A33	Certainty E6 Certain
+A34	Actor E6 Physician
+A35	Action E6 UniqueDose
+A36	Temporality E6 Past
+T29	NoDisposition 2804 2813	Albuterol
+E29	NoDisposition:T29 
+T30	NoDisposition 2846 2859	Ascorbic Acid
+E30	NoDisposition:T30 
+T31	NoDisposition 2861 2870	Vitamin C
+E31	NoDisposition:T31 
+T32	NoDisposition 2928 2943	Docusate Sodium
+E32	NoDisposition:T32 
+T33	NoDisposition 2945 2951	Colace
+E33	NoDisposition:T33 
+T34	NoDisposition 3001 3009	Fioricet
+E34	NoDisposition:T34 
+T35	NoDisposition 3060 3069	Estradiol
+E35	NoDisposition:T35 
+T36	NoDisposition 3134 3147	Multivitamins
+E36	NoDisposition:T36 
+T37	NoDisposition 3149 3161	Multivitamin
+E37	NoDisposition:T37 
+T38	NoDisposition 3182 3199	Nortriptyline Hcl
+E38	NoDisposition:T38 
+T39	NoDisposition 3201 3214	Nortriptyline
+E39	NoDisposition:T39 
+T40	NoDisposition 3267 3295	Propranolol Extended Release
+E40	NoDisposition:T40 
+T41	NoDisposition 3297 3307	Inderal La
+E41	NoDisposition:T41 
+T42	NoDisposition 3347 3353	darvon
+E42	NoDisposition:T42 
+T43	NoDisposition 3354 3361	codeine
+E43	NoDisposition:T43 
+T44	NoDisposition 3422 3428	flagyl
+E44	NoDisposition:T44 
+T45	NoDisposition 3375 3380	sulfa
+E45	NoDisposition:T45 
+T46	Undetermined 9158 9166	bblocker
+E46	Undetermined:T46 
+A37	Certainty E22 Certain
+A38	Actor E22 Physician
+A39	Action E22 Start
+A40	Temporality E22 Present
+T47	Disposition 9231 9234	TNG
+E47	Disposition:T47 
+A41	Certainty E47 Conditional
+A42	Actor E47 Physician
+A43	Action E47 Start
+A44	Temporality E47 Future
+T48	Disposition 9261 9268	IIbIIIa
+E48	Disposition:T48 
+A45	Certainty E48 Conditional
+A46	Actor E48 Physician
+A47	Action E48 Start
+A48	Temporality E48 Future
+T49	NoDisposition 9310 9318	bblocker
+E49	NoDisposition:T49 
+T50	Undetermined 9448 9452	RISS
+E50	Undetermined:T50 
+T51	Undetermined 9561 9567	nexium
+E51	Undetermined:T51 
+A49	Negation E22 NotNegated
+A50	Negation E47 NotNegated
+A51	Negation E3 NotNegated
+A52	Negation E48 NotNegated
+A53	Negation E6 NotNegated
+A54	Negation E4 NotNegated
+A55	Negation E27 NotNegated
+A56	Negation E2 NotNegated
+A57	Negation E28 NotNegated
+A58	Negation E1 NotNegated
+A59	Negation E5 NotNegated
+A60	Negation E7 NotNegated

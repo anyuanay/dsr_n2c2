@@ -1,0 +1,4 @@
+T1	NoDisposition 318 325	insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 2722 2739;2740 2741	Calcium with Vit. D
+E2	NoDisposition:T2 

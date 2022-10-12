@@ -1,0 +1,207 @@
+T2	Disposition 923 929	Ativan
+E2	Disposition:T2 
+T3	Disposition 1110 1113	NTG
+E3	Disposition:T3 
+T4	Disposition 1123 1128	Lasix
+E4	Disposition:T4 
+T5	Disposition 1745 1750	Lasix
+E5	Disposition:T5 
+T6	Undetermined 1763 1775	nitoglycerin
+E6	Undetermined:T6 
+T7	Undetermined 1789 1792	ASA
+E7	Undetermined:T7 
+T8	Undetermined 1799 1808	Metformin
+E8	Undetermined:T8 
+T9	Undetermined 1814 1825	Simvastatin
+E9	Undetermined:T9 
+T10	Undetermined 1830 1838	Losartan
+E10	Undetermined:T10 
+T11	Undetermined 1843 1853	Lisinopril
+E11	Undetermined:T11 
+T12	Undetermined 1858 1864	Prozac
+E12	Undetermined:T12 
+T13	Undetermined 1869 1886	Calcium carbonate
+E13	Undetermined:T13 
+T14	Undetermined 1892 1901	Lopressor
+E14	Undetermined:T14 
+T15	NoDisposition 3752 3775	Acetaminophen W/Codeine
+E15	NoDisposition:T15 
+T18	NoDisposition 3892 3901	Bisacodyl
+E18	NoDisposition:T18 
+T19	NoDisposition 3936 3949	Multivitamins
+E19	NoDisposition:T19 
+T21	NoDisposition 4035 4055	Acetylsalicylic Acid
+E21	NoDisposition:T21 
+T22	NoDisposition 4080 4091	Anastrozole
+E22	NoDisposition:T22 
+T24	NoDisposition 4150 4167	Calcium Carbonate
+E24	NoDisposition:T24 
+T27	NoDisposition 4253 4264	Alendronate
+E27	NoDisposition:T27 
+T28	NoDisposition 4281 4300	Hydrochlorothiazide
+E28	NoDisposition:T28 
+T29	NoDisposition 4354 4362	Losartan
+E29	NoDisposition:T29 
+T30	NoDisposition 4381 4390	Metformin
+E30	NoDisposition:T30 
+T31	NoDisposition 4447 4458	Simvastatin
+E31	NoDisposition:T31 
+T32	NoDisposition 4477 4486	Glipizide
+E32	NoDisposition:T32 
+T33	NoDisposition 4488 4497	Glucotrol
+E33	NoDisposition:T33 
+T34	NoDisposition 4552 4565	Acetaminophen
+E34	NoDisposition:T34 
+T35	NoDisposition 4589 4598	Lorazepam
+E35	NoDisposition:T35 
+T36	Disposition 11056 11061	Lasix
+E36	Disposition:T36 
+T37	Undetermined 11204 11207	ASA
+E37	Undetermined:T37 
+T38	Undetermined 11228 11237	Lopressor
+E38	Undetermined:T38 
+T39	Undetermined 11248 11257	Captopril
+E39	Undetermined:T39 
+T40	Undetermined 11335 11344	Albuterol
+E40	Undetermined:T40 
+T41	NoDisposition 12078 12086	Atenolol
+E41	NoDisposition:T41 
+T42	NoDisposition 12096 12100	HCTZ
+E42	NoDisposition:T42 
+T43	NoDisposition 12110 12120	Lisinopril
+E43	NoDisposition:T43 
+T44	NoDisposition 12130 12138	Losartan
+E44	NoDisposition:T44 
+T45	Disposition 12155 12163	Captoril
+E45	Disposition:T45 
+T46	Disposition 12177 12186	Lopressor
+E46	Disposition:T46 
+T47	NoDisposition 12290 12299	Metformin
+E47	NoDisposition:T47 
+T48	NoDisposition 12300 12309	Glucotrol
+E48	NoDisposition:T48 
+T49	Disposition 12341 12348	Insulin
+E49	Disposition:T49 
+T51	NoDisposition 12478 12484	statin
+E51	NoDisposition:T51 
+T53	Undetermined 12575 12581	Ativan
+E53	Undetermined:T53 
+T55	Undetermined 12726 12733	Heparin
+E55	Undetermined:T55 
+T57	Undetermined 12770 12775	Senna
+E57	Undetermined:T57 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 UniqueDose
+A8	Temporality E3 Past
+A9	Certainty E4 Certain
+A10	Actor E4 Physician
+A11	Action E4 UniqueDose
+A12	Temporality E4 Past
+A13	Certainty E5 Certain
+A14	Actor E5 Physician
+A15	Action E5 UniqueDose
+A16	Temporality E5 Past
+T56	Undetermined 1778 1788	Nitropaste
+E56	Undetermined:T56 
+T58	NoDisposition 3782 3792	Tylenol #3
+E58	NoDisposition:T58 
+T59	NoDisposition 3818 3837	Magnesium Hydroxide
+E59	NoDisposition:T59 
+T60	NoDisposition 3839 3855	Milk Of Magnesia
+E60	NoDisposition:T60 
+T61	NoDisposition 3951 3954	Mvi
+E61	NoDisposition:T61 
+T62	NoDisposition 3974 3989	Docusate Sodium
+E62	NoDisposition:T62 
+T63	NoDisposition 3991 3997	Colace
+E63	NoDisposition:T63 
+T64	NoDisposition 4057 4060	Asa
+E64	NoDisposition:T64 
+T65	NoDisposition 4093 4101	Arimidex
+E65	NoDisposition:T65 
+T66	NoDisposition 4121 4130	Atenololl
+E66	NoDisposition:T66 
+T67	NoDisposition 4212 4226	Fluoxetine Hcl
+E67	NoDisposition:T67 
+T68	NoDisposition 4244 4251	Fosamax
+E68	NoDisposition:T68 
+T69	NoDisposition 4302 4306	Hctz
+E69	NoDisposition:T69 
+T70	NoDisposition 4325 4336	Lisinoprill
+E70	NoDisposition:T70 
+A29	Certainty E36 Certain
+A30	Actor E36 Physician
+A31	Action E36 UniqueDose
+A32	Temporality E36 Present
+T71	Disposition 11303 11305	BB
+E71	Disposition:T71 
+A33	Certainty E71 Hypothetical
+A34	Actor E71 Physician
+A35	Action E71 Unknown
+A36	Temporality E71 Future
+T72	Undetermined 11349 11357	atrovent
+E72	Undetermined:T72 
+A37	Certainty E45 Certain
+A38	Actor E45 Physician
+A39	Action E45 Start
+A40	Temporality E45 Present
+A41	Certainty E46 Certain
+A42	Actor E46 Physician
+A43	Action E46 Start
+A44	Temporality E46 Present
+A49	Certainty E49 Certain
+A50	Actor E49 Physician
+A51	Action E49 Start
+A52	Temporality E49 Present
+T74	NoDisposition 12442 12450	Arimidex
+E74	NoDisposition:T74 
+T75	NoDisposition 12507 12513	Prozac
+E75	NoDisposition:T75 
+T76	NoDisposition 12537 12544	Chantix
+E76	NoDisposition:T76 
+T77	NoDisposition 12665 12679	Vit D/ Calcium
+E77	NoDisposition:T77 
+T79	Undetermined 12763 12769	Colace
+E79	Undetermined:T79 
+T73	Disposition 12319 12330	oral agents
+E73	Disposition:T73 
+A45	Certainty E73 Certain
+A46	Actor E73 Physician
+A47	Action E73 Stop
+A48	Temporality E73 Present
+T80	Disposition 12155 12163	Captoril
+E80	Disposition:T80 
+A53	Certainty E80 Conditional
+A54	Actor E80 Physician
+A55	Action E80 Increase
+A56	Temporality E80 Future
+T81	Disposition 12177 12186	Lopressor
+E81	Disposition:T81 
+A57	Certainty E81 Conditional
+A58	Actor E81 Physician
+A59	Action E81 Increase
+A60	Temporality E81 Future
+T1	Disposition 11941 11944	abx
+E1	Disposition:T1 
+A17	Certainty E1 Hypothetical
+A18	Actor E1 Physician
+A19	Action E1 Start
+A20	Temporality E1 Present
+A61	Negation E46 NotNegated
+A62	Negation E45 NotNegated
+A63	Negation E73 NotNegated
+A64	Negation E80 NotNegated
+A65	Negation E3 NotNegated
+A66	Negation E71 NotNegated
+A67	Negation E4 NotNegated
+A68	Negation E49 NotNegated
+A69	Negation E2 NotNegated
+A70	Negation E81 NotNegated
+A71	Negation E1 NotNegated
+A72	Negation E36 NotNegated
+A73	Negation E5 NotNegated

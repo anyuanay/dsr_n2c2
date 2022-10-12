@@ -1,0 +1,251 @@
+
+
+
+Record date: 2097-01-17
+
+                                                       Patient Name: KEATING,FRANK [ MRN: 4832978HOB ]
+
+                                                         Date of Visit: 1/17/2097
+
+
+
+BCH SURGERY EW EVALUATION
+
+
+
+HPI: Mr. Keating is a 75 year-old male with a complex medical history which includes a history of a stage 4 sacral decubitus ulcer, secondary to being bedridden due to paraplegia (due to injury in 2066).  His ulcer was eroding into his rectum and therefore he underwent sigmoid colostomy 8/96 for diversion.  He is also s/p ileal loop urostomy in the distant past.  Was seen in plastics clinic today, decub progressing well, but poor POs, referred for admission.  Denies N/V, has had normal ostomy output, denies abd pain, though he did have some cramping several days ago.  His main complaint is long-standing back pain.  Of note, he had been readmitted about 2 weeks postop with distention and pain, CT showing partial SBO and a pelvic fluid collection, which was drained, cultures were sterile.  Wife noted some discharge from midline wound several days ago, but this has ceased. 
+
+
+
+PMH:      Paraplegia, secondary to compression fracture in 2066;
+
+     Cervical spondylosis;
+
+     Chronic obstructive pulmonary disease;
+
+     Coronary artery disease, status post coronary artery bypass graft times 3
+
+     in 2087;
+
+     Ileal loop, complicated by recurrent pyleonephritis;
+
+     History of transient ischemic attack, status post bilateral carotid
+
+     endarterectomies;
+
+     Hypercholesterolemia;
+
+     Insulin dependent diabetes mellitus;
+
+     Disc herniation at the L4-5, L5-S1 levels;
+
+     History of peptic ulcer disease with upper gastrointestinal bleed in 2089,
+
+     requiring packed red blood cells transfusion;
+
+     Hemorrhoids;
+
+     History of candida infection involving his ileal conduit;
+
+     Status post left tibia fracture;
+
+     Depression;
+
+     Peripheral vascular disease, status post bilateral iliofemoral bypass.
+
+     H/o Acute renal failure after cardiac catheterization
+
+  Spinal cord infarction from embolic event
+
+
+
+PSH:
+
+   1.    C5-6 and C6-7 right foraminotomy in 2081
+
+2.	Laminectomy at L4-5 and L5-S1 in 2081
+
+3.	Bilateral carotid endarterectomies in 2081
+
+4.    Coronary artery bypass grafting in 2087
+
+5.	11/24/95 underwent bilateral iliofemoral and renal artery stent placement
+
+6.	11/28/95 cardiac catheterization with a stent placed in the left circumflex artery 
+
+   7.   Diverting colostomy 8/23/96
+
+
+
+Meds:
+
+o SIMVASTATIN (ZOCOR )  20 MG PO  QHS    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o CLOPIDOGREL (PLAVIX )  75 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o ESOMEPRAZOLE (NEXIUM )  40 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o ZOLPIDEM TARTRATE (AMBIEN )  10 MG PO  QHS   PRN: insomnia 
+
+
+
+o PAROXETINE (PAXIL )  30 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o INSULIN NPH HUMAN  10 UNITS SC  QAM BEFORE BREAKFAST    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o INSULIN NPH HUMAN  16 UNITS SC  QPM BEFORE SUPPER  10/21/2096 (Thu) Routine x1    Last Dose Given:  10/23/96 at 08:00 am 
+
+
+
+o INSULIN REGULAR HUMAN  Sliding Scale  If BS <=    200 give 0 Units ;  For BS from 201  to 250 give 4 Units ;  For BS from 251  to 300 give 6 Units ;  For BS from 301  to 350 give 8 Units ;  For BS from 351  to 400 give 10 Units ;  For BS > 400 give 12 Units and Call House MD ;   SC  QID (AC + HS)    Last Dose Given:  10/24/96 at 12:00 pm 
+
+
+
+o OXYCODONE 5 MG/ACETAMINOPHEN 325 MG (PERCOCET 5 MG/325 MG )  1-2 TAB PO  Q4-6H   PRN: pain  Last Dose Given:  10/24/96 at 03:00 pm 
+
+
+
+o AMLODIPINE (NORVASC )  5 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o LISINOPRIL (ZESTRIL )  40 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o DALTEPARIN SODIUM (FRAGMIN )  5000 UNITS SC  QD  <DI>   
+
+
+
+o METOPROLOL SUCCINATE EXTENDED RELEASE (TOPROL XL )  400 MG PO  QD  <DI>   
+
+
+
+o ISOSORBIDE MONONITRATE (SR) (IMDUR )  60 MG PO  QD    Last Dose Given:  10/24/96 at 08:00 am 
+
+
+
+o GABAPENTIN (NEURONTIN )  100 MG PO  QHS   
+
+
+
+All: benzocaine spray -> methgbemia
+
+
+
+ROS: no neuro changes, weakness, slurred speech, etc
+
+no cough, SOB
+
+no chest pain, DOE
+
+has been seen for penile d/c by Dr Regan, who did not think he had any active lower urinary infection
+
+no diarrhea, vomiting
+
+
+
+PE: 97.1   129/51   58  18  99ra
+
+comfortable, NAD
+
+Abd soft, NT, ND, well-healed midline incis with small dark scab, no fluctuance, no erythema, no discahrge
+
+urostomy clean, pink; ostomy pink, viable, thin tan stool, guiaic neg
+
+
+
+Labs: 
+
+WBC                              15.3             H        (4.5-11.0)     th/cmm
+
+HCT                              26.2             L        (41.0-53.0)    %
+
+PLT                              375              H        (150-350)      th/cumm
+
+Poly                             87               H        (40-70)        %
+
+
+
+Sodium (Stat Lab)                128              L        (135-145)      mmol/L
+
+Potassium (Stat Lab)             5.0              H        (3.4-4.8)      mmol/L
+
+Chloride (Stat Lab)              110              H        (100-108)      mmol/L
+
+CO2 (Stat Lab)                   13.8             L        (23.0-31.9)    mmol/L
+
+BUN (Stat Lab)                   148              H        (8-25)         mg/dl
+
+Creatinine (Stat Lab)            3.2              H        (0.6-1.5)      mg/dl
+
+Glucose (Stat Lab)               109                       (70-110)       mg/dl
+
+LFTs, amylase, lipase, Lactic Acid all normal
+
+
+
+Arterial pH                      7.27             L        (7.35-7.45)
+
+Arterial PCO2                    23               L        (35-42)        mm/Hg
+
+Arterial PO2                     113              H        (80-100)       mm/Hg
+
+Osmolality                       324              H        (280-296)      mOsm/kg
+
+
+
+Urine Sodium                     28                        (NOTDEF)       mmol/L
+
+Urine Creatinine                 0.39                                     mg/ml
+
+FENA 1.73%
+
+
+
+UA-SED-RBC                       5-10                      (0-2)          /hpf
+
+UA-SED-WBC                       20-50                     (0-2)          /hpf
+
+UA-SED-Bacteria                  Moderate                  (NEG)          /hpf
+
+
+
+CXR: clear lungs
+
+CT (I-O+): mild R and moderate L hydro, mild perinephric fat stranding R>L, no abnormal pelvic fluid collections, no bowel thickening or abscess, some thickened distal sigmoid colon
+
+
+
+A/P:  75yr man s/p sig colostomy for diversion, s/p IR drainage of postop collection, now with FTT, acute renal failure with FENA>1% and possible UTI, non-gap metabolic acidodis
+
+--Check C-dif
+
+--UTI Rx, directed towards the gram negatives he has grown in the past
+
+--Agree with transfusion given CAD hx
+
+--Routine ostomy care, ostomy nurse consult for any ostomy related questions. The ostomy itself appears very healthy, so I doubt the thickening represents hypoperfusion to the distal bowel
+
+--Please contact BCH Surgical Service with any questions
+
+
+
+
+
+______________________________                              
+
+Earl N. Morrow, M.D.
+
+
+

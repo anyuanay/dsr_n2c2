@@ -1,0 +1,169 @@
+T1	Disposition 781 792	barbiturate
+E1	Disposition:T1 
+T2	Disposition 797 803	Ativan
+E2	Disposition:T2 
+T3	Disposition 2216 2225	lorazepam
+E3	Disposition:T3 
+T4	Disposition 2227 2236	klonzepam
+E4	Disposition:T4 
+T5	Disposition 2695 2703	Tramadol
+E5	Disposition:T5 
+T7	Disposition 2930 2940	prednisone
+E7	Disposition:T7 
+T9	NoDisposition 3235 3245	Prednisone
+E9	NoDisposition:T9 
+T10	NoDisposition 3845 3853	steroids
+E10	NoDisposition:T10 
+T11	NoDisposition 3870 3880	Prednisone
+E11	NoDisposition:T11 
+T12	NoDisposition 3914 3921	Effexor
+E12	NoDisposition:T12 
+T13	NoDisposition 4272 4275	ASA
+E13	NoDisposition:T13 
+T16	NoDisposition 4346 4355	Metformin
+E16	NoDisposition:T16 
+T17	NoDisposition 4429 4437	Accupril
+E17	NoDisposition:T17 
+T18	NoDisposition 4521 4531	Clonazepam
+E18	NoDisposition:T18 
+T19	NoDisposition 4559 4566	Lipitor
+E19	NoDisposition:T19 
+T21	Disposition 4644 4653	Cortisone
+E21	Disposition:T21 
+T22	Disposition 4918 4927	Detrol LA
+E22	Disposition:T22 
+T23	NoDisposition 4991 5004	Levothyroxine
+E23	NoDisposition:T23 
+T24	NoDisposition 5107 5117	Clonazepam
+E24	NoDisposition:T24 
+T25	Disposition 5274 5284	Teslactone
+E25	Disposition:T25 
+T26	Disposition 5306 5314	Arimidex
+E26	Disposition:T26 
+T27	NoDisposition 5410 5418	Arimidex
+E27	NoDisposition:T27 
+T28	NoDisposition 5501 5508	Sotalol
+E28	NoDisposition:T28 
+T29	NoDisposition 5591 5594	MVI
+E29	NoDisposition:T29 
+T30	NoDisposition 5596 5601	Vit C
+E30	NoDisposition:T30 
+T31	NoDisposition 5623 5635	levothyroxin
+E31	NoDisposition:T31 
+T32	NoDisposition 5646 5654	accupril
+E32	NoDisposition:T32 
+T34	NoDisposition 5695 5705	clonazepam
+E34	NoDisposition:T34 
+T35	NoDisposition 5721 5724	ASA
+E35	NoDisposition:T35 
+T36	NoDisposition 5738 5751	acetaminophen
+E36	NoDisposition:T36 
+T37	Disposition 5776 5789	Tramadol/acet
+E37	Disposition:T37 
+T40	NoDisposition 7694 7704	prednisone
+E40	NoDisposition:T40 
+T41	Disposition 8663 8667	ACEI
+E41	Disposition:T41 
+A1	Certainty E5 Certain
+A2	Actor E5 Physician
+A3	Action E5 Start
+A4	Temporality E5 Past
+A5	Certainty E1 Certain
+A6	Actor E1 Physician
+A7	Action E1 Start
+A8	Temporality E1 Past
+A9	Certainty E2 Certain
+A10	Actor E2 Physician
+A11	Action E2 Start
+A12	Temporality E2 Past
+A13	Certainty E7 Certain
+A14	Actor E7 Physician
+A15	Action E7 Start
+A16	Temporality E7 Past
+T33	NoDisposition 3905 3912	Lexapro
+E33	NoDisposition:T33 
+T42	NoDisposition 3923 3931	Depakote
+E42	NoDisposition:T42 
+T43	NoDisposition 3933 3939	Prozac
+E43	NoDisposition:T43 
+A17	Certainty E22 Certain
+A18	Actor E22 Unknown
+A19	Action E22 Stop
+A20	Temporality E22 Past
+T44	NoDisposition 5093 5101	Lamictal
+E44	NoDisposition:T44 
+A21	Certainty E25 Certain
+A22	Actor E25 Physician
+A23	Action E25 Start
+A24	Temporality E25 Past
+T45	Disposition 5274 5284	Teslactone
+E45	Disposition:T45 
+A25	Certainty E45 Certain
+A26	Actor E45 Physician
+A27	Action E45 Stop
+A28	Temporality E45 Past
+A29	Certainty E26 Certain
+A30	Actor E26 Physician
+A31	Action E26 Start
+A32	Temporality E26 Past
+T46	NoDisposition 5603 5611	lamictal
+E46	NoDisposition:T46 
+T47	NoDisposition 5613 5621	arimidex
+E47	NoDisposition:T47 
+T48	NoDisposition 5637 5644	sotalol
+E48	NoDisposition:T48 
+T49	NoDisposition 5656 5663	lipitor
+E49	NoDisposition:T49 
+T50	NoDisposition 5665 5674	metformin
+E50	NoDisposition:T50 
+T51	Disposition 5684 5693	detrol LA
+E51	Disposition:T51 
+A33	Certainty E51 Certain
+A34	Actor E51 Unknown
+A35	Action E51 Stop
+A36	Temporality E51 Past
+A37	Certainty E37 Certain
+A38	Actor E37 Unknown
+A39	Action E37 Stop
+A40	Temporality E37 Past
+T52	NoDisposition 5835 5838	pcn
+E52	NoDisposition:T52 
+T53	NoDisposition 7706 7721	antidepressants
+E53	NoDisposition:T53 
+T54	Disposition 8542 8550	orlistat
+E54	Disposition:T54 
+A45	Certainty E54 Hypothetical
+A46	Actor E54 Physician
+A47	Action E54 Start
+A48	Temporality E54 Future
+A49	Certainty E41 Hypothetical
+A50	Actor E41 Physician
+A51	Action E41 Increase
+A52	Temporality E41 Present
+A53	Certainty E3 Certain
+A54	Actor E3 Physician
+A55	Action E3 Start
+A56	Temporality E3 Past
+A57	Certainty E4 Certain
+A58	Actor E4 Physician
+A59	Action E4 Start
+A60	Temporality E4 Past
+A61	Certainty E21 Certain
+A62	Actor E21 Physician
+A63	Action E21 UniqueDose
+A64	Temporality E21 Past
+A65	Negation E22 NotNegated
+A66	Negation E45 NotNegated
+A67	Negation E37 NotNegated
+A68	Negation E51 NotNegated
+A69	Negation E3 NotNegated
+A70	Negation E4 NotNegated
+A71	Negation E54 NotNegated
+A72	Negation E2 NotNegated
+A73	Negation E41 NotNegated
+A74	Negation E26 NotNegated
+A75	Negation E21 NotNegated
+A76	Negation E1 NotNegated
+A77	Negation E5 NotNegated
+A78	Negation E25 NotNegated
+A79	Negation E7 NotNegated

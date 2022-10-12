@@ -1,0 +1,4 @@
+T2	NoDisposition 703 710	Lipitor
+E2	NoDisposition:T2 
+T3	NoDisposition 2090 2099	Synthroid
+E3	NoDisposition:T3 

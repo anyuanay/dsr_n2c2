@@ -1,0 +1,105 @@
+T3	NoDisposition 1257 1266	Trazodone
+E3	NoDisposition:T3 
+T4	NoDisposition 1317 1325	Naprosyn
+E4	NoDisposition:T4 
+T5	NoDisposition 1376 1384	Polytrim
+E5	NoDisposition:T5 
+T8	NoDisposition 1564 1571	Lipitor
+E8	NoDisposition:T8 
+T9	NoDisposition 1586 1596	Zestoretic
+E9	NoDisposition:T9 
+T10	NoDisposition 1740 1748	Clarinex
+E10	NoDisposition:T10 
+T13	NoDisposition 1890 1898	Atenolol
+E13	NoDisposition:T13 
+T14	NoDisposition 1934 1946	Flucoconzole
+E14	NoDisposition:T14 
+T15	NoDisposition 1969 1977	Lotrimin
+E15	NoDisposition:T15 
+T19	NoDisposition 5563 5566	ASA
+E19	NoDisposition:T19 
+T20	NoDisposition 5568 5574	statin
+E20	NoDisposition:T20 
+T21	Undetermined 5739 5742	ASA
+E21	Undetermined:T21 
+T22	Undetermined 6004 6012	Atenolol
+E22	Undetermined:T22 
+T24	Disposition 6082 6090	Atenolol
+E24	Disposition:T24 
+T25	Undetermined 6119 6126	Lipitor
+E25	Undetermined:T25 
+T26	Undetermined 6203 6206	ASA
+E26	Undetermined:T26 
+T27	Undetermined 6262 6268	Celexa
+E27	Undetermined:T27 
+T28	NoDisposition 6301 6310	albuterol
+E28	NoDisposition:T28 
+T30	NoDisposition 1038 1051	Humulin 70/30
+E30	NoDisposition:T30 
+T31	NoDisposition 1076 1097	Insulin REGULAR HUMAN
+E31	NoDisposition:T31 
+T32	NoDisposition 1193 1201	Protonix
+E32	NoDisposition:T32 
+T33	NoDisposition 1203 1215	PANTOPRAZOLE
+E33	NoDisposition:T33 
+T34	NoDisposition 1327 1335	NAPROXEN
+E34	NoDisposition:T34 
+T35	NoDisposition 1386 1418	TRIMETHOPRIM/POLYMYXIN B SULFATE
+E35	NoDisposition:T35 
+T36	NoDisposition 1446 1455	Proventil
+E36	NoDisposition:T36 
+T37	NoDisposition 1507 1515	Azmacort
+E37	NoDisposition:T37 
+T38	NoDisposition 1537 1547	Glucophage
+E38	NoDisposition:T38 
+T39	NoDisposition 1598 1628	LISINOPRIL/HYDROCHLOROTHIAZIDE
+E39	NoDisposition:T39 
+T40	NoDisposition 1668 1673	Ecasa
+E40	NoDisposition:T40 
+T41	NoDisposition 1675 1682	ASPIRIN
+E41	NoDisposition:T41 
+T42	NoDisposition 1750 1763	DESLORATADINE
+E42	NoDisposition:T42 
+T43	NoDisposition 1801 1807	Plavix
+E43	NoDisposition:T43 
+T44	NoDisposition 1809 1820	CLOPIDOGREL
+E44	NoDisposition:T44 
+T45	NoDisposition 1836 1841	Paxil
+E45	NoDisposition:T45 
+T46	NoDisposition 1843 1853	PAROXETINE
+E46	NoDisposition:T46 
+T47	NoDisposition 1988 2000	CLOTRIMAZOLE
+E47	NoDisposition:T47 
+T48	NoDisposition 2095 2100	HUMAN
+E48	NoDisposition:T48 
+T49	NoDisposition 2080 2093	Insulin 70/30
+E49	NoDisposition:T49 
+T50	Disposition 5400 5413	Humulin 70/30
+E50	Disposition:T50 
+A1	Certainty E50 Certain
+A2	Actor E50 Unknown
+A3	Action E50 Stop
+A4	Temporality E50 Past
+T51	Undetermined 5536 5546	glucophage
+E51	Undetermined:T51 
+T52	NoDisposition 6021 6031	Zestoretic
+E52	NoDisposition:T52 
+A5	Certainty E24 Hypothetical
+A6	Actor E24 Physician
+A7	Action E24 Increase
+A8	Temporality E24 Future
+T53	NoDisposition 6315 6325	asthmacort
+E53	NoDisposition:T53 
+T54	NoDisposition 6345 6353	Protonix
+E54	NoDisposition:T54 
+T55	Undetermined 6407 6415	Diflucan
+E55	Undetermined:T55 
+T1	Disposition 5509 5516	insulin
+E1	Disposition:T1 
+A9	Certainty E1 Certain
+A10	Actor E1 Physician
+A11	Action E1 Unknown
+A12	Temporality E1 Present
+A13	Negation E24 NotNegated
+A14	Negation E50 NotNegated
+A15	Negation E1 NotNegated

@@ -1,0 +1,36 @@
+T1	NoDisposition 1133 1137	ATRA
+E1	NoDisposition:T1 
+T2	NoDisposition 1142 1152	idarubicin
+E2	NoDisposition:T2 
+T3	NoDisposition 1218 1228	idarubicin
+E3	NoDisposition:T3 
+T4	NoDisposition 1233 1237	ATRA
+E4	NoDisposition:T4 
+T5	NoDisposition 1477 1484	Zestril
+E5	NoDisposition:T5 
+T6	Undetermined 4680 4685	Vanco
+E6	Undetermined:T6 
+T7	NoDisposition 4817 4830	hypoglycemics
+E7	NoDisposition:T7 
+T8	NoDisposition 4878 4880	BB
+E8	NoDisposition:T8 
+T9	NoDisposition 4885 4888	ACE
+E9	NoDisposition:T9 
+T10	NoDisposition 4897 4906	lopressor
+E10	NoDisposition:T10 
+T11	NoDisposition 4911 4918	zestril
+E11	NoDisposition:T11 
+T12	NoDisposition 4987 4996	synthroid
+E12	NoDisposition:T12 
+T14	NoDisposition 4839 4849	glucophage
+E14	NoDisposition:T14 
+T15	Undetermined 4667 4675	Cefepime
+E15	Undetermined:T15 
+T16	NoDisposition 1459 1468	Synthroid
+E16	NoDisposition:T16 
+T17	NoDisposition 1493 1502	Lopressor
+E17	NoDisposition:T17 
+T18	NoDisposition 1512 1522	Glucophage
+E18	NoDisposition:T18 
+T13	NoDisposition 4421 4433	chemotherapy
+E13	NoDisposition:T13 

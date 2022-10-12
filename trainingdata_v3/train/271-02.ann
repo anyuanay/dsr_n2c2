@@ -1,0 +1,29 @@
+T1	NoDisposition 648 658	ampicillin
+E1	NoDisposition:T1 
+T2	NoDisposition 771 782	antibiotics
+E2	NoDisposition:T2 
+T3	Disposition 1869 1875	Keflex
+E3	Disposition:T3 
+T4	NoDisposition 2303 2313	gadolinium
+E4	NoDisposition:T4 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 Start
+A4	Temporality E3 Present
+T5	Disposition 1869 1875	Keflex
+E5	Disposition:T5 
+A5	Certainty E5 Certain
+A6	Actor E5 Physician
+A7	Action E5 Stop
+A8	Temporality E5 Future
+T6	NoDisposition 790 800	gadolinium
+E6	NoDisposition:T6 
+T7	Disposition 2080 2105	hyperbaric oxygen therapy
+E7	Disposition:T7 
+A9	Certainty E7 Hypothetical
+A10	Actor E7 Physician
+A11	Action E7 Start
+A12	Temporality E7 Future
+A13	Negation E3 NotNegated
+A14	Negation E5 NotNegated
+A15	Negation E7 NotNegated

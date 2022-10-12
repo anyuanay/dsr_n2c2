@@ -1,0 +1,42 @@
+T2	NoDisposition 661 667	Diovan
+E2	NoDisposition:T2 
+T3	NoDisposition 678 682	ACEI
+E3	NoDisposition:T3 
+T4	NoDisposition 688 695	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 803 809	Reglan
+E5	NoDisposition:T5 
+T10	NoDisposition 2479 2496	Insulin Nph Human
+E10	NoDisposition:T10 
+T12	NoDisposition 2539 2544	Actos
+E12	NoDisposition:T12 
+T13	NoDisposition 2559 2566	Lipitor
+E13	NoDisposition:T13 
+T14	NoDisposition 2568 2580	ATORVASTATIN
+E14	NoDisposition:T14 
+T15	NoDisposition 2693 2713	ACETYLSALICYLIC ACID
+E15	NoDisposition:T15 
+T16	NoDisposition 2752 2759	Norvasc
+E16	NoDisposition:T16 
+T17	NoDisposition 2761 2771	AMLODIPINE
+E17	NoDisposition:T17 
+T19	NoDisposition 2874 2881	insulin
+E19	NoDisposition:T19 
+T20	NoDisposition 2920 2928	Atenolol
+E20	NoDisposition:T20 
+T22	NoDisposition 2405 2411	Diovan
+E22	NoDisposition:T22 
+T23	NoDisposition 2413 2422	VALSARTAN
+E23	NoDisposition:T23 
+T24	NoDisposition 2438 2444	Reglan
+E24	NoDisposition:T24 
+T25	NoDisposition 2446 2464	METOCLOPRAMIDE Hcl
+E25	NoDisposition:T25 
+T26	NoDisposition 2514 2524	Folic Acid
+E26	NoDisposition:T26 
+T27	NoDisposition 2620 2624	Hctz
+E27	NoDisposition:T27 
+T28	NoDisposition 2626 2645	HYDROCHLOROTHIAZIDE
+E28	NoDisposition:T28 
+T29	NoDisposition 2688 2691	Asa
+E29	NoDisposition:T29 

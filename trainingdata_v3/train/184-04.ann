@@ -1,0 +1,118 @@
+T1	Disposition 954 960	Plavix
+E1	Disposition:T1 
+T2	Disposition 1196 1199	ASA
+E2	Disposition:T2 
+T3	Disposition 1219 1225	Plavix
+E3	Disposition:T3 
+T4	Disposition 1300 1308	Warfarin
+E4	Disposition:T4 
+T5	NoDisposition 1741 1744	ASA
+E5	NoDisposition:T5 
+T6	NoDisposition 1759 1769	Folic acid
+E6	NoDisposition:T6 
+T7	NoDisposition 1783 1794	Gemfibrozil
+E7	NoDisposition:T7 
+T8	NoDisposition 1808 1822	Insulin lantus
+E8	NoDisposition:T8 
+T9	NoDisposition 1834 1841	Lipitor
+E9	NoDisposition:T9 
+T10	NoDisposition 1854 1868	Insulin Lispro
+E10	NoDisposition:T10 
+T11	NoDisposition 1879 1889	Nephrocaps
+E11	NoDisposition:T11 
+T12	NoDisposition 1904 1917	Nifedipine ER
+E12	NoDisposition:T12 
+T13	NoDisposition 1953 1961	Protonix
+E13	NoDisposition:T13 
+T14	NoDisposition 2005 2011	Viagra
+E14	NoDisposition:T14 
+T15	NoDisposition 2025 2030	Zetia
+E15	NoDisposition:T15 
+T16	NoDisposition 2045 2054	Toprol XL
+E16	NoDisposition:T16 
+T18	NoDisposition 2096 2110	Cephalosporins
+E18	NoDisposition:T18 
+T19	Undetermined 4109 4112	ASA
+E19	Undetermined:T19 
+T20	Undetermined 4114 4120	Plavix
+E20	Undetermined:T20 
+T21	Undetermined 4122 4128	statin
+E21	Undetermined:T21 
+T22	Undetermined 4130 4132	BB
+E22	Undetermined:T22 
+T23	Disposition 4163 4167	ACEi
+E23	Disposition:T23 
+T24	Undetermined 4380 4386	Lantus
+E24	Undetermined:T24 
+T25	Undetermined 4399 4405	Aspart
+E25	Undetermined:T25 
+T26	NoDisposition 4465 4475	nifedipine
+E26	NoDisposition:T26 
+T27	NoDisposition 4480 4490	metoprolol
+E27	NoDisposition:T27 
+T28	NoDisposition 4543 4550	lipitor
+E28	NoDisposition:T28 
+T29	NoDisposition 4552 4557	zetia
+E29	NoDisposition:T29 
+T30	NoDisposition 4666 4672	Plavix
+E30	NoDisposition:T30 
+T31	Undetermined 4675 4683	percocet
+E31	Undetermined:T31 
+T32	Undetermined 4690 4702	carisoprodol
+E32	Undetermined:T32 
+T34	NoDisposition 4846 4854	Coumadin
+E34	NoDisposition:T34 
+A1	Certainty E1 Hypothetical
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 Start
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+T17	NoDisposition 1932 1938	Phoslo
+E17	NoDisposition:T17 
+T35	NoDisposition 1976 1980	Soma
+E35	NoDisposition:T35 
+T36	NoDisposition 2069 2077	Warfarin
+E36	NoDisposition:T36 
+T37	NoDisposition 2087 2094	Codeine
+E37	NoDisposition:T37 
+T38	NoDisposition 2112 2123	Simvastatin
+E38	NoDisposition:T38 
+A17	Certainty E23 Hypothetical
+A18	Actor E23 Physician
+A19	Action E23 Start
+A20	Temporality E23 Present
+T39	Undetermined 4417 4423	Aspart
+E39	Undetermined:T39 
+T40	NoDisposition 4559 4571	gemofibrozil
+E40	NoDisposition:T40 
+T41	Disposition 4733 4741	Coumadin
+E41	Disposition:T41 
+A21	Certainty E41 Certain
+A22	Actor E41 Physician
+A23	Action E41 UniqueDose
+A24	Temporality E41 Past
+T42	Undetermined 4906 4914	coumadin
+E42	Undetermined:T42 
+T43	NoDisposition 3738 3750	dipyridamole
+E43	NoDisposition:T43 
+T44	NoDisposition 4315 4321	phoslo
+E44	NoDisposition:T44 
+T45	NoDisposition 4323 4333	nephrocaps
+E45	NoDisposition:T45 
+A25	Negation E3 NotNegated
+A26	Negation E4 NotNegated
+A27	Negation E2 NotNegated
+A28	Negation E41 NotNegated
+A29	Negation E1 NotNegated
+A30	Negation E23 NotNegated

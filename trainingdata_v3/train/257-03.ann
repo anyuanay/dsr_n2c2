@@ -1,0 +1,10 @@
+T2	NoDisposition 928 935	Norvasc
+E2	NoDisposition:T2 
+T3	NoDisposition 946 955	Toprol-XL
+E3	NoDisposition:T3 
+T4	NoDisposition 966 977	simvastatin
+E4	NoDisposition:T4 
+T5	NoDisposition 985 992	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 1001 1010	Plaquenil
+E6	NoDisposition:T6 

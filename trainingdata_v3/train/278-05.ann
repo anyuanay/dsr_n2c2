@@ -1,0 +1,72 @@
+T1	NoDisposition 353 362	glipizide
+E1	NoDisposition:T1 
+T4	NoDisposition 1255 1268	amitriptylene
+E4	NoDisposition:T4 
+T5	NoDisposition 1452 1465	Nitroglycerin
+E5	NoDisposition:T5 
+T6	NoDisposition 1518 1537	Metoprolol Tartrate
+E6	NoDisposition:T6 
+T7	NoDisposition 1593 1605	ATORVASTATIN
+E7	NoDisposition:T7 
+T14	NoDisposition 1975 1984	OXYCODONE
+E14	NoDisposition:T14 
+T15	NoDisposition 2076 2085	narcotics
+E15	NoDisposition:T15 
+T18	NoDisposition 3684 3691	Lipitor
+E18	NoDisposition:T18 
+T19	NoDisposition 3865 3868	ASA
+E19	NoDisposition:T19 
+T11	Disposition 3492 3501	metformin
+E11	Disposition:T11 
+A1	Certainty E11 Certain
+A2	Actor E11 Physician
+A3	Action E11 Start
+A4	Temporality E11 Present
+T20	Disposition 3492 3501	metformin
+E20	Disposition:T20 
+A5	Certainty E20 Conditional
+A6	Actor E20 Physician
+A7	Action E20 Increase
+A8	Temporality E20 Future
+T21	Disposition 3594 3603	glipizide
+E21	Disposition:T21 
+A9	Certainty E21 Conditional
+A10	Actor E21 Physician
+A11	Action E21 Stop
+A12	Temporality E21 Future
+T22	Disposition 3458 3467	glipizide
+E22	Disposition:T22 
+A13	Certainty E22 Certain
+A14	Actor E22 Physician
+A15	Action E22 Increase
+A16	Temporality E22 Present
+T23	NoDisposition 1323 1332	GLIPIZIDE
+E23	NoDisposition:T23 
+T24	NoDisposition 1388 1398	LISINOPRIL
+E24	NoDisposition:T24 
+T25	NoDisposition 1660 1663	Asa
+E25	NoDisposition:T25 
+T26	NoDisposition 1665 1685	ACETYLSALICYLIC Acid
+E26	NoDisposition:T26 
+T27	NoDisposition 1732 1740	Muro 128
+E27	NoDisposition:T27 
+T28	NoDisposition 1765 1782	Amitriptyline Hcl
+E28	NoDisposition:T28 
+T29	NoDisposition 1838 1841	Mvi
+E29	NoDisposition:T29 
+T30	NoDisposition 1843 1856	MULTIVITAMINS
+E30	NoDisposition:T30 
+T31	NoDisposition 1880 1892	Caltrate + D
+E31	NoDisposition:T31 
+T32	NoDisposition 2094 2100	Colace
+E32	NoDisposition:T32 
+T33	NoDisposition 2102 2117	DOCUSATE Sodium
+E33	NoDisposition:T33 
+T34	NoDisposition 2187 2200	ACETAMINOPHEN
+E34	NoDisposition:T34 
+T35	NoDisposition 1894 1950	CALCIUM Carbonate 1500 Mg (600 Mg Elem Ca)/ Vit D 200 Iu
+E35	NoDisposition:T35 
+A17	Negation E22 NotNegated
+A18	Negation E11 NotNegated
+A19	Negation E21 NotNegated
+A20	Negation E20 NotNegated

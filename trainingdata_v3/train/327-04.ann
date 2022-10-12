@@ -1,0 +1,39 @@
+T2	NoDisposition 498 506	Atenolol
+E2	NoDisposition:T2 
+T3	NoDisposition 522 532	Lisinopril
+E3	NoDisposition:T3 
+T4	NoDisposition 568 577	Pravachol
+E4	NoDisposition:T4 
+T7	NoDisposition 795 806	Allopurinol
+E7	NoDisposition:T7 
+T10	Disposition 3710 3717	Meridia
+E10	Disposition:T10 
+T11	NoDisposition 3825 3836	NPH insulin
+E11	NoDisposition:T11 
+T12	NoDisposition 3969 3980	allopurinol
+E12	NoDisposition:T12 
+T14	NoDisposition 365 371	Elavil
+E14	NoDisposition:T14 
+T15	NoDisposition 373 390	AMITRIPTYLINE HCL
+E15	NoDisposition:T15 
+T16	NoDisposition 430 435	Ecasa
+E16	NoDisposition:T16 
+T17	NoDisposition 437 444	ASPIRIN
+E17	NoDisposition:T17 
+T18	NoDisposition 579 590	PRAVASTATIN
+E18	NoDisposition:T18 
+T19	NoDisposition 630 636	Lantus
+E19	NoDisposition:T19 
+T20	NoDisposition 638 654	INSULIN GLARGINE
+E20	NoDisposition:T20 
+T21	NoDisposition 674 682	Golytely
+E21	NoDisposition:T21 
+T22	NoDisposition 739 745	Plavix
+E22	NoDisposition:T22 
+T23	NoDisposition 747 758	CLOPIDOGREL
+E23	NoDisposition:T23 
+A1	Certainty E10 Certain
+A2	Actor E10 Physician
+A3	Action E10 Start
+A4	Temporality E10 Present
+A5	Negation E10 NotNegated

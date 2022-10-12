@@ -1,0 +1,8 @@
+T1	NoDisposition 821 827	Prozac
+E1	NoDisposition:T1 
+T2	NoDisposition 829 837	Cardizem
+E2	NoDisposition:T2 
+T3	NoDisposition 854 860	Amaryl
+E3	NoDisposition:T3 
+T4	NoDisposition 839 849	Glucophage
+E4	NoDisposition:T4 

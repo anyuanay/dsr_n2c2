@@ -1,0 +1,29 @@
+T1	NoDisposition 818 828	Lisinopril
+E1	NoDisposition:T1 
+T2	NoDisposition 830 839	metformin
+E2	NoDisposition:T2 
+T3	NoDisposition 841 852	simvastatin
+E3	NoDisposition:T3 
+T4	NoDisposition 854 863	Glyburide
+E4	NoDisposition:T4 
+T5	Disposition 897 910	metronidazole
+E5	Disposition:T5 
+T6	Disposition 1144 1154	lisinopril
+E6	Disposition:T6 
+A1	Certainty E5 Certain
+A2	Actor E5 Patient
+A3	Action E5 Stop
+A4	Temporality E5 Past
+A5	Certainty E6 Certain
+A6	Actor E6 Unknown
+A7	Action E6 Stop
+A8	Temporality E6 Past
+T9	Disposition 1723 1728	lidex
+E9	Disposition:T9 
+A9	Certainty E9 Certain
+A10	Actor E9 Physician
+A11	Action E9 Start
+A12	Temporality E9 Present
+A13	Negation E9 NotNegated
+A14	Negation E6 NotNegated
+A15	Negation E5 NotNegated

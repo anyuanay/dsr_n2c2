@@ -1,0 +1,4 @@
+T1	NoDisposition 1099 1106	aspirin
+E1	NoDisposition:T1 
+T5	NoDisposition 1123 1136	penicillin VK
+E5	NoDisposition:T5 

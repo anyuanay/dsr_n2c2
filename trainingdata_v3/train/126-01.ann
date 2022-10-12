@@ -1,0 +1,138 @@
+T1	NoDisposition 392 399	Insulin
+E1	NoDisposition:T1 
+T2	Disposition 618 626	Fentanyl
+E2	Disposition:T43 
+T3	NoDisposition 2039 2041	NS
+E3	NoDisposition:T3 
+T4	NoDisposition 2044 2055	Kayexcelate
+E4	NoDisposition:T4 
+T5	NoDisposition 2066 2069	ASA
+E5	NoDisposition:T5 
+T6	NoDisposition 2078 2085	Norvasc
+E6	NoDisposition:T6 
+T7	NoDisposition 2095 2101	Nexium
+E7	NoDisposition:T7 
+T8	NoDisposition 2112 2118	Toprol
+E8	NoDisposition:T8 
+T9	NoDisposition 2130 2139	Lopressor
+E9	NoDisposition:T9 
+T10	NoDisposition 2149 2165	Morphine sulfate
+E10	NoDisposition:T10 
+T12	NoDisposition 2348 2355	Insulin
+E12	NoDisposition:T12 
+T13	NoDisposition 2885 2889	HCTZ
+E13	NoDisposition:T13 
+T14	NoDisposition 2902 2912	Lisinopril
+E14	NoDisposition:T14 
+T15	NoDisposition 2925 2934	Toprol XL
+E15	NoDisposition:T15 
+T16	NoDisposition 2948 2955	Norvasc
+E16	NoDisposition:T16 
+T17	NoDisposition 2968 2977	Neurontin
+E17	NoDisposition:T17 
+T19	NoDisposition 3013 3020	Insulin
+E19	NoDisposition:T19 
+T20	Disposition 3050 3057	Insulin
+E20	Disposition:T20 
+T21	NoDisposition 8356 8362	opioid
+E21	NoDisposition:T21 
+T22	NoDisposition 8937 8943	NSAIDs
+E22	NoDisposition:T22 
+T23	Disposition 9190 9195	Lasix
+E23	Disposition:T23 
+T25	Undetermined 9230 9250	Isosorbide dinitrate
+E25	Undetermined:T25 
+T26	Disposition 9270 9280	Lisinopril
+E26	Disposition:T26 
+T27	NoDisposition 9292 9294	O2
+E27	NoDisposition:T27 
+T28	Disposition 9418 9424	statin
+E28	Disposition:T28 
+T30	Disposition 9628 9638	Lisinopril
+E30	Disposition:T30 
+T32	Undetermined 9957 9966	Toprol XL
+E32	Undetermined:T32 
+T33	Undetermined 9977 9984	Norvasc
+E33	Undetermined:T33 
+T34	Disposition 9999 10010	Hydralazine
+E34	Disposition:T34 
+T35	Disposition 10021 10041	Isosorbide dinitrate
+E35	Disposition:T35 
+T37	NoDisposition 10121 10127	Opioid
+E37	NoDisposition:T37 
+T39	Undetermined 10218 10225	insulin
+E39	Undetermined:T39 
+T41	NoDisposition 10301 10308	Insulin
+E41	NoDisposition:T41 
+A1	Certainty E2 Certain
+A2	Actor E2 Patient
+A3	Action E2 Stop
+A4	Temporality E2 Past
+E43	Disposition:T53 
+A5	Certainty E43 Certain
+A6	Negation E43 Negated
+A7	Actor E43 Physician
+A8	Action E43 Decrease
+A9	Temporality E43 Past
+T44	NoDisposition 2850 2856	Reglan
+E44	NoDisposition:T44 
+A12	Certainty E20 Certain
+A13	Actor E20 Unknown
+A15	Action E20 Stop
+A16	Temporality E20 Past
+T45	NoDisposition 8922 8932	lisinopril
+E45	NoDisposition:T45 
+A22	Certainty E26 Certain
+A23	Actor E26 Physician
+A24	Action E26 Stop
+A25	Temporality E26 Present
+A26	Certainty E28 Hypothetical
+A27	Actor E28 Physician
+A28	Action E28 Start
+A29	Temporality E28 Present
+A30	Certainty E30 Certain
+A31	Actor E30 Physician
+A32	Action E30 Stop
+A33	Temporality E30 Present
+A38	Certainty E34 Certain
+A39	Actor E34 Physician
+A40	Action E34 Start
+A41	Temporality E34 Present
+A42	Certainty E35 Certain
+A43	Actor E35 Physician
+A44	Action E35 Start
+A45	Temporality E35 Present
+A17	Certainty E23 Certain
+A18	Actor E23 Physician
+A19	Action E23 UniqueDose
+A20	Temporality E23 Present
+T46	Undetermined 10331 10337	Nexium
+E46	Undetermined:T46 
+T47	NoDisposition 2991 2999	Protonix
+E47	NoDisposition:T47 
+T48	Undetermined 9207 9218	Hydralazine
+E48	Undetermined:T48 
+T49	Undetermined 9646 9655	Neurontin
+E49	Undetermined:T49 
+T50	Undetermined 10159 10167	Morphine
+E50	Undetermined:T50 
+T51	Undetermined 10347 10354	Heparin
+E51	Undetermined:T51 
+T52	NoDisposition 2175 2179	MSO4
+E52	NoDisposition:T52 
+E53	Disposition:T2 
+A75	Certainty E53 Certain
+A76	Actor E53 Physician
+A77	Action E53 Decrease
+A78	Temporality E53 Past
+T53	Disposition 618 626	Fentanyl
+T43	Disposition 618 626	Fentanyl
+A79	Negation E53 NotNegated
+A80	Negation E34 NotNegated
+A81	Negation E35 NotNegated
+A82	Negation E20 NotNegated
+A83	Negation E2 NotNegated
+A84	Negation E26 NotNegated
+A85	Negation E28 NotNegated
+A86	Negation E23 NotNegated
+A87	Negation E30 NotNegated

@@ -1,0 +1,97 @@
+T1	Disposition 405 410	lasix
+E1	Disposition:T1 
+T2	NoDisposition 1227 1232	cipro
+E2	NoDisposition:T2 
+T3	NoDisposition 1246 1251	vanco
+E3	NoDisposition:T3 
+T4	NoDisposition 1271 1280	quinolone
+E4	NoDisposition:T4 
+T7	NoDisposition 1344 1352	Cellcept
+E7	NoDisposition:T7 
+T8	NoDisposition 1368 1374	Diovan
+E8	NoDisposition:T8 
+T10	NoDisposition 1420 1437	ferrous gluconate
+E10	NoDisposition:T10 
+T12	NoDisposition 1466 1489	metformin hydrochloride
+E12	NoDisposition:T12 
+T15	NoDisposition 1575 1582	Prograf
+E15	NoDisposition:T15 
+T16	NoDisposition 1647 1652	Xanax
+E16	NoDisposition:T16 
+T17	NoDisposition 3261 3269	steroids
+E17	NoDisposition:T17 
+T18	Undetermined 3396 3401	lasix
+E18	Undetermined:T18 
+T19	NoDisposition 3578 3583	lasix
+E19	NoDisposition:T19 
+T22	NoDisposition 3966 3971	lasix
+E22	NoDisposition:T22 
+T23	NoDisposition 4015 4022	prograf
+E23	NoDisposition:T23 
+T24	NoDisposition 4024 4032	cellcept
+E24	NoDisposition:T24 
+T25	NoDisposition 4034 4044	prednisone
+E25	NoDisposition:T25 
+T26	Undetermined 4181 4187	ativan
+E26	Undetermined:T26 
+T27	Disposition 4224 4233	Labetolol
+E27	Disposition:T27 
+T28	Disposition 4253 4262	labetolol
+E28	Disposition:T28 
+T29	NoDisposition 4378 4391	beta blockade
+E29	NoDisposition:T29 
+T30	Undetermined 4451 4458	Norvasc
+E30	Undetermined:T30 
+T31	NoDisposition 4513 4522	metformin
+E31	NoDisposition:T31 
+T32	NoDisposition 4563 4572	Metformin
+E32	NoDisposition:T32 
+T33	Disposition 4654 4663	metformin
+E33	Disposition:T33 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+T34	NoDisposition 1234 1237	pcn
+E34	NoDisposition:T34 
+T35	NoDisposition 1504 1509	Paxil
+E35	NoDisposition:T35 
+T36	NoDisposition 1594 1612	sodium bicarbonate
+E36	NoDisposition:T36 
+A5	Certainty E33 Certain
+A6	Actor E33 Physician
+A7	Action E33 Stop
+A8	Temporality E33 Present
+A9	Certainty E28 Certain
+A10	Actor E28 Physician
+A11	Action E28 Start
+A12	Temporality E28 Present
+A27	Certainty E27 Certain
+A28	Actor E27 Physician
+A30	Action E27 UniqueDose
+A31	Temporality E27 Present
+T37	NoDisposition 1288 1319	calcium carbonate and vitamin d
+E37	NoDisposition:T37 
+T38	NoDisposition 1391 1398	doxepin
+E38	NoDisposition:T38 
+T39	NoDisposition 1439 1444	Lasix
+E39	NoDisposition:T39 
+T40	NoDisposition 1524 1534	prednisone
+E40	NoDisposition:T40 
+T41	NoDisposition 1550 1558	Prilosec
+E41	NoDisposition:T41 
+T42	NoDisposition 4705 4711	bicarb
+E42	NoDisposition:T42 
+T43	Disposition 4827 4836	Na bicarb
+E43	Disposition:T43 
+A29	Certainty E43 Certain
+A32	Actor E43 Physician
+A33	Action E43 Stop
+A34	Temporality E43 Present
+T5	NoDisposition 3985 3992	prograf
+E5	NoDisposition:T5 
+A35	Negation E33 NotNegated
+A36	Negation E27 NotNegated
+A37	Negation E43 NotNegated
+A38	Negation E1 NotNegated
+A39	Negation E28 NotNegated

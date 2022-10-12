@@ -1,0 +1,18 @@
+T2	NoDisposition 1558 1568	lovastatin
+E2	NoDisposition:T2 
+T3	NoDisposition 1570 1585	fludrocortisone
+E3	NoDisposition:T3 
+T4	NoDisposition 1587 1593	celexa
+E4	NoDisposition:T4 
+T5	NoDisposition 1603 1613	proamatine
+E5	NoDisposition:T5 
+T6	NoDisposition 1615 1621	ultram
+E6	NoDisposition:T6 
+T7	NoDisposition 1623 1630	insulin
+E7	NoDisposition:T7 
+T8	NoDisposition 1632 1638	colace
+E8	NoDisposition:T8 
+T10	NoDisposition 1595 1601	reglan
+E10	NoDisposition:T10 
+T11	NoDisposition 1640 1645	ecasa
+E11	NoDisposition:T11 

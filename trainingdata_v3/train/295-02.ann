@@ -1,0 +1,29 @@
+T1	NoDisposition 1058 1065	Lipitor
+E1	NoDisposition:T1 
+T2	NoDisposition 1073 1078	Zetia
+E2	NoDisposition:T2 
+T3	NoDisposition 1088 1091	ASA
+E3	NoDisposition:T3 
+T4	NoDisposition 1099 1105	Altace
+E4	NoDisposition:T4 
+T5	NoDisposition 1113 1121	Atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 1129 1138	Glyburide
+E6	NoDisposition:T6 
+T7	NoDisposition 1149 1163	Nitrofurantoin
+E7	NoDisposition:T7 
+T10	Undetermined 3352 3359	Heparin
+E10	Undetermined:T10 
+T11	NoDisposition 1172 1180	Taclonex
+E11	NoDisposition:T11 
+T12	NoDisposition 978 981	abx
+E12	NoDisposition:T12 
+T8	Disposition 743 758	anticoagulation
+E8	Disposition:T8 
+A1	Certainty E8 Certain
+A2	Actor E8 Physician
+A3	Action E8 Start
+A4	Temporality E8 Present
+T9	Undetermined 3300 3303	IVF
+E9	Undetermined:T9 
+A5	Negation E8 NotNegated

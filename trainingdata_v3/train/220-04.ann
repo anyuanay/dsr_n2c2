@@ -1,0 +1,71 @@
+T2	Disposition 1782 1789	Lipitor
+E2	Disposition:T2 
+T3	Disposition 1971 1978	Lipitor
+E3	Disposition:T3 
+T4	NoDisposition 2031 2051	ACETYLSALICYLIC ACID
+E4	NoDisposition:T4 
+T5	NoDisposition 2090 2103	Nitroglycerin
+E5	NoDisposition:T5 
+T6	NoDisposition 2143 2150	Norvasc
+E6	NoDisposition:T6 
+T7	NoDisposition 2152 2162	AMLODIPINE
+E7	NoDisposition:T7 
+T8	NoDisposition 2199 2212	Triamcinolone
+E8	NoDisposition:T8 
+T9	NoDisposition 2225 2248	TRIAMCINOLONE ACETONIDE
+E9	NoDisposition:T9 
+T10	NoDisposition 2268 2275	Lipitor
+E10	NoDisposition:T10 
+T11	NoDisposition 2277 2289	ATORVASTATIN
+E11	NoDisposition:T11 
+T12	NoDisposition 2310 2317	Zestril
+E12	NoDisposition:T12 
+T13	NoDisposition 2367 2375	Atenolol
+E13	NoDisposition:T13 
+T14	NoDisposition 2475 2481	Ativan
+E14	NoDisposition:T14 
+T16	NoDisposition 4962 4970	Claritin
+E16	NoDisposition:T16 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Increase
+A4	Temporality E2 Past
+T30	Disposition 1782 1789	Lipitor
+E17	Disposition:T30
+A10	Certainty E3 Conditional
+A11	Actor E3 Physician
+A12	Action E3 Increase
+A13	Temporality E3 Future
+T17	NoDisposition 2026 2029	Asa
+E18	NoDisposition:T17 
+T18	NoDisposition 2319 2329	LISINOPRIL
+E19	NoDisposition:T18 
+T19	NoDisposition 2412 2416	Hctz
+E20	NoDisposition:T19 
+T20	NoDisposition 2418 2437	HYDROCHLOROTHIAZIDE
+E21	NoDisposition:T20 
+T21	NoDisposition 2483 2492	LORAZEPAM
+E22	NoDisposition:T21 
+T22	NoDisposition 2560 2568	CEFACLOR
+E23	NoDisposition:T22 
+T23	Disposition 4540 4547	calcium
+E24	Disposition:T23 
+A14	Certainty E24 Certain
+A15	Actor E24 Physician
+A16	Action E24 Start
+A17	Temporality E24 Present
+T24	Disposition 4982 4989	Flonase
+E25	Disposition:T24 
+A18	Certainty E25 Certain
+A19	Actor E25 Physician
+A20	Action E25 Start
+A21	Temporality E25 Present
+A5	Certainty E17 Certain
+A6	Negation E17 Negated
+A7	Actor E17 Patient
+A8	Action E17 Increase
+A9	Temporality E17 Past
+A22	Negation E3 NotNegated
+A23	Negation E2 NotNegated
+A24	Negation E24 NotNegated
+A25	Negation E25 NotNegated

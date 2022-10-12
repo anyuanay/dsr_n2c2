@@ -1,0 +1,73 @@
+T1	NoDisposition 413 420	steroid
+E1	NoDisposition:T1 
+T2	Disposition 465 471	NSAIDs
+E2	Disposition:T2 
+T3	Disposition 617 626	Metformin
+E3	Disposition:T3 
+T4	NoDisposition 1543 1560	CALCIUM CARBONATE
+E4	NoDisposition:T4 
+T5	NoDisposition 1594 1615	CLOBETASOL PROPIONATE
+E5	NoDisposition:T5 
+T7	NoDisposition 2097 2104	SERZONE
+E7	NoDisposition:T7 
+T8	NoDisposition 2161 2169	VENTOLIN
+E8	NoDisposition:T8 
+T9	NoDisposition 2217 2224	ZYPREXA
+E9	NoDisposition:T9 
+T10	Undetermined 3057 3065	Atenolol
+E10	Undetermined:T10 
+T11	Undetermined 3099 3109	Lisinopril
+E11	Undetermined:T11 
+T12	Undetermined 3166 3175	Metformin
+E12	Undetermined:T12 
+T14	Undetermined 3380 3387	Lipitor
+E14	Undetermined:T14 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Patient
+A7	Action E3 Stop
+A8	Temporality E3 Past
+T15	NoDisposition 1446 1454	ATENOLOL
+E15	NoDisposition:T15 
+T16	NoDisposition 1488 1494	ATIVAN
+E16	NoDisposition:T16 
+T17	NoDisposition 1496 1505	LORAZEPAM
+E17	NoDisposition:T17 
+T18	NoDisposition 1648 1653	ECASA
+E18	NoDisposition:T18 
+T19	NoDisposition 1655 1662	ASPIRIN
+E19	NoDisposition:T19 
+T20	NoDisposition 1724 1733	IBUPROFEN
+E20	NoDisposition:T20 
+T21	NoDisposition 1769 1776	LIPITOR
+E21	NoDisposition:T21 
+T22	NoDisposition 1778 1790	ATORVASTATIN
+E22	NoDisposition:T22 
+T23	NoDisposition 1833 1843	LISINOPRIL
+E23	NoDisposition:T23 
+T24	Disposition 1876 1885	METFORMIN
+E24	Disposition:T24 
+A9	Certainty E24 Certain
+A10	Actor E24 Patient
+A11	Action E24 Stop
+A12	Temporality E24 Past
+T25	NoDisposition 1935 1948	MULTIVITAMINS
+E25	NoDisposition:T25 
+T26	NoDisposition 1969 1977	NASACORT
+E26	NoDisposition:T26 
+T27	NoDisposition 2025 2030	PAXIL
+E27	NoDisposition:T27 
+T28	NoDisposition 2048 2056	PREMARIN
+E28	NoDisposition:T28 
+T29	NoDisposition 2058 2078	CONJUGATED ESTROGENS
+E29	NoDisposition:T29 
+T30	NoDisposition 2106 2116	NEFAZODONE
+E30	NoDisposition:T30 
+T31	NoDisposition 2226 2236	OLANZAPINE
+E31	NoDisposition:T31 
+A13	Negation E3 NotNegated
+A14	Negation E2 NotNegated
+A15	Negation E24 NotNegated

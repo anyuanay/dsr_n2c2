@@ -1,0 +1,122 @@
+T1	Disposition 1434 1441	steroid
+E1	Disposition:T1 
+T2	Disposition 1443 1456	alpha blocker
+E2	Disposition:T2 
+T3	Disposition 1458 1470	Beta blocker
+E3	Disposition:T3 
+T4	Disposition 1481 1510	carbonic anhydrase inhibitors
+E4	Disposition:T4 
+T5	NoDisposition 1743 1750	insulin
+E5	NoDisposition:T5 
+T6	NoDisposition 2097 2104	Humalog
+E6	NoDisposition:T6 
+T7	NoDisposition 2125 2132	Humalog
+E7	NoDisposition:T7 
+T8	NoDisposition 2177 2186	Neurontin
+E8	NoDisposition:T8 
+T9	NoDisposition 2221 2224	ASA
+E9	NoDisposition:T9 
+T10	NoDisposition 2234 2238	HCTZ
+E10	NoDisposition:T10 
+T11	Disposition 2248 2255	Norvasc
+E11	Disposition:T11 
+T12	NoDisposition 2310 2320	Metoprolol
+E12	NoDisposition:T12 
+T13	NoDisposition 2343 2353	Lisinopril
+E13	NoDisposition:T13 
+T14	NoDisposition 2363 2370	Lipitor
+E14	NoDisposition:T14 
+T15	NoDisposition 2380 2390	Ranitidine
+E15	NoDisposition:T15 
+T21	Undetermined 8823 8826	ASA
+E21	Undetermined:T21 
+T22	Undetermined 8828 8837	B blocker
+E22	Undetermined:T22 
+T23	NoDisposition 8864 8871	heparin
+E23	NoDisposition:T23 
+T24	NoDisposition 9337 9340	NPH
+E24	NoDisposition:T24 
+T25	NoDisposition 9345 9360	Regular insulin
+E25	NoDisposition:T25 
+T26	NoDisposition 9405 9411	nexium
+E26	NoDisposition:T26 
+T27	Disposition 9422 9429	heparin
+E27	Disposition:T27 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+T28	NoDisposition 2154 2164	Glucophage
+E28	NoDisposition:T28 
+A17	Certainty E11 Certain
+A18	Actor E11 Physician
+A19	Action E11 Start
+A20	Temporality E11 Past
+T30	Disposition 7988 7998	Pred Forte
+E30	Disposition:T30 
+A25	Certainty E30 Certain
+A26	Actor E30 Physician
+A27	Action E30 Start
+A28	Temporality E30 Present
+T31	Disposition 8005 8012	Timolol
+E31	Disposition:T31 
+A29	Certainty E31 Certain
+A30	Actor E31 Physician
+A31	Action E31 Start
+A32	Temporality E31 Present
+T32	Disposition 8019 8026	Trusopt
+E32	Disposition:T32 
+A33	Certainty E32 Certain
+A34	Actor E32 Physician
+A35	Action E32 Start
+A36	Temporality E32 Present
+T33	Disposition 8033 8046	Acetazolamide
+E33	Disposition:T33 
+A37	Certainty E33 Certain
+A38	Actor E33 Physician
+A39	Action E33 Start
+A40	Temporality E33 Present
+T34	Disposition 8053 8061	Alphagan
+E34	Disposition:T34 
+A41	Certainty E34 Certain
+A42	Actor E34 Physician
+A43	Action E34 Start
+A44	Temporality E34 Present
+T29	Disposition 7974 7981	Xalatan
+E29	Disposition:T29 
+A21	Certainty E29 Certain
+A22	Actor E29 Physician
+A23	Action E29 Start
+A24	Temporality E29 Present
+T35	Undetermined 8842 8845	ACE
+E35	Undetermined:T35 
+T36	NoDisposition 9376 9379	SSI
+E36	NoDisposition:T36 
+A45	Certainty E27 Certain
+A46	Actor E27 Physician
+A47	Action E27 Stop
+A48	Temporality E27 Present
+A49	Negation E34 NotNegated
+A50	Negation E33 NotNegated
+A51	Negation E3 NotNegated
+A52	Negation E32 NotNegated
+A53	Negation E29 NotNegated
+A54	Negation E4 NotNegated
+A55	Negation E2 NotNegated
+A56	Negation E27 NotNegated
+A57	Negation E31 NotNegated
+A58	Negation E30 NotNegated
+A59	Negation E1 NotNegated
+A60	Negation E11 NotNegated

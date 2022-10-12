@@ -1,0 +1,24 @@
+T1	NoDisposition 1392 1401	glyburide
+E1	NoDisposition:T1 
+T2	NoDisposition 1415 1422	Lipitor
+E2	NoDisposition:T2 
+T3	NoDisposition 1430 1440	lisinopril
+E3	NoDisposition:T3 
+T5	NoDisposition 1485 1491	Nexium
+E5	NoDisposition:T5 
+T7	NoDisposition 2824 2834	lisinopril
+E7	NoDisposition:T7 
+T8	NoDisposition 2882 2888	Nexium
+E8	NoDisposition:T8 
+T9	NoDisposition 2937 2946	glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 2996 3019	metformin hydrochloride
+E10	NoDisposition:T10 
+T11	NoDisposition 1377 1384	Dalmane
+E11	NoDisposition:T11 
+T4	NoDisposition 1453 1476	metformin hydrochloride
+E4	NoDisposition:T4 
+T12	NoDisposition 2760 2767	Lipitor
+E12	NoDisposition:T12 
+T13	NoDisposition 3085 3092	Dalmane
+E13	NoDisposition:T13 

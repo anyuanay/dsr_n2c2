@@ -1,0 +1,94 @@
+T2	NoDisposition 1028 1034	Imuran
+E2	NoDisposition:T2 
+T3	NoDisposition 1039 1049	Prednisone
+E3	NoDisposition:T3 
+T4	Disposition 1285 1292	steroid
+E4	Disposition:T4 
+T5	NoDisposition 1827 1839	levofloxacin
+E5	NoDisposition:T5 
+T6	NoDisposition 1921 1929	Premarin
+E6	NoDisposition:T6 
+T7	NoDisposition 1936 1945	Neurontin
+E7	NoDisposition:T7 
+T8	NoDisposition 1962 1971	Miacalcin
+E8	NoDisposition:T8 
+T9	NoDisposition 2001 2010	Synthroid
+E9	NoDisposition:T9 
+T10	NoDisposition 2018 2025	Digoxin
+E10	NoDisposition:T10 
+T11	NoDisposition 2060 2066	Imuran
+E11	NoDisposition:T11 
+T12	NoDisposition 2080 2089	Lopressor
+E12	NoDisposition:T12 
+T13	NoDisposition 2108 2125	calcium carbonate
+E13	NoDisposition:T13 
+T14	NoDisposition 2185 2193	Coumadin
+E14	NoDisposition:T14 
+T15	NoDisposition 2248 2258	penicillin
+E15	NoDisposition:T15 
+T16	Disposition 2336 2346	Prednisone
+E16	Disposition:T16 
+T17	Disposition 2421 2428	insulin
+E17	Disposition:T17 
+T18	Disposition 2433 2442	Humulin N
+E18	Disposition:T18 
+A1	Certainty E4 Certain
+A2	Actor E4 Physician
+A3	Action E4 UniqueDose
+A4	Temporality E4 Past
+T19	NoDisposition 1986 1993	Provera
+E19	NoDisposition:T19 
+T20	NoDisposition 2034 2045	Cardizem CD
+E20	NoDisposition:T20 
+T21	NoDisposition 2152 2159	Isordil
+E21	NoDisposition:T21 
+T22	NoDisposition 2282 2296	cephalosporins
+E22	NoDisposition:T22 
+T23	NoDisposition 2270 2276	sulfur
+E23	NoDisposition:T23 
+A5	Certainty E16 Certain
+A6	Actor E16 Physician
+A7	Action E16 Decrease
+A8	Temporality E16 Past
+T24	Disposition 2336 2346	Prednisone
+E24	Disposition:T24 
+A9	Certainty E24 Certain
+A10	Actor E24 Physician
+A11	Action E24 Stop
+A12	Temporality E24 Past
+A13	Certainty E17 Certain
+A14	Actor E17 Physician
+A15	Action E17 Unknown
+A16	Temporality E17 Past
+A17	Certainty E18 Certain
+A18	Actor E18 Physician
+A19	Action E18 Unknown
+A20	Temporality E18 Past
+T25	Disposition 4372 4386	antidepressant
+E25	Disposition:T25 
+A21	Certainty E25 Hypothetical
+A22	Actor E25 Physician
+A23	Action E25 Start
+A24	Temporality E25 Present
+T26	Disposition 4516 4520	SSRI
+E26	Disposition:T26 
+A25	Certainty E26 Hypothetical
+A26	Actor E26 Physician
+A27	Action E26 Start
+A28	Temporality E26 Present
+E27	Disposition:T27 
+A29	Certainty E27 Hypothetical
+A30	Actor E27 Physician
+A31	Action E27 Increase
+A32	Temporality E27 Future
+T27	Disposition 4516 4520	SSRI
+T1	NoDisposition 887 903	anti-coagulation
+E1	NoDisposition:T1 
+A33	Negation E16 NotNegated
+A34	Negation E4 NotNegated
+A35	Negation E27 NotNegated
+A36	Negation E26 NotNegated
+A37	Negation E24 NotNegated
+A38	Negation E25 NotNegated
+A39	Negation E18 NotNegated
+A40	Negation E17 NotNegated

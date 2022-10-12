@@ -1,0 +1,34 @@
+T1	NoDisposition 649 656	Novolog
+E1	NoDisposition:T1 
+T2	NoDisposition 723 730	Aspirin
+E2	NoDisposition:T2 
+T11	NoDisposition 1395 1415	INSULIN Aspart 70/30
+E11	NoDisposition:T11 
+T15	NoDisposition 685 698	Ascorbic Acid
+E15	NoDisposition:T15 
+T16	NoDisposition 785 796	Calcium + D
+E16	NoDisposition:T16 
+T17	NoDisposition 813 868	CALCIUM Carbonate 1250 Mg (500MG Elem Ca)/ Vit D 200 Iu
+E17	NoDisposition:T17 
+T18	NoDisposition 930 943	LEVOCARNITINE
+E18	NoDisposition:T18 
+T19	NoDisposition 920 928	Carnitor
+E19	NoDisposition:T19 
+T20	NoDisposition 985 997	Coenzyme Q10
+E20	NoDisposition:T20 
+T21	NoDisposition 1042 1052	FUROSEMIDE
+E21	NoDisposition:T21 
+T22	NoDisposition 1110 1120	LISINOPRIL
+E22	NoDisposition:T22 
+T23	NoDisposition 1376 1393	Novolog Mix 70/30
+E23	NoDisposition:T23 
+T24	NoDisposition 1180 1217	Metoprolol Succinate Extended Release
+E24	NoDisposition:T24 
+T25	NoDisposition 1219 1256	METOPROLOL Succinate Extended Release
+E25	NoDisposition:T25 
+T26	NoDisposition 1340 1353	MULTIVITAMINS
+E26	NoDisposition:T26 
+T27	NoDisposition 1486 1497	SIMVASTATIN
+E27	NoDisposition:T27 
+T28	NoDisposition 1556 1583	Verapamil Sustained Release
+E28	NoDisposition:T28 

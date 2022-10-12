@@ -1,0 +1,265 @@
+
+
+
+Record date: 2149-03-18
+
+
+
+	CARDIOLOGY
+
+	
+
+	BETHANY BRETHREN HOSPITAL
+
+	
+
+
+
+	Reason for visit:
+
+   Mr. Eubanks is a 68 yo man w/ recently diagnosed CAD s/p LAD stent.
+
+
+
+	Interval History:
+
+   Mr Eubanks presents for hospital followup after presenting to BBH in January 2149 w/ after he developed 2 episodes of chest pain lasting 1-2 minutes each and not associated with any symptoms.  On the morning of admission, patient developed more severe chest pain and pressure radiating to both arms and back.  Pain persisted for 2 hours, prompting the patient to present to the BBH ED for further care. In the ED, patient was treated with ASA, metoprolol, sl NTG, and chest pain resolved. EKGs showed biphasic T-waves in V4-5.  CT scan was negative for aortic dissection or other acute pathology.  Cardiac markers were negative.  Patient was admitted to the Internal Medicine service for further management. Of note, at Pennsylvania Hospital, patient had a positive ETTMIBI showing fixed + mild reversible defect in the inferoapical region in 2/47, followed up with normal exercise echo in 5/47.
+
+
+
+On first night of admission, patient developed recurrent chest pain when going to the bathroom.  Because of his risk factors for disease, the decision was made to proceed directly to cardiac catheterization. In the cath lab, patient was found to have multivessel CAD with an LAD culprit.  He received 3xCypher stents to the mid and distal LAD with residual flow limitation.  RCA with moderate disease.  LCx with distal disease.  
+
+Patient was transferred to the SDU for further care.He was started on beta-blockers and ace-inhibition, and tolerated these medications well.  He was evaluated for cardiac rehab. Of note, patient was informed of the pulmonary nodule located on CT scan and the need for follow-up CT in 3 months.
+
+
+
+
+
+
+
+	Past medical history:
+
+   CAD as above
+
+HTN
+
+Hyperlipidemia
+
+Gout
+
+DM type 2
+
+GERD
+
+Pulmonary nodule
+
+
+
+	Medications (Confirmed):
+
+	
+
+ASA  325 mg po qd
+
+atenolol 
+
+Indocin  50 mg po bid PRN gout flares
+
+Lipitor  80mg po qd
+
+lisinopril 
+
+omeprazole 
+
+Plavix 
+
+
+
+Allergies:
+
+	
+
+Drug allergy   Allopurinol led to hives.
+
+
+
+	Family history:
+
+   Mother died at 89, had heart disease. Father died young of a brain tumor, Brother with CAD in 40s,Sister with CAD
+
+
+
+
+
+	Social history:
+
+   Lives in Cheney with wife.  economic assessor. Tobacco - none, Alcohol - occasional, Drugs - none
+
+
+
+
+
+	Review of systems:
+
+   Otherwise negative in detail
+
+
+
+Physical examination:
+
+	
+
+-BMI: 24.2  Normal, low risk
+
+-Pulse: 68  
+
+-resp. rate: 18  
+
+-height: 71  in.
+
+-weight: 173  lbs.
+
+-General:   No acute distress.
+
+-Skin:   No rashes, anicteric.
+
+-HEENT:   Unremarkable
+
+-Neck:   Carotids 2+ without bruits. JVP no jugular venous distention.
+
+-Chest:   Clear to auscultation and percussion.
+
+-Cardiac:   Left ventricular impulse discrete and nondisplaced. Regular rate and rhythm, normal S1 and S2, with no S3 or S4. There were no murmurs, clicks or rubs.
+
+-Abdomen:   Normal bowel sounds, soft and nontender, with no hepatosplenomegaly or masses appreciated.
+
+-Extremities:   No cyanosis, clubbing or edema. 2+ femoral pulses without bruits. 2+ pedal pulses.
+
+
+
+	EKG:
+
+   NSR 68 w/ occas PVC. PRWP and NSSTTWA.
+
+
+
+Selected recent labs:
+
+	 Metabolic
+
+Date     NA       K        CL       CO2      BUN      CRE      GLU      CA       PHOS     MG       
+
+01/12/49 139      3.8      103      26.0     17       1.2      151                        1.6      
+
+01/11/49                                                                9.1      3.4               
+
+
+
+Lipid/Thyroid
+
+Date     CHOL     TRIG     HDL      LDL      
+
+01/11/49 139      131      36       77       
+
+
+
+Hematology
+
+Date     HCT      WBC      PLT      
+
+01/12/49 40.0     7.9      185      
+
+
+
+Urinalysis
+
+Date     UA-GLUC  UA-SPGR  UA-BLD   UA-PH    UA-PROT  UA-NIT   
+
+01/10/49 NEGATIVE 1.010    1+       5.0      1+       NEGATIVE 
+
+
+
+Immunology
+
+Date     HGBA1C   
+
+01/11/49 6.60     
+
+
+
+other
+
+Date     MEAN-GLU 
+
+01/11/49 134      
+
+
+
+
+
+	
+
+
+
+	Assessment and plan:
+
+   Mr. Eubanks has CAD and had a recent UAP w/o MI admission. He has moderate multivessel CAD and was treated w/ Cypher stent x 3 to the severe stenoses in his mid and distal LAD.  His followup stress test was negative for ischemia and he has an appt at cardiac rehab on 3/29.
+
+
+
+Problems:
+
+	
+
+
+
+Diabetes mellitus (adult onset).
+
+
+
+Hyperlipidemia.
+
+
+
+Pulmonary nodule.
+
+
+
+Hypertension.
+
+
+
+Coronary artery disease.
+
+
+
+Changes to Medications this visit
+
+	
+
+lisinopril 10 mg  po qd QTY:30 Refills:11
+
+atenolol 50mg  po qd QTY:30 Refills:11
+
+Lipitor 80mg  po qd End: 03/18/2149 DC reason: Other - Inactivated
+
+Plavix 75mg  po qd QTY:30 Refills:11
+
+omeprazole 20mg  po qd QTY:30 Refills:11
+
+colchicine 0.6 mg  po qd Start: 03/18/2149
+
+ASA 325 mg  po qd
+
+Indocin 50 mg  po bid PRN gout flares Start: 03/18/2149
+
+simvastatin 40mg  po qpm QTY:30 Refills:11 Start: 03/18/2149
+
+	
+
+-Mae S. Naylor, MD pager #76228
+
+Document Status: Preliminary
+
+
+

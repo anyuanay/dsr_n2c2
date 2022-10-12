@@ -1,0 +1,28 @@
+T1	Disposition 311 320	Lopressor
+E1	Disposition:T1 
+T2	NoDisposition 594 606	Procardia XL
+E2	NoDisposition:T2 
+T3	NoDisposition 621 628	Aspirin
+E3	NoDisposition:T3 
+T4	NoDisposition 643 652	Lopressor
+E4	NoDisposition:T4 
+T5	Undetermined 1042 1051	Lopressor
+E5	Undetermined:T5 
+T6	Disposition 1378 1384	Motrin
+E6	Disposition:T6 
+T7	Undetermined 1716 1722	Motrin
+E7	Undetermined:T7 
+A1	Certainty E1 Certain
+A2	Actor E1 Patient
+A3	Action E1 Stop
+A4	Temporality E1 Past
+T8	NoDisposition 669 678	Micronase
+E8	NoDisposition:T8 
+T9	Undetermined 1188 1197	Micronase
+E9	Undetermined:T9 
+A5	Certainty E6 Certain
+A6	Actor E6 Physician
+A7	Action E6 Start
+A8	Temporality E6 Present
+A9	Negation E1 NotNegated
+A10	Negation E6 NotNegated

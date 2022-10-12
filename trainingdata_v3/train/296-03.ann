@@ -1,0 +1,28 @@
+T1	NoDisposition 363 370	insulin
+E1	NoDisposition:T1 
+T2	NoDisposition 1234 1241	Prograf
+E2	NoDisposition:T2 
+T3	NoDisposition 1243 1253	prednisone
+E3	NoDisposition:T3 
+T4	NoDisposition 1255 1263	Prilosec
+E4	NoDisposition:T4 
+T5	NoDisposition 1268 1275	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 1283 1288	Imdur
+E6	NoDisposition:T6 
+T7	NoDisposition 1312 1325	multi vitamin
+E7	NoDisposition:T7 
+T8	NoDisposition 1327 1341	Lantus insulin
+E8	NoDisposition:T8 
+T9	NoDisposition 1347 1354	Humalog
+E9	NoDisposition:T9 
+T10	NoDisposition 1378 1384	Imuran
+E10	NoDisposition:T10 
+T11	NoDisposition 1386 1394	Coumadin
+E11	NoDisposition:T11 
+T12	NoDisposition 1400 1409	Toprol XL
+E12	NoDisposition:T12 
+T13	NoDisposition 1422 1429	Lipitor
+E13	NoDisposition:T13 
+T15	NoDisposition 1290 1308	calcium supplement
+E15	NoDisposition:T15 

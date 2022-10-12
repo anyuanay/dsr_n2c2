@@ -1,0 +1,35 @@
+T2	NoDisposition 994 1009	Anticoagulation
+E2	NoDisposition:T2 
+T3	NoDisposition 1109 1116	Lipitor
+E3	NoDisposition:T3 
+T4	NoDisposition 1118 1130	ATORVASTATIN
+E4	NoDisposition:T4 
+T5	NoDisposition 1213 1222	Glucotrol
+E5	NoDisposition:T5 
+T6	NoDisposition 1308 1322	Fluoxetine HCL
+E6	NoDisposition:T6 
+T7	NoDisposition 1383 1392	Metformin
+E7	NoDisposition:T7 
+T8	NoDisposition 1431 1444	Ciprofloxacin
+E8	NoDisposition:T8 
+T9	NoDisposition 1484 1494	Lisinopril
+E9	NoDisposition:T9 
+T11	NoDisposition 2440 2450	fluoxetine
+E11	NoDisposition:T11 
+T12	Disposition 2607 2614	fragmin
+E12	Disposition:T12 
+T13	Undetermined 2616 2619	ASA
+E13	Undetermined:T13 
+T15	Undetermined 2739 2746	Tylenol
+E15	Undetermined:T15 
+T17	NoDisposition 945 952	Fragmin
+E17	NoDisposition:T17 
+T18	NoDisposition 954 971	DALTEPARIN SODIUM
+E18	NoDisposition:T18 
+T19	NoDisposition 1224 1233	GLIPIZIDE
+E19	NoDisposition:T19 
+A1	Certainty E12 Certain
+A2	Actor E12 Unknown
+A3	Action E12 Stop
+A4	Temporality E12 Past
+A5	Negation E12 NotNegated

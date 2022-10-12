@@ -1,0 +1,17 @@
+T2	Undetermined 661 668	aspirin
+E2	Undetermined:T2 
+T3	NoDisposition 1240 1247	aspirin
+E3	NoDisposition:T3 
+T4	NoDisposition 1249 1256	insulin
+E4	NoDisposition:T4 
+T5	NoDisposition 1258 1285	antihypertensive medication
+E5	NoDisposition:T5 
+T7	NoDisposition 1314 1340	cholesterol lowering agent
+E7	NoDisposition:T7 
+T1	Disposition 3579 3603	antihypertensive regimen
+E1	Disposition:T1 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Unknown
+A4	Temporality E1 Future
+A5	Negation E1 NotNegated

@@ -1,0 +1,7 @@
+T1	Disposition 5745 5752	sotalol
+E1	Disposition:T1 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Stop
+A4	Temporality E1 Present
+A5	Negation E1 NotNegated

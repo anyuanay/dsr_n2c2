@@ -1,0 +1,18 @@
+T1	NoDisposition 479 489	Prednisone
+E1	NoDisposition:T1 
+T2	NoDisposition 509 517	Dilantin
+E2	NoDisposition:T2 
+T3	NoDisposition 538 546	Tegretol
+E3	NoDisposition:T3 
+T4	NoDisposition 566 576	Nephrocaps
+E4	NoDisposition:T4 
+T5	NoDisposition 622 630	Percocet
+E5	NoDisposition:T5 
+T6	NoDisposition 681 688	demerol
+E6	NoDisposition:T6 
+T7	NoDisposition 693 701	levaquin
+E7	NoDisposition:T7 
+T8	NoDisposition 3181 3191	anesthesia
+E8	NoDisposition:T8 
+T9	NoDisposition 597 602	Paxil
+E9	NoDisposition:T9 

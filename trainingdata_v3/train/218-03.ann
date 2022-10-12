@@ -1,0 +1,64 @@
+T1	Disposition 465 478	acetaminophen
+E1	Disposition:T1 
+T2	Disposition 490 503	nitroglycerin
+E2	Disposition:T2 
+T3	NoDisposition 1056 1066	lovastatin
+E3	NoDisposition:T3 
+T4	Disposition 1380 1389	glyburide
+E4	Disposition:T4 
+T5	NoDisposition 1432 1439	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 1452 1460	atenolol
+E6	NoDisposition:T6 
+T7	NoDisposition 1474 1484	furosemide
+E7	NoDisposition:T7 
+T8	NoDisposition 1510 1519	glyburide
+E8	NoDisposition:T8 
+T9	NoDisposition 1568 1578	lisinopril
+E9	NoDisposition:T9 
+T10	NoDisposition 1593 1603	lovastatin
+E10	NoDisposition:T10 
+T11	NoDisposition 1648 1661	nitroglycerin
+E11	NoDisposition:T11 
+T12	NoDisposition 2762 2774	beta blocker
+E12	NoDisposition:T12 
+T13	NoDisposition 2788 2802	anti-coagulate
+E13	NoDisposition:T13 
+T14	NoDisposition 3117 3120	ASA
+E14	NoDisposition:T14 
+T15	NoDisposition 3121 3123	BB
+E15	NoDisposition:T15 
+T16	NoDisposition 3124 3128	ACEI
+E16	NoDisposition:T16 
+T17	NoDisposition 3129 3135	statin
+E17	NoDisposition:T17 
+T18	NoDisposition 3178 3187	glyburide
+E18	NoDisposition:T18 
+T19	NoDisposition 3206 3210	ACEI
+E19	NoDisposition:T19 
+A1	Certainty E1 Certain
+A2	Actor E1 Patient
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Patient
+A7	Action E2 Stop
+A8	Temporality E2 Past
+T20	Disposition 1246 1256	glucophage
+E20	Disposition:T20 
+A9	Certainty E20 Certain
+A10	Actor E20 Physician
+A11	Action E20 Stop
+A12	Temporality E20 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 Start
+A16	Temporality E4 Past
+T21	NoDisposition 1632 1645	multivitamins
+E21	NoDisposition:T21 
+T22	NoDisposition 2994 3009	anticoagulation
+E22	NoDisposition:T22 
+A17	Negation E1 NotNegated
+A18	Negation E2 NotNegated
+A19	Negation E4 NotNegated
+A20	Negation E20 NotNegated

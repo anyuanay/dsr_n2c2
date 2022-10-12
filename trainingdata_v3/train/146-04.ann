@@ -1,0 +1,116 @@
+T1	NoDisposition 944 947	NTG
+E1	NoDisposition:T1 
+T2	Disposition 3462 3472	metoprolol
+E2	Disposition:T2 
+T3	Disposition 3635 3649	nitroglycerins
+E3	Disposition:T3 
+T4	Disposition 3651 3658	Tylenol
+E4	Disposition:T4 
+T5	Disposition 3663 3671	morphine
+E5	Disposition:T5 
+T6	NoDisposition 3997 4004	Aspirin
+E6	NoDisposition:T6 
+T7	NoDisposition 4019 4025	Epogen
+E7	NoDisposition:T7 
+T8	NoDisposition 4063 4074	mirtazapine
+E8	NoDisposition:T8 
+T9	NoDisposition 4093 4110	megestrol acetate
+E9	NoDisposition:T9 
+T10	NoDisposition 4147 4153	Colace
+E10	NoDisposition:T10 
+T11	NoDisposition 4213 4226	multivitamins
+E11	NoDisposition:T11 
+T12	NoDisposition 4241 4249	Prilosec
+E12	NoDisposition:T12 
+T13	NoDisposition 4268 4278	metoprolol
+E13	NoDisposition:T13 
+T14	NoDisposition 4298 4307	methadone
+E14	NoDisposition:T14 
+T15	NoDisposition 4321 4331	isosorbide
+E15	NoDisposition:T15 
+T16	NoDisposition 4380 4390	lisinopril
+E16	NoDisposition:T16 
+T17	NoDisposition 4409 4418	lactulose
+E17	NoDisposition:T17 
+T18	NoDisposition 4445 4453	Dulcolax
+E18	NoDisposition:T18 
+T19	NoDisposition 4475 4484	oxycodone
+E19	NoDisposition:T19 
+T20	NoDisposition 7346 7363	antihypertensives
+E20	NoDisposition:T20 
+T21	Undetermined 7507 7510	PPI
+E21	Undetermined:T21 
+T22	NoDisposition 7763 7779	pain medications
+E22	NoDisposition:T22 
+T23	NoDisposition 8296 8304	Prilosec
+E23	NoDisposition:T23 
+T24	NoDisposition 8323 8330	Tylenol
+E24	NoDisposition:T24 
+T25	NoDisposition 8356 8365	vitamin C
+E25	NoDisposition:T25 
+T26	NoDisposition 8385 8392	aspirin
+E26	NoDisposition:T26 
+T27	NoDisposition 8412 8418	Colace
+E27	NoDisposition:T27 
+T28	NoDisposition 8439 8445	Epogen
+E28	NoDisposition:T28 
+T29	NoDisposition 8473 8488	ferrous sulfate
+E29	NoDisposition:T29 
+T30	NoDisposition 8513 8533	isosorbide dinitrate
+E30	NoDisposition:T30 
+T31	NoDisposition 8553 8563	lisinopril
+E31	NoDisposition:T31 
+T33	NoDisposition 8711 8721	metoprolol
+E33	NoDisposition:T33 
+T34	NoDisposition 8746 8757	mirtazapine
+E34	NoDisposition:T34 
+T35	NoDisposition 8809 8818	oxycodone
+E35	NoDisposition:T35 
+T36	NoDisposition 8848 8853	Zocor
+E36	NoDisposition:T36 
+T37	NoDisposition 8872 8884	zinc sulfate
+E37	NoDisposition:T37 
+T38	NoDisposition 8909 8918	methadone
+E38	NoDisposition:T38 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+T39	Disposition 3508 3522	nitroglycerins
+E39	Disposition:T39 
+A5	Certainty E39 Certain
+A6	Actor E39 Physician
+A7	Action E39 UniqueDose
+A8	Temporality E39 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+A17	Certainty E5 Certain
+A18	Actor E5 Physician
+A19	Action E5 UniqueDose
+A20	Temporality E5 Past
+T40	NoDisposition 4189 4193	zinc
+E40	NoDisposition:T40 
+T41	NoDisposition 4346 4361	ferrous sulfate
+E41	NoDisposition:T41 
+T42	NoDisposition 8587 8603	milk of magnesia
+E42	NoDisposition:T42 
+T43	Disposition 8631 8648	megestrol acetate
+E43	Disposition:T43 
+T44	NoDisposition 8781 8794	multivitamins
+E44	NoDisposition:T44 
+A21	Certainty E43 Certain
+A22	Actor E43 Physician
+A23	Action E43 Stop
+A24	Temporality E43 Unknown
+A25	Negation E39 NotNegated
+A26	Negation E3 NotNegated
+A27	Negation E4 NotNegated
+A28	Negation E2 NotNegated
+A29	Negation E43 NotNegated
+A30	Negation E5 NotNegated

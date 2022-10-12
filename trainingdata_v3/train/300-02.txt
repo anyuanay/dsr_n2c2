@@ -1,0 +1,263 @@
+
+
+
+Record date: 2089-12-01
+
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:  F/U HOSP
+
+
+
+HISTORY OF PRESENT ILLNESS: FU SMI ER abdominal pain now  better. pain was periumbilical. 
+
+
+
+
+
+
+
+PAST MEDICAL HISTORY: Entered By:ostrowski  On:05/20/2088 
+
+ 
+
+PMH significant for HTN. 
+
+Colonic Poilyp SP LGI blled post colonoscopy 2087
+
+
+
+
+
+PAST SURGICAL HISTORY: Entered By:ostrowski  On:05/20/2088 
+
+ tonsillectomy.
+
+
+
+
+
+FAMILY HISTORY: Entered By:ostrowski  On:05/20/2088 
+
+Father deceaced Alsheimer's
+
+Mother NIDDM, HTN, CVA, Nephrogenic DI.
+
+
+
+SOCIAL HISTORY: Entered By:ostrowski  On:05/20/2088 
+
+ 
+
+EtOH:  rare use.   
+
+Drugs:  no drug abuse.   
+
+Tobacco:  none.   
+
+Family:  single.   
+
+Work:     Senior Manager of Goods Production            .
+
+
+
+REVIEW OF SYSTEMS: Constitution:  Constitution:  good general health, no fever, no change in weight . 
+
+ Respiratory:  no cough, no wheezing or dyspnea. 
+
+ Cardiovascular:  no palpitations, no chest pain or dyspnea. 
+
+ Gastrointestinal:  (denies) abdominal pain, decreased appetite, no change in bowel habits, (denies) diarrhea, (denies) dysphagia and (denies) hematemesis. 
+
+ Gastrointestinal:  (denies) nausea, (denies) rectal bleeding, normal stools and (denies) vomiting. 
+
+ Urinary:  (denies) dysuria, (denies) hematuria and (denies) frequent urination  
+
+ 
+
+
+
+
+
+VITAL SIGNS: 
+
+Date/Time: 12/01/2089  04:09 PM  - ostrowski
+
+Pulse 1: 70 bpm 
+
+Blood Pressure 1: 120 / 80 mmHg 
+
+Weight: 299.00 lbs.
+
+
+
+
+
+
+
+EXAMINATION: 
+
+
+
+[Neck] - supple no lymphadenopathy or thyromegaly and 
+
+[Respiratory] - clear breath sounds bilaterally, no accessory muscle use, normal percussion. 
+
+[CV] - Heart: normal rate and regular rhythm. 
+
+[GI] - Abdomen: no tenderness, (-) rebound, (-) guarding, normal bowel sounds, (-) hepatomegaly, (-) splenomegaly and no abdominal mass. 
+
+Labs/Studies: _____. WBC 13.5 CT diverticulosis / Diverticulitis  w some bowel loops 
+
+
+
+
+
+CONSTITUTIONAL: Appears properly developed for stated age, in no apparent distress.  The patient appears severely obese.  
+
+
+
+
+
+IMPRESSION: Hypertension
+
+Obesity
+
+GI bleed SP polypectomy
+
+Diverticulosis w ? diverticulitis  ? SBO resolved 
+
+GERD.
+
+
+
+
+
+ALLERGIES: 
+
+No Known Drug Allergies 05/21/2087 ostrowski
+
+
+
+
+
+MEDICATIONS: 
+
+CIPRO 500MG PO bid : 12/01/2089 - 02/02/2090 ACT : ostrowski
+
+   Script:  Amt: 20  Refill: 0 Date: 12/01/2089 : ostrowski
+
+
+
+METAMUCIL 1Tablespoon twice daily w water : 12/01/2089 - 12/18/2093 ACT : ostrowski
+
+   Script:  Amt: 1  Refill: 0 Date: 12/01/2089 : ostrowski
+
+
+
+CETAPHIL   topically prn : 09/29/2089 - 12/18/2093 ACT : ostrowski
+
+   Script:  Amt: 1  Refill: 0 Date: 09/29/2089 : ostrowski
+
+
+
+Lipitor 10MG qd : 01/27/2089 - 08/23/2092 ACT : ostrowski
+
+   Script:  Amt: 30  Refill: 11 Date: 08/29/2091 : ostrowski
+
+
+
+Cormax 0.05% topically bid prn : 12/11/2087 - 02/02/2090 ACT : ostrowski
+
+   Script:  Amt: 45 `gRAMS  Refill: 2 Date: 12/11/2087 : ostrowski
+
+
+
+Lidex cream No Match bid prn up to 2 week : 01/09/2087 - 02/02/2090 ACT : ostrowski
+
+   Script:  Amt: 45 grams  Refill: 1 Date: 09/29/2089 : ostrowski
+
+
+
+K-Dur 10MEQ qod : 05/02/2086 - 03/06/2092 ACT : ostrowski
+
+   Script:  Amt: #30  Refill: 11 Date: 08/03/2090 : ostrowski
+
+
+
+HCTZ 12.5mg qd : 05/02/2086 - 03/06/2092 ACT : ostrowski
+
+   Script:  Amt: 100  Refill: 3 Date: 08/29/2091 : ostrowski
+
+
+
+Zestril 10MG PO qd : 05/02/2086 - 01/02/2092 ACT : ostrowski
+
+   Script:  Amt: 30  Refill: 11 Date: 12/12/2091 : ostrowski
+
+
+
+
+
+
+
+IMMUNIZATIONS: 
+
+Td 01/27/2089
+
+
+
+PROBLEMS - CARE PLANS: 
+
+Problem: problem
+
+Code: 562.11 Diverticulitis
+
+Careplan: 
+
+
+
+Medications:  CIPRO - 500MG      - PO bid - 12/01/2089 - Script: Amt: 20 Refill: 0.
+
+ 
+
+Diet:  clear liquid till better then low residue. W metamucil bid 
+
+ 
+
+Problem: problem
+
+Code: 562.10 Diverticulosis
+
+Careplan: 
+
+
+
+Diet:  Diverticulosis diet.
+
+ 
+
+Follow Up:  prn f/u
+
+ 
+
+Medications:  METAMUCIL - 1Tablespoon          - twice daily w water  - 12/01/2089 - Script: Amt: 1 Refill: 0.
+
+ 
+
+
+
+
+
+
+THIS IS A COPY PRODUCED FOR THE LMR. THE ORGINAL IS STORED ON THE COMPENDIA SERVER AT SMI KESSEL GROUP HOME AND IN PRINT IN THE PATIENT'S SMI PAPER RECORD.
+
+
+

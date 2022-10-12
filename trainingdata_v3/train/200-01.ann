@@ -1,0 +1,92 @@
+T2	Disposition 693 705	chemotherapy
+E2	Disposition:T2 
+T5	NoDisposition 1364 1378	Centrum SILVER
+E5	NoDisposition:T5 
+T6	NoDisposition 1408 1418	Isosorbide
+E6	NoDisposition:T6 
+T8	NoDisposition 1499 1509	Lisinopril
+E8	NoDisposition:T8 
+T9	NoDisposition 1544 1554	Metoprolol
+E9	NoDisposition:T9 
+T10	NoDisposition 1568 1574	Plavix
+E10	NoDisposition:T10 
+T12	NoDisposition 1623 1631	Prilosec
+E12	NoDisposition:T12 
+T13	NoDisposition 1749 1758	Vitamin C
+E13	NoDisposition:T13 
+T14	NoDisposition 1789 1798	Vitamin E
+E14	NoDisposition:T14 
+T15	NoDisposition 1838 1847	Glyburide
+E15	NoDisposition:T15 
+T16	Undetermined 4527 4539	chemotherapy
+E16	Undetermined:T16 
+T17	Disposition 4571 4581	leukovorin
+E17	Disposition:T17 
+T18	Disposition 711 714	5FU
+E18	Disposition:T18 
+T19	Disposition 764 769	chemo
+E19	Disposition:T19 
+A1	Certainty E19 Certain
+A2	Actor E19 Physician
+A3	Action E19 UniqueDose
+A4	Temporality E19 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+A9	Certainty E18 Certain
+A10	Actor E18 Physician
+A11	Action E18 UniqueDose
+A12	Temporality E18 Past
+T20	NoDisposition 1054 1066	chemotherapy
+E20	NoDisposition:T20 
+T21	NoDisposition 1266 1273	Aspirin
+E21	NoDisposition:T21 
+T22	NoDisposition 1275 1295	ACETYLSALICYLIC ACID
+E22	NoDisposition:T22 
+T23	NoDisposition 1333 1349	Caltrate 600 + D
+E23	NoDisposition:T23 
+T24	NoDisposition 1380 1393	MULTIVITAMINS
+E24	NoDisposition:T24 
+T25	NoDisposition 1441 1448	Lipitor
+E25	NoDisposition:T25 
+T26	NoDisposition 1450 1462	ATORVASTATIN
+E26	NoDisposition:T26 
+T27	NoDisposition 1576 1587	CLOPIDOGREL
+E27	NoDisposition:T27 
+T28	NoDisposition 1633 1643	OMEPRAZOLE
+E28	NoDisposition:T28 
+T29	NoDisposition 1683 1689	Tricor
+E29	NoDisposition:T29 
+T30	NoDisposition 1691 1702	FENOFIBRATE
+E30	NoDisposition:T30 
+T31	NoDisposition 1704 1710	TRICOR
+E31	NoDisposition:T31 
+T32	NoDisposition 1760 1773	ASCORBIC ACID
+E32	NoDisposition:T32 
+T33	NoDisposition 1800 1819	TOCOPHEROL-DL-ALPHA
+E33	NoDisposition:T33 
+A13	Certainty E17 Certain
+A14	Actor E17 Physician
+A15	Action E17 UniqueDose
+A16	Temporality E17 Present
+T34	Disposition 4566 4569	5FU
+E34	Disposition:T34 
+A17	Certainty E34 Certain
+A18	Actor E34 Physician
+A19	Action E34 UniqueDose
+A20	Temporality E34 Present
+T35	Disposition 715 718	LCV
+E35	Disposition:T35 
+A21	Certainty E35 Certain
+A22	Actor E35 Physician
+A23	Action E35 UniqueDose
+A24	Temporality E35 Past
+T1	NoDisposition 49 61	chemotherapy
+E1	NoDisposition:T1 
+A25	Negation E34 NotNegated
+A26	Negation E19 NotNegated
+A27	Negation E35 NotNegated
+A28	Negation E2 NotNegated
+A29	Negation E18 NotNegated
+A30	Negation E17 NotNegated

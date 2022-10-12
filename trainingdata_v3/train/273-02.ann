@@ -1,0 +1,42 @@
+T1	NoDisposition 35 42	Novolog
+E1	NoDisposition:T1 
+T2	NoDisposition 118 126	CellCept
+E2	NoDisposition:T2 
+T3	NoDisposition 141 150	Lopressor
+E3	NoDisposition:T3 
+T4	NoDisposition 164 173	Captopril
+E4	NoDisposition:T4 
+T5	NoDisposition 187 194	Lipitor
+E5	NoDisposition:T5 
+T6	NoDisposition 205 214	Neurontin
+E6	NoDisposition:T6 
+T7	Disposition 232 236	Tums
+E7	Disposition:T7 
+T8	NoDisposition 288 291	MVI
+E8	NoDisposition:T8 
+T9	NoDisposition 299 302	ASA
+E9	NoDisposition:T9 
+T10	NoDisposition 314 329	Quinine Sulfate
+E10	NoDisposition:T10 
+T11	Disposition 1358 1367	Neurontin
+E11	Disposition:T11 
+T12	NoDisposition 62 68	Lantus
+E12	NoDisposition:T12 
+T13	NoDisposition 94 100	Neoral
+E13	NoDisposition:T13 
+T14	NoDisposition 268 276	Prilosec
+E14	NoDisposition:T14 
+T15	NoDisposition 558 568	analgesics
+E15	NoDisposition:T15 
+T16	NoDisposition 575 588	acetaminophen
+E16	NoDisposition:T16 
+A1	Certainty E11 Certain
+A2	Actor E11 Patient
+A3	Action E11 Decrease
+A4	Temporality E11 Past
+A5	Certainty E7 Certain
+A6	Actor E7 Patient
+A7	Action E7 Decrease
+A8	Temporality E7 Past
+A9	Negation E11 NotNegated
+A10	Negation E7 NotNegated

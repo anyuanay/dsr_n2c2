@@ -1,0 +1,85 @@
+T1	Disposition 387 395	Dilantin
+E1	Disposition:T1 
+T2	Disposition 650 656	Ativan
+E2	Disposition:T2 
+T3	Disposition 793 803	gentamycin
+E3	Disposition:T3 
+T4	Disposition 818 828	Vancomycin
+E4	Disposition:T4 
+T5	NoDisposition 1185 1192	Steroid
+E5	NoDisposition:T5 
+T6	NoDisposition 1560 1569	Lopressor
+E6	NoDisposition:T6 
+T7	NoDisposition 1608 1618	Ranitidine
+E7	NoDisposition:T7 
+T8	NoDisposition 1629 1635	Colace
+E8	NoDisposition:T8 
+T9	NoDisposition 1651 1659	Aggrenox
+E9	NoDisposition:T9 
+T10	NoDisposition 1674 1682	Dulcolax
+E10	NoDisposition:T10 
+T11	NoDisposition 1688 1694	Celexa
+E11	NoDisposition:T11 
+T12	NoDisposition 1724 1734	prednisone
+E12	NoDisposition:T12 
+T13	NoDisposition 1748 1755	Lipitor
+E13	NoDisposition:T13 
+T15	NoDisposition 5728 5736	Dilantin
+E15	NoDisposition:T15 
+T16	Disposition 5781 5789	dilantin
+E16	Disposition:T16 
+T17	Disposition 5967 5973	Keppra
+E17	Disposition:T17 
+T18	NoDisposition 6196 6206	Vancomycin
+E18	NoDisposition:T18 
+T19	NoDisposition 6232 6243	ceftriaxone
+E19	NoDisposition:T19 
+T20	NoDisposition 6412 6415	abx
+E20	NoDisposition:T20 
+T21	NoDisposition 6598 6608	Prednisone
+E21	NoDisposition:T21 
+T22	NoDisposition 6631 6639	Aggrenox
+E22	NoDisposition:T22 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Decrease
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+T24	NoDisposition 1578 1591	Lactobacillus
+E24	NoDisposition:T24 
+T25	NoDisposition 1705 1710	CaCO3
+E25	NoDisposition:T25 
+A17	Certainty E16 Certain
+A18	Actor E16 Physician
+A19	Action E16 Start
+A20	Temporality E16 Present
+A21	Certainty E17 Hypothetical
+A22	Actor E17 Physician
+A23	Action E17 Start
+A24	Temporality E17 Present
+T26	Disposition 6692 6705	lactobacillus
+E26	Disposition:T26 
+A25	Certainty E26 Certain
+A26	Actor E26 Physician
+A27	Action E26 Stop
+A28	Temporality E26 Present
+T14	NoDisposition 3023 3031	WARFARIN
+E14	NoDisposition:T14 
+A29	Negation E3 NotNegated
+A30	Negation E16 NotNegated
+A31	Negation E4 NotNegated
+A32	Negation E2 NotNegated
+A33	Negation E26 NotNegated
+A34	Negation E1 NotNegated
+A35	Negation E17 NotNegated

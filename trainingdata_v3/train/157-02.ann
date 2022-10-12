@@ -1,0 +1,47 @@
+T1	Disposition 1347 1355	Naprosyn
+E1	Disposition:T1 
+T2	NoDisposition 60 70	FOLIC ACID
+E2	NoDisposition:T2 
+T3	NoDisposition 92 97	VIT C
+E3	NoDisposition:T3 
+T4	NoDisposition 99 112	ASCORBIC ACID
+E4	NoDisposition:T4 
+T5	NoDisposition 136 141	VIT E
+E5	NoDisposition:T5 
+T6	NoDisposition 143 162	TOCOPHEROL-DL-ALPHA
+E6	NoDisposition:T6 
+T7	NoDisposition 195 209	CYANOCOBALAMIN
+E7	NoDisposition:T7 
+T8	NoDisposition 186 193	VIT B12
+E8	NoDisposition:T8 
+T9	NoDisposition 232 243	VITAMIN B 6
+E9	NoDisposition:T9 
+T10	NoDisposition 245 259	PYRIDOXINE HCL
+E10	NoDisposition:T10 
+T11	NoDisposition 282 311	NIFEDIPINE (EXTENDED RELEASE)
+E11	NoDisposition:T11 
+T12	NoDisposition 340 347	CARDURA
+E12	NoDisposition:T12 
+T13	NoDisposition 349 358	DOXAZOSIN
+E13	NoDisposition:T13 
+T14	NoDisposition 387 398	ALLOPURINOL
+E14	NoDisposition:T14 
+T15	NoDisposition 428 436	NAPROSYN
+E15	NoDisposition:T15 
+T16	NoDisposition 438 446	NAPROXEN
+E16	NoDisposition:T16 
+T17	NoDisposition 478 485	VASOTEC
+E17	NoDisposition:T17 
+T18	NoDisposition 487 504	ENALAPRIL MALEATE
+E18	NoDisposition:T18 
+T19	NoDisposition 535 541	ULTRAM
+E19	NoDisposition:T19 
+T20	NoDisposition 640 645	LASIX
+E20	NoDisposition:T20 
+T21	NoDisposition 647 657	FUROSEMIDE
+E21	NoDisposition:T21 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Stop
+A4	Temporality E1 Past
+A5	Negation E1 NotNegated

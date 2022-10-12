@@ -1,0 +1,219 @@
+
+
+
+Record date: 2087-09-18
+
+
+
+
+
+
+
+
+
+
+CHIEF COMPLAINT:  BP CHECK
+
+
+
+HISTORY OF PRESENT ILLNESS: 
+
+
+
+The patient presents to the office for follow-up of (#1) hypertension. 
+
+
+
+The patient presents to the office for follow-up of (#2) anemia. He saw Dr willis and has an appt fdor colonoscopy in Nov.
+
+
+
+
+
+PAST MEDICAL HISTORY: Entered By:ostrowski  On:04/26/2086 
+
+ 
+
+PMH significant for HTN. 
+
+
+
+
+
+PAST SURGICAL HISTORY: Entered By:ostrowski  On:05/02/2086 
+
+ tonsillectomy.
+
+
+
+
+
+FAMILY HISTORY: Entered By:ostrowski  On:05/02/2086 
+
+Father deceaced Alsheimer's
+
+Mother NIDDM, HTN, CVA, Nephrogenic DI.
+
+
+
+SOCIAL HISTORY: Entered By:ostrowski  On:05/02/2086 
+
+ 
+
+EtOH:  rare use.   
+
+Drugs:  no drug abuse.   
+
+Tobacco:  none.   
+
+Family:  single.   
+
+Work:     Senior Manager of Goods Production            .
+
+
+
+REVIEW OF SYSTEMS: Constitution:  Constitution:  good general health, no fever, no change in weight . 
+
+ Cardiovascular:  no palpitations, no chest pain or dyspnea. 
+
+ Respiratory:  no cough, no wheezing or dyspnea. 
+
+ Urinary:  no dysuria or frequent urination  
+
+ Gastrointestinal:  no abdominal pain, no diarrhea, no constipation, no nausea or vomiting.
+
+ Endocrine:  no temperature intolerance or weight changes. 
+
+ 
+
+
+
+
+
+VITAL SIGNS: 
+
+Date/Time: 09/18/2087  05:39 PM  - ostrowski
+
+Pulse 1: 80 bpm 
+
+Blood Pressure 1: 130 / 88 mmHg 
+
+Weight: 302.00 lbs.
+
+
+
+
+
+
+
+EXAMINATION: 
+
+
+
+[Neck] - supple no lymphadenopathy or thyromegaly, 
+
+[CV] - regular rate no murmurs, rubs or gallops, no heave; carotid and pedal pulses normal and 
+
+[Respiratory] - clear breath sounds bilaterally, no accessory muscle use, normal percussion. 
+
+
+
+
+
+CONSTITUTIONAL: The patient appears severely obese.  Appears properly developed for stated age, in no apparent distress.  
+
+
+
+
+
+OTHER: HB 12.5
+
+
+
+
+
+IMPRESSION: Hypertension
+
+Obesity
+
+Minimal anemia but with drop over past 4 months.
+
+
+
+
+
+ALLERGIES: 
+
+No Known Drug Allergies 05/21/2087 ostrowski
+
+
+
+
+
+MEDICATIONS: 
+
+Lidex cream No Match bid prn up to 2 week : 01/09/2087 - 02/02/2090 ACT : ostrowski
+
+   Script:  Amt: 45 grams  Refill: 1 Date: 09/29/2089 : ostrowski
+
+
+
+HCTZ 25mg qd : 05/02/2086 - 09/29/2089 ACT : ostrowski
+
+   Script:  Amt: 100  Refill: 3 Date: 10/21/2088 : ostrowski
+
+
+
+K-Dur 10MEQ qod : 05/02/2086 - 03/06/2092 ACT : ostrowski
+
+   Script:  Amt: #30  Refill: 11 Date: 08/03/2090 : ostrowski
+
+
+
+Zestril 5MG qd : 05/02/2086 - 10/21/2088 ACT : ostrowski
+
+   Script:  Amt: 30  Refill: 11 Date: 09/18/2087 : ostrowski
+
+
+
+
+
+
+
+PROBLEMS - CARE PLANS: 
+
+Problem: problem
+
+Code: 285.9 Anemia, unspecified
+
+Careplan: 
+
+GI consult for endoscopy. Email sent to Dr Willis requesting expedite proceedure in view of lower HCT.
+
+Problem: problem
+
+Code: 401.9 Hypertension
+
+Careplan: 
+
+
+
+Diet:  low sodium and low cholesterol. weight loss increse exercise.
+
+ASA QD
+
+ Refill meds
+
+FU 3 mo.
+
+
+
+E/M Codes: 42789
+
+
+
+
+THIS IS A COPY PRODUCED FOR THE LMR. THE ORGINAL IS STORED ON THE COMPENDIA SERVER AT SMI KESSEL GROUP HOME AND IN PRINT IN THE PATIENT'S SMI PAPER RECORD.
+
+
+

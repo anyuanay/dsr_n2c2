@@ -1,0 +1,103 @@
+T1	NoDisposition 766 774	Dilantin
+E1	NoDisposition:T1 
+T3	NoDisposition 1818 1826	atenolol
+E3	NoDisposition:T3 
+T4	NoDisposition 1856 1863	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 1875 1886	clopidogrel
+E5	NoDisposition:T5 
+T6	NoDisposition 1931 1941	citalopram
+E6	NoDisposition:T6 
+T7	NoDisposition 1953 1962	glipizide
+E7	NoDisposition:T7 
+T8	NoDisposition 1992 2001	Metformin
+E8	NoDisposition:T8 
+T9	NoDisposition 2013 2021	Dilantin
+E9	NoDisposition:T9 
+T10	NoDisposition 2033 2039	Colace
+E10	NoDisposition:T10 
+T11	NoDisposition 2050 2056	folate
+E11	NoDisposition:T11 
+T12	NoDisposition 2058 2066	Percocet
+E12	NoDisposition:T12 
+T13	NoDisposition 2150 2160	Loratadine
+E13	NoDisposition:T13 
+T14	NoDisposition 2171 2180	Ibuprofen
+E14	NoDisposition:T14 
+T15	NoDisposition 2193 2202	Trazodone
+E15	NoDisposition:T15 
+T17	Disposition 3874 3882	Dilantin
+E17	Disposition:T17 
+T18	Disposition 4366 4374	Dilantin
+E18	Disposition:T18 
+T19	Disposition 4437 4445	Dilantin
+E19	Disposition:T19 
+T20	Disposition 4562 4570	Dilantin
+E20	Disposition:T20 
+T21	Disposition 5268 5276	Dilantin
+E21	Disposition:T21 
+T22	NoDisposition 1838 1842	hctz
+E22	NoDisposition:T22 
+T23	NoDisposition 1905 1908	asa
+E23	NoDisposition:T23 
+T24	NoDisposition 1973 1979	Cozaar
+E24	NoDisposition:T24 
+T25	NoDisposition 2041 2048	Calcium
+E25	NoDisposition:T25 
+T26	NoDisposition 2112 2118	Valium
+E26	NoDisposition:T26 
+A1	Certainty E17 Hypothetical
+A2	Actor E17 Physician
+A3	Action E17 Decrease
+A4	Temporality E17 Present
+T27	Disposition 4043 4046	AED
+E27	Disposition:T27 
+A5	Certainty E27 Hypothetical
+A6	Actor E27 Physician
+A7	Action E27 Stop
+A8	Temporality E27 Present
+T28	Disposition 3874 3882	Dilantin
+E28	Disposition:T28 
+A9	Certainty E28 Hypothetical
+A10	Actor E28 Physician
+A11	Action E28 Stop
+A12	Temporality E28 Present
+A13	Certainty E18 Conditional
+A14	Actor E18 Physician
+A15	Action E18 Decrease
+A16	Temporality E18 Future
+T29	Disposition 4366 4374	Dilantin
+E29	Disposition:T29 
+A17	Certainty E29 Conditional
+A18	Actor E29 Physician
+A19	Action E29 Stop
+A20	Temporality E29 Future
+A21	Certainty E19 Conditional
+A22	Actor E19 Physician
+A23	Action E19 Stop
+A24	Temporality E19 Future
+A25	Certainty E20 Conditional
+A26	Actor E20 Physician
+A27	Action E20 Stop
+A28	Temporality E20 Future
+A29	Certainty E21 Hypothetical
+A30	Actor E21 Physician
+A31	Action E21 Decrease
+A32	Temporality E21 Future
+T30	Disposition 5268 5276	Dilantin
+E30	Disposition:T30 
+A33	Certainty E30 Hypothetical
+A34	Actor E30 Physician
+A35	Action E30 Stop
+A36	Temporality E30 Future
+T31	Undetermined 1780 1794	calcium agents
+E31	Undetermined:T31 
+A37	Negation E19 NotNegated
+A38	Negation E29 NotNegated
+A39	Negation E20 NotNegated
+A40	Negation E27 NotNegated
+A41	Negation E21 NotNegated
+A42	Negation E28 NotNegated
+A43	Negation E18 NotNegated
+A44	Negation E30 NotNegated
+A45	Negation E17 NotNegated

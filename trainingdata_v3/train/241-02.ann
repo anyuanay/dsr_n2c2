@@ -1,0 +1,26 @@
+T1	NoDisposition 483 496	nitroglycerin
+E1	NoDisposition:T1 
+T2	NoDisposition 609 620	NPH insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 687 690	NPH
+E3	NoDisposition:T3 
+T4	NoDisposition 717 724	aspirin
+E4	NoDisposition:T4 
+T5	NoDisposition 742 751	Captopril
+E5	NoDisposition:T5 
+T6	NoDisposition 769 774	Lasix
+E6	NoDisposition:T6 
+T7	NoDisposition 792 803	simvastatin
+E7	NoDisposition:T7 
+T8	NoDisposition 819 829	amlodipine
+E8	NoDisposition:T8 
+T9	NoDisposition 844 853	Neurontin
+E9	NoDisposition:T9 
+T10	NoDisposition 872 880	atenolol
+E10	NoDisposition:T10 
+T11	NoDisposition 896 904	estrogen
+E11	NoDisposition:T11 
+T14	NoDisposition 660 663	CZI
+E14	NoDisposition:T14 
+T15	NoDisposition 939 949	nitropatch
+E15	NoDisposition:T15 

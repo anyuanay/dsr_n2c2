@@ -1,0 +1,56 @@
+T2	Disposition 1061 1066	nitro
+E2	Disposition:T2 
+T3	Disposition 1068 1075	heparin
+E3	Disposition:T3 
+T4	Disposition 1081 1084	ASA
+E4	Disposition:T4 
+T5	NoDisposition 1453 1460	Norvasc
+E5	NoDisposition:T5 
+T6	NoDisposition 1470 1478	Atenolol
+E6	NoDisposition:T6 
+T7	Undetermined 5023 5030	Heparin
+E7	Undetermined:T7 
+T8	Undetermined 5032 5035	ASA
+E8	Undetermined:T8 
+T10	Undetermined 5058 5064	statin
+E10	Undetermined:T10 
+T11	Disposition 5074 5078	ACEI
+E11	Disposition:T11 
+T12	Disposition 5110 5122	initegrillin
+E12	Disposition:T12 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 UniqueDose
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 UniqueDose
+A8	Temporality E3 Past
+A9	Certainty E4 Certain
+A10	Actor E4 Physician
+A11	Action E4 UniqueDose
+A12	Temporality E4 Past
+T13	Disposition 5045 5056	betablocker
+E13	Disposition:T13 
+A13	Certainty E13 Certain
+A14	Actor E13 Physician
+A15	Action E13 Unknown
+A16	Temporality E13 Present
+A17	Certainty E11 Certain
+A18	Actor E11 Physician
+A19	Action E11 Stop
+A20	Temporality E11 Present
+A21	Certainty E12 Certain
+A22	Actor E12 Physician
+A23	Action E12 UniqueDose
+A24	Temporality E12 Past
+T14	Undetermined 5594 5602	Mucomyst
+E14	Undetermined:T14 
+T1	NoDisposition 4204 4212	WARFARIN
+E1	NoDisposition:T1 
+A25	Negation E13 NotNegated
+A26	Negation E12 NotNegated
+A27	Negation E3 NotNegated
+A28	Negation E4 NotNegated
+A29	Negation E2 NotNegated
+A30	Negation E11 NotNegated

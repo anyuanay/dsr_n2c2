@@ -1,0 +1,126 @@
+T1	NoDisposition 337 342	chemo
+E1	NoDisposition:T1 
+T2	NoDisposition 412 420	coumadin
+E2	NoDisposition:T2 
+T3	Disposition 1582 1586	Vanc
+E3	Disposition:T3 
+T4	Disposition 1587 1595	Cefepime
+E4	Disposition:T4 
+T5	Disposition 1625 1630	Lasix
+E5	Disposition:T5 
+T6	NoDisposition 1941 1946	chemo
+E6	NoDisposition:T6 
+T7	NoDisposition 2281 2289	Coumadin
+E7	NoDisposition:T7 
+T8	NoDisposition 2291 2306	Warfarin Sodium
+E8	NoDisposition:T8 
+T10	NoDisposition 2380 2400	Acetylsalicylic Acid
+E10	NoDisposition:T10 
+T11	NoDisposition 2402 2409	Aspirin
+E11	NoDisposition:T11 
+T13	NoDisposition 2478 2495	Calcium Carbonate
+E13	NoDisposition:T13 
+T14	NoDisposition 2524 2531	Digoxin
+E14	NoDisposition:T14 
+T17	NoDisposition 2631 2646	Insulin Regular
+E17	NoDisposition:T17 
+T18	NoDisposition 2888 2905	Insulin Nph Human
+E18	NoDisposition:T18 
+T19	NoDisposition 2943 2960	Insulin Nph Human
+E19	NoDisposition:T19 
+T21	NoDisposition 3014 3022	Prinivil
+E21	NoDisposition:T21 
+T23	NoDisposition 3110 3121	Simvastatin
+E23	NoDisposition:T23 
+T24	NoDisposition 3123 3128	Zocor
+E24	NoDisposition:T24 
+T27	NoDisposition 8963 8968	chemo
+E27	NoDisposition:T27 
+T28	NoDisposition 9038 9046	coumadin
+E28	NoDisposition:T28 
+T29	NoDisposition 9688 9693	lasix
+E29	NoDisposition:T29 
+T31	Disposition 10061 10072	antibiotics
+E31	Disposition:T31 
+T32	Undetermined 10234 10241	digoxin
+E32	Undetermined:T32 
+T33	Undetermined 10243 10252	labetalol
+E33	Undetermined:T33 
+T34	Disposition 10260 10268	coumadin
+E34	Disposition:T34 
+T35	NoDisposition 10336 10345	labetalol
+E35	NoDisposition:T35 
+T36	NoDisposition 10359 10369	lisinopril
+E36	NoDisposition:T36 
+T37	NoDisposition 10387 10393	statin
+E37	NoDisposition:T37 
+T38	NoDisposition 10395 10398	ASA
+E38	NoDisposition:T38 
+T39	Undetermined 10418 10421	NPH
+E39	Undetermined:T39 
+T40	NoDisposition 10436 10440	RISS
+E40	NoDisposition:T40 
+T41	NoDisposition 10522 10530	Coumadin
+E41	NoDisposition:T41 
+T43	NoDisposition 2326 2339	Acetaminophen
+E43	NoDisposition:T43 
+T44	NoDisposition 2341 2348	Tylenol
+E44	NoDisposition:T44 
+T45	NoDisposition 2445 2452	Norvasc
+E45	NoDisposition:T45 
+T46	NoDisposition 2433 2443	Amlodipine
+E46	NoDisposition:T46 
+T47	NoDisposition 2556 2562	Folate
+E47	NoDisposition:T47 
+T48	NoDisposition 2564 2574	Folic Acid
+E48	NoDisposition:T48 
+T49	NoDisposition 2596 2611	Hydralazine Hcl
+E49	NoDisposition:T49 
+T50	NoDisposition 2981 2994	Labetalol Hcl
+E50	NoDisposition:T50 
+T51	NoDisposition 3024 3034	Lisinopril
+E51	NoDisposition:T51 
+T52	NoDisposition 3149 3164	Magnesium Oxide
+E52	NoDisposition:T52 
+T53	NoDisposition 3054 3073	Polyethylene Glycol
+E53	NoDisposition:T53 
+T54	NoDisposition 3076 3083	Miralax
+E54	NoDisposition:T54 
+T55	Disposition 9728 9733	lasix
+E55	Disposition:T55 
+A1	Certainty E55 Certain
+A2	Actor E55 Physician
+A3	Action E55 Start
+A4	Temporality E55 Present
+T56	NoDisposition 8843 8850	digoxin
+E56	NoDisposition:T56 
+T57	NoDisposition 10327 10334	Norvasc
+E57	NoDisposition:T57 
+T58	NoDisposition 10347 10357	hydralazin
+E58	NoDisposition:T58 
+A9	Certainty E34 Certain
+A10	Actor E34 Physician
+A11	Action E34 Stop
+A12	Temporality E34 Present
+A13	Certainty E31 Certain
+A14	Actor E31 Physician
+A15	Action E31 Stop
+A16	Temporality E31 Present
+A25	Certainty E3 Certain
+A26	Actor E3 Physician
+A27	Action E3 UniqueDose
+A28	Temporality E3 Past
+A29	Certainty E4 Certain
+A30	Actor E4 Physician
+A31	Action E4 UniqueDose
+A32	Temporality E4 Past
+A33	Certainty E5 Certain
+A34	Actor E5 Physician
+A35	Action E5 UniqueDose
+A36	Temporality E5 Past
+A37	Negation E34 NotNegated
+A38	Negation E55 NotNegated
+A39	Negation E3 NotNegated
+A40	Negation E4 NotNegated
+A41	Negation E31 NotNegated
+A42	Negation E5 NotNegated

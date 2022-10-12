@@ -1,0 +1,30 @@
+T2	NoDisposition 1088 1100	Atorvastatin
+E2	NoDisposition:T2 
+T3	NoDisposition 1149 1176	BECLOMETHASONE DIPROPIONATE
+E3	NoDisposition:T3 
+T4	NoDisposition 1248 1254	Nexium
+E4	NoDisposition:T4 
+T5	NoDisposition 1322 1331	Oxycodone
+E5	NoDisposition:T5 
+T6	NoDisposition 1378 1385	Proscar
+E6	NoDisposition:T6 
+T7	NoDisposition 1387 1398	FINASTERIDE
+E7	NoDisposition:T7 
+T8	NoDisposition 1859 1865	statin
+E8	NoDisposition:T8 
+T9	NoDisposition 1910 1916	Nexium
+E9	NoDisposition:T9 
+T12	NoDisposition 400 407	Nexiuim
+E12	NoDisposition:T12 
+T13	NoDisposition 1023 1030	Aspirin
+E13	NoDisposition:T13 
+T14	NoDisposition 1032 1052	ACETYLSALICYLIC ACID
+E14	NoDisposition:T14 
+T15	NoDisposition 1136 1147	Beconase AQ
+E15	NoDisposition:T15 
+T16	NoDisposition 1256 1268	ESOMEPRAZOLE
+E16	NoDisposition:T16 
+T17	NoDisposition 1451 1460	Uroxatral
+E17	NoDisposition:T17 
+T18	NoDisposition 1462 1471	ALFUZOSIN
+E18	NoDisposition:T18 

@@ -1,0 +1,45 @@
+T1	NoDisposition 1426 1439	Amitriptyline
+E1	NoDisposition:T1 
+T2	NoDisposition 1441 1449	atenolol
+E2	NoDisposition:T2 
+T3	NoDisposition 1451 1458	aspirin
+E3	NoDisposition:T3 
+T4	NoDisposition 1461 1480	hydrochlorothiazide
+E4	NoDisposition:T4 
+T5	NoDisposition 1482 1489	insulin
+E5	NoDisposition:T5 
+T6	NoDisposition 1491 1496	Lasix
+E6	NoDisposition:T6 
+T7	NoDisposition 1498 1508	lisinopril
+E7	NoDisposition:T7 
+T8	NoDisposition 1510 1517	Norvasc
+E8	NoDisposition:T8 
+T9	NoDisposition 1520 1529	Synthroid
+E9	NoDisposition:T9 
+T10	NoDisposition 1531 1536	Zocor
+E10	NoDisposition:T10 
+T11	NoDisposition 1542 1548	Zoloft
+E11	NoDisposition:T11 
+T12	Disposition 2832 2842	Vancomycin
+E12	Disposition:T12 
+T13	Disposition 2844 2856	levofloxacin
+E13	Disposition:T13 
+T14	Disposition 2863 2869	Flagyl
+E14	Disposition:T14 
+T15	NoDisposition 2893 2904	antibiotics
+E15	NoDisposition:T15 
+A1	Certainty E12 Certain
+A2	Actor E12 Physician
+A3	Action E12 UniqueDose
+A4	Temporality E12 Past
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 UniqueDose
+A8	Temporality E13 Past
+A9	Certainty E14 Certain
+A10	Actor E14 Physician
+A11	Action E14 UniqueDose
+A12	Temporality E14 Past
+A13	Negation E14 NotNegated
+A14	Negation E13 NotNegated
+A15	Negation E12 NotNegated

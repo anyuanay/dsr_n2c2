@@ -1,0 +1,59 @@
+T2	NoDisposition 1533 1540	ZESTRIL
+E2	NoDisposition:T2 
+T4	NoDisposition 2404 2411	zestril
+E4	NoDisposition:T4 
+T5	Disposition 2581 2586	zocor
+E5	Disposition:T5 
+T6	Disposition 2919 2927	atenolol
+E6	Disposition:T6 
+T7	NoDisposition 2947 2954	zestril
+E7	NoDisposition:T7 
+T8	NoDisposition 1288 1297	MICRONASE
+E8	NoDisposition:T8 
+T9	NoDisposition 1316 1330	RANITIDINE HCL
+E9	NoDisposition:T9 
+T10	NoDisposition 1379 1387	ATENOLOL
+E10	NoDisposition:T10 
+T11	NoDisposition 1456 1461	ZOCOR
+E11	NoDisposition:T11 
+T12	NoDisposition 1463 1474	SIMVASTATIN
+E12	NoDisposition:T12 
+T13	NoDisposition 1542 1552	LISINOPRIL
+E13	NoDisposition:T13 
+T14	NoDisposition 1610 1627	AMITRIPTYLINE HCL
+E14	NoDisposition:T14 
+T15	NoDisposition 1657 1662	ECASA
+E15	NoDisposition:T15 
+T16	NoDisposition 1664 1671	ASPIRIN
+E16	NoDisposition:T16 
+T17	Disposition 2373 2382	micronase
+E17	Disposition:T17 
+A1	Certainty E17 Conditional
+A2	Actor E17 Physician
+A3	Action E17 Increase
+A4	Temporality E17 Future
+T18	Disposition 2263 2272	micronase
+E18	Disposition:T18 
+A5	Certainty E18 Hypothetical
+A6	Actor E18 Physician
+A7	Action E18 Unknown
+A8	Temporality E18 Future
+A9	Certainty E5 Hypothetical
+A10	Actor E5 Physician
+A11	Action E5 Increase
+A12	Temporality E5 Future
+T19	Disposition 2837 2846	b-blocker
+E19	Disposition:T19 
+A13	Certainty E19 Hypothetical
+A14	Actor E19 Physician
+A15	Action E19 Increase
+A16	Temporality E19 Present
+A17	Certainty E6 Certain
+A18	Actor E6 Physician
+A19	Action E6 Increase
+A20	Temporality E6 Present
+A21	Negation E19 NotNegated
+A22	Negation E6 NotNegated
+A23	Negation E5 NotNegated
+A24	Negation E18 NotNegated
+A25	Negation E17 NotNegated

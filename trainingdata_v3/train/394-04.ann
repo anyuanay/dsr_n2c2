@@ -1,0 +1,156 @@
+T1	Disposition 1722 1734	levofloxacin
+E1	Disposition:T1 
+T2	NoDisposition 1798 1807	Lopressor
+E2	NoDisposition:T2 
+T3	NoDisposition 1809 1816	Sotalol
+E3	NoDisposition:T3 
+T4	NoDisposition 1818 1828	prednisone
+E4	NoDisposition:T4 
+T5	NoDisposition 1830 1834	iron
+E5	NoDisposition:T5 
+T6	NoDisposition 1836 1844	thiamine
+E6	NoDisposition:T6 
+T7	NoDisposition 1846 1856	folic acid
+E7	NoDisposition:T7 
+T8	NoDisposition 1863 1870	calcium
+E8	NoDisposition:T8 
+T9	NoDisposition 1872 1881	glyburide
+E9	NoDisposition:T9 
+T10	Disposition 1896 1903	Aspirin
+E10	Disposition:T10 
+T11	Disposition 1945 1950	PRBCs
+E11	Disposition:T11 
+T12	NoDisposition 2183 2191	steroids
+E12	NoDisposition:T12 
+T13	NoDisposition 2573 2580	aricept
+E13	NoDisposition:T13 
+T14	NoDisposition 2596 2603	digoxin
+E14	NoDisposition:T14 
+T15	NoDisposition 2622 2632	folic acid
+E15	NoDisposition:T15 
+T16	NoDisposition 2647 2661	nitrofurantoin
+E16	NoDisposition:T16 
+T17	NoDisposition 2678 2683	zocor
+E17	NoDisposition:T17 
+T18	NoDisposition 2699 2708	glyburide
+E18	NoDisposition:T18 
+T19	NoDisposition 2724 2734	prednisone
+E19	NoDisposition:T19 
+T21	NoDisposition 2771 2779	thiamine
+E21	NoDisposition:T21 
+T22	NoDisposition 2797 2812	ferrous sulfate
+E22	NoDisposition:T22 
+T23	NoDisposition 2832 2835	MVI
+E23	NoDisposition:T23 
+T24	NoDisposition 2841 2844	asa
+E24	NoDisposition:T24 
+T25	NoDisposition 2862 2869	sotalol
+E25	NoDisposition:T25 
+T26	NoDisposition 2919 2928	lopressor
+E26	NoDisposition:T26 
+T28	Undetermined 7804 7810	Nexium
+E28	Undetermined:T28 
+T29	Disposition 7929 7940	antibiotics
+E29	Disposition:T29 
+T31	NoDisposition 8240 8249	lopressor
+E31	NoDisposition:T31 
+T32	NoDisposition 8251 8258	sotalol
+E32	NoDisposition:T32 
+T33	NoDisposition 8260 8267	digoxin
+E33	NoDisposition:T33 
+T34	Disposition 8277 8284	aspirin
+E34	Disposition:T34 
+T35	Disposition 8421 8430	glyburide
+E35	Disposition:T35 
+T36	Undetermined 8498 8502	RISS
+E36	Undetermined:T36 
+T37	Undetermined 8542 8552	Prednisone
+E37	Undetermined:T37 
+T38	NoDisposition 8673 8680	heparin
+E38	NoDisposition:T38 
+T39	Undetermined 8695 8701	Nexium
+E39	Undetermined:T39 
+T40	NoDisposition 1858 1861	mvi
+E40	NoDisposition:T40 
+T41	NoDisposition 1887 1894	effexor
+E41	NoDisposition:T41 
+A1	Certainty E11 Certain
+A2	Actor E11 Physician
+A3	Action E11 UniqueDose
+A4	Temporality E11 Past
+A5	Certainty E10 Certain
+A6	Actor E10 Physician
+A7	Action E10 Stop
+A8	Temporality E10 Past
+T42	NoDisposition 2749 2762	calcium 600/D
+E42	NoDisposition:T42 
+T43	NoDisposition 2887 2894	effexor
+E43	NoDisposition:T43 
+T44	NoDisposition 2953 2960	Demerol
+E44	NoDisposition:T44 
+A9	Certainty E29 Certain
+A10	Actor E29 Physician
+A11	Action E29 Stop
+A12	Temporality E29 Present
+T45	Disposition 8070 8077	effexor
+E45	Disposition:T45 
+A13	Certainty E45 Certain
+A14	Actor E45 Physician
+A15	Action E45 Decrease
+A16	Temporality E45 Present
+A17	Certainty E34 Certain
+A18	Actor E34 Physician
+A19	Action E34 Stop
+A20	Temporality E34 Present
+T46	Disposition 8347 8353	statin
+E46	Disposition:T46 
+A21	Certainty E46 Certain
+A22	Actor E46 Physician
+A23	Action E46 Increase
+A24	Temporality E46 Past
+A25	Certainty E35 Certain
+A26	Actor E35 Physician
+A27	Action E35 Increase
+A28	Temporality E35 Past
+T47	Disposition 8421 8430	glyburide
+E47	Disposition:T47 
+A29	Certainty E47 Certain
+A30	Actor E47 Physician
+A31	Action E47 Stop
+A32	Temporality E47 Present
+T48	Disposition 8542 8552	Prednisone
+E48	Disposition:T48 
+A33	Certainty E48 Conditional
+A34	Actor E48 Physician
+A35	Action E48 Decrease
+A36	Temporality E48 Present
+T49	NoDisposition 8665 8672	fragmin
+E49	NoDisposition:T49 
+T20	Disposition 1750 1752	NS
+E20	Disposition:T20 
+A37	Certainty E20 Certain
+A38	Actor E20 Physician
+A39	Action E20 UniqueDose
+A40	Temporality E20 Past
+A41	Certainty E1 Certain
+A42	Actor E1 Physician
+A43	Action E1 UniqueDose
+A44	Temporality E1 Past
+T27	Disposition 7369 7374	fluid
+E27	Disposition:T27 
+A45	Certainty E27 Certain
+A46	Actor E27 Physician
+A47	Action E27 UniqueDose
+A48	Temporality E27 Past
+A49	Negation E34 NotNegated
+A50	Negation E45 NotNegated
+A51	Negation E46 NotNegated
+A52	Negation E35 NotNegated
+A53	Negation E47 NotNegated
+A54	Negation E29 NotNegated
+A55	Negation E20 NotNegated
+A56	Negation E10 NotNegated
+A57	Negation E27 NotNegated
+A58	Negation E48 NotNegated
+A59	Negation E1 NotNegated
+A60	Negation E11 NotNegated

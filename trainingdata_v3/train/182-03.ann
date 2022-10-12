@@ -1,0 +1,34 @@
+T1	NoDisposition 795 802	Zyprexa
+E1	NoDisposition:T1 
+T2	NoDisposition 861 868	Aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 942 949	Aspirin
+E3	NoDisposition:T3 
+T7	Disposition 1880 1907	antihypertensive medication
+E7	Disposition:T7 
+T8	NoDisposition 804 814	OLANZAPINE
+E8	NoDisposition:T8 
+T9	NoDisposition 882 901	ACETYLSALICYLIC ACI
+E9	NoDisposition:T9 
+T10	NoDisposition 963 982	ACETYLSALICYLIC ACI
+E10	NoDisposition:T10 
+T11	NoDisposition 1023 1034	Vitamin B12
+E11	NoDisposition:T11 
+T12	NoDisposition 1036 1050	CYANOCOBALAMIN
+E12	NoDisposition:T12 
+T13	NoDisposition 1069 1076	Lipitor
+E13	NoDisposition:T13 
+T14	NoDisposition 1078 1090	ATORVASTATIN
+E14	NoDisposition:T14 
+A1	Certainty E7 Certain
+A2	Actor E7 Physician
+A3	Action E7 Start
+A4	Temporality E7 Present
+T15	Disposition 1921 1940	hydrochlorothiazide
+E15	Disposition:T15 
+A5	Certainty E15 Certain
+A6	Actor E15 Physician
+A7	Action E15 Start
+A8	Temporality E15 Present
+A9	Negation E15 NotNegated
+A10	Negation E7 NotNegated

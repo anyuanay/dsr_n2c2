@@ -1,0 +1,164 @@
+
+
+
+Record date: 2097-04-30
+
+
+	CARDIAC SURGERY
+	
+
+	WILLOW GARDENS CARE CENTER
+	
+Date of Service: 04/30/2097 16:19
+
+Demographics
+Race: Caucasian
+Surgeon: Troyer, Timothy
+Staff Cardiologist: Yelton, Ora-jordan
+
+History of Presenting Illness
+81 male with a long history of claudication and gas pressure.  He had been walking for five miles a day until about a year ago, when he began to experience more symptoms.  He is presently able to get symptoms with minimal exertion. He had an exercise stress test, which was positive.  He underwent a cardiac cath today, which demonstrated severe left main in addition to three vessel coronary artery disease.  He had an Intra-aortic balloon pump placed and cardiac surgery was consulted for Coronary Artery Bypass Grafting.
+
+Indications
+Coronary Artery Disease
+
+Pre-operative risk factors
+Weight (lb)
+Height (in): 70
+Smoker
+Diabetes type: Diabetes Mellitus Type II
+Diabetes Control: Oral
+Dyslipidemia
+Preop Creatinine: 1.64
+Hypertension
+Peripheral Vascular Disease
+Peripheral Arterial Disease: Claudication
+
+Prior CV Interventions
+
+Other Past Medical/Surgical History
+Hypercholesterolemia
+Hypertension
+Peripheral Vascular Disease (PVD)Left greater than right 2095 studies.
+Pulmonary NoduleSerial Scans last being 4/23/97
+Vitamin B12 Deficiency Anemia
+CataractsOD
+Asbestosis
+Peptic Ulcer Disease
+BPH
+NeuropathyLegs/feet
+Chronic Renal Insufficiency
+Retinopathy
+
+Allergies
+NKA: No Known Allergies
+
+Admission medications
+None
+
+Current Medications
+Acetylcysteine 20%(200 mg/ml) 600 MG PO BID
+Cefazolin sodium (ancef ) 1000 MG IV Q8H
+Chlorhexidine(mouthwash) 0.12% (peridex m rinse ) 30 ML MOUTHWASH on call to OR
+Heparin 1000 Units/Hr IV 
+Heparin Sliding Scale IV BID
+Metoprolol tartrate (lopressor ) 12.5 MG PO Q8H
+Mupirocin (bactroban ) 1 APPLICATION TOP BID
+Omeprazole 40 MG PO DAILY
+Simvastatin 10 MG PO DAILY
+
+Preop Cardiac Status
+
+Preoperative Hemodynamics and Diagnostic Testing
+
+Cath report
+ Willow Gardens Care Center   left main severe; left anterior descending 70%; CX ostial disease; right coronary artery moderate to severe; PLV .80 to .90
+
+Echo
+Pending
+
+Carotid Non-Invasive Study
+ Pending
+
+Social History
+Other Notes: DC smoke 2062, Married, Retired for 20 years, no ETOH.
+
+Family History
+
+Review of Systems
+General: Denies fevers, chills, recent weight gain or loss
+HEENT: Denies headache , sore throat, rhinorrhea, difficulty swallowing
+Cardiac: Per HPI
+Pulmonary: Denies cough, hemoptysis
+GI: Denies reflux, nausea, vomiting, constipation, diarrhea
+GU: Denies dysuria, hematuria, incontinence
+Neuro: Denies syncope, stroke, TIA, seizure.
+M/S: Denies arthritis, arthralgia, myalgia, recent fractures
+Hemat: Denies easy bruising, anemia, deep vein thrombosis.
+Vascular: + claudication
+
+Physical Exam
+GENERAL: No acute distress, speaks in full sentences and able to lie supine. HOH with hearing aide.
+TEETH: No active infection, edentulous.
+NECK: Supple, no JVD
+CV: Regular rhythm, no rub, no murmur, + Intra-aortic balloon pump sounds
+PULM: Clear bilaterally with supine exam.
+SKIN: No lesions or rashes
+EXTREMETIES: Warm, no edema
+ABD: Soft, non-tender, no organomegaly
+RECTAL: Guaiac negative
+NEURO: Alert and oriented.  EOMI, PERRLA
+Saphenous Vein: Ok bilaterally on supine exam following IABP.
+Pulse 1+ throughout.   
+Bruits: none in abdomen or Carotids.
+
+
+Chest X-ray
+Pending
+
+Most Recent Labs (since admission)
+-- CBC --
+2097/04/30 15:58 - WBC... 5.2 th/cmm
+2097/04/30 15:58 - Hgb... 13.6 gm/dl
+2097/04/30 15:58 - Hct... 36.5 % (L)
+2097/04/30 15:58 - Plt... 151 th/cumm
+-- BMP --
+2097/04/30 16:04 - P Na... PEND mmol/L
+2097/04/30 16:04 - P K... PEND mmol/L
+2097/04/30 16:04 - P Cl... PEND mmol/L
+2097/04/30 16:04 - P TCO2... PEND mmol/L
+2097/04/30 16:04 - P BUN... PEND mg/dl
+2097/04/30 16:04 - P Cre... PEND mg/dl
+2097/04/30 16:04 - P Glu... PEND mg/dl
+2097/04/30 16:04 - Phos... PEND mg/dl
+2097/04/30 16:04 - Mg... PEND meq/L
+2097/04/30 16:04 - TSH... PEND uU/ml
+-- HFP --
+2097/04/30 16:04 - SGOT... PEND U/L
+2097/04/30 16:04 - SGPT... PEND U/L
+2097/04/30 16:04 - Alk Phos... PEND U/L
+2097/04/30 16:04 - TBili... PEND mg/dl
+2097/04/30 16:04 - DBili... PEND mg/dl
+2097/04/30 16:04 - Alb... PEND g/dl
+-- CARDIAC --
+2097/04/30 16:04 - CPK... PEND U/L
+-- COAGS --
+2097/04/30 16:12 - PT... 13.1 sec
+2097/04/30 16:12 - PT-INR... 1.1 
+2097/04/30 16:12 - APTT... 65.8 sec (H)
+
+Problems and Plans
+1: CAD Plan for Coronary Artery Bypass Grafting on IABP, tenative date for 5/01.   Echocardiogram pending to eval for valvular disease and EF.  If needs valve surgery, he is edentulous.  Have consented for both pending results.  + recent ASA.  On heparin. 
+2: CNIS Pending.  Has Hx of RICA disease in 2095. 
+3: Pulmonary H/O Asbestosis.   Serial CT's demonstrating nodules.  Discussed results with Dr Troyer.   Plan to proceed with surgery for now, and reeval post op. 
+4: Renal CRI noted.  Perhaps secondary to Lisinopril or EF.
+Pt and family aware of possible need for dialysis. 
+5: Diabetes Mellitus Type II Presently oral control. 
+6: Preop Issues - labs pending
+- Cardiac surgery consent completed for Coronary Artery Bypass Grafting +/- valve surgery pending echocardiogram results. 
+
+Signed by Mitchell Jaynes Pa  on 04/30/2097 16:19
+
+
+
+

@@ -1,0 +1,101 @@
+T1	NoDisposition 570 579	Metformin
+E1	NoDisposition:T1 
+T2	Disposition 609 618	glyburide
+E2	Disposition:T2 
+T4	NoDisposition 915 922	Lipitor
+E4	NoDisposition:T4 
+T5	Disposition 1327 1334	Lipitor
+E5	Disposition:T5 
+T6	NoDisposition 1529 1540	pravastatin
+E6	NoDisposition:T6 
+T7	Disposition 1671 1674	PPI
+E7	Disposition:T7 
+T8	Disposition 1802 1812	omeprazole
+E8	Disposition:T8 
+T9	Disposition 1844 1852	Protonix
+E9	Disposition:T9 
+T10	NoDisposition 1895 1903	Protonix
+E10	NoDisposition:T10 
+T11	NoDisposition 2023 2029	Advair
+E11	NoDisposition:T11 
+T13	NoDisposition 2458 2468	Penicillin
+E13	NoDisposition:T13 
+T14	NoDisposition 2543 2550	aspirin
+E14	NoDisposition:T14 
+T15	NoDisposition 2574 2582	Mestinon
+E15	NoDisposition:T15 
+T16	NoDisposition 2704 2727	metformin hydrochloride
+E16	NoDisposition:T16 
+T17	NoDisposition 2757 2766	glyburide
+E17	NoDisposition:T17 
+T18	NoDisposition 2822 2830	Fish oil
+E18	NoDisposition:T18 
+T19	NoDisposition 2844 2850	Ativan
+E19	NoDisposition:T19 
+T20	NoDisposition 2875 2883	atenolol
+E20	NoDisposition:T20 
+T21	NoDisposition 2893 2903	lisinopril
+E21	NoDisposition:T21 
+T22	NoDisposition 2917 2923	Advair
+E22	NoDisposition:T22 
+T23	NoDisposition 2950 2959	albuterol
+E23	NoDisposition:T23 
+T24	NoDisposition 2996 3004	Protonix
+E24	NoDisposition:T24 
+T25	NoDisposition 3047 3058	pravastatin
+E25	NoDisposition:T25 
+T26	NoDisposition 3289 3298	Singulair
+E26	NoDisposition:T26 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+A5	Certainty E5 Certain
+A6	Actor E5 Physician
+A7	Action E5 Stop
+A8	Temporality E5 Past
+T28	Disposition 1361 1372	pravastatin
+E28	Disposition:T28 
+A9	Certainty E28 Certain
+A10	Actor E28 Physician
+A11	Action E28 Start
+A12	Temporality E28 Past
+A13	Certainty E8 Certain
+A14	Actor E8 Physician
+A15	Action E8 Stop
+A16	Temporality E8 Past
+A17	Certainty E9 Certain
+A18	Actor E9 Physician
+A19	Action E9 Start
+A20	Temporality E9 Past
+T29	NoDisposition 2416 2424	Mestinon
+E29	NoDisposition:T29 
+T30	NoDisposition 2504 2511	Dalmane
+E30	NoDisposition:T30 
+T31	NoDisposition 2558 2571	multivitamins
+E31	NoDisposition:T31 
+T32	NoDisposition 3227 3234	Flonase
+E32	NoDisposition:T32 
+T33	NoDisposition 2694 2701	quinine
+E33	NoDisposition:T33 
+T34	NoDisposition 3109 3118	vitamin c
+E34	NoDisposition:T34 
+T35	NoDisposition 3168 3177	vitamin e
+E35	NoDisposition:T35 
+A21	Certainty E7 Certain
+A22	Actor E7 Physician
+A23	Action E7 Start
+A24	Temporality E7 Past
+T36	Disposition 1671 1674	PPI
+E36	Disposition:T36 
+A25	Certainty E36 Certain
+A26	Actor E36 Patient
+A27	Action E36 Unknown
+A28	Temporality E36 Past
+A29	Negation E8 NotNegated
+A30	Negation E5 NotNegated
+A31	Negation E2 NotNegated
+A32	Negation E28 NotNegated
+A33	Negation E36 NotNegated
+A34	Negation E9 NotNegated
+A35	Negation E7 NotNegated

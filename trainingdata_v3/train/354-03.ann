@@ -1,0 +1,106 @@
+T1	Disposition 374 385	Amoxicillin
+E1	Disposition:T1 
+T2	Disposition 390 403	Metronidazole
+E2	Disposition:T2 
+T3	NoDisposition 494 505	amoxicillin
+E3	NoDisposition:T3 
+T4	Disposition 597 615	methylprednisolone
+E4	Disposition:T4 
+T5	NoDisposition 1671 1682	Amoxicillin
+E5	NoDisposition:T5 
+T6	NoDisposition 1698 1706	Atenolol
+E6	NoDisposition:T6 
+T7	NoDisposition 1742 1751	Metformin
+E7	NoDisposition:T7 
+T8	NoDisposition 1765 1777	Pantoprazole
+E8	NoDisposition:T8 
+T9	NoDisposition 1790 1800	Loratadine
+E9	NoDisposition:T9 
+T10	NoDisposition 1801 1810	Albuterol
+E10	NoDisposition:T10 
+T11	NoDisposition 1815 1824	Meclizine
+E11	NoDisposition:T11 
+T12	NoDisposition 1834 1844	Aledronate
+E12	NoDisposition:T12 
+T13	Disposition 3571 3578	insulin
+E13	Disposition:T13 
+T14	NoDisposition 3647 3655	steroids
+E14	NoDisposition:T14 
+T15	Undetermined 3730 3737	aspirin
+E15	Undetermined:T15 
+T16	NoDisposition 3748 3760	beta blocker
+E16	NoDisposition:T16 
+T17	Undetermined 3778 3787	albuterol
+E17	Undetermined:T17 
+T18	Undetermined 3912 3919	insulin
+E18	Undetermined:T18 
+T19	Undetermined 3921 3930	metformin
+E19	Undetermined:T19 
+T20	Disposition 4004 4011	insulin
+E20	Disposition:T20 
+T21	Undetermined 4115 4126	fluconazole
+E21	Undetermined:T21 
+T22	Disposition 4214 4224	Enoxaparin
+E22	Disposition:T22 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 Start
+A8	Temporality E2 Past
+T23	Disposition 374 385	Amoxicillin
+E23	Disposition:T23 
+A9	Certainty E23 Certain
+A10	Actor E23 Physician
+A11	Action E23 Stop
+A12	Temporality E23 Past
+T24	Disposition 390 403	Metronidazole
+E24	Disposition:T24 
+A13	Certainty E24 Certain
+A14	Actor E24 Physician
+A15	Action E24 Stop
+A16	Temporality E24 Past
+A17	Certainty E4 Certain
+A18	Actor E4 Physician
+A19	Action E4 Start
+A20	Temporality E4 Past
+T25	Disposition 597 615	methylprednisolone
+E25	Disposition:T25 
+A21	Certainty E25 Certain
+A22	Actor E25 Patient
+A23	Action E25 Stop
+A24	Temporality E25 Past
+T26	NoDisposition 1718 1728	Diclofenac
+E26	NoDisposition:T26 
+T27	Disposition 3254 3269	corticosteroids
+E27	Disposition:T27 
+A25	Certainty E27 Certain
+A26	Actor E27 Patient
+A27	Action E27 Stop
+A28	Temporality E27 Past
+A29	Certainty E13 Hypothetical
+A30	Actor E13 Physician
+A31	Action E13 Start
+A32	Temporality E13 Present
+A33	Certainty E20 Hypothetical
+A34	Actor E20 Physician
+A35	Action E20 Start
+A36	Temporality E20 Present
+A37	Certainty E22 Hypothetical
+A38	Actor E22 Physician
+A39	Action E22 Start
+A40	Temporality E22 Future
+T28	NoDisposition 3883 3886	ppi
+E28	NoDisposition:T28 
+A41	Negation E22 NotNegated
+A42	Negation E13 NotNegated
+A43	Negation E4 NotNegated
+A44	Negation E20 NotNegated
+A45	Negation E2 NotNegated
+A46	Negation E27 NotNegated
+A47	Negation E24 NotNegated
+A48	Negation E1 NotNegated
+A49	Negation E25 NotNegated
+A50	Negation E23 NotNegated

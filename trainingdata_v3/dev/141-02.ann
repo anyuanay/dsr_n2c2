@@ -1,0 +1,120 @@
+T3	Disposition 832 840	Morphine
+E3	Disposition:T3 
+T4	Disposition 867 874	heparin
+E4	Disposition:T4 
+T5	Disposition 886 895	lopressor
+E5	Disposition:T5 
+T7	Disposition 909 915	zantac
+E7	Disposition:T7 
+T9	Disposition 934 940	Maalox
+E9	Disposition:T9 
+T10	NoDisposition 959 970	integrillin
+E10	NoDisposition:T10 
+T11	NoDisposition 977 983	statin
+E11	NoDisposition:T11 
+T12	Disposition 1041 1048	heparin
+E12	Disposition:T12 
+T14	NoDisposition 1761 1768	Proscar
+E14	NoDisposition:T14 
+T15	NoDisposition 1801 1804	PPI
+E15	NoDisposition:T15 
+T16	NoDisposition 2017 2023	Nexium
+E16	NoDisposition:T16 
+T17	NoDisposition 2083 2094	Finasteride
+E17	NoDisposition:T17 
+T18	NoDisposition 2158 2165	Aspirin
+E18	NoDisposition:T18 
+T23	NoDisposition 7081 7088	Heparin
+E23	NoDisposition:T23 
+T24	NoDisposition 7161 7163	BB
+E24	NoDisposition:T24 
+T25	NoDisposition 7164 7167	ASA
+E25	NoDisposition:T25 
+T26	Disposition 7175 7181	Statin
+E26	Disposition:T26 
+T27	Disposition 7202 7212	integrilin
+E27	Disposition:T27 
+T28	NoDisposition 7343 7345	BB
+E28	NoDisposition:T28 
+T29	NoDisposition 7448 7451	PPI
+E29	NoDisposition:T29 
+T30	Undetermined 7463 7470	Heparin
+E30	Undetermined:T30 
+T31	Undetermined 7472 7475	ASA
+E31	Undetermined:T31 
+T32	Undetermined 7478 7481	PPI
+E32	Undetermined:T32 
+T33	Disposition 428 434	Nexium
+E33	Disposition:T33 
+A1	Certainty E33 Certain
+A2	Actor E33 Patient
+A3	Action E33 UniqueDose
+A4	Temporality E33 Past
+T34	Disposition 702 705	ASA
+E34	Disposition:T34 
+A5	Certainty E34 Certain
+A6	Actor E34 Physician
+A7	Action E34 UniqueDose
+A8	Temporality E34 Past
+T35	Disposition 800 805	Nitro
+E35	Disposition:T35 
+A9	Certainty E35 Certain
+A10	Actor E35 Physician
+A11	Action E35 UniqueDose
+A12	Temporality E35 Past
+A13	Certainty E3 Certain
+A14	Actor E3 Physician
+A15	Action E3 UniqueDose
+A16	Temporality E3 Past
+A17	Certainty E4 Certain
+A18	Actor E4 Physician
+A19	Action E4 Start
+A20	Temporality E4 Past
+A21	Certainty E5 Certain
+A22	Actor E5 Physician
+A23	Action E5 UniqueDose
+A24	Temporality E5 Past
+A25	Certainty E7 Certain
+A26	Actor E7 Physician
+A27	Action E7 UniqueDose
+A28	Temporality E7 Past
+A29	Certainty E9 Certain
+A30	Actor E9 Physician
+A31	Action E9 UniqueDose
+A32	Temporality E9 Past
+A33	Certainty E12 Certain
+A34	Actor E12 Physician
+A35	Action E12 Start
+A36	Temporality E12 Past
+T36	NoDisposition 1773 1782	Uroxatral
+E36	NoDisposition:T36 
+T37	NoDisposition 2049 2058	Uroxatral
+E37	NoDisposition:T37 
+T38	NoDisposition 2119 2127	Beconase
+E38	NoDisposition:T38 
+A37	Certainty E26 Certain
+A38	Actor E26 Physician
+A39	Action E26 Start
+A40	Temporality E26 Present
+A41	Certainty E27 Certain
+A42	Actor E27 Physician
+A43	Action E27 Start
+A44	Temporality E27 Future
+T39	Disposition 7354 7358	acei
+E39	Disposition:T39 
+A45	Certainty E39 Certain
+A46	Actor E39 Physician
+A47	Action E39 Start
+A48	Temporality E39 Present
+A49	Negation E34 NotNegated
+A50	Negation E35 NotNegated
+A51	Negation E39 NotNegated
+A52	Negation E33 NotNegated
+A53	Negation E3 NotNegated
+A54	Negation E9 NotNegated
+A55	Negation E12 NotNegated
+A56	Negation E4 NotNegated
+A57	Negation E27 NotNegated
+A58	Negation E26 NotNegated
+A59	Negation E5 NotNegated
+A60	Negation E7 NotNegated

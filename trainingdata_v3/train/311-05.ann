@@ -1,0 +1,34 @@
+T2	NoDisposition 173 180	insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 644 651	insulin
+E3	NoDisposition:T3 
+T4	NoDisposition 906 916	Metoprolol
+E4	NoDisposition:T4 
+T5	NoDisposition 955 962	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 964 975	simvastatin
+E6	NoDisposition:T6 
+T7	NoDisposition 977 986	glyburide
+E7	NoDisposition:T7 
+T8	NoDisposition 1013 1025	Erythromycin
+E8	NoDisposition:T8 
+T10	Disposition 2095 2104	adenosine
+E10	Disposition:T10 
+T11	NoDisposition 2158 2167	adenosine
+E11	NoDisposition:T11 
+T12	Disposition 2345 2355	metoprolol
+E12	Disposition:T12 
+T15	NoDisposition 991 998	NovoLog
+E15	NoDisposition:T15 
+A1	Certainty E10 Hypothetical
+A2	Actor E10 Physician
+A3	Action E10 UniqueDose
+A4	Temporality E10 Past
+A5	Certainty E12 Certain
+A6	Actor E12 Physician
+A7	Action E12 UniqueDose
+A8	Temporality E12 Past
+T1	NoDisposition 1033 1036	dye
+E1	NoDisposition:T1 
+A9	Negation E10 NotNegated
+A10	Negation E12 NotNegated

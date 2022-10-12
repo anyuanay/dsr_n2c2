@@ -1,0 +1,6 @@
+Changelog for CMEDv3 [2022-02-18]
+1. Updated a few file which didn't conform to the format, 1:1 mapping between entities(T) and events(E).
+
+Changelog for CMEDv2 [2022-02-14]
+1. Added Negation as an explicit attribute with values ('NotNegated', 'Negated') instead of a binary BRAT attribute.
+2. Corrected misspelled "Certainity" Dimension to "Certainty"

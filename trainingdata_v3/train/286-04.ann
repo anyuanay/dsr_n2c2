@@ -1,0 +1,12 @@
+T1	NoDisposition 316 325	Lopressor
+E1	NoDisposition:T1 
+T2	NoDisposition 340 347	Aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 364 374	LISINOPRIL
+E3	NoDisposition:T3 
+T4	Undetermined 1519 1527	Ilotycin
+E4	Undetermined:T4 
+T5	NoDisposition 301 313	Procardia XL
+E5	NoDisposition:T5 
+T6	NoDisposition 328 337	Micronase
+E6	NoDisposition:T6 

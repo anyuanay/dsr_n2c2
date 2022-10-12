@@ -1,0 +1,40 @@
+T1	NoDisposition 1109 1117	atenolol
+E1	NoDisposition:T1 
+T2	NoDisposition 1131 1138	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1151 1161	furosemide
+E3	NoDisposition:T3 
+T4	NoDisposition 1187 1197	lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 1212 1225	nitroglycerin
+E5	NoDisposition:T5 
+T6	NoDisposition 1260 1267	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 1280 1289	lidocaine
+E7	NoDisposition:T7 
+T8	Undetermined 2181 2191	furosemide
+E8	Undetermined:T8 
+T9	NoDisposition 2245 2247	BB
+E9	NoDisposition:T9 
+T10	NoDisposition 2249 2255	statin
+E10	NoDisposition:T10 
+T11	NoDisposition 2257 2261	ACEI
+E11	NoDisposition:T11 
+T12	NoDisposition 2266 2269	ASA
+E12	NoDisposition:T12 
+T13	Disposition 2363 2366	PPI
+E13	Disposition:T13 
+T14	Disposition 749 759	glucophage
+E14	Disposition:T14 
+A1	Certainty E14 Certain
+A2	Actor E14 Physician
+A3	Action E14 Stop
+A4	Temporality E14 Past
+T15	NoDisposition 1245 1258	multivitamins
+E15	NoDisposition:T15 
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 Stop
+A8	Temporality E13 Past
+A9	Negation E14 NotNegated
+A10	Negation E13 NotNegated

@@ -1,0 +1,31 @@
+T3	NoDisposition 1629 1641	azathioprine
+E3	NoDisposition:T3 
+T4	NoDisposition 1646 1654	steroids
+E4	NoDisposition:T4 
+T5	NoDisposition 1694 1702	steroids
+E5	NoDisposition:T5 
+T6	NoDisposition 1972 1981	Micronase
+E6	NoDisposition:T6 
+T7	NoDisposition 1998 2005	Lipitor
+E7	NoDisposition:T7 
+T8	NoDisposition 2022 2027	Lasix
+E8	NoDisposition:T8 
+T9	NoDisposition 2044 2056	multivitamin
+E9	NoDisposition:T9 
+T10	NoDisposition 2058 2068	prednisone
+E10	NoDisposition:T10 
+T12	Disposition 2135 2142	aspirin
+E12	Disposition:T12 
+T14	NoDisposition 7652 7664	chemotherapy
+E14	NoDisposition:T14 
+T15	NoDisposition 8493 8506	anthracycline
+E15	NoDisposition:T15 
+T17	NoDisposition 2084 2094	Tylenol PM
+E17	NoDisposition:T17 
+A1	Certainty E12 Certain
+A2	Actor E12 Unknown
+A3	Action E12 Stop
+A4	Temporality E12 Past
+T18	NoDisposition 7640 7650	antibodies
+E18	NoDisposition:T18 
+A5	Negation E12 NotNegated

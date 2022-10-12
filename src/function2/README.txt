@@ -1,0 +1,7 @@
+本extract_word_labels函数用于将病例文件中所有的词逐一分隔并标上annotation文件中所给定的标签
+所需要文件：
+1.函数本体：LabelExtraction.py文件
+2.储存有第一步函数结果的csv文件：df_from_fun1.csv
+3.df_label_I.csv文件
+4.df_label_B.csv文件
+将以上文件放入同一个文件夹中

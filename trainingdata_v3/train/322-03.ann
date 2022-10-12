@@ -1,0 +1,199 @@
+T1	Disposition 634 640	Keflex
+E1	Disposition:T1 
+T2	Disposition 1735 1738	Abx
+E2	Disposition:T2 
+T3	Disposition 2194 2201	insulin
+E3	Disposition:T3 
+T4	Disposition 2214 2223	Metformin
+E4	Disposition:T4 
+T5	Disposition 2244 2251	insulin
+E5	Disposition:T5 
+T6	NoDisposition 2371 2377	Lantus
+E6	NoDisposition:T6 
+T7	NoDisposition 2420 2429	Glipizide
+E7	NoDisposition:T7 
+T8	NoDisposition 2441 2450	Metformin
+E8	NoDisposition:T8 
+T9	NoDisposition 2606 2613	insulin
+E9	NoDisposition:T9 
+T10	Disposition 2739 2742	NPH
+E10	Disposition:T10 
+T11	NoDisposition 2889 2893	HCTZ
+E11	NoDisposition:T11 
+T12	NoDisposition 2919 2922	ASA
+E12	NoDisposition:T12 
+T13	NoDisposition 2935 2943	Atenolol
+E13	NoDisposition:T13 
+T14	NoDisposition 2963 2969	Celexa
+E14	NoDisposition:T14 
+T15	NoDisposition 2982 2993	Fenofibrate
+E15	NoDisposition:T15 
+T16	NoDisposition 3007 3016	Glipizide
+E16	NoDisposition:T16 
+T17	NoDisposition 3027 3035	Klonopin
+E17	NoDisposition:T17 
+T18	NoDisposition 3045 3059	Lantus insulin
+E18	NoDisposition:T18 
+T19	NoDisposition 3080 3087	Lipitor
+E19	NoDisposition:T19 
+T20	NoDisposition 3100 3110	Lisinopril
+E20	NoDisposition:T20 
+T21	NoDisposition 3124 3132	Losartan
+E21	NoDisposition:T21 
+T22	NoDisposition 3146 3155	Metformin
+E22	NoDisposition:T22 
+T23	NoDisposition 3184 3191	Insulin
+E23	NoDisposition:T23 
+T24	NoDisposition 3209 3218	Lopressor
+E24	NoDisposition:T24 
+T25	NoDisposition 3229 3237	Seroquel
+E25	NoDisposition:T25 
+T26	NoDisposition 3248 3254	Nexium
+E26	NoDisposition:T26 
+T27	NoDisposition 3267 3273	Celexa
+E27	NoDisposition:T27 
+T28	NoDisposition 3286 3296	Vancomycin
+E28	NoDisposition:T28 
+T29	NoDisposition 3311 3319	Cefepime
+E29	NoDisposition:T29 
+T30	NoDisposition 3334 3340	Ativan
+E30	NoDisposition:T30 
+T31	NoDisposition 3356 3364	Dilaudid
+E31	NoDisposition:T31 
+T32	NoDisposition 3381 3393	Levofloxacin
+E32	NoDisposition:T32 
+T33	NoDisposition 3414 3421	Lovenox
+E33	NoDisposition:T33 
+T34	NoDisposition 3436 3439	NPH
+E34	NoDisposition:T34 
+T35	NoDisposition 3458 3470	Iron sulfate
+E35	NoDisposition:T35 
+T36	NoDisposition 4882 4889	insulin
+E36	NoDisposition:T36 
+T37	NoDisposition 4981 4984	Abx
+E37	NoDisposition:T37 
+T38	NoDisposition 5032 5039	insulin
+E38	NoDisposition:T38 
+T39	NoDisposition 5062 5069	insulin
+E39	NoDisposition:T39 
+T40	NoDisposition 5113 5120	insulin
+E40	NoDisposition:T40 
+T41	NoDisposition 5235 5242	insulin
+E41	NoDisposition:T41 
+T42	Disposition 5264 5267	NPH
+E42	Disposition:T42 
+T43	Disposition 5492 5495	NPH
+E43	Disposition:T43 
+T45	Disposition 5727 5730	NPH
+E45	Disposition:T45 
+T47	Disposition 6068 6072	ACEi
+E47	Disposition:T47 
+T48	Disposition 6121 6131	Lisinopril
+E48	Disposition:T48 
+T49	Disposition 6168 6175	fibrate
+E49	Disposition:T49 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 Start
+A16	Temporality E4 Past
+A17	Certainty E5 Certain
+A18	Actor E5 Physician
+A19	Action E5 Start
+A20	Temporality E5 Past
+A21	Certainty E10 Certain
+A22	Actor E10 Physician
+A23	Action E10 Start
+A24	Temporality E10 Past
+A25	Certainty E42 Conditional
+A26	Actor E42 Physician
+A27	Action E42 Increase
+A28	Temporality E42 Present
+A29	Certainty E43 Certain
+A30	Actor E43 Physician
+A31	Action E43 Increase
+A32	Temporality E43 Present
+T50	Disposition 5597 5600	NPH
+E50	Disposition:T50 
+A33	Certainty E50 Conditional
+A34	Actor E50 Physician
+A35	Action E50 Stop
+A36	Temporality E50 Present
+T51	Disposition 5638 5642	D10W
+E51	Disposition:T51 
+A37	Certainty E51 Conditional
+A38	Actor E51 Physician
+A39	Action E51 Start
+A40	Temporality E51 Future
+A41	Certainty E45 Certain
+A42	Actor E45 Physician
+A43	Action E45 Increase
+A44	Temporality E45 Present
+T52	Disposition 5755 5758	NPH
+E52	Disposition:T52 
+A45	Certainty E52 Conditional
+A46	Actor E52 Physician
+A47	Action E52 Increase
+A48	Temporality E52 Present
+T53	NoDisposition 5878 5881	NPH
+E53	NoDisposition:T53 
+T54	Disposition 5909 5912	NPH
+E54	Disposition:T54 
+A49	Certainty E54 Conditional
+A50	Actor E54 Physician
+A51	Action E54 Stop
+A52	Temporality E54 Present
+T55	Disposition 5950 5954	D10W
+E55	Disposition:T55 
+A53	Certainty E55 Conditional
+A54	Actor E55 Physician
+A55	Action E55 Start
+A56	Temporality E55 Future
+T56	NoDisposition 5677 5680	NPH
+E56	NoDisposition:T56 
+T57	NoDisposition 5989 5992	NPH
+E57	NoDisposition:T57 
+A57	Certainty E47 Hypothetical
+A58	Actor E47 Physician
+A59	Action E47 Start
+A60	Temporality E47 Present
+A61	Certainty E48 Hypothetical
+A62	Actor E48 Physician
+A63	Action E48 Start
+A64	Temporality E48 Present
+A65	Certainty E49 Hypothetical
+A66	Actor E49 Physician
+A67	Action E49 Start
+A68	Temporality E49 Future
+T44	NoDisposition 5316 5319	czi
+E44	NoDisposition:T44 
+T46	NoDisposition 5807 5810	czi
+E46	NoDisposition:T46 
+A69	Negation E47 NotNegated
+A70	Negation E45 NotNegated
+A71	Negation E51 NotNegated
+A72	Negation E55 NotNegated
+A73	Negation E3 NotNegated
+A74	Negation E48 NotNegated
+A75	Negation E42 NotNegated
+A76	Negation E4 NotNegated
+A77	Negation E54 NotNegated
+A78	Negation E10 NotNegated
+A79	Negation E2 NotNegated
+A80	Negation E50 NotNegated
+A81	Negation E49 NotNegated
+A82	Negation E43 NotNegated
+A83	Negation E1 NotNegated
+A84	Negation E5 NotNegated
+A85	Negation E52 NotNegated

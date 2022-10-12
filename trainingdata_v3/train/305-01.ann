@@ -1,0 +1,24 @@
+T2	NoDisposition 648 655	tylenol
+E2	NoDisposition:T2 
+T3	NoDisposition 1372 1380	coumadin
+E3	NoDisposition:T3 
+T4	NoDisposition 2777 2793	anti-coagulation
+E4	NoDisposition:T4 
+T5	Disposition 2836 2844	coumadin
+E5	Disposition:T5 
+T6	Disposition 2861 2870	lopressor
+E6	Disposition:T6 
+T7	NoDisposition 1354 1363	lopressor
+E7	NoDisposition:T7 
+A1	Certainty E6 Certain
+A2	Actor E6 Physician
+A3	Action E6 Increase
+A4	Temporality E6 Present
+T8	NoDisposition 2991 2994	abx
+E8	NoDisposition:T8 
+A5	Certainty E5 Conditional
+A6	Actor E5 Physician
+A7	Action E5 Unknown
+A8	Temporality E5 Present
+A9	Negation E6 NotNegated
+A10	Negation E5 NotNegated

@@ -1,0 +1,70 @@
+T1	Disposition 338 345	insulin
+E1	Disposition:T1 
+T2	NoDisposition 548 555	insulin
+E2	NoDisposition:T2 
+T3	NoDisposition 1290 1297	insulin
+E3	NoDisposition:T3 
+T5	NoDisposition 1809 1812	ASA
+E5	NoDisposition:T5 
+T6	NoDisposition 1824 1830	Prozac
+E6	NoDisposition:T6 
+T7	NoDisposition 1841 1849	Prilosec
+E7	NoDisposition:T7 
+T8	NoDisposition 1865 1873	Losartan
+E8	NoDisposition:T8 
+T9	NoDisposition 1885 1895	Clonazepam
+E9	NoDisposition:T9 
+T10	NoDisposition 1922 1930	Nystatin
+E10	NoDisposition:T10 
+T12	NoDisposition 1983 1987	Hctz
+E12	NoDisposition:T12 
+T13	NoDisposition 1999 2008	Neurontin
+E13	NoDisposition:T13 
+T14	Disposition 2021 2034	Insulin 70/30
+E14	Disposition:T14 
+T15	NoDisposition 2072 2083	SIMVASTATIN
+E15	NoDisposition:T15 
+T16	NoDisposition 2111 2122	Terfenadine
+E16	NoDisposition:T16 
+T17	NoDisposition 2124 2134	Lisinopril
+E17	NoDisposition:T17 
+T18	NoDisposition 2144 2156	atorvastatin
+E18	NoDisposition:T18 
+T21	Disposition 3507 3514	insulin
+E21	Disposition:T21 
+T22	Undetermined 4379 4387	Percocet
+E22	Undetermined:T22 
+T23	Disposition 4432 4439	insulin
+E23	Disposition:T23 
+T24	Undetermined 4478 4481	SSI
+E24	Undetermined:T24 
+T25	NoDisposition 4526 4544	anti-hypertensives
+E25	NoDisposition:T25 
+T26	Undetermined 4635 4641	nexium
+E26	Undetermined:T26 
+T27	Undetermined 4643 4650	fragmin
+E27	Undetermined:T27 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Increase
+A4	Temporality E1 Past
+T28	NoDisposition 1953 1961	Nystatin
+E28	NoDisposition:T28 
+A5	Certainty E14 Certain
+A6	Actor E14 Physician
+A7	Action E14 Increase
+A8	Temporality E14 Past
+A9	Certainty E21 Certain
+A10	Actor E21 Physician
+A11	Action E21 Increase
+A12	Temporality E21 Past
+A13	Certainty E23 Certain
+A14	Actor E23 Physician
+A15	Action E23 Decrease
+A16	Temporality E23 Present
+T29	NoDisposition 4611 4617	statin
+E29	NoDisposition:T29 
+A17	Negation E1 NotNegated
+A18	Negation E23 NotNegated
+A19	Negation E14 NotNegated
+A20	Negation E21 NotNegated

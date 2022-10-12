@@ -1,0 +1,13 @@
+T1	NoDisposition 1268 1276	atenolol
+E1	NoDisposition:T1 
+T2	NoDisposition 1294 1300	Cozaar
+E2	NoDisposition:T2 
+T3	NoDisposition 1329 1348	hydrochlorothiazide
+E3	NoDisposition:T3 
+T4	Disposition 1797 1805	atenolol
+E4	Disposition:T4 
+A1	Certainty E4 Certain
+A2	Actor E4 Physician
+A3	Action E4 Stop
+A4	Temporality E4 Present
+A5	Negation E4 NotNegated

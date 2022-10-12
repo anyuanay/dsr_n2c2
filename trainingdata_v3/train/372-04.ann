@@ -1,0 +1,91 @@
+T2	Disposition 2073 2079	unasyn
+E2	Disposition:T2 
+T3	NoDisposition 2809 2824	iron supplement
+E3	NoDisposition:T3 
+T4	NoDisposition 2881 2888	aspirin
+E4	NoDisposition:T4 
+T5	NoDisposition 2905 2913	atenolol
+E5	NoDisposition:T5 
+T6	NoDisposition 2947 2953	Colace
+E6	NoDisposition:T6 
+T8	NoDisposition 3076 3083	Lipitor
+E8	NoDisposition:T8 
+T9	NoDisposition 3099 3112	multivitamins
+E9	NoDisposition:T9 
+T11	NoDisposition 3154 3159	Xanax
+E11	NoDisposition:T11 
+T12	NoDisposition 3179 3186	Zestril
+E12	NoDisposition:T12 
+T13	Disposition 9260 9271	antibiotics
+E13	Disposition:T13 
+T14	Disposition 9273 9283	Vancomycin
+E14	Disposition:T14 
+T15	Disposition 9317 9323	Unasyn
+E15	Disposition:T15 
+T16	Disposition 9443 9448	Zosyn
+E16	Disposition:T16 
+T17	Disposition 9478 9484	Flagyl
+E17	Disposition:T17 
+T18	Undetermined 9570 9579	metformin
+E18	Undetermined:T18 
+T19	Undetermined 9593 9599	lantus
+E19	Undetermined:T19 
+T20	Undetermined 9607 9614	insulin
+E20	Undetermined:T20 
+T21	Undetermined 9724 9734	lisinopril
+E21	Undetermined:T21 
+T22	Undetermined 9748 9756	atenolol
+E22	Undetermined:T22 
+T23	Disposition 10060 10062	NS
+E23	Disposition:T23 
+T24	Undetermined 10116 10122	Colace
+E24	Undetermined:T24 
+T25	Undetermined 10124 10129	Senna
+E25	Undetermined:T25 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Start
+A4	Temporality E2 Past
+T26	NoDisposition 2989 2999	Glucophage
+E26	NoDisposition:T26 
+T27	NoDisposition 3032 3047	Lantus SoloStar
+E27	NoDisposition:T27 
+T28	NoDisposition 3129 3138	Neurontin
+E28	NoDisposition:T28 
+A5	Certainty E13 Certain
+A6	Actor E13 Physician
+A7	Action E13 Start
+A8	Temporality E13 Present
+A9	Certainty E14 Certain
+A10	Actor E14 Physician
+A11	Action E14 Start
+A12	Temporality E14 Present
+A13	Certainty E15 Certain
+A14	Actor E15 Physician
+A15	Action E15 Start
+A16	Temporality E15 Present
+A17	Certainty E16 Conditional
+A18	Actor E16 Physician
+A19	Action E16 Start
+A20	Temporality E16 Future
+A21	Certainty E17 Conditional
+A22	Actor E17 Physician
+A23	Action E17 Start
+A24	Temporality E17 Present
+A25	Certainty E23 Certain
+A26	Actor E23 Physician
+A27	Action E23 UniqueDose
+A28	Temporality E23 Present
+T29	Undetermined 10083 10093	omeprazole
+E29	Undetermined:T29 
+T30	Undetermined 10100 10107	Fragmin
+E30	Undetermined:T30 
+T1	NoDisposition 1271 1281	antibiotic
+E1	NoDisposition:T1 
+A29	Negation E13 NotNegated
+A30	Negation E16 NotNegated
+A31	Negation E15 NotNegated
+A32	Negation E2 NotNegated
+A33	Negation E23 NotNegated
+A34	Negation E14 NotNegated
+A35	Negation E17 NotNegated

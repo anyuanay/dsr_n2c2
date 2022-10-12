@@ -1,0 +1,13 @@
+T2	NoDisposition 2038 2045	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 2047 2059	beta-blocker
+E3	NoDisposition:T3 
+T4	NoDisposition 2076 2089	ACE inhibitor
+E4	NoDisposition:T4 
+T5	Disposition 2134 2160	cholesterol-lowering agent
+E5	Disposition:T5 
+A1	Certainty E5 Certain
+A2	Negation E5 Negated
+A3	Actor E5 Patient
+A4	Action E5 Start
+A5	Temporality E5 Present

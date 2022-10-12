@@ -1,0 +1,24 @@
+T1	NoDisposition 461 468	insulin
+E1	NoDisposition:T1 
+T3	NoDisposition 2668 2675	ASPIRIN
+E3	NoDisposition:T3 
+T4	NoDisposition 2732 2744	multivitamin
+E4	NoDisposition:T4 
+T5	NoDisposition 3272 3275	ASA
+E5	NoDisposition:T5 
+T6	NoDisposition 3277 3280	MVI
+E6	NoDisposition:T6 
+T7	NoDisposition 2148 2161	wellbutrin sr
+E7	NoDisposition:T7 
+T8	NoDisposition 2273 2292	HYDROCHLOROTHIAZIDE
+E8	NoDisposition:T8 
+T9	NoDisposition 2412 2419	LIPITOR
+E9	NoDisposition:T9 
+T10	NoDisposition 2536 2546	Glucophage
+E10	NoDisposition:T10 
+T11	NoDisposition 2797 2806	LOPRESSOR
+E11	NoDisposition:T11 
+T12	NoDisposition 2919 2929	Glucophage
+E12	NoDisposition:T12 
+T13	Undetermined 3410 3420	Glucophage
+E13	Undetermined:T13 

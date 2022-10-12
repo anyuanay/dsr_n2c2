@@ -1,0 +1,24 @@
+T1	NoDisposition 2610 2617	Lipitor
+E1	NoDisposition:T1 
+T3	NoDisposition 2877 2882	Lidex
+E3	NoDisposition:T3 
+T4	NoDisposition 3155 3159	HCTZ
+E4	NoDisposition:T4 
+T5	NoDisposition 3277 3284	Zestril
+E5	NoDisposition:T5 
+T7	NoDisposition 2208 2213	CIPRO
+E7	NoDisposition:T7 
+T8	NoDisposition 2333 2342	METAMUCIL
+E8	NoDisposition:T8 
+T9	NoDisposition 2480 2488	CETAPHIL
+E9	NoDisposition:T9 
+T10	NoDisposition 2733 2739	Cormax
+E10	NoDisposition:T10 
+T11	NoDisposition 3031 3036	K-Dur
+E11	NoDisposition:T11 
+T12	Undetermined 3541 3546	CIPRO
+E12	Undetermined:T12 
+T13	Undetermined 3667 3676	metamucil
+E13	Undetermined:T13 
+T14	Undetermined 3817 3826	METAMUCIL
+E14	Undetermined:T14 

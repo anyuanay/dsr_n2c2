@@ -1,0 +1,16 @@
+T1	NoDisposition 282 285	ASA
+E1	NoDisposition:T1 
+T2	Undetermined 1506 1509	ASA
+E2	Undetermined:T2 
+T3	NoDisposition 845 856	PROPRANOLOL
+E3	NoDisposition:T3 
+T4	NoDisposition 858 873	PROPRANOLOL HCL
+E4	NoDisposition:T4 
+T5	NoDisposition 939 947	ATENOLOL
+E5	NoDisposition:T5 
+T6	NoDisposition 994 1001	NORVASC
+E6	NoDisposition:T6 
+T7	NoDisposition 1003 1013	AMLODIPINE
+E7	NoDisposition:T7 
+T8	NoDisposition 1476 1496	antiplatelet therapy
+E8	NoDisposition:T8 

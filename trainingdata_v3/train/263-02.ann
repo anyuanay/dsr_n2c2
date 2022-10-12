@@ -1,0 +1,22 @@
+T1	NoDisposition 667 680	nitroglycerin
+E1	NoDisposition:T1 
+T2	NoDisposition 1249 1257	Atenolol
+E2	NoDisposition:T2 
+T3	NoDisposition 1259 1266	aspirin
+E3	NoDisposition:T3 
+T4	NoDisposition 1268 1278	isosorbide
+E4	NoDisposition:T4 
+T5	NoDisposition 1280 1285	Lasix
+E5	NoDisposition:T5 
+T6	NoDisposition 1287 1296	Glyburide
+E6	NoDisposition:T6 
+T7	NoDisposition 1300 1307	Lipitor
+E7	NoDisposition:T7 
+T8	NoDisposition 1313 1322	Lorazepam
+E8	NoDisposition:T8 
+T9	Undetermined 2296 2307	antibiotics
+E9	Undetermined:T9 
+T10	Undetermined 2309 2316	aspirin
+E10	Undetermined:T10 
+T11	Undetermined 2318 2327	Lopressor
+E11	Undetermined:T11 

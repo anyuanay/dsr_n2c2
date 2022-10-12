@@ -1,0 +1,47 @@
+T1	Disposition 962 973	antibiotics
+E1	Disposition:T1 
+T2	NoDisposition 1685 1692	Aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1718 1727	Albuterol
+E3	NoDisposition:T3 
+T4	NoDisposition 1779 1786	Norvasc
+E4	NoDisposition:T4 
+T5	NoDisposition 1806 1812	Colace
+E5	NoDisposition:T5 
+T6	NoDisposition 1833 1842	Doxazosin
+E6	NoDisposition:T6 
+T7	NoDisposition 1861 1868	Lexapro
+E7	NoDisposition:T7 
+T8	NoDisposition 1894 1900	Nexium
+E8	NoDisposition:T8 
+T9	NoDisposition 1926 1935	Glyburide
+E9	NoDisposition:T9 
+T10	NoDisposition 1989 1996	Vicodin
+E10	NoDisposition:T10 
+T11	NoDisposition 2045 2052	insulin
+E11	NoDisposition:T11 
+T12	NoDisposition 2058 2066	Atrovent
+E12	NoDisposition:T12 
+T13	NoDisposition 2099 2105	Ativan
+E13	NoDisposition:T13 
+T14	NoDisposition 2144 2153	Lopressor
+E14	NoDisposition:T14 
+T15	NoDisposition 2176 2188	Multivitamin
+E15	NoDisposition:T15 
+T18	NoDisposition 2355 2360	Zocor
+E18	NoDisposition:T18 
+T19	NoDisposition 2382 2390	Coumadin
+E19	NoDisposition:T19 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+T20	NoDisposition 1647 1650	ASA
+E20	NoDisposition:T20 
+T21	NoDisposition 2215 2224	Nitro-Dur
+E21	NoDisposition:T21 
+T22	NoDisposition 2274 2279	SENNA
+E22	NoDisposition:T22 
+T23	NoDisposition 2301 2310	Silvadene
+E23	NoDisposition:T23 
+A5	Negation E1 NotNegated

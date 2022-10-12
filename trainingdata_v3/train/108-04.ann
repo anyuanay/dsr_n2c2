@@ -1,0 +1,96 @@
+T1	NoDisposition 2875 2884	glyburide
+E1	NoDisposition:T1 
+T2	NoDisposition 2889 2898	metformin
+E2	NoDisposition:T2 
+T3	NoDisposition 2929 2935	lyrica
+E3	NoDisposition:T3 
+T4	NoDisposition 2973 2982	synthroid
+E4	NoDisposition:T4 
+T5	NoDisposition 3062 3069	ASPIRIN
+E5	NoDisposition:T5 
+T6	NoDisposition 3087 3092	ZOCOR
+E6	NoDisposition:T6 
+T7	NoDisposition 3107 3120	CARBAMAZEPINE
+E7	NoDisposition:T7 
+T8	NoDisposition 3158 3178	LEVOTHYROXINE SODIUM
+E8	NoDisposition:T8 
+T9	NoDisposition 3209 3219	LISINOPRIL
+E9	NoDisposition:T9 
+T10	NoDisposition 3262 3272	PREGABALIN
+E10	NoDisposition:T10 
+T12	NoDisposition 3340 3350	PREGABALIN
+E12	NoDisposition:T12 
+T14	NoDisposition 3450 3459	METFORMIN
+E14	NoDisposition:T14 
+T15	NoDisposition 3521 3526	ZOCOR
+E15	NoDisposition:T15 
+T17	NoDisposition 3652 3655	ASA
+E17	NoDisposition:T17 
+T18	NoDisposition 3669 3678	SYNTHROID
+E18	NoDisposition:T18 
+T19	NoDisposition 3693 3700	INSULIN
+E19	NoDisposition:T19 
+T20	NoDisposition 3716 3724	TEGRETOL
+E20	NoDisposition:T20 
+T22	NoDisposition 4956 4959	ASA
+E22	NoDisposition:T22 
+T24	NoDisposition 5059 5064	ACE-I
+E24	NoDisposition:T24 
+T25	NoDisposition 5080 5085	Lasix
+E25	NoDisposition:T25 
+T26	Disposition 5123 5128	lasix
+E26	Disposition:T26 
+T28	Disposition 5217 5226	metformin
+E28	Disposition:T28 
+T29	NoDisposition 2940 2948	tegretol
+E29	NoDisposition:T29 
+T30	NoDisposition 3122 3130	TEGRETOL
+E30	NoDisposition:T30 
+T31	NoDisposition 3180 3189	SYNTHROID
+E31	NoDisposition:T31 
+T32	NoDisposition 3237 3243	TOPROL
+E32	NoDisposition:T32 
+T33	NoDisposition 3274 3280	LYRICA
+E33	NoDisposition:T33 
+T34	NoDisposition 3316 3322	LYRICA
+E34	NoDisposition:T34 
+T35	NoDisposition 3304 3314	PREGABALIN
+E35	NoDisposition:T35 
+T36	NoDisposition 3352 3358	LYRICA
+E36	NoDisposition:T36 
+T37	NoDisposition 3374 3383	GLYBURIDE
+E37	NoDisposition:T37 
+T38	NoDisposition 3395 3401	ZANTAC
+E38	NoDisposition:T38 
+T39	NoDisposition 3413 3419	PLAVIX
+E39	NoDisposition:T39 
+T40	NoDisposition 3432 3437	LASIX
+E40	NoDisposition:T40 
+T41	NoDisposition 3500 3506	TOPROL
+E41	NoDisposition:T41 
+T42	NoDisposition 3537 3543	PLAVIX
+E42	NoDisposition:T42 
+T43	NoDisposition 3556 3566	LISINOPRIL
+E43	NoDisposition:T43 
+T44	NoDisposition 3580 3585	LASIX
+E44	NoDisposition:T44 
+T45	NoDisposition 3599 3608	GLYBURIDE
+E45	NoDisposition:T45 
+T46	NoDisposition 3620 3626	LYRICA
+E46	NoDisposition:T46 
+T47	NoDisposition 4964 4970	Plavix
+E47	NoDisposition:T47 
+T48	NoDisposition 5045 5054	B-blocker
+E48	NoDisposition:T48 
+A1	Certainty E26 Hypothetical
+A2	Actor E26 Physician
+A4	Temporality E26 Future
+A3	Action E26 Increase
+A5	Certainty E28 Certain
+A6	Actor E28 Physician
+A7	Action E28 Stop
+A8	Temporality E28 Past
+T49	NoDisposition 4991 4997	statin
+E49	NoDisposition:T49 
+A9	Negation E26 NotNegated
+A10	Negation E28 NotNegated

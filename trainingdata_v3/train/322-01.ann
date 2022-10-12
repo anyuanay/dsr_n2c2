@@ -1,0 +1,120 @@
+T1	NoDisposition 273 279	Motrin
+E1	NoDisposition:T1 
+T3	Disposition 387 397	Lisinopril
+E3	Disposition:T3 
+T4	NoDisposition 456 470	FLUOXETINE HCL
+E4	NoDisposition:T4 
+T6	Disposition 572 579	Lipitor
+E6	Disposition:T6 
+T7	NoDisposition 593 612	Hydrochlorothiazide
+E7	NoDisposition:T7 
+T8	NoDisposition 732 740	Fioricet
+E8	NoDisposition:T8 
+T9	Disposition 961 970	Glyburide
+E9	Disposition:T9 
+T10	Disposition 984 993	Metformin
+E10	Disposition:T10 
+T11	NoDisposition 1923 1933	Lisinopril
+E11	NoDisposition:T11 
+T12	Disposition 1943 1947	HCTZ
+E12	Disposition:T12 
+T14	Disposition 2058 2063	Zocor
+E14	Disposition:T14 
+T15	Disposition 2712 2721	Glyburide
+E15	Disposition:T15 
+T16	Disposition 2736 2745	Metformin
+E16	Disposition:T16 
+T17	Disposition 2936 2940	HCTZ
+E17	Disposition:T17 
+T18	NoDisposition 2945 2949	ACEI
+E18	NoDisposition:T18 
+T19	Disposition 2990 2998	Atenolol
+E19	Disposition:T19 
+T22	NoDisposition 3217 3223	Prozac
+E22	NoDisposition:T22 
+T2	NoDisposition 281 290	IBUPROFEN
+E2	NoDisposition:T2 
+T24	NoDisposition 338 347	Metformin
+E24	NoDisposition:T24 
+A1	Certainty E3 Certain
+A2	Actor E3 Physician
+A3	Action E3 Increase
+A4	Temporality E3 Unknown
+T25	NoDisposition 448 454	Prozac
+E25	NoDisposition:T25 
+T26	NoDisposition 507 512	Zocor
+E26	NoDisposition:T26 
+T27	NoDisposition 514 525	SIMVASTATIN
+E27	NoDisposition:T27 
+A5	Certainty E6 Certain
+A6	Actor E6 Physician
+A7	Action E6 Stop
+A8	Temporality E6 Past
+T28	NoDisposition 657 662	Serax
+E28	NoDisposition:T28 
+T29	NoDisposition 664 672	OXAZEPAM
+E29	NoDisposition:T29 
+T30	NoDisposition 742 766	BUTALBITAL+APAP+CAFFEINE
+E30	NoDisposition:T30 
+A9	Certainty E9 Certain
+A10	Actor E9 Physician
+A11	Action E9 Stop
+A12	Temporality E9 Past
+A13	Certainty E10 Certain
+A14	Actor E10 Physician
+A15	Action E10 Increase
+A16	Temporality E10 Past
+T31	NoDisposition 1735 1741	Prozac
+E31	NoDisposition:T31 
+T32	NoDisposition 1745 1750	Serax
+E32	NoDisposition:T32 
+A17	Certainty E14 Certain
+A18	Actor E14 Physician
+A19	Action E14 Increase
+A20	Temporality E14 Past
+A21	Certainty E12 Certain
+A22	Actor E12 Physician
+A23	Action E12 Start
+A24	Temporality E12 Past
+A25	Certainty E15 Certain
+A26	Actor E15 Physician
+A27	Action E15 Stop
+A28	Temporality E15 Past
+A29	Certainty E16 Certain
+A30	Actor E16 Physician
+A31	Action E16 Unknown
+A32	Temporality E16 Past
+A33	Certainty E17 Certain
+A34	Actor E17 Physician
+A35	Action E17 Start
+A36	Temporality E17 Past
+A37	Certainty E19 Certain
+A38	Actor E19 Physician
+A39	Action E19 Start
+A40	Temporality E19 Present
+T33	Disposition 3069 3074	Zocor
+E33	Disposition:T33 
+A41	Certainty E33 Certain
+A42	Actor E33 Physician
+A43	Action E33 Increase
+A44	Temporality E33 Past
+T34	NoDisposition 3228 3233	Serax
+E34	NoDisposition:T34 
+T35	Disposition 1828 1834	Prozac
+E35	Disposition:T35 
+A45	Certainty E35 Hypothetical
+A46	Actor E35 Patient
+A47	Action E35 Stop
+A48	Temporality E35 Present
+A49	Negation E19 NotNegated
+A50	Negation E35 NotNegated
+A51	Negation E12 NotNegated
+A52	Negation E3 NotNegated
+A53	Negation E16 NotNegated
+A54	Negation E6 NotNegated
+A55	Negation E33 NotNegated
+A56	Negation E10 NotNegated
+A57	Negation E15 NotNegated
+A58	Negation E9 NotNegated
+A59	Negation E14 NotNegated
+A60	Negation E17 NotNegated

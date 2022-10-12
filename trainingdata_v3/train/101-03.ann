@@ -1,0 +1,61 @@
+T2	NoDisposition 567 575	atenolol
+E2	NoDisposition:T2 
+T3	Disposition 620 628	ramipril
+E3	Disposition:T3 
+T4	Disposition 815 822	Lipitor
+E4	Disposition:T4 
+T6	Disposition 1707 1726	long acting nitrate
+E6	Disposition:T6 
+T7	Undetermined 1746 1760	nitroglycerine
+E7	Undetermined:T7 
+T8	Disposition 1780 1799	hydrochlorothiazide
+E8	Disposition:T8 
+T9	NoDisposition 1818 1826	atenolol
+E9	NoDisposition:T9 
+T10	NoDisposition 1848 1855	aspirin
+E10	NoDisposition:T10 
+T11	NoDisposition 1874 1882	Premarin
+E11	NoDisposition:T11 
+T12	NoDisposition 1887 1896	Synthroid
+E12	NoDisposition:T12 
+T13	Disposition 588 607	hydrochlorothiazide
+E13	Disposition:T13 
+A1	Certainty E13 Certain
+A2	Actor E13 Physician
+A3	Action E13 Stop
+A4	Temporality E13 Present
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 Start
+A8	Temporality E3 Present
+T14	Disposition 636 643	nitrate
+E14	Disposition:T14 
+A9	Certainty E14 Certain
+A10	Actor E14 Physician
+A11	Action E14 Start
+A12	Temporality E14 Present
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 Start
+A16	Temporality E4 Past
+T15	Disposition 1694 1702	ramipril
+E15	Disposition:T15 
+A17	Certainty E15 Certain
+A18	Actor E15 Physician
+A19	Action E15 Start
+A20	Temporality E15 Present
+A21	Certainty E6 Certain
+A22	Actor E6 Physician
+A23	Action E6 Start
+A24	Temporality E6 Present
+A26	Certainty E8 Certain
+A27	Actor E8 Physician
+A28	Action E8 Stop
+A29	Temporality E8 Present
+A30	Negation E13 NotNegated
+A31	Negation E3 NotNegated
+A32	Negation E6 NotNegated
+A33	Negation E8 NotNegated
+A34	Negation E4 NotNegated
+A35	Negation E15 NotNegated
+A36	Negation E14 NotNegated

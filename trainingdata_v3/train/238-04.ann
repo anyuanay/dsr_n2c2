@@ -1,0 +1,86 @@
+T3	NoDisposition 1377 1384	aspirin
+E3	NoDisposition:T3 
+T4	NoDisposition 1395 1405	fosinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 1430 1437	Isordil
+E5	NoDisposition:T5 
+T6	Disposition 1459 1469	lisinopril
+E6	Disposition:T6 
+T7	NoDisposition 1480 1489	Lopressor
+E7	NoDisposition:T7 
+T8	NoDisposition 1505 1518	nitroglycerin
+E8	NoDisposition:T8 
+T9	NoDisposition 1520 1527	Norvasc
+E9	NoDisposition:T9 
+T10	NoDisposition 1586 1593	Tylenol
+E10	NoDisposition:T10 
+T14	NoDisposition 5000 5006	statin
+E14	NoDisposition:T14 
+T15	Disposition 5177 5187	lisinopril
+E15	Disposition:T15 
+T16	NoDisposition 5228 5238	fosinopril
+E16	NoDisposition:T16 
+T17	NoDisposition 5290 5297	Norvasc
+E17	NoDisposition:T17 
+T18	NoDisposition 5322 5335	nitroglycerin
+E18	NoDisposition:T18 
+T19	NoDisposition 5387 5394	Isordil
+E19	NoDisposition:T19 
+T20	NoDisposition 5407 5416	Lopressor
+E20	NoDisposition:T20 
+T21	NoDisposition 5443 5450	aspirin
+E21	NoDisposition:T21 
+T25	NoDisposition 5592 5601	Pravachol
+E25	NoDisposition:T25 
+T26	NoDisposition 5672 5679	Tylenol
+E26	NoDisposition:T26 
+T22	NoDisposition 560 563	TNG
+E22	NoDisposition:T22 
+T30	NoDisposition 1309 1332	tylenol with codeine #3
+E30	NoDisposition:T30 
+T28	NoDisposition 1282 1307	acetaminophen and codeine
+E28	NoDisposition:T28 
+T29	NoDisposition 1343 1353	Alphagan P
+E29	NoDisposition:T29 
+T31	NoDisposition 1407 1417	Glucophage
+E31	NoDisposition:T31 
+A1	Certainty E6 Certain
+A2	Actor E6 Physician
+A3	Action E6 Stop
+A4	Temporality E6 Unknown
+T32	NoDisposition 1541 1550	Pravachol
+E32	NoDisposition:T32 
+T33	NoDisposition 1561 1568	Trusopt
+E33	NoDisposition:T33 
+T34	NoDisposition 4037 4040	TNG
+E34	NoDisposition:T34 
+T35	Disposition 4339 4342	TNG
+E35	Disposition:T35 
+A5	Certainty E35 Certain
+A6	Actor E35 Patient
+A7	Action E35 UniqueDose
+A8	Temporality E35 Past
+T36	Disposition 4649 4659	H2 blocker
+E36	Disposition:T36 
+A9	Certainty E36 Certain
+A10	Actor E36 Physician
+A11	Action E36 Start
+A12	Temporality E36 Present
+T37	NoDisposition 5142 5152	Glucophage
+E37	NoDisposition:T37 
+T38	NoDisposition 5462 5487	acetaminophen and codeine
+E38	NoDisposition:T38 
+T39	NoDisposition 5489 5512	tylenol with codeine #3
+E39	NoDisposition:T39 
+T40	NoDisposition 5613 5620	Trusopt
+E40	NoDisposition:T40 
+T41	NoDisposition 5638 5648	Alphagan P
+E41	NoDisposition:T41 
+A13	Certainty E15 Certain
+A14	Actor E15 Physician
+A15	Action E15 Stop
+A16	Temporality E15 Unknown
+A17	Negation E36 NotNegated
+A18	Negation E6 NotNegated
+A19	Negation E35 NotNegated
+A20	Negation E15 NotNegated

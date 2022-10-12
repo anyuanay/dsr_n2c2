@@ -1,0 +1,40 @@
+T1	NoDisposition 1388 1395	Aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 1397 1403	Colace
+E2	NoDisposition:T2 
+T3	NoDisposition 1405 1411	Cozaar
+E3	NoDisposition:T3 
+T4	NoDisposition 1413 1420	Flonase
+E4	NoDisposition:T4 
+T5	NoDisposition 1422 1429	Fosamax
+E5	NoDisposition:T5 
+T6	NoDisposition 1431 1450	hydrochlorothiazide
+E6	NoDisposition:T6 
+T7	NoDisposition 1460 1469	meclizine
+E7	NoDisposition:T7 
+T8	NoDisposition 1478 1486	Protonix
+E8	NoDisposition:T8 
+T9	NoDisposition 1488 1494	Prozac
+E9	NoDisposition:T9 
+T12	NoDisposition 4031 4039	Aggrenox
+E12	NoDisposition:T12 
+T13	Undetermined 4116 4123	aspirin
+E13	Undetermined:T13 
+T14	Disposition 4190 4200	Persantine
+E14	Disposition:T14 
+T15	NoDisposition 1453 1458	Lopid
+E15	NoDisposition:T15 
+T16	NoDisposition 1496 1501	Vioxx
+E16	NoDisposition:T16 
+T17	Disposition 4058 4068	Persantine
+E17	Disposition:T17 
+A1	Certainty E17 Certain
+A2	Actor E17 Physician
+A3	Action E17 Start
+A4	Temporality E17 Present
+A5	Certainty E14 Hypothetical
+A6	Actor E14 Physician
+A7	Action E14 Increase
+A8	Temporality E14 Future
+A9	Negation E14 NotNegated
+A10	Negation E17 NotNegated

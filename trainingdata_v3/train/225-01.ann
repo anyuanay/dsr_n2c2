@@ -1,0 +1,59 @@
+T1	Disposition 1175 1181	Ranexa
+E1	Disposition:T1 
+T2	NoDisposition 2067 2072	Imdur
+E2	NoDisposition:T2 
+T3	NoDisposition 2073 2079	Plavix
+E3	NoDisposition:T3 
+T4	NoDisposition 2092 2095	ASA
+E4	NoDisposition:T4 
+T5	NoDisposition 2109 2118	Lopressor
+E5	NoDisposition:T5 
+T6	NoDisposition 2131 2138	Lipitor
+E6	NoDisposition:T6 
+T7	NoDisposition 2151 2158	Norvasc
+E7	NoDisposition:T7 
+T8	NoDisposition 2171 2178	Lexapro
+E8	NoDisposition:T8 
+T9	NoDisposition 2179 2184	Lasix
+E9	NoDisposition:T9 
+T11	NoDisposition 2231 2240	Glipizide
+E11	NoDisposition:T11 
+T12	NoDisposition 2241 2247	Ranexa
+E12	NoDisposition:T12 
+T13	NoDisposition 3038 3046	Protonix
+E13	NoDisposition:T13 
+T14	NoDisposition 3086 3091	Lasix
+E14	NoDisposition:T14 
+T16	NoDisposition 4829 4841	beta blocker
+E16	NoDisposition:T16 
+T17	NoDisposition 4843 4846	ASA
+E17	NoDisposition:T17 
+T18	NoDisposition 4848 4854	Plavix
+E18	NoDisposition:T18 
+T19	NoDisposition 4856 4862	statin
+E19	NoDisposition:T19 
+T20	Disposition 4897 4903	Ranexa
+E20	Disposition:T20 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Past
+T21	Disposition 1368 1371	TNG
+E21	Disposition:T21 
+A5	Certainty E21 Certain
+A6	Actor E21 Patient
+A7	Action E21 UniqueDose
+A8	Temporality E21 Past
+T22	NoDisposition 2211 2219	Protonix
+E22	NoDisposition:T22 
+T23	NoDisposition 2264 2267	TNG
+E23	NoDisposition:T23 
+T24	NoDisposition 4864 4872	nitrates
+E24	NoDisposition:T24 
+A9	Certainty E20 Hypothetical
+A10	Actor E20 Physician
+A11	Action E20 Stop
+A12	Temporality E20 Present
+A13	Negation E1 NotNegated
+A14	Negation E21 NotNegated
+A15	Negation E20 NotNegated

@@ -1,0 +1,129 @@
+T1	Disposition 880 888	morphine
+E1	Disposition:T1 
+T2	Disposition 900 911	GI cocktail
+E2	Disposition:T2 
+T3	Disposition 913 919	zofran
+E3	Disposition:T3 
+T4	Disposition 932 940	Dilaudid
+E4	Disposition:T4 
+T6	Disposition 959 961	NS
+E6	Disposition:T6 
+T7	NoDisposition 2007 2015	Coumadin
+E7	NoDisposition:T7 
+T8	NoDisposition 2451 2465	Spironolactone
+E8	NoDisposition:T8 
+T9	NoDisposition 2467 2476	Aldactone
+E9	NoDisposition:T9 
+T11	NoDisposition 2642 2652	Gabapentin
+E11	NoDisposition:T11 
+T12	NoDisposition 2672 2684	Atorvastatin
+E12	NoDisposition:T12 
+T13	NoDisposition 2686 2693	Lipitor
+E13	NoDisposition:T13 
+T14	NoDisposition 2712 2721	Metformin
+E14	NoDisposition:T14 
+T15	NoDisposition 2740 2747	Nadolol
+E15	NoDisposition:T15 
+T16	NoDisposition 2765 2775	Omeprazole
+E16	NoDisposition:T16 
+T19	Undetermined 6744 6746	NS
+E19	Undetermined:T19 
+T20	Disposition 6757 6759	NS
+E20	Disposition:T20 
+T21	Disposition 6829 6835	fluids
+E21	Disposition:T21 
+T22	Disposition 7004 7012	Dilaudid
+E22	Disposition:T22 
+T23	Undetermined 7095 7103	warfarin
+E23	Undetermined:T23 
+T24	NoDisposition 7190 7198	warfarin
+E24	NoDisposition:T24 
+T25	NoDisposition 7211 7218	nadolol
+E25	NoDisposition:T25 
+T26	NoDisposition 7231 7245	spironolactone
+E26	NoDisposition:T26 
+T27	Disposition 7289 7298	verapamil
+E27	Disposition:T27 
+T28	Disposition 7344 7351	Lipitor
+E28	Disposition:T28 
+T30	NoDisposition 7593 7602	metformin
+E30	NoDisposition:T30 
+T32	NoDisposition 7670 7680	gabapentin
+E32	NoDisposition:T32 
+T33	Undetermined 7703 7716	amitriptyline
+E33	Undetermined:T33 
+T34	Undetermined 7786 7796	dalteparin
+E34	Undetermined:T34 
+A1	Certainty E1 Certain
+A2	Actor E1 Physician
+A3	Action E1 UniqueDose
+A4	Temporality E1 Past
+A5	Certainty E2 Certain
+A6	Actor E2 Physician
+A7	Action E2 UniqueDose
+A8	Temporality E2 Past
+A9	Certainty E3 Certain
+A10	Actor E3 Physician
+A11	Action E3 UniqueDose
+A12	Temporality E3 Past
+A13	Certainty E4 Certain
+A14	Actor E4 Physician
+A15	Action E4 UniqueDose
+A16	Temporality E4 Past
+A17	Certainty E6 Certain
+A18	Actor E6 Physician
+A19	Action E6 UniqueDose
+A20	Temporality E6 Past
+T35	NoDisposition 2495 2512	Amitriptyline Hcl
+E35	NoDisposition:T35 
+T36	NoDisposition 2531 2546	Warfarin Sodium
+E36	NoDisposition:T36 
+T37	NoDisposition 2548 2556	Coumadin
+E37	NoDisposition:T37 
+T38	NoDisposition 2777 2785	Prilosec
+E38	NoDisposition:T38 
+T39	NoDisposition 2804 2831	Verapamil Sustained Release
+E39	NoDisposition:T39 
+T40	NoDisposition 2833 2847	Verapamil S.R.
+E40	NoDisposition:T40 
+A21	Certainty E20 Certain
+A22	Actor E20 Physician
+A23	Action E20 UniqueDose
+A24	Temporality E20 Past
+A25	Certainty E22 Certain
+A26	Actor E22 Physician
+A27	Action E22 UniqueDose
+A28	Temporality E22 Past
+A29	Certainty E27 Certain
+A30	Actor E27 Physician
+A31	Action E27 Start
+A32	Temporality E27 Present
+A33	Certainty E28 Certain
+A34	Actor E28 Physician
+A35	Action E28 Stop
+A36	Temporality E28 Present
+T5	Disposition 7254 7281	verapamil sustained release
+E5	Disposition:T5 
+A37	Certainty E5 Certain
+A38	Actor E5 Physician
+A39	Action E5 Stop
+A40	Temporality E5 Present
+T10	NoDisposition 2914 2927	erythromycins
+E10	NoDisposition:T10 
+T17	Undetermined 7634 7637	SSI
+E17	Undetermined:T17 
+A41	Certainty E21 Certain
+A42	Actor E21 Physician
+A43	Action E21 UniqueDose
+A44	Temporality E21 Present
+A45	Negation E22 NotNegated
+A46	Negation E3 NotNegated
+A47	Negation E6 NotNegated
+A48	Negation E4 NotNegated
+A49	Negation E20 NotNegated
+A50	Negation E2 NotNegated
+A51	Negation E27 NotNegated
+A52	Negation E21 NotNegated
+A53	Negation E28 NotNegated
+A54	Negation E1 NotNegated
+A55	Negation E5 NotNegated

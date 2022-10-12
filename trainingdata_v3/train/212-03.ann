@@ -1,0 +1,67 @@
+T1	Disposition 1067 1073	Lantus
+E1	Disposition:T1 
+T2	Disposition 1124 1130	Lantus
+E2	Disposition:T2 
+T3	Disposition 1276 1285	glucotrol
+E3	Disposition:T3 
+T4	NoDisposition 1524 1531	insulin
+E4	NoDisposition:T4 
+T5	NoDisposition 3107 3114	aspirin
+E5	NoDisposition:T5 
+T6	NoDisposition 3128 3134	Celexa
+E6	NoDisposition:T6 
+T7	NoDisposition 3147 3161	cyanocobalamin
+E7	NoDisposition:T7 
+T8	NoDisposition 3174 3184	folic acid
+E8	NoDisposition:T8 
+T9	NoDisposition 3309 3318	glyburide
+E9	NoDisposition:T9 
+T11	NoDisposition 3383 3403	isosorbide dinitrate
+E11	NoDisposition:T11 
+T13	NoDisposition 3439 3446	Lipitor
+E13	NoDisposition:T13 
+T14	NoDisposition 3459 3465	Megace
+E14	NoDisposition:T14 
+T15	NoDisposition 3479 3489	metoprolol
+E15	NoDisposition:T15 
+T17	NoDisposition 3613 3619	Plavix
+E17	NoDisposition:T17 
+T18	NoDisposition 3632 3640	Prinivil
+E18	NoDisposition:T18 
+A1	Certainty E1 Hypothetical
+A2	Actor E1 Physician
+A3	Action E1 Start
+A4	Temporality E1 Present
+T20	Disposition 1117 1120	NPH
+E20	Disposition:T20 
+A5	Certainty E20 Certain
+A6	Actor E20 Physician
+A7	Action E20 Stop
+A8	Temporality E20 Present
+A9	Certainty E2 Certain
+A10	Actor E2 Physician
+A11	Action E2 Start
+A12	Temporality E2 Present
+A13	Certainty E3 Hypothetical
+A14	Actor E3 Physician
+A15	Action E3 Stop
+A16	Temporality E3 Present
+T21	NoDisposition 1786 1794	diuretic
+E21	NoDisposition:T21 
+T22	NoDisposition 3420 3425	Lasix
+E22	NoDisposition:T22 
+T23	NoDisposition 3503 3516	multivitamins
+E23	NoDisposition:T23 
+T24	NoDisposition 3519 3530	nph insulin
+E24	NoDisposition:T24 
+T25	Disposition 5188 5196	levoflox
+E25	Disposition:T25 
+A17	Certainty E25 Certain
+A18	Actor E25 Physician
+A19	Action E25 Start
+A20	Temporality E25 Present
+A21	Negation E3 NotNegated
+A22	Negation E20 NotNegated
+A23	Negation E2 NotNegated
+A24	Negation E1 NotNegated
+A25	Negation E25 NotNegated

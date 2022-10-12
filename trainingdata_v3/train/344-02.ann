@@ -1,0 +1,31 @@
+T1	NoDisposition 1306 1314	Tenovate
+E1	NoDisposition:T1 
+T2	NoDisposition 1316 1325	albuterol
+E2	NoDisposition:T2 
+T3	NoDisposition 1366 1375	Bupropron
+E3	NoDisposition:T3 
+T4	Disposition 3002 3009	aspirin
+E4	Disposition:T4 
+T5	Disposition 3011 3024	nitroglycerin
+E5	Disposition:T5 
+T6	Disposition 3029 3037	morphine
+E6	Disposition:T6 
+T7	NoDisposition 1331 1339	Azmacort
+E7	NoDisposition:T7 
+T8	NoDisposition 1345 1351	adalat
+E8	NoDisposition:T8 
+A1	Certainty E4 Certain
+A2	Actor E4 Physician
+A3	Action E4 UniqueDose
+A4	Temporality E4 Past
+A5	Certainty E5 Certain
+A6	Actor E5 Physician
+A7	Action E5 UniqueDose
+A8	Temporality E5 Past
+A9	Certainty E6 Certain
+A10	Actor E6 Physician
+A11	Action E6 UniqueDose
+A12	Temporality E6 Past
+A13	Negation E6 NotNegated
+A14	Negation E5 NotNegated
+A15	Negation E4 NotNegated

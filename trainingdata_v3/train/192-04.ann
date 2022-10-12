@@ -1,0 +1,21 @@
+T2	Undetermined 1913 1920	aspirin
+E2	Undetermined:T2 
+T3	Undetermined 1934 1941	Lipitor
+E3	Undetermined:T3 
+T4	Undetermined 1955 1981	diltiazem extended release
+E4	Undetermined:T4 
+T5	Undetermined 1996 2003	Levoxyl
+E5	Undetermined:T5 
+T6	Undetermined 2019 2029	lisinopril
+E6	Undetermined:T6 
+T7	Undetermined 2043 2054	NPH insulin
+E7	Undetermined:T7 
+T8	Undetermined 2084 2091	Avandia
+E8	Undetermined:T8 
+T9	Disposition 2108 2117	metformin
+E9	Disposition:T9 
+A1	Certainty E9 Certain
+A2	Actor E9 Physician
+A3	Action E9 Start
+A4	Temporality E9 Future
+A5	Negation E9 NotNegated

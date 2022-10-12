@@ -1,0 +1,159 @@
+T1	NoDisposition 225 233	coumadin
+E1	NoDisposition:T1 
+T2	Disposition 748 752	Vanc
+E2	Disposition:T2 
+T3	Disposition 753 756	CTX
+E3	Disposition:T3 
+T4	NoDisposition 1387 1395	coumadin
+E4	NoDisposition:T4 
+T9	NoDisposition 2017 2026	Clonidine
+E9	NoDisposition:T9 
+T11	NoDisposition 2132 2148	Insulin Glargine
+E11	NoDisposition:T11 
+T12	NoDisposition 2182 2199	Megestrol Acetate
+E12	NoDisposition:T12 
+T13	NoDisposition 2242 2251	Melatonin
+E13	NoDisposition:T13 
+T15	NoDisposition 2319 2332	Multivitamins
+E15	NoDisposition:T15 
+T16	NoDisposition 2391 2401	Omeprazole
+E16	NoDisposition:T16 
+T17	NoDisposition 2432 2443	Ondansetron
+E17	NoDisposition:T17 
+T18	NoDisposition 2500 2514	Pentoxifylline
+E18	NoDisposition:T18 
+T20	NoDisposition 2586 2596	Prednisone
+E20	NoDisposition:T20 
+T21	NoDisposition 2616 2646	Propoxyphene Nap/Acetaminophen
+E21	NoDisposition:T21 
+T23	NoDisposition 2697 2712	Propranolol Hcl
+E23	NoDisposition:T23 
+T25	NoDisposition 2779 2794	Warfarin Sodium
+E25	NoDisposition:T25 
+T26	NoDisposition 4434 4442	coumadin
+E26	NoDisposition:T26 
+T27	NoDisposition 5004 5012	steroids
+E27	NoDisposition:T27 
+T28	Disposition 5405 5408	abx
+E28	Disposition:T28 
+T29	Disposition 5450 5453	abx
+E29	Disposition:T29 
+T30	Disposition 5490 5494	vanc
+E30	Disposition:T30 
+T31	Disposition 5495 5503	cefepime
+E31	Disposition:T31 
+T32	Disposition 6066 6071	pRBCs
+E32	Disposition:T32 
+T33	Disposition 6318 6329	propranolol
+E33	Disposition:T33 
+T34	NoDisposition 6372 6381	clonidine
+E34	NoDisposition:T34 
+T35	Disposition 6702 6710	warfarin
+E35	Disposition:T35 
+A1	Certainty E2 Certain
+A2	Actor E2 Physician
+A3	Action E2 Stop
+A4	Temporality E2 Past
+A5	Certainty E3 Certain
+A6	Actor E3 Physician
+A7	Action E3 Stop
+A8	Temporality E3 Past
+T38	NoDisposition 2095 2110	Hydralazine Hcl
+E38	NoDisposition:T38 
+T39	NoDisposition 2150 2156	Lantus
+E39	NoDisposition:T39 
+T40	NoDisposition 2212 2218	Megace
+E40	NoDisposition:T40 
+T41	NoDisposition 2291 2297	Reglan
+E41	NoDisposition:T41 
+T42	NoDisposition 2358 2365	Niferex
+E42	NoDisposition:T42 
+T43	NoDisposition 2334 2337	Mvi
+E43	NoDisposition:T43 
+T44	NoDisposition 2403 2411	Prilosec
+E44	NoDisposition:T44 
+T45	NoDisposition 2449 2455	Zofran
+E45	NoDisposition:T45 
+T46	NoDisposition 2714 2721	Inderal
+E46	NoDisposition:T46 
+T47	NoDisposition 2796 2804	Coumadin
+E47	NoDisposition:T47 
+T48	NoDisposition 2836 2847	Propranolol
+E48	NoDisposition:T48 
+A9	Certainty E28 Certain
+A10	Negation E28 Negated
+A11	Actor E28 Physician
+A12	Action E28 Start
+A13	Temporality E28 Present
+A14	Certainty E29 Hypothetical
+A15	Actor E29 Physician
+A16	Action E29 Start
+A17	Temporality E29 Present
+A18	Certainty E30 Hypothetical
+A19	Actor E30 Physician
+A20	Action E30 Start
+A21	Temporality E30 Present
+A22	Certainty E31 Hypothetical
+A23	Actor E31 Physician
+A24	Action E31 Start
+A25	Temporality E31 Present
+A26	Certainty E32 Certain
+A27	Actor E32 Physician
+A28	Action E32 UniqueDose
+A29	Temporality E32 Present
+A31	Certainty E33 Certain
+A32	Actor E33 Physician
+A33	Action E33 Stop
+A34	Temporality E33 Present
+T49	NoDisposition 6383 6392	verapimil
+E49	NoDisposition:T49 
+T50	NoDisposition 6397 6403	hydral
+E50	NoDisposition:T50 
+A35	Certainty E35 Certain
+A36	Actor E35 Physician
+A37	Action E35 Stop
+A38	Temporality E35 Present
+T51	NoDisposition 1818 1834	Artificial Tears
+E51	NoDisposition:T51 
+T52	NoDisposition 1856 1865	Bisacodyl
+E52	NoDisposition:T52 
+T53	NoDisposition 1867 1875	Dulcolax
+E53	NoDisposition:T53 
+T54	NoDisposition 1912 1934	Calcium Carbonate/Vitd
+E54	NoDisposition:T54 
+T55	NoDisposition 1936 1956	250mg Ca++/125u Vitd
+E55	NoDisposition:T55 
+T56	NoDisposition 1978 1988	Citalopram
+E56	NoDisposition:T56 
+T57	NoDisposition 1990 1996	Celexa
+E57	NoDisposition:T57 
+T58	NoDisposition 2048 2063	Docusate Sodium
+E58	NoDisposition:T58 
+T59	NoDisposition 2065 2071	Colace
+E59	NoDisposition:T59 
+T60	NoDisposition 2271 2289	Metoclopramide Hcl
+E60	NoDisposition:T60 
+T61	NoDisposition 2536 2555	Polyethylene Glycol
+E61	NoDisposition:T61 
+T62	NoDisposition 2558 2565	Miralax
+E62	NoDisposition:T62 
+T63	NoDisposition 2656 2666	Darvocet-N
+E63	NoDisposition:T63 
+T64	NoDisposition 2744 2757	Verapamil Hcl
+E64	NoDisposition:T64 
+T65	Undetermined 6961 6967	Lantus
+E65	Undetermined:T65 
+T66	Undetermined 6970 6974	RISS
+E66	Undetermined:T66 
+T5	NoDisposition 6236 6260	anti-hypertensive agents
+E5	NoDisposition:T5 
+T6	Undetermined 6834 6839	Fluid
+E6	Undetermined:T6 
+A39	Negation E35 NotNegated
+A40	Negation E33 NotNegated
+A41	Negation E3 NotNegated
+A42	Negation E32 NotNegated
+A43	Negation E29 NotNegated
+A44	Negation E2 NotNegated
+A45	Negation E31 NotNegated
+A46	Negation E30 NotNegated

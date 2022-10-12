@@ -1,0 +1,162 @@
+T1	NoDisposition 523 527	ACEI
+E1	NoDisposition:T1 
+T2	NoDisposition 529 531	BB
+E2	NoDisposition:T2 
+T3	NoDisposition 533 536	ASA
+E3	NoDisposition:T3 
+T4	NoDisposition 538 544	Statin
+E4	NoDisposition:T4 
+T5	Undetermined 1282 1288	flomax
+E5	Undetermined:T5 
+T6	Disposition 1356 1362	flomax
+E6	Disposition:T6 
+T7	Disposition 1575 1578	ASA
+E7	Disposition:T7 
+T8	Disposition 1633 1640	Zyprexa
+E8	Disposition:T8 
+T11	NoDisposition 2504 2524	Brimonidine TARTRATE
+E11	NoDisposition:T11 
+T12	NoDisposition 2554 2564	Cilostazol
+E12	NoDisposition:T12 
+T13	NoDisposition 2648 2656	Dulcolax
+E13	NoDisposition:T13 
+T14	NoDisposition 2782 2791	Glipizide
+E14	NoDisposition:T14 
+T15	NoDisposition 2851 2870	Metoprolol TARTRATE
+E15	NoDisposition:T15 
+T16	NoDisposition 2980 2987	Norvasc
+E16	NoDisposition:T16 
+T17	NoDisposition 2989 2999	AMLODIPINE
+E17	NoDisposition:T17 
+T18	NoDisposition 3047 3054	Proscar
+E18	NoDisposition:T18 
+T19	NoDisposition 3056 3067	FINASTERIDE
+E19	NoDisposition:T19 
+T21	NoDisposition 3164 3171	Remeron
+E21	NoDisposition:T21 
+T23	NoDisposition 3328 3335	Zyprexa
+E23	NoDisposition:T23 
+T24	NoDisposition 3337 3347	OLANZAPINE
+E24	NoDisposition:T24 
+T25	NoDisposition 4470 4476	Flomax
+E25	NoDisposition:T25 
+T26	NoDisposition 4477 4484	Proscar
+E26	NoDisposition:T26 
+T27	NoDisposition 4756 4763	Remeron
+E27	NoDisposition:T27 
+T28	Disposition 4892 4899	Zyprexa
+E28	Disposition:T28 
+T29	NoDisposition 5568 5571	ASA
+E29	NoDisposition:T29 
+T30	NoDisposition 5573 5575	BB
+E30	NoDisposition:T30 
+T31	NoDisposition 5577 5581	ACEI
+E31	NoDisposition:T31 
+T32	NoDisposition 5644 5647	ASA
+E32	NoDisposition:T32 
+T34	NoDisposition 1268 1275	proscar
+E34	NoDisposition:T34 
+T35	Disposition 1321 1328	proscar
+E35	Disposition:T35 
+A1	Certainty E35 Certain
+A2	Actor E35 Physician
+A3	Action E35 Stop
+A4	Temporality E35 Past
+T36	Disposition 1321 1328	proscar
+E36	Disposition:T36 
+A5	Certainty E36 Certain
+A6	Negation E36 Negated
+A7	Actor E36 Patient
+A8	Action E36 Stop
+A9	Temporality E36 Past
+A10	Certainty E6 Certain
+A11	Actor E6 Physician
+A12	Action E6 Decrease
+A13	Temporality E6 Past
+A14	Action E7 Start
+A15	Certainty E7 Certain
+A16	Actor E7 Physician
+A17	Temporality E7 Past
+A18	Certainty E8 Certain
+A19	Actor E8 Patient
+A20	Action E8 Decrease
+A21	Temporality E8 Past
+T37	NoDisposition 1981 1987	FLomax
+E37	NoDisposition:T37 
+T38	NoDisposition 2403 2410	Aspirin
+E38	NoDisposition:T38 
+T39	NoDisposition 2412 2432	ACETYLSALICYLIC ACID
+E39	NoDisposition:T39 
+T40	NoDisposition 2658 2667	BISACODYL
+E40	NoDisposition:T40 
+T41	NoDisposition 2701 2707	Flomax
+E41	NoDisposition:T41 
+T42	NoDisposition 2709 2719	TAMSULOSIN
+E42	NoDisposition:T42 
+T43	NoDisposition 2935 2938	Mvi
+E43	NoDisposition:T43 
+T44	NoDisposition 2940 2953	MULTIVITAMINS
+E44	NoDisposition:T44 
+T45	NoDisposition 3130 3138	Psyllium
+E45	NoDisposition:T45 
+T46	NoDisposition 3173 3184	MIRTAZAPINE
+E46	NoDisposition:T46 
+T47	NoDisposition 3236 3246	Sennosides
+E47	NoDisposition:T47 
+T48	NoDisposition 3260 3265	Zocor
+E48	NoDisposition:T48 
+T49	NoDisposition 3267 3278	SIMVASTATIN
+E49	NoDisposition:T49 
+T50	Disposition 4508 4515	Proscar
+E50	Disposition:T50 
+A26	Certainty E50 Certain
+A27	Actor E50 Physician
+A28	Action E50 Stop
+A29	Temporality E50 Present
+T51	Disposition 4575 4581	FLomax
+E51	Disposition:T51 
+A30	Certainty E51 Hypothetical
+A31	Actor E51 Physician
+A32	Action E51 Stop
+A33	Temporality E51 Present
+A34	Certainty E28 Certain
+A35	Actor E28 Patient
+A36	Action E28 Decrease
+A37	Temporality E28 Past
+E52	Disposition:T52 
+A38	Certainty E52 Certain
+A39	Negation E52 Negated
+A40	Actor E52 Patient
+A41	Action E52 Increase
+A42	Temporality E52 Present
+T52	Disposition 4892 4899	Zyprexa
+T53	Disposition 5116 5123	proscar
+E53	Disposition:T53 
+A43	Certainty E53 Certain
+A44	Actor E53 Physician
+A45	Action E53 Stop
+A46	Temporality E53 Present
+T54	Disposition 5138 5144	FLomax
+E54	Disposition:T54 
+A47	Certainty E54 Hypothetical
+A48	Actor E54 Physician
+A49	Action E54 Stop
+A50	Temporality E54 Future
+T55	Disposition 5189 5195	FLomax
+E55	Disposition:T55 
+A51	Certainty E55 Hypothetical
+A52	Actor E55 Physician
+A53	Action E55 Stop
+A54	Temporality E55 Future
+T56	NoDisposition 5482 5491	laxatives
+E56	NoDisposition:T56 
+A55	Negation E53 NotNegated
+A56	Negation E35 NotNegated
+A57	Negation E51 NotNegated
+A58	Negation E55 NotNegated
+A59	Negation E6 NotNegated
+A60	Negation E8 NotNegated
+A61	Negation E54 NotNegated
+A62	Negation E50 NotNegated
+A63	Negation E28 NotNegated
+A64	Negation E7 NotNegated

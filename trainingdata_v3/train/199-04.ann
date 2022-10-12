@@ -1,0 +1,16 @@
+T2	NoDisposition 1053 1060	aspirin
+E2	NoDisposition:T2 
+T3	NoDisposition 1069 1075	Plavix
+E3	NoDisposition:T3 
+T4	NoDisposition 1083 1090	Lipitor
+E4	NoDisposition:T4 
+T5	NoDisposition 1098 1103	Lopid
+E5	NoDisposition:T5 
+T6	NoDisposition 1113 1122	Toprol XL
+E6	NoDisposition:T6 
+T7	NoDisposition 1132 1138	folate
+E7	NoDisposition:T7 
+T8	NoDisposition 1140 1149	trazedone
+E8	NoDisposition:T8 
+T9	NoDisposition 1177 1190	beta blockers
+E9	NoDisposition:T9 

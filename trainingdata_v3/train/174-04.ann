@@ -1,0 +1,22 @@
+T1	NoDisposition 1310 1319	Enalapril
+E1	NoDisposition:T1 
+T2	NoDisposition 1322 1332	Colchicine
+E2	NoDisposition:T2 
+T3	NoDisposition 1334 1344	Alopurinol
+E3	NoDisposition:T3 
+T4	NoDisposition 1347 1356	Albuterol
+E4	NoDisposition:T4 
+T5	NoDisposition 3510 3516	Plavix
+E5	NoDisposition:T5 
+T6	NoDisposition 3674 3680	Plavix
+E6	NoDisposition:T6 
+T7	NoDisposition 3685 3692	aspirin
+E7	NoDisposition:T7 
+T8	NoDisposition 4135 4141	Viagra
+E8	NoDisposition:T8 
+T9	NoDisposition 1289 1297	Serevent
+E9	NoDisposition:T9 
+T10	NoDisposition 1300 1307	Flovent
+E10	NoDisposition:T10 
+T11	NoDisposition 1359 1365	Viagra
+E11	NoDisposition:T11 

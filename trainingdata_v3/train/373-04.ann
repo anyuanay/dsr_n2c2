@@ -1,0 +1,46 @@
+T1	NoDisposition 618 626	Coumadin
+E1	NoDisposition:T1 
+T2	NoDisposition 1000 1005	Zosyn
+E2	NoDisposition:T2 
+T3	NoDisposition 1015 1027	Levofloxacin
+E3	NoDisposition:T3 
+T4	NoDisposition 1040 1050	Lisinopril
+E4	NoDisposition:T4 
+T5	NoDisposition 1068 1081	Metoprolol XL
+E5	NoDisposition:T5 
+T6	NoDisposition 1099 1107	Cardizem
+E6	NoDisposition:T6 
+T7	NoDisposition 1127 1136	Doxazosin
+E7	NoDisposition:T7 
+T8	NoDisposition 1154 1159	Lasix
+E8	NoDisposition:T8 
+T9	NoDisposition 1181 1188	Digoxin
+E9	NoDisposition:T9 
+T10	NoDisposition 1208 1215	Heparin
+E10	NoDisposition:T10 
+T11	NoDisposition 1227 1238	Simvastatin
+E11	NoDisposition:T11 
+T13	NoDisposition 1309 1315	Folate
+E13	NoDisposition:T13 
+T14	NoDisposition 1330 1343	Oscal + Vit D
+E14	NoDisposition:T14 
+T19	Disposition 6328 6336	Coumadin
+E19	Disposition:T19 
+T20	Disposition 6554 6562	Coumadin
+E20	Disposition:T20 
+T21	NoDisposition 1255 1265	Glucovance
+E21	NoDisposition:T21 
+A1	Certainty E19 Certain
+A2	Actor E19 Physician
+A3	Action E19 Stop
+A4	Temporality E19 Present
+A5	Certainty E20 Certain
+A6	Actor E20 Physician
+A7	Action E20 Stop
+A8	Temporality E20 Present
+T23	NoDisposition 1267 1296	Glipizide 5mg/Metformin 500mg
+E23	NoDisposition:T23 
+T12	Undetermined 6609 6627	anti-hypertensives
+E12	Undetermined:T12 
+A9	Negation E19 NotNegated
+A10	Negation E20 NotNegated

@@ -1,0 +1,28 @@
+T1	NoDisposition 738 745	Aspirin
+E1	NoDisposition:T1 
+T2	NoDisposition 759 767	Atenolol
+E2	NoDisposition:T2 
+T3	NoDisposition 783 798	Chlropropamiden
+E3	NoDisposition:T3 
+T4	NoDisposition 814 820	Cozaar
+E4	NoDisposition:T4 
+T5	NoDisposition 835 844	Metformin
+E5	NoDisposition:T5 
+T6	NoDisposition 861 867	Hytrin
+E6	NoDisposition:T6 
+T8	NoDisposition 900 907	Mevacor
+E8	NoDisposition:T8 
+T9	NoDisposition 922 932	Loratadine
+E9	NoDisposition:T9 
+T10	NoDisposition 947 958	Glucosamine
+E10	NoDisposition:T10 
+T11	NoDisposition 881 886	Lasix
+E11	NoDisposition:T11 
+T12	NoDisposition 964 977	Mulitvitamins
+E12	NoDisposition:T12 
+T13	NoDisposition 983 987	Soma
+E13	NoDisposition:T13 
+T14	NoDisposition 988 994	Ultram
+E14	NoDisposition:T14 
+T15	NoDisposition 1013 1018	Sulfa
+E15	NoDisposition:T15 
