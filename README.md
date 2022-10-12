@@ -11,3 +11,4 @@
 9. Kaggle NER data: https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
 10. NER BiLSTM-CRF implementation: https://github.com/quocdat32461997/NER
 11. NER BiLSTM-CRF implementation Chinese: https://github.com/Gxzzz/BiLSTM-CRF
+12. brat annotation tool: https://brat.nlplab.org/
